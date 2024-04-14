@@ -394,6 +394,9 @@ function reset_prob_nums(){
   divs=document.getElementsByClassName("problem");
   for(let i=0;i<divs.length;i++){
     divs[i].getElementsByClassName("p-num")[0].innerHTML=i;
+    if(probs[i]!=null){
+      divs[i].getElementsByClassName("prob-title")[0].innerHTML=(i+1)+" - "+probs[i].titolo;
+    }
   }
   divs=document.getElementsByClassName("add-cont");
   for(let i=0;i<divs.length;i++){
@@ -536,7 +539,7 @@ function extract_and_set_problem(i){
     p=error_problem;
   }
   console.log(interest_div);
-  interest_div.getElementsByClassName("prob-title")[0].innerHTML=p.titolo;
+  interest_div.getElementsByClassName("prob-title")[0].innerHTML=(i+1)+" - "+probs[i].titolo;
   interest_div.getElementsByClassName("prob-author")[0].innerHTML=p.autore;
   interest_div.getElementsByClassName("prob-text")[0].innerHTML=p.testo;
 }
