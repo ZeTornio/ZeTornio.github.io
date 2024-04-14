@@ -326,11 +326,13 @@ document.getElementById("submit-setup").addEventListener("click",submitSetup)
 //Funzione per l'eliminazione
 function deleteProblem(e){
   i=parseInt(e.parentElement.parentElement.getElementsByClassName("p-num")[0].innerHTML);
+  console.log(i);
   probs_diff.splice(i,1);
   probs_args.splice(i,1);
   probs.splice(i,1);
-  document.getElementsByClassName("problem")[i].remove();
-  document.getElementsByClassName("add-cont")[i].remove();
+  document.getElementsByClassName("problem").item(i).remove();
+  console.log(document.getElementsByClassName("problem"));
+  document.getElementsByClassName("add-cont").item(i).remove();
   reset_prob_nums();
 }
 //Funzione che apre il change
@@ -391,11 +393,11 @@ function addProblem(e){
 function reset_prob_nums(){
   divs=document.getElementsByClassName("problem");
   for(let i=0;i<divs.length;i++){
-    divs[i].getElementsByClassName("p-num").innerHTML=i;
+    divs[i].getElementsByClassName("p-num")[0].innerHTML=i;
   }
   divs=document.getElementsByClassName("add-cont");
   for(let i=0;i<divs.length;i++){
-    divs[i].getElementsByClassName("p-num").innerHTML=i;
+    divs[i].getElementsByClassName("p-num")[0].innerHTML=i;
   }
 }
 //Funzioni per il popup change/add
