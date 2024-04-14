@@ -1,0 +1,72 @@
+@import './font/Computer\ Modern/cmun-serif.css';
+
+#text-cont{
+    font-family:'Computer Modern Serif';
+    width:100%;
+    font-size: large;
+    padding:30px 0px;
+    display:none;
+}
+.p-num{
+    display:none;
+}
+.problem{
+    background-color: aquamarine;
+    padding:5px 20px;
+    position:relative;
+}
+.prob-opt{
+    position:absolute;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    opacity: 0%;
+    background-color: rgba(0,0,0,0.5);
+}
+.prob-opt:hover{
+    opacity: 100%;
+    transition: ease-in 100ms;
+}
+.text-button{
+    background-color: fuchsia;
+    border-radius:10px;
+}
+.prob-head{
+    display:flex;
+    justify-content: space-between;
+}
+.prob-title{
+    font-weight: bold;
+    font-size:larger;
+}
+.add-cont{
+    background-color: aquamarine;
+    width:100%;
+    height:4px;
+    position: relative;
+}
+.add-opt{
+    position: absolute;
+    z-index: 5;
+    height: 20px;
+    opacity: 0%;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top:-8px;
+}
+.add-opt:hover{
+    opacity: 100%;
+    background: linear-gradient(0deg,transparent 40%,purple 40%,purple 60%,transparent 60%, transparent);
+}
+img{
+    display: block;
+    margin:auto;
+    max-width:100%;
+}

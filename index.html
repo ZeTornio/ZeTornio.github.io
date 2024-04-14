@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RGG - Random Gara Generator</title>
+        <link rel="stylesheet" href="./resources/css/style_reworked.css">
+        <link rel="stylesheet" href="./resources/css/style_reworked_texts.css">
+
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <div id="container">
+            <div id="setup">
+                <div>
+                    <div class="title">Quanti problemi vuoi?</div>
+                    <div class="explanation">Potrai variare il numero di problemi anche in seguito</div>
+                    <div class="inline" style="display: flex;">
+                        <div id="reduce_problems" class="pm-button">&minus; </div>
+                        <div id="problems">21</div>
+                        <div id="increase_problems" class="pm-button">+</div>
+                    </div>
+                    
+                </div>
+                <div>
+                    <div class="title">Quali categorie?</div>
+                    <div class="checkbox-container">
+                        <div id="alg-cb" class="c-box">Algebra</div>
+                        <div id="tdn-cb" class="c-box">Teoria dei numeri</div>
+                        <div id="log-cb" class="c-box">Logica</div>
+                        <div id="com-cb" class="c-box">Combinatoria</div>
+                        <div id="geo-cb" class="c-box">Geometria</div>
+                    </div>
+                    <input type="checkbox" id="alg" name="alg" style="display: none;">
+                    <input type="checkbox" id="tdn" name="tdn" style="display: none;">
+                    <input type="checkbox" id="log" name="log" style="display: none;">
+                    <input type="checkbox" id="com" name="com" style="display: none;">
+                    <input type="checkbox" id="geo" name="geo" style="display: none;">
+                </div>
+                
+                <!-- To move-->
+                
+            </div>
+            <div id="text-cont">
+
+            </div>
+            <div id="change-add-opt-setup" style="display:none;">
+                <div class="num" style="display: none;">1</div> <!--Used when cancelling the change -->
+                <div class="use" style="display: none;">static</div> <!--Used when cancelling the change -->
+            </div>
+          
+        </div>
+    <script type="text/javascript" src="./resources/js/gare.js"></script>
+    <script type="text/javascript" src="./resources/js/testi.js"></script>
+    <script  type="text/javascript" src="./resources/js/script.js"></script>
+    </body>
+</html>
