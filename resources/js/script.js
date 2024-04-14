@@ -358,7 +358,6 @@ function addProblem(e){
   newDiv2.className="add-cont";
   newDiv2.innerHTML='<div class="p-num">0</div><div class="add-opt"><div class="text-button" onclick="addProblem(this)">Aggiungi un problema</div></div>';
   document.getElementById("text-cont").insertBefore(newDiv2,newDiv);
-  reset_prob_nums();
   document.getElementsByClassName("problem")[i].style.display="none";
   document.getElementById("text-cont").insertBefore(document.getElementById("change-add-opt-setup"),document.getElementsByClassName("add-cont")[i+1]);
   document.getElementById("change-add-opt-setup").getElementsByClassName("use")[0].innerHTML="add";
@@ -388,6 +387,7 @@ function addProblem(e){
   probs_diff.splice(i,0,[min,max]);
   probs_args.splice(i,0,chosen_args);
   probs.splice(i,0,null);
+  reset_prob_nums();
   loadChangePopUp();
 }
 function reset_prob_nums(){
@@ -464,7 +464,7 @@ function confirmChange(){
   probs_args[i]=args;
   probs_diff[i]=[parseInt(document.getElementById("change-min").innerHTML),parseInt(document.getElementById("change-max").innerHTML)];
   extract_and_set_problem(i);
-  document.getElementById("change-add-opt-setup").getElementsByClassName("use").innerHTML="change";
+  document.getElementById("change-add-opt-setup").getElementsByClassName("use")[0].innerHTML="change";
   cancelChange(); //JUST TO REMOVE POPUP!
 }
 function cancelChange(){
