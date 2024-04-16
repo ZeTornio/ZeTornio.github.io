@@ -1,15 +1,17 @@
 @import './font/Poppins/stylesheet.css';
 :root{
     --main-bg-color:#03045e;
-    --setup-text-color:black;
-    --setup-diff-bar-empty:grey;
-    --setup-diff-bar-full:pink;
+    --setup-text-color:var(--main-bg-color);
     --setup-bg-color:rgb(84, 161, 190);
-    --font-menu:"Poppins";
-    --inactive-checkbox:rgb(54, 129, 76);
-    --checkbox-hover-border:lime;
-    --chekbox-hover-text:lime;
-    --active-checkbox:rgb(190, 231, 68);
+
+    
+    --chekbox-main-col:rgb(119, 213, 247);
+    --checkbox-hover:lime;
+
+    --setup-diff-bar-empty:var(--chekbox-main-col);
+    --setup-diff-bar-full:fuchsia;
+    --setup-diff-bar-half:pink;
+    --setup-diff-bar-overall:lime;
 }
 
 
@@ -26,7 +28,6 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: purple; /* TODO REMOVE*/
 }
 #setup,#change-add-opt-setup{
     margin:30px;
@@ -34,11 +35,11 @@ body{
     min-height: 150%;
     text-align: center;
     color: var(--setup-text-color);
-    background-color: var(--setup-bg-color); /*TODO REMOVE */
+    background-color: var(--setup-bg-color);
     display: flex;
     flex-direction:column;
     justify-content: space-around;
-    font-family: var(--font-menu);
+    font-family: "Poppins";
     padding:20px;
 }
 #change-add-opt-setup{
@@ -60,16 +61,18 @@ body{
     padding-left: 7.5px;
     padding-right: 7.5px;
     border-radius: 10px;
-    background-color: var(--inactive-checkbox);
-    border: solid 3px var(--setup-bg-color);
+    color:var(--chekbox-main-col);
+    border: solid 3px var(--chekbox-main-col);
 }
 .c-box:hover{
     cursor: pointer;
-    border:solid 3px var(--checkbox-hover-border) ;
-    color: var(--chekbox-hover-text);
+    border:solid 3px var(--checkbox-hover) ;
+    color: var(--checkbox-hover) !important;
 }
 .cb-active{
-    background-color: var(--active-checkbox) !important;
+    background-color: var(--chekbox-main-col) !important;
+    border: solid 3px var(--chekbox-main-col);
+    color: var(--setup-bg-color) !important;
 }
 .inline{
     display:none;
@@ -82,23 +85,29 @@ body{
     height: 20px;
     width: 55%;
     border-radius: 10px;
+    margin:7.5px 2.5px;
+}
+.diff-bar-ext{
     background: var(--setup-diff-bar-empty);
-    margin:2.5px;
 }
 .diff-bar-int{
     position:absolute;
-    background: var(--setup-diff-bar-full);
+    background: var(--setup-diff-bar-half);
     margin:0px;
 }
 .diff-bar-int-2{
     position: absolute;
     margin:0px;
-    background:fuchsia;
+    background:var(--setup-diff-bar-full);
+}
+.diff-spec{
+    background-color:var(--setup-diff-bar-overall);
 }
 .diff-label{
-    text-align: center;
+    text-align: right;
+    line-height: 100%;
     width:25%;
-    background-color: pink; /* TODO REMOVE*/
+    padding-right: 10px;
 }
 
 .title{
