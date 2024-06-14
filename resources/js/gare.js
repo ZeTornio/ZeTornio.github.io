@@ -3,36 +3,31 @@ let Categories =[
         "Tipologia": "Locale",
         "SottoTipologia": "Mista",
         "MinDiff":4,
-        "MaxDiff":20,
-        "Provenienza":""
+        "MaxDiff":20
     },
     {
         "Tipologia": "Locale",
         "SottoTipologia": "Femminile",
         "MinDiff":0,
-        "MaxDiff":17,
-        "Provenienza":""
+        "MaxDiff":17
     },
     {
         "Tipologia": "Nazionale",
         "SottoTipologia": "Semifinale Mista",
         "MinDiff":16,
-        "MaxDiff":25,
-        "Provenienza":""
+        "MaxDiff":25
     },
     {
         "Tipologia": "Nazionale",
         "SottoTipologia": "Finale Mista",
         "MinDiff":20,
-        "MaxDiff":35,
-        "Provenienza":""
+        "MaxDiff":35
     },
     {
         "Tipologia": "Nazionale",
         "SottoTipologia": "Finale Femminile",
         "MinDiff":17,
-        "MaxDiff":31,
-        "Provenienza":""
+        "MaxDiff":31
     }
 ]
 

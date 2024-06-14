@@ -1,23 +1,31 @@
 @import './font/Poppins/stylesheet.css';
 :root{
-    --main-bg-color:#03045e;
-    --setup-text-color:var(--main-bg-color);
-    --setup-bg-color:rgb(84, 161, 190);
-
     
-    --chekbox-main-col:rgb(119, 213, 247);
-    --checkbox-hover:lime;
+    --col-0: #d6eaff;
+    --col-1:rgb(0, 225, 255);
+    --col-2:rgb(0,184,255);
+    --col-3:rgb(0,155,214);
+    --col-4:rgb(0, 113, 156);
+    --col-5:rgb(0,65,90);
 
-    --setup-diff-bar-empty:var(--chekbox-main-col);
-    --setup-diff-bar-full:fuchsia;
-    --setup-diff-bar-half:pink;
-    --setup-diff-bar-overall:lime;
+    --main-background-color:var(--col-5);
+    --options-background-color:var(--col-4);
+    --options-text-color:var(--col-0);
+    --cb-background-color:var(--col-2);
+    --cb-hover-highlights:var(--col-1);
+    --setup-diff-bar-full:var(--col-2);
+    --setup-diff-bar-half:var(--col-3);
+    --setup-diff-bar-empty:var(--col-5);
+    --setup-diff-bar-overall:var(--col-1);
+    --button-bg:var(--col-2);
+    --button-text:var(--col-4);
+    --button-highlights:var(--col-1);
 }
 
 
 
 body{
-    background-color: var(--main-bg-color);
+    background-color: var(--main-background-color);
     margin:0px;
 }
 #container{
@@ -34,8 +42,8 @@ body{
     width: 90%;
     min-height: 150%;
     text-align: center;
-    color: var(--setup-text-color);
-    background-color: var(--setup-bg-color);
+    color: var(--options-text-color);
+    background-color: var(--options-background-color);
     display: flex;
     flex-direction:column;
     justify-content: space-around;
@@ -61,18 +69,18 @@ body{
     padding-left: 7.5px;
     padding-right: 7.5px;
     border-radius: 10px;
-    color:var(--chekbox-main-col);
-    border: solid 3px var(--chekbox-main-col);
+    color:var(--cb-background-color);
+    border: solid 3px var(--cb-background-color);
 }
 .c-box:hover{
     cursor: pointer;
-    border:solid 3px var(--checkbox-hover) ;
-    color: var(--checkbox-hover) !important;
+    border:solid 3px var(--cb-hover-highlights) ;
+    color: var(--cb-hover-highlights) !important;
 }
 .cb-active{
-    background-color: var(--chekbox-main-col) !important;
-    border: solid 3px var(--chekbox-main-col);
-    color: var(--setup-bg-color) !important;
+    background-color: var(--cb-background-color) !important;
+    border: solid 3px var(--cb-background-color);
+    color: var(--options-background-color) !important;
 }
 .inline{
     display:none;
@@ -115,7 +123,8 @@ body{
     font-size: larger;
 }
 .pm-button,.button{
-    background-color: azure;
+    background-color: var(--button-bg);
+    color:var(--button-text);
     font-size: larger;
     border-radius:100%;
     width:20px;
@@ -125,6 +134,12 @@ body{
     justify-content: center;
     overflow: hidden;
     margin: 2.5px;
+    border: 2px var(--button-bg) solid; 
+}
+.pm-button:hover,.button:hover{
+    border: 2px var(--button-highlights) solid;
+    color: var(--options-background-color);
+    background: var(--button-highlights);
 }
 .button{
     border-radius:15px;
@@ -137,6 +152,19 @@ body{
 #problems{
     width:50px;
     border-radius: 8px;
-    background-color: aqua;
+    border: 2px var(--cb-background-color) solid;
+    color:var(--cb-background-color);
     margin:5px;
+}
+a{
+    color: var(--cb-background-color) !important;
+}
+a:hover{
+    color: var(--cb-hover-highlights) !important;
+}
+#overall-b>.diff-label{
+    color:var(--cb-hover-highlights);
+}
+#overall-b>.pm-button{
+    border: 2px var(--button-highlights) solid;
 }

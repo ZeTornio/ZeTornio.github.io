@@ -5,7 +5,7 @@ let probs_diff = []
 let probs_args = []
 let probs =[]
 //Funxioni per aggiungere dinamicament le varie tipologie all'html
-var append_text='<div><div class="title">Quali tipologie?</div><div class="checkbox-container">'
+var append_text='<div><div class="title">Quali tipologie?</div><div class="explanation">Tale scleta non potrà essere modificata in seguito</div><div class="checkbox-container">'
 for(let i=0;i<Categories.length;i++){
   let c_id=Categories[i].Tipologia.replace(/ /g, '')+"_"+Categories[i].SottoTipologia.replace(/ /g, '');
   append_text+='<div id="'+c_id+'-cb" class="c-box">'+Categories[i].Tipologia+", "+Categories[i].SottoTipologia+'</div>'+'<input type="checkbox" id="'+c_id+'" name="alg" style="display: none;">';
@@ -13,9 +13,9 @@ for(let i=0;i<Categories.length;i++){
 append_text+='</div></div>'
 document.getElementById("setup").innerHTML+=append_text
 
-document.getElementById("setup").innerHTML+='<div><div class="title">Difficoltà</div><div class="explanation">Spiega SPiega</div><div class="checkbox-container"><div id="bilancia-cb" class="c-box">Bilancia la difficoltà</div><div id="ordina-cb" class="c-box">Ordina i problemi per difficoltà</div><div id="personalizza-cb" class="c-box">Personalizza difficoltà</div></div><input type="checkbox" id="bilancia" name="bilancia" style="display: none;"><input type="checkbox" id="ordina" name="ordina" style="display: none;"><input type="checkbox" id="personalizza" name="personalizza" style="display: none;"></div>'
+document.getElementById("setup").innerHTML+='<div><div class="title">Difficoltà</div><div class="explanation">Leggi maggiori informazioni <a href="./Difficoltà.md" target="_blank">cliccando qui</a></div><div class="checkbox-container"><div id="bilancia-cb" class="c-box">Bilancia la difficoltà</div><div id="ordina-cb" class="c-box">Ordina i problemi per difficoltà</div><div id="personalizza-cb" class="c-box">Personalizza difficoltà</div></div><input type="checkbox" id="bilancia" name="bilancia" style="display: none;"><input type="checkbox" id="ordina" name="ordina" style="display: none;"><input type="checkbox" id="personalizza" name="personalizza" style="display: none;"></div>'
 
-var append_text='<div id="diff-sliders-cont" style="display:none;"><div class="title">Tara le difficoltà</div><div class="explanation">Relativi blablabla</div>';
+var append_text='<div id="diff-sliders-cont" style="display:none;"><div class="title">Tara le difficoltà</div><div class="explanation">Leggi maggiori informazioni <a href="./Difficoltà.md" target="_blank">cliccando qui</a></div>';
 for(let i=0;i<Categories.length;i++){
   let c_id=Categories[i].Tipologia.replace(/ /g, '')+"_"+Categories[i].SottoTipologia.replace(/ /g, '');
   append_text+='<div id="'+c_id+'-b" class="inline"><div class="diff-label">'+Categories[i].Tipologia+', '+Categories[i].SottoTipologia+'</div><div id="'+c_id+'-min-m" class="pm-button">&minus;</div><div id="'+c_id+'-min-p" class="pm-button">+</div><div class="diff-bar-ext"><div id="'+c_id+'-bar" class="diff-bar-int"></div><div id="'+c_id+'-bar2" class="diff-bar-int-2"></div></div><div id="'+c_id+'-min" style="display: none;">'+Categories[i].MinDiff+'</div><div id="'+c_id+'-max" style="display: none;">'+Categories[i].MaxDiff+'</div><div id="'+c_id+'-max-m" class="pm-button">&minus;</div><div id="'+c_id+'-max-p" class="pm-button">+</div></div>'
@@ -30,10 +30,23 @@ function updateSize() {
     document.getElementById("container").style.minHeight = window.innerHeight +"px";
     document.getElementById("setup").style.minHeight = 0.8*window.innerHeight +"px";
     document.body.style.width = 0.6*window.innerWidth +"px";
+    document.getElementById("download").style.left = window.innerWidth*0.85 +"px";
+    document.getElementById("home").style.left = window.innerWidth*0.85 +"px";
+    document.getElementById("home").style.top = window.innerHeight*0.27 +"px";
+    document.getElementById("download").style.bottom = window.innerHeight*0.27 +"px";
   }
 updateSize();
 window.addEventListener("resize", updateSize);
+document.getElementById("home").style.display='none';
+document.getElementById("download").style.display='none';
 
+//Ritorna al setup
+document.getElementById("home").addEventListener("click",home)
+function home(){
+  location.reload()
+}
+//Scarica la gara
+document.getElementById("download").addEventListener("click",downloadPDF)
 //Funzione per il numero di problemi
 function increase_num_prob(){
   let probs=document.getElementById("problems");
@@ -316,10 +329,13 @@ function submitSetup(){
   }
   //console.log(probs_args);
   //console.log(probs_diff);
-  loadProblems();
+  loadProblems(null,null,null);
 
   createGara(num_probs);
   setupChangePopUp();
+  
+document.getElementById("home").style.display='';
+document.getElementById("download").style.display='';
 }
 document.getElementById("submit-setup").addEventListener("click",submitSetup)
 //REMEMBER MAIN VARS: probs_diff, probs_args, probs
@@ -601,3 +617,47 @@ function reset_pool(min,max){
     }
   }
 }
+
+function downloadPDF(){
+  title = window.prompt("Inserisci il titolo della gara:","Simulazione");
+  if(title==null){
+    return;
+  }
+  let tit=document.createElement('div');
+  tit.setAttribute('id','titolone');
+  tit.innerHTML=`<div>${title}</div><div>Gara creata su https://zetornio.github.io/</div><div>Le gare da cui provengono i testi sono organizzate da TODO</div>`;
+  container=document.getElementById("text-cont");
+  container.insertBefore(tit,container.firstChild);
+  sol_t='<p>Soluzioni</p>';
+  for(i=0;i< probs.length;i++){
+    sol_t+= `<b>${probs[i].titolo}</b>: ${probs[i].soluzione}&nbsp &nbsp(${probs[i].Tipologia} ${probs[i].SottoTipologia}, ${probs[i].Anno}, ${probs[i].numero})<br>`
+  }
+  let sol=document.createElement('div');
+  sol.setAttribute('id','soluzioni');
+  sol.innerHTML=sol_t;
+  container.appendChild(sol);
+  let cre=document.createElement('div');
+  cre.setAttribute('id','crediti');
+  cre.innerHTML="<p>Crediti</p>Oltre agli autori dei singoli testi, le gare da cui provengono i problemi sono state realizzate, organizzate o sostenute da<br>";
+  container.appendChild(cre)
+  window.print()
+  setTimeout(()=>{
+    tit.remove();
+    sol.remove();
+    cre.remove();
+  })
+}
+
+function displaySingleGara(tipologia,sottotipologia,anno){
+  
+  problems=loadProblems(tipologia,sottotipologia,anno);
+  console.log(problems);
+  document.getElementById("setup").style.display='none';
+  document.getElementById("text-cont").style.display='block';
+  for(i in problems){
+    console.log(problems[i]);
+    document.getElementById("text-cont").innerHTML+=`<div class='problem'><div class='prob-head'><div class='prob-title'>${(parseInt(i)+1)} - ${problems[i].titolo} [${problems[i].soluzione}]</div><div class='prob-author'>${problems[i].autore}</div></div><div class='prob-text'>${problems[i].testo}</div></div>`;
+  }
+}
+//TODO remove, used just to debug
+//displaySingleGara("Locale","Mista",2024)
