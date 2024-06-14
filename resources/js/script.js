@@ -422,7 +422,7 @@ function reset_prob_nums(){
 //Funzioni per il popup change/add
 function setupChangePopUp(){
   inHTML='<div class="title">Quali categorie?</div><div class="checkbox-container"><div id="alg-cn-cb" class="c-box">Algebra</div><div id="tdn-cn-cb" class="c-box">Teoria dei numeri</div><div id="log-cn-cb" class="c-box">Logica</div><div id="com-cn-cb" class="c-box">Combinatoria</div><div id="geo-cn-cb" class="c-box">Geometria</div></div><input type="checkbox" id="alg-cn" name="alg" style="display: none;"><input type="checkbox" id="tdn-cn" name="tdn" style="display: none;"><input type="checkbox" id="log-cn" name="log" style="display: none;"><input type="checkbox" id="com-cn" name="com" style="display: none;"><input type="checkbox" id="geo-cn" name="geo" style="display: none;">';
-  inHTML+='<div class="title">Difficoltà</div>';
+  inHTML+='<div class="title">Difficoltà</div><div class="explanation">Leggi maggiori informazioni <a href="https://github.com/ZeTornio/ZeTornio.github.io/blob/main/Difficolt%C3%A0.md" target="_blank">cliccando qui</a></div>';
   for(let i=0;i<Categories.length;i++){
     let c_id=Categories[i].Tipologia.replace(/ /g, '')+"_"+Categories[i].SottoTipologia.replace(/ /g, '');
     if(!(document.getElementById(c_id).checked)){

@@ -3,6 +3,8 @@
     --text-button-bg:var(--col-2);
     --text-button-text:var(--col-5);
     --text-button-highlights:var(--col-1);
+    --icons-fill:var(--col-2);
+    --icons-fill-hover:var(--col-1);
 }
 #text-cont{
     font-family:'Computer Modern Serif';
@@ -108,7 +110,6 @@ img{
 
 #download,#home{
     position: fixed;
-    background-color: aliceblue;
     width: 130px;
     height:130px;
     display: flex;
@@ -116,14 +117,19 @@ img{
     justify-content: space-around;
     align-items: center;
     font-family: "Poppins";
+    color:var(--icons-fill);
 }
 #download:hover,#home:hover{
     cursor:pointer;
+    color:var(--icons-fill-hover);
 }
 .icon{
     width:100px;
     height: 100px;
-    background-color: purple;
+    fill: var(--icons-fill);
+}
+#download:hover>.icon,#home:hover>.icon{
+    fill:var(--icons-fill-hover);
 }
 
 @media print {
