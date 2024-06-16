@@ -4472,7 +4472,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 4041,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 23,
                     "autore": "Carlo Càssola",
                     "testo": "Qual è il valore di 2022!/(2022!−2021!−2020!)? Non c’è che fare i calcoli. \n<span class='note'>Dare come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi termini.<span>"
                 },
@@ -4481,7 +4481,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 4365,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 51,
                     "autore": "Lorenzo Mazza",
                     "testo": "Si considerino le sequenze finite (<em>a<sub>n</sub></em>)<sub><em>n</em>=0,...,<em>k</em></sub> di numeri naturali di tre cifre tali che <em>a</em><sub><em>n</em>+1</sub>=<em>a<sub>n</sub></em>+max<em>C</em>(<em>a<sub>n</sub></em>) dove <em>C</em>(<em>a<sub>n</sub></em>) è l’insieme delle cifre che compaiono in <em>a<sub>n</sub></em> - un esempio di tale sequenza è (143, 147, 154, 159). Tra tutte queste sequenze si considerino quelle composte soltanto da numeri dispari e, di ciascuna di queste, si consideri la somma dei termini che la compongono <em>a</em><sub>0</sub>+<em>a</em><sub>1</sub>+...+<em>a<sub>k</sub></em>. Qual è la somma massima che si trova? Il problema è facile, ma ci si può chiedere a che cosa serve farlo."
                 },
@@ -4490,7 +4490,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 225,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 42,
                     "autore": "Carlo Càssola",
                     "testo": "In un quadrato <em>ABCD</em> sono state tracciate internamente la semicirconferenza di diametro <em>AD</em> e la semicirconferenza che ha diametro sul lato <em>CD</em>, ha uno degli estremi del diametro in <em>C</em> ed è tangente all’altra semicirconferenza. Qual è il rapporto, moltiplicato per 100, tra l’area della semicirconferenza più grande e l’altra? Per confrontarle basta ritagliare i due dischi."
                 },
@@ -4499,7 +4499,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 4012,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 33,
                     "autore": "Carlo Càssola",
                     "testo": "Nel 2023, nel giorno del suo compleanno, l’età di Ruggero diventerà la somma delle cifre dell’anno in cui è nato. Quali sono gli anni in cui può essere nato Ruggero? È facile rendersi conto che il plurale è fuorviante. \n<span class='note'>Dare come risposta la somma degli anni ammissibili.</span>"
                 },
@@ -4508,7 +4508,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1558,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 49,
                     "autore": "Cecilia Oliveri",
                     "testo": "Siano date due circonferenze concentriche: una di raggio 20 cm; l’altra di raggio 40 cm. Siano <em>r</em> e <em>s</em> due rette tangenti alla circonferenza interna rispettivamente nei punti <em>A</em> e <em>B</em> e incidenti tra loro nel punto <em>C</em> appartenente alla circonferenza esterna. Siano detti <em>E</em> e <em>F</em> i punti di intersezione della circonferenza esterna rispettivamente con <em>r</em> e con <em>s</em>. Quanto vale l’area del quadrilatero <em>ABFE</em>? Si può misurare l’area con un righello senza fare calcoli."
                 },
@@ -4517,7 +4517,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 143,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 46,
                     "autore": "Lorenzo Mazza",
                     "testo": "Consideriamo un intero positivo <em>a</em>>1. Scriviamo due volte di seguito il numero a ottenendo un numero <em>b</em> - cioè, supponendo che <em>a</em> sia un numero con ℓ cifre, in altre parole è 10<sup>ℓ−1</sup>≤<em>a</em><10<sup>ℓ</sup>, il numero <em>b</em> è <em>a</em>+<em>a</em>10<sup>ℓ</sup> . Qual è il più piccolo valore di <em>a</em> tale che <em>b</em>=<em>ka</em><sup>2</sup> per un opportuno <em>k</em> intero positivo?"
                 },
@@ -4526,7 +4526,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 5294,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 44,
                     "autore": "Giuseppe Rosolini",
                     "testo": "Si consideri che 1 italiano su 9 non è vaccinato per Covid-19 e le probabilità di contrarre il Covid-19 sono 0,1 per un vaccinato e 0,9 per un non-vaccinato. Qual è la probabilità che un italiano malato abbia contratto la malattia da non-vaccinato? È inspiegabile come solo cifre 1 e 9 siano coinvolte in questa osservazione; sarà per forza perché è Covid-19. \n<span class='note'>Dare come risposta le prime quattro cifre decimali della probabilità.</span>"
                 },
@@ -4535,7 +4535,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 50,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 38,
                     "autore": "Silvia Sconza",
                     "testo": "In un campeggio tutti gli iscritti sono gemelli tranne 40, tutti gli iscritti sono trigemini tranne 41, e tutti gli iscritti sono quadrigemini tranne 42. Quanti sono, come minimo, gli iscritti al campeggio? Basta contarli tutti insieme."
                 },
@@ -4544,7 +4544,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8883,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 59,
                     "autore": "Lorenzo Mazza",
                     "testo": "Si considerino i numeri interi da 94 a 188, estremi inclusi. Per ciascuno di essi, si prenda il più grande divisore dispari. Qual è la somma di tutti questi divisori?"
                 },
@@ -4553,7 +4553,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 6,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 66,
                     "autore": "Carlo Càssola",
                     "testo": "Presi due numeri reali <em>r</em> e <em>s</em> tali che <em>r</em>+<em>s</em>=1 e <em>r</em><sup>4</sup>+<em>s</em><sup>4</sup>=7, che numero è <em>r</em><sup>5</sup>+5<em>rs</em>+<em>s</em><sup>5</sup>? Il problema è scritto su due righe e due colonne."
                 },
@@ -4562,7 +4562,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 16,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 55,
                     "autore": "Silvia Sconza",
                     "testo": "Un gioco tra due giocatori prevede l’uso di un dado regolare a sei facce e di una moneta non truccata. A turno ciascuno dei due giocatori deve lanciare il dado: se esce un numero pari, deve lanciare il dado di nuovo; se esce 1 oppure 5 passa il turno all’avversario; se esce 3 deve lanciare la moneta. Se l’esito del lancio della moneta è testa, vince, altrimenti passa il turno all’avversario. Ogni volta che un giocatore comincia il proprio turno deve iniziare sempre dal lancio del dado. Qual è la probabilità che il giocatore che gioca per secondo vinca? Questo gioco con i dadi non prenderà mai piede. \n<span class='note'>Dare come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
@@ -4571,7 +4571,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 337,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 31,
                     "autore": "Silvia Sconza",
                     "testo": "Qual è il minimo numero di interi positivi consecutivi il  cui prodotto è sempre divisibile per 2022? La soluzione è immediata grazie ai criteri di divisibilità."
                 },
@@ -4580,7 +4580,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 4286,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 74,
                     "autore": "Cecilia Oliveri",
                     "testo": "All’interno di un cilindro di altezza <em>h</em> e raggio di base <em>r</em>, stanno due piramidi rette con base coincidente. I vertici delle due piramidi toccano ciascuna una diversa base del cilindro nel suo centro. La base delle due piramidi è un triangolo equilatero i cui vertici toccano tutti la superficie laterale del cilindro. Sapendo che il prodotto <em>rh</em>=100 e che <em>r</em> e <em>h</em> assumono solo valori interi, quanto vale la differenza tra il volume massimo e il volume minimo occupato dalle due piramidi?"
                 },
@@ -4589,7 +4589,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2021,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 55,
                     "autore": "Lorenzo Mazza",
                     "testo": "In quanti modi il numero 2022 può essere scritto come somma di due o più interi positivi posti in ordine non decrescente ed in modo tale che la differenza fra l’ultimo e il primo termine sia al più 1? La risposta è più corta della domanda."
                 },
@@ -4598,7 +4598,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 304,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 87,
                     "autore": "Lorenzo Mazza",
                     "testo": "Su un parallelepipedo a base quadrata di spigolo 5 cm e alto 10 cm, una formica parte da un vertice <em>A</em> della base quadrata e si reca inizialmente sul vertice <em>B</em> diametralmente opposto sull’altra base. Poi si reca al centro di quella base e da lì ritorna in <em>A</em>. Qual è la lunghezza minima in mm di tale tragitto? Se la formica parlasse basterebbe chiederglielo."
                 },
@@ -4607,7 +4607,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 179,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 40,
                     "autore": "Silvia Sconza",
                     "testo": "Sapendo che (4<em>a</em><sup>2</sup>)<sup>−1</sup>+<em>a</em><sup>2</sup>=8, quanto vale al massimo (32<em>a</em><sup>5</sup>)<sup>−1</sup>+<em>a</em><sup>5</sup>? Boh!"
                 },
@@ -4616,7 +4616,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 340,
                     "numero": 17,
-                    "valore": -1,
+                    "valore": 48,
                     "autore": "Carlo Càssola",
                     "testo": "In un quadrato <em>ABCD</em> di lato 2 cm si tracci la circonferenza inscritta. Sia <em>M</em> il punto medio del lato <em>BC</em>. Il segmento <em>MD</em> interseca la circonferenza in un ulteriore punto <em>K</em> oltre al punto <em>M</em>. Quanto vale l’area del quadrato costruito su <em>AK</em> in mm<sup>2</sup> ? I matematici gestiscono costruzioni esilaranti."
                 },
@@ -4625,16 +4625,16 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 5054,
                     "numero": 18,
-                    "valore": -1,
+                    "valore": 66,
                     "autore": "Lorenzo Mazza",
                     "testo": "Intorno a una tavola rotonda sono sedute 2022 persone. Chiacchierando tra di loro, scoprono che il valore assoluto della differenza di soldi nei portafogli di due persone sedute vicine è sempre di 4€ o di 5€. Notano anche che nessuna coppia di persone possiede la stessa quantità di soldi. Qual è la massima differenza di soldi posseduti fra due persone?"
                 },
                 {
                     "titolo": "Terne perfette",
                     "argomento": "",
-                    "soluzione": 0, //Impossibile
+                    "soluzione": 0,
                     "numero": 19,
-                    "valore": -1,
+                    "valore": 93,
                     "autore": "Giuseppe Rosolini",
                     "testo": "Una terna pitagorica è una tripla (<em>a</em>, <em>b</em>, <em>c</em>) di numeri interi positivi che verifica le seguenti condizioni:  <em>a</em><sup>2</sup>+<em>b</em><sup>2</sup>=<em>c</em><sup>2</sup> e <em>a</em><<em>b</em>. Una terna pitagorica si dice primitiva se non esistono una terna pitagorica (<em>d</em>, <em>e</em>, <em>f</em>) e un numero intero <em>k</em>>1 tali che <em>a</em>=<em>kd</em>, <em>b</em>=<em>ke</em>, <em>c</em>=<em>kf</em>. Si dimostra facilmente che esistono infinite terne pitagoriche primitive, ma si dimostra che sono in numero finito le terne pitagoriche primitive (<em>a</em>, <em>b</em>, <em>c</em>) tali che l’area del triangolo determinato dalla terna è un quadrato perfetto. Quante sono tali terne pitagoriche?"
                 },
@@ -4643,7 +4643,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 36,
                     "numero": 20,
-                    "valore": -1,
+                    "valore": 120,
                     "autore": "Lorenzo Mazza",
                     "testo": "Siano <em>M</em> e <em>N</em> rispettivamente i punti medi dei lati <em>AB</em> e <em>CD</em> di un quadrato <em>ABCD</em>. Si consideri il punto <em>P</em>, appartenente al prolungamento di <em>BD</em> dalla parte di <em>D</em>; sia <em>H</em> l’intersezione di <em>PM</em> con <em>AD</em> e <em>K</em> l’intersezione di <em>HN</em> con <em>BD</em>. L’ampiezza dell’angolo ∠<em>DKH</em> è 81°. Qual è l’ampiezza dell’angolo ∠<em>PND</em>?"
                 },
@@ -4670,7 +4670,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 9000,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 21,
                     "autore": "Carlo Càssola",
                     "testo": "<span class='sogg'>Teodomiro</span> Mentre venivo, contavo i numeri palindromi di sette cifre.\n<span class='sogg'>Astragone</span> Quanti sono?"
                 },
@@ -4679,7 +4679,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8000,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 31,
                     "autore": "Lorenzo Mazza",
                     "testo": "<span class='sogg'>Astragone</span> Ho disegnato un triangolo con un lato di 10 cm e l’altezza ad esso relativa di 6 cm. Ho anche trovato il suo baricentro. \n<span class='sogg'>Teodomiro</span> Indica i vertici del triangolo con <em>X</em>, <em>Y</em> e <em>Z</em>, il baricentro con <em>B</em>. Traccia la parallela per <em>B</em> al lato più lungo <em>YZ</em>. Diciamo che <em>V</em> e <em>W</em> sono le intersezioni con i lati. Qual è il rapporto fra l’area del triangolo <em>XVW</em> e quella del trapezio <em>YZVW</em>? \n<span class='note'> Dare come risposta il rapporto moltiplicato per 10<sup>4</sup>.</span>"
                 },
@@ -4688,7 +4688,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 251,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 50,
                     "autore": "Sandro Campigotto",
                     "testo": "<span class='sogg'>Teodomiro</span> Qual è il più grande valore di <em>n</em> per cui 2023!/(10!)<sup><em>n</em></sup> è un numero intero?"
                 },
@@ -4697,7 +4697,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2223,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 29,
                     "autore": "Sandro Campigotto",
                     "testo": "<span class='sogg'>Astragone</span> Non so che cosa fare. \n<span class='sogg'>Teodomiro</span> Aspettiamo. \n<span class='sogg'>Astragone</span> Chi? \n<span class='sogg'>Teodomiro</span> Godol, chi altri? \n<span class='sogg'>Astragone</span> Per passare il tempo diciamo numeri? \n<span class='sogg'>Teodomiro</span> Va bene. \n<span class='sogg'>Astragone</span> Io inizio con 1 e aggiungo sempre 2. \n<span class='sogg'>Teodomiro</span> Io inizio da 10000 e sottraggo sempre 7. \n<span class='sogg'>Astragone</span> Uno, tre, cinque, \n<span class='sogg'>Teodomiro</span> (<em>Scandendo numero a numero con Astragone</em>) Diecimila, novemilanovecentonovantatre, novemilanovecentoottantasei, (<em>Alza la mano, urlando</em>) Fermo! A un certo momento diremo lo stesso numero! \n<span class='sogg'>Astragone</span> Quale?"
                 },
@@ -4706,7 +4706,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 4750,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 52,
                     "autore": "Sandro Campigotto",
                     "testo": "<span class='sogg'>Astragone</span> Guarda, Dodo: ho trovato un sacchetto con sedici palline numerate da 15 a 30. Se ne tiro fuori due, qual è la probabilità che il loro prodotto sia multiplo di 6? \n<span class='note'>Dare come risposta la probabilità moltiplicata per 10<sup>4</sup>.</span>"
                 },
@@ -4715,7 +4715,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2100,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 65,
                     "autore": "Carlo Càssola",
                     "testo": "<span class='sogg'>Teodomiro</span> Disegna un ottagono <em>ABCDEFGH</em> che abbia i lati opposti a due a due paralleli e uguali.  \n<span class='sogg'>Astragone</span> (<em>Si mette al lavoro con cura</em>) Ho misurato i lati che ho disegnato <em>AB</em>=<em>EF</em>=30 cm, <em>BC</em>=<em>FG</em>=(1000)<sup>1/2</sup> cm, <em>CD</em>=<em>GH</em>=10 cm, <em>DE</em>=<em>HA</em>=(200)<sup>1/2</sup> cm. \n<span class='sogg'>Teodomiro</span> Non ci credo! <em>ABEF</em> è un rettangolo. E anche: prolungando i lati <em>AB</em>, <em>CD</em>, <em>EF</em> e <em>GH</em> ottieni un quadrato! Quanto vale l’area dell’ottagono in cm<sup>2</sup>?"
                 },
@@ -4724,7 +4724,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 72,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 40,
                     "autore": "Sandro Campigotto",
                     "testo": "<span class='sogg'>Astragone</span> Stavo pensando. \n<span class='sogg'>Teodomiro</span> A cosa? \n<span class='sogg'>Astragone</span> Quante triple ordinate (<em>a</em>, <em>b</em>, <em>c</em>) di numeri interi sono tali che <em>abc</em>=2023?"
                 },
@@ -4733,7 +4733,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 246,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 115,
                     "autore": "Lorenzo Mazza",
                     "testo": "<span class='sogg'>Astragone</span> Ricordo dieci scatole contenenti biglie di colore rosso, nero, giallo e verde. Sapevo che il numero di biglie rosse in ciascuna scatola coincideva con il numero di biglie nere nelle rimanenti nove scatole; il numero di biglie nere in ciascuna scatola coincideva con il numero di biglie gialle nelle rimanenti nove scatole; il numero di biglie gialle in ciascuna scatola coincideva con il numero di biglie verdi nelle rimanenti scatole. \n<span class='sogg'>Teodomiro</span> Ma erano un numero esagerato di biglie? \n<span class='sogg'>Astragone</span> Sì, ricordo che erano proprio tante! E il numero totale di tutte le biglie nelle scatole era un multiplo di 6. Qual era il numero minimo di biglie in una scatola?"
                 },
@@ -4742,7 +4742,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 150,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 36,
                     "autore": "Carlo Càssola",
                     "testo": "<span class='sogg'>Teodomiro</span> All’interno della base <em>AB</em> di un triangolo equilatero <em>ABC</em> disegna il punto <em>D</em> tale che <em>AD</em>=3<em>DB</em>. Sulla semiretta di origine <em>C</em> e passante per <em>D</em> fissa il punto <em>E</em> in modo che sia <em>CE</em>=<em>AB</em>. Quanto è l’ampiezza in gradi di ∠<em>AEB</em> ?"
                 },
@@ -4751,7 +4751,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 495,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 32,
                     "autore": "Sandro Campigotto",
                     "testo": "<span class='sogg'>Astragone</span> Ho scritto cinque numeri naturali. \n<span class='sogg'>Teodomiro</span> Ce ne sono due uguali? \n<span class='sogg'>Astragone</span> No. La media dei due più piccoli è 100. La media dei due più grandi è 200. La media dei cinque numeri è un numero intero. Quali sono il più piccolo e il più grande valore possibile del numero più grande tra i cinque? \n<span class='note'>Dare come risposta la somma dei due valori.</span>"
                 },
@@ -4760,7 +4760,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 15,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 49,
                     "autore": "Sandro Campigotto",
                     "testo": "<span class='sogg'>Astragone</span> Ho disegnato tre cerchi concentrici di aree 400π  cm<sup>2</sup>, 600π cm<sup>2</sup> e 800π cm<sup>2</sup>. \n<span class='sogg'>Teodomiro</span> Che cos’è P-greco? \n<span class='sogg'>Astragone</span> È 3,1415926535897 (<em>Teodomiro agita le mani e interrompe Astragone</em>). \n<span class='sogg'>Teodomiro</span> Va bene; ho capito! \n<span class='sogg'>Astragone</span> (<em>Riprendendo quello che diceva</em>) Dicevo: e 800π cm<sup>2</sup>. Da un punto del cerchio di raggio maggiore ho tracciato tutte le tangenti agli altri due cerchi. Quanto vale il più piccolo tra tutti gli angoli formati da coppie di tangenti?"
                 },
@@ -4769,16 +4769,16 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1538,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 53,
                     "autore": "Sandro Campigotto",
-                    "testo": "\n<span class='sogg'>Teodomiro</span> Guarda, Gogo! Ho trovato un sacchetto con 23 monete. Sono tutte della stessa grandezza e peso; tutte con testa e croce, esclusa una che ha testa su entrambi i lati. \n<span class='sogg'>Astragone</span> Ho paura, Dodo. Sicuramente il baro che ha perso il sacchetto starà cercandolo. \n<span class='sogg'>Teodomiro</span> Il sacchetto era per terra, nessuno lo reclama: è mio. (<em>Teodomiro prenda una moneta a caso. La lancia due volte.</em>) Che strano! In entrambi i lanci è venuto testa e non ho guardato che cosa c’era sull’altro lato della moneta. \n<span class='sogg'>Astragone</span> Qual è la probabilità che la moneta presa sia la moneta con due teste? \n<span class='note'>Dare come risposta la probabilità moltiplicata per 10<sup>4</sup>.</span>"
+                    "testo": "<span class='sogg'>Teodomiro</span> Guarda, Gogo! Ho trovato un sacchetto con 23 monete. Sono tutte della stessa grandezza e peso; tutte con testa e croce, esclusa una che ha testa su entrambi i lati. \n<span class='sogg'>Astragone</span> Ho paura, Dodo. Sicuramente il baro che ha perso il sacchetto starà cercandolo. \n<span class='sogg'>Teodomiro</span> Il sacchetto era per terra, nessuno lo reclama: è mio. (<em>Teodomiro prenda una moneta a caso. La lancia due volte.</em>) Che strano! In entrambi i lanci è venuto testa e non ho guardato che cosa c’era sull’altro lato della moneta. \n<span class='sogg'>Astragone</span> Qual è la probabilità che la moneta presa sia la moneta con due teste? \n<span class='note'>Dare come risposta la probabilità moltiplicata per 10<sup>4</sup>.</span>"
                 },
                 {
                     "titolo": "",
                     "argomento": "",
                     "soluzione": 7770,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 45,
                     "autore": "Simone Muselli",
                     "testo": "<span class='sogg'>Teodomiro</span> Immagino un’isola abitata da cifre, ci sono zeri, uni, due, tre, fino a tanti nove, con gambe, braccia, bocca. Sono tutti sinceri, eccetto gli zeri, che mentono sempre. Quattro cifre, sedute una accanto all’altra stanno formando un numero intero maggiore di 999. Iniziano a parlare, dicendo tutte la stessa frase: «Se me ne andassi, le cifre rimanenti formerebbero un numero di tre cifre, divisibile per 7 e per 11.». Qual è il numero che le quattro cifre stanno formando?"
                 },
@@ -4787,7 +4787,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 120,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 90,
                     "autore": "Giuseppe Rosolini",
                     "testo": "<span class='sogg'>Teodomiro</span> Il numero di quattro cifre <em>n</em> è il prodotto di tre numeri primi diversi. Sottraendo <em>n</em> alla somma dei divisori di <em>n</em> si ottiene 2074. \n<span class='sogg'>Astragone</span> Non basta per sapere quanto vale <em>n</em>.\n<span class='sogg'>Teodomiro</span> Non mi interessa <em>n</em>. Mi interessa la somma dei tre numeri primi: qual è il suo valore minimo?"
                 },
@@ -4796,7 +4796,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 192,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 30,
                     "autore": "Lorenzo Mazza",
                     "testo": "<span class='sogg'>Astragone</span> Che cosa succede? \n<span class='sogg'>Teodomiro</span> Sto pensando. \n<span class='sogg'>Astragone</span> No, Dodo, guarda là fuori. Sta arrivando qualcuno. \n<span class='sogg'>Teodomiro</span> Cercavo di ricordare i divisori di 11<sup>6</sup>−1. \n<span class='sogg'>Astragone</span> (<em>Entrano Lozzo e Pucky, la corda è corta, Lozzo si muove a tentoni</em>) Ci sono quei due di ieri. \n<span class='sogg'>Teodomiro</span> Chissà quanti sono i divisori che cercavo?"
                 },
@@ -4805,7 +4805,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 3130,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 39,
                     "autore": "Lorenzo Mazza",
                     "testo": "<span class='sogg'>Lozzo</span> Immagino anche un poligono convesso di 2023 lati in cui sono tracciate tutte le diagonali. E immagino una retta che interseca il poligono e le diagonali, (<em>si infervora</em>) senza passare per alcun vertice del poligono stesso. (<em>Calmandosi</em>) Qual è il massimo numero possibile di intersezioni tra le diagonali e la retta che si possono immaginare?"
                 },
@@ -4814,7 +4814,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2022,
                     "numero": 17,
-                    "valore": -1,
+                    "valore": 36,
                     "autore": "Simone Muselli",
                     "testo": "<span class='sogg'>Teodomiro</span> Ti racconto una storia (<em>Rivolto a Lozzo che guarda avanti</em>) Nella lontana isola di Barus, vivono 2023 abitanti di due tipi: gli Onesti, che dicono sempre la verità, e i Bari, che dicono sempre il falso, e cercano di non farsi scoprire. A causa di una grande festa, tutti gli abitanti dell’isola si sono riuniti nella piazza centrale. Ad un certo punto, uno dice ad un altro: “Sei un Baro!”. L’altro gli risponde: “Ah sì? Se io sono un Baro, allora tu sei un Baro!”. Gli abitanti cominciano ad accusarsi a vicenda finchè tutti non hanno detto a tutti la frase “Se io sono un Baro, allora tu sei un Baro!”.\n<span class='sogg'>Lozzo</span> Quanti sono gli Onesti dell’isola?"
                 },
@@ -4823,7 +4823,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 102,
                     "numero": 18,
-                    "valore": -1,
+                    "valore": 129,
                     "autore": "Lorenzo Mazza",
                     "testo": "<span class='sogg'>Lozzo</span> (<em>Parlando tra sé</em>) Quanti sono quei quadrati perfetti tali che, calcolandone il quoziente nella divisione con 100, si ottiene il prodotto di due interi positivi consecutivi minori di 100? (<em>Tira la corda</em>) Andiamo, Pucky! (<em>Esce con Pucky, si sentono rumori di caduta</em>)"
                 },
@@ -4832,7 +4832,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1869,
                     "numero": 19,
-                    "valore": -1,
+                    "valore": 140,
                     "autore": "Simone Muselli",
                     "testo": "<span class='sogg'>Astragone</span> (<em>Salutando in direzione di Lozzo e Pucky</em>) Ho inventato un gioco che possiamo giocare domani se non viene Godol. \n<span class='sogg'>Teodomiro</span> Verrà di sicuro! \n<span class='sogg'>Astragone</span> Vorrei avere le tue certezze! È così che avrei voluto affrontare la vita. Per il gioco, ho disegnato un quadrato di lato 5 dm sul ghiaccio del lago. Ad una distanza di 1 m da esso, si lancia, facendolo scivolare, un disco di 10 cm di raggio. Se il disco, una volta fermo, si trova almeno in parte sopra al quadrato, allora il lancio viene considerato valido; se si trova interamente all’interno del quadrato, si vince. \n<span class='sogg'>Teodomiro</span> Ma è facilissimo! \n<span class='sogg'>Astragone</span> Vorrei avere le tue certezze. Purtroppo a volte il tiro è lungo, altre volte corto, altre ancora troppo largo a sinistra, poi troppo largo a destra. Io mi impegno, ma praticamente è come se ogni volta lanciassi il disco a caso verso un punto qualsiasi del lago. \n<span class='sogg'>Teodomiro</span> In queste condizioni casuali, qual è la probabilità di vittoria a seguito di un lancio valido? \n<span class='note'>Dare come risposta la probabilità moltiplicata per 10<sup>4</sup>.</span>"
                 },
@@ -4841,7 +4841,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 232,
                     "numero": 20,
-                    "valore": -1,
+                    "valore": 120,
                     "autore": "Simone Muselli",
                     "testo": "<span class='sogg'>Astragone</span> Ricordo ancora quando ero presentabile e mi avevano chiamato per ricoprire un pavimento rettangolare con 45 piastrelle a quattro lati e ad angoli retti. Pensa che le piastrelle avevano misure in dm dei lati tutte intere, da 1 a 9. Puoi non crederci: le piastrelle erano tutte diverse. \n<span class='sogg'>Teodomiro</span> Quanti decimetri misurava il perimetro del pavimento? \n<span class='note'>Dare come risposta il massimo valore possibile del perimetro.</span>"
                 },
@@ -4850,7 +4850,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 3250,
                     "numero": 21,
-                    "valore": -1,
+                    "valore": 120,
                     "autore": "Damiano Poletti",
                     "testo": "<em>Entra Il ragazzo, fa un inchino, inizia a parlare.</em> \n<span class='sogg'>Il ragazzo</span> Il signor Godol mi ha incaricato di informarvi che oggi non verrà. \n<span class='sogg'>Teodomiro</span> Ti ho già visto? \n<span class='sogg'>Il ragazzo</span> Non credo, signore. \n<span class='sogg'>Teodomiro</span> Eri qui ieri? \n<span class='sogg'>Il ragazzo</span> No, signore. \n<span class='sogg'>Teodomiro</span> Eppure mi sembri proprio di averti visto. Tu te lo ricordi, Gogo? \n<span class='sogg'>Astragone</span> Mi pare; forse è il fratello. \n<span class='sogg'>Teodomiro</span> È venuto tuo fratello ieri? \n<span class='sogg'>Il ragazzo</span> Non lo so, signore. Il signor Godol mi ha detto di spiegarvi come funziona il faro sull’isola nel lago. Il lago ha la forma di un pentagono regolare e nel suo circocentro è posto un faro. La luce del faro illuminerebbe contemporaneamente in tutte le direzioni, ma attorno alla sorgente luminosa sono posti due scudi cilindrici coassiali. Ciascuno scudo blocca la luce, escluso per una opportuna fenditura verticale che permette il passaggio della luce. Ciascuno scudo ruota in senso orario attorno alla sorgente: nel tempo in cui lo scudo esterno compie un giro completo, quello interno ne compie quattro. In questo modo guardando il faro si alternano momenti in cui si vede la luce e altri in cui invece la luce è oscurata. Più precisamente, dal vertice Nord del lago, aprendo gli occhi in un momento a caso, si avrebbe probabilità di 3/8 di riuscire a vedere la luce; dal successivo vertice in senso orario questa probabilità sarebbe 11/40 ; dal successivo ancora di 3/8; dagli ultimi due vertici invece la probabilità sarebbe la stessa. \n<span class='sogg'>Teodomiro</span> Ecco perché Godol non viene a incontrarci. Quanto vale quindi la probabilità che da uno degli ultimi due vertici, aprendo gli occhi in un momento a caso, si riesca a vedere la luce? (<em>Il ragazzo esce</em>) \n<span class='note'>Dare come risposta la probabilità moltiplicata per 10<sup>4</sup>.</span>"
                 }
@@ -4868,7 +4868,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8105,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 53,
                     "autore": "Sandro Campigotto",
                     "testo": "L’area su cui due cerchi di raggio 10 cm e 50 cm si sovrappongono vale 20π cm<sup>2</sup>. Quanto misura in cm<sup>2</sup> l’area ricoperta dai due cerchi?"
                 },
@@ -4877,7 +4877,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 3087,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 42,
                     "autore": "Carlo Càssola",
                     "testo": "Qual è il quadrato di (2023)<sup>1/2</sup>+(112)<sup>1/2</sup>?"
                 },
@@ -4886,7 +4886,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1122,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 55,
                     "autore": "Carlo Càssola",
                     "testo": "Tre numeri reali positivi <em>a</em>, <em>b</em> e <em>c</em> sono tali che il prodotto di <em>a</em> e <em>b</em> coincide con il quadrato di <em>c</em>. La loro somma è 102 mentre la somma dei loro reciproci è 17/18 e <em>a</em><<em>b</em>. Quali sono i tre numeri <em>a</em>, <em>b</em> e <em>c</em>? \n<span class='note'>Dare come risposta il prodotto dei tre numeri.</span>"
                 },
@@ -4895,7 +4895,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 121,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 53,
                     "autore": "Carlo Càssola",
                     "testo": "Un nonno ultracentenario e un nipote compiono gli anni nello stesso giorno (<em>ma hanno età diverse</em>). Il nonno osserva che la sua età è un multiplo intero di quella di suo nipote e che sarà multipla di quella di suo nipote anche per i successivi cinque anni. Qual è la minima età che il nonno può avere oggi?"
                 },
@@ -4904,7 +4904,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2970,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 54,
                     "autore": "Lorenzo Mazza",
                     "testo": "Dante e Marta vogliono entrambi aprire una cassaforte protetta da un PIN di quattro cifre. Entrambi sono venuti a sapere che la prima cifra è 2 e che il PIN è un multiplo di 9. Inoltre, Marta sa che Dante conosce anche la seconda e la terza cifra del PIN. Marta sa in più che il PIN è un numero pari. Vede che Dante non è in grado di determinare univocamente il PIN della cassaforte. Qual è il numero maggiore che Marta dovrà provare come PIN?"
                 },
@@ -4913,7 +4913,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 167,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 66,
                     "autore": "Pietro Donatis",
                     "testo": "In un poligono regolare di 59 lati si tracciano da ogni vertice le due diagonali che lo congiungono con i vertici suoi secondi vicini. In questo modo si viene a tracciare una stella a 59 punte. Quanti gradi sessagesimali vale l’angolo in una punta della stella?"
                 },
@@ -4922,7 +4922,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 168,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 55,
                     "autore": "Carlo Càssola",
                     "testo": "In pasticceria sono disponibili biscotti al cioccolato al costo di 1€ ciascuno, pasticcini a 2€ ciascuno, e torte a 11€ ciascuna. Il millesimo cliente della pasticceria riceve come premio 79€ da spendere totalmente e immediatamente. In quanti modi diversi può spendere il suo premio?"
                 },
@@ -4931,7 +4931,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8894,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 56,
                     "autore": "Carlo Càssola",
                     "testo": "Tutti i numeri interi da 1 a 10000 compaiono sul foglio. Quante cifre ci sono scritte in totale?"
                 },
@@ -4940,7 +4940,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 24,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 65,
                     "autore": "Anna Ulivi",
                     "testo": "Un pavimento rettangolare con lati di lunghezza intera in dm deve essere ricoperto completamente da piastrelle quadrate di lato 1 dm. Sono disponibili 1000 piastrelle. Sono state posate tutte le piastrelle lungo il bordo del pavimento: sono 124. Usate tutte le 1000 piastrelle, il pavimento non è completamente coperto. Anzi il numero di piastrelle mancanti è il massimo possibile con i dati a disposizione. Quante piastrelle mancano?"
                 },
@@ -4949,7 +4949,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 21,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 121,
                     "autore": "Carlo Càssola",
                     "testo": "Una tripla ordinata di numeri interi maggiori di 9 e minori di 100 è <em>mirata</em> quando, prese due componenti qualunque in essa, la loro somma è uguale al rimanente numero della tripla scritto a cifre invertite. Quante sono le triple ordinate di numeri mirati?"
                 },
@@ -4958,7 +4958,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 148,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 71,
                     "autore": "Sandro Campigotto",
                     "testo": "Tre amici, Andrea, Barbara e Claudio, hanno riempito un sacchetto con 100 tessere, ciascuna contrassegnata da un numero (da 1 a 100, ciascuno dei cento numeri compare su almeno una tessera). Andrea pesca un numero, lo guarda e lo rimette nel sacchetto. Poi Claudio pesca un numero, lo guarda e lo rimette nel sacchetto. Infne Barbara pesca un numero, lo guarda e lo rimette nel sacchetto. Qual è la probabilità che uno dei tre abbia pescato il numero che è esattamente la somma dei due numeri pescati dai suoi amici? \n<span class='note'>Dare come risposta la probabilità moltiplicata per 10000.</span>"
                 },
@@ -4967,7 +4967,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1680,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 65,
                     "autore": "Sandro Campigotto",
                     "testo": "Su un foglio quadrettato scrivi 9 in un riquadro. Poi segna i tre riquadri che seguono quello con la cifra 9 verso destra, verso sinistra e verso il basso: in totale sono segnati nove riquadri vuoti. In quanti modi diversi puoi disporre tutte le cifre da 0 a 8 nei nove riquadri vuoti in modo che in ciascuna delle tre direzioni dal riquadro “centrale” (quello con la cifra 9) verso l’esterno, le cifre siano disposte in ordine decrescente?"
                 },
@@ -4976,7 +4976,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 48,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 63,
                     "autore": "Lorenzo Mazza",
                     "testo": "Nel triangolo <em>ABC</em> l’angolo ∠<em>ACB</em> è 42°. I punti <em>L</em>, <em>M</em> e <em> N</em> sui lati <em>AB</em>, <em>BC</em> e <em>CA</em> rispettivamente, sono tali che <em>LB</em>=<em>LM</em> e <em>LA</em>=<em>LN</em>. Sia <em>O</em> il circocentro del triangolo <em>MNC</em>. Qual è l’ampiezza in gradi sessagesimali dell’angolo ∠<em>OLM</em> ?"
                 },
@@ -4985,7 +4985,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 210,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 54,
                     "autore": "Carlo Càssola",
                     "testo": "Su tutte le pagine di un libro sono stampati i numeri di pagina, tutti scritti in cifre arabe. Dal libro viene strappato un foglio (che contiene due pagine consecutive). La somma dei numeri delle pagine rimanenti è 22000. Quante pagine aveva il libro originariamente?"
                 },
@@ -4994,7 +4994,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 5242,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 68,
                     "autore": "Simon Ghizzo",
                     "testo": "Gianflippo deve incartare il regalo di compleanno per il suo amico Pieralfredo. Il pacchetto è un parallelepipedo di dimensioni 25 cm × 30 cm × 50 cm. Gianflippo decide di chiudere l’incarto del pacchetto utilizzando due nastri: uno rosso di larghezza 3 cm e uno giallo di larghezza 7 cm. Utilizza quindi i nastri per cingere il pacchetto formando delle croci su ciascuna delle sue facce, quello giallo posto perpendicolarmente ai lati di 30 cm e quello rosso agli altri. Qual è il valore in cm<sup>2</sup> dell’area del pacchetto non coperta dai nastri?"
                 },
@@ -5003,7 +5003,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 3354,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 61,
                     "autore": "Anna Ulivi",
                     "testo": "Sia <em>ABCD</em> un rettangolo con base lunga 48 m e altezza lunga 24 m. Si prendono i quattro punti medi dei lati, <em>A</em><sub>1</sub> su <em>AB</em>, <em>B</em><sub>1</sub> su <em>BC</em>, <em>C</em><sub>1</sub> su <em>CD</em> e <em>D</em><sub>1</sub> su <em>DA</em> e si considera il quadrilatero <em>A</em><sub>1</sub><em>B</em><sub>1</sub><em>C</em><sub>1</sub><em>D</em><sub>1</sub>. Su questo si prendono i quattro punti medi dei lati, e si considera il quadrilatero così ottenuto. Si continua fno al quadrilatero <em>A</em><sub>11</sub><em>B</em><sub>11</sub><em>C</em><sub>11</sub><em>D</em><sub>11</sub>. Quanto misura in mm il perimetro del quadrilatero <em>A</em><sub>11</sub><em>B</em><sub>11</sub><em>C</em><sub>11</sub><em>D</em><sub>11</sub>?"
                 },
@@ -5012,7 +5012,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8559,
                     "numero": 17,
-                    "valore": -1,
+                    "valore": 144,
                     "autore": "Andrea Giusto",
                     "testo": "Sinner e Medvedev giocano l’incontro fnale di un torneo di tennis. Un <em>incontro</em>(=<em>match</em>) di tennis tra due giocatori è suddiviso in <em>giochi</em>(=<em>games</em>). In un game i giocatori cercano di vincere punti; ogni punto viene vinto da uno dei giocatori; i giocatori giocano un punto alla volta. Un game fnisce con la vittoria di uno dei giocatori quando questo è il primo a vincere almeno 4 punti e almeno 2 punti in più di quelli dell’avversario. Ad esempio, possibili punteggi di vittoria di un game sono 4 punti a 1, 5 a 3, 8 a 6. Un game non fnisce quando il punteggio è, ad esempio, 3 punti a 0, 4 a 3, 8 a 7. Punteggi impossibili sono, ad esempio, 5 a 1, 8 a 5. I resoconti dei precedenti scontri tra Sinner e Medvedev mostrano che Sinner vince un punto con probabilità 2/3 - conseguentemente Medvedev lo vince con probabilità 1/3 . In base ai resoconti, qual è la probabilità che Sinner vinca un game? \n<span class='note'>Dare come risposta la probabilità moltiplicata per 10000.</span>"
                 },
@@ -5021,7 +5021,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1,
                     "numero": 18,
-                    "valore": -1,
+                    "valore": 106,
                     "autore": "Lorenzo Mazza",
                     "testo": "Si consideri la scrittura decimale <em>n</em> = 101010 ... 101 ottenuta alternando le cifre 1 e 0, con la cifra 1 presente   volte e la cifra 0 presente <em>k</em>−1 volte, con 2≤<em>k</em>≤1000. Quanti dei numeri <em>n</em> sono primi?"
                 },
@@ -5030,7 +5030,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 386,
                     "numero": 19,
-                    "valore": -1,
+                    "valore": 121,
                     "autore": "Matteo Littardi",
                     "testo": "Eva inventa un semplice passatempo: scrive alla lavagna un numero intero positivo e lo sostituisce con la somma delle sue cifre, fno ad avere una singola cifra. Giocare in base 10, però, l’annoia molto velocemente: decide allora di ripetere lo stesso gioco, sempre con lo stesso numero <em>n</em>, ma in basi diverse, usando eventualmente come cifre superiori alcune delle 26 lettere dell’alfabeto inglese. Se, ad esempio, deve scrivere un numero in base 11, dopo le dieci cifre usuali Eva usa la lettera <em>A</em> come undicesima. Se deve scrivere un numero in base 36 usa tutte le lettere dell’alfabeto inglese: così <em>J</em> sarà la ventesima cifra, <em>K</em> la ventunesima, <em>W</em> la trentatreesima, <em>X</em> la trentaquattresima, <em>Y</em> la trentacinquesima. Avendo un impegno, Eva interrompe il gioco e annota i risultati ottenuti su un foglio, che lascia nella stanza, e cancella tutti i calcoli sulla lavagna. Poco dopo entra Roberto, che aggiunge alcune scritte nel foglio. Sul foglio ora c’è scritto <ul> <li>In base 11 ho ottenuto 6.</li> <li>In base 29 ho ottenuto <em>S</em>.</li> <li>In base 7 ho ottenuto 2.</li> <li>In base 15 ho ottenuto 8.</li> <li>In base 36 ho ottenuto <em>Z</em>.</li> <li>In base 19 ho ottenuto 8.</li> <li>In base 13 ho ottenuto 2.</li></ul> In efetti, Roberto ha inserito due righe e i risultati che ha indicato sono entrambi errati. Qual è la scrittura in base 10 del minimo numero <em>n</em> che Eva poteva avere utilizzato?"
                 },
@@ -5039,7 +5039,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 408,
                     "numero": 20,
-                    "valore": -1,
+                    "valore": 105,
                     "autore": "Carlo Càssola",
                     "testo": "Dato un triangolo isoscele <em>ABC</em> avente base di lunghezza 24 cm e lati obliqui di lunghezza 38 cm, si tracciano i punti medi <em>M</em>, <em>N</em> e <em>P</em> dei lati e si disegnano i tre segmenti che li congiungono. Il triangolo <em>ABC</em> risulta così diviso in quattro triangoli disgiunti. Piegando <em>ABC</em> lungo i lati di <em>MNP</em>, si può formare un tetraedro dato che <em>M</em>, <em>N</em> e <em>P</em> sono i punti medi dei lati di <em>ABC</em>. Qual è il volume del tetraedro in cm<sup>3</sup>?"
                 },
@@ -5048,7 +5048,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2024,
                     "numero": 21,
-                    "valore": -1,
+                    "valore": 134,
                     "autore": "Fabrizio Conca",
                     "testo": "Per <em>n</em>≥0 sia <em>a<sub>n</sub></em> il numero di modi in cui è possibile scrivere <em>n</em> come somma ordinata di numeri interi positivi in modo tale che due addendi vicini non siano mai uguali. Per esempio, è chiaramente <em>a</em><sub>1</sub>=1, come pure <em>a</em><sub>2</sub>=1. Del resto, 5 può essere scritto come\n 5&ensp; 1+4&ensp; 4+1&ensp; 2+3&ensp; 3+2&ensp; 2+1+2&ensp; 1+3+1\n ma non come 1+1+3 o 1+2+2: quindi <em>a</em><sub>5</sub>=7. Alcuni altri valori di <em>a<sub>n</sub></em> sono <em>a</em><sub>9</sub>=71, <em>a</em><sub>10</sub>=124, <em>a</em><sub>11</sub>=214, <em>a</em><sub>12</sub>=378, <em>a</em><sub>13</sub>=661, e <em>a</em><sub>14</sub>=1152. Ma quanto vale <em>a</em><sub>15</sub>?"
                 }
@@ -5924,6 +5924,798 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "valore": -1,
                     "autore": "Sandro Campigotto e Giuseppe Rosolini",
                     "testo": "\n<span class='sogg'>Agnese</span> Con <em>n</em>&#161 indico il prodotto di tutti i fattoriali da 1 fino a <em>n</em>, cio\u00e8 <em>n</em>&#161 = 1! \u00b7 2! \u00b7 3! \u00b7 . . . \u00b7 <em>n</em>!. Dico che <em>m</em> \u00e8 la <em>perfezione</em> di <em>n</em> se <em>m</em>&#161/<em>n</em>! \u00e8 il quadrato di un numero intero. Sai quali sono le  coppie di numeri (<em>m</em>, <em>n</em>) tali che <em>m</em> sia la perfezione di <em>n</em>?\n<span class='sogg'>Perpetua</span> No di certo, ma \u00e8 chiaro dalle prime coppie di perfezioni che, per ogni <em>n</em>, c\u2019\u00e8 al massimo una perfezione di <em>n</em>.\n<span class='sogg'>Agnese</span> Ti sbagli! Si trovano gi\u00e0 tre numeri <em>n</em><sub>1</sub>, <em>n</em><sub>2</sub> e <em>n</em><sub>3</sub> minori di 10 per cui esistono due perfezioni diverse <em>m'<sub>i</sub></em> e <em>m''<sub>i</sub></em>, i = 1, 2, 3.\n<span class='sogg'>A.M.</span> Quali sono le perfezioni <em>m'</em><sub>1</sub>, <em>m''</em><sub>1</sub></em>, <em>m'</em><sub>2</sub>, <em>m''</em><sub>2</sub>, <em>m'</em><sub>3</sub>, <em>m''</em><sub>3</sub></em>? \n<span class='note'>Dare come risposta <em>m'</em><sub>1</sub> \u00b7 <em>m''</em><sub>1</sub></em> + <em>m'</em><sub>2</sub> \u00b7 <em>m''</em><sub>2</sub> + <em>m'</em><sub>3</sub> \u00b7 <em>m''</em><sub>3</sub>.</span>"
+                }
+            ]
+        },
+        {
+            "Tipologia": "Locale",
+            "SottoTipologia" : "Femminile",
+            "Anno": 2021,
+            "Ringraziamenti": "Sandro Campigotto, Simone Di Marino, Lorenzo Mazza, Francesco Veneziano, Matteo Di Domenico, Elena Espa, ANdrea Giusto, Cecilia Oliveri, Luca Renzi, SImone Sanna, Silvia Sconza, Simone Traverso, Anna Ulivi",
+            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Problemi": [
+                {
+                    "titolo": "Davanti all'Acquedotto Svevo",
+                    "argomento": "",
+                    "soluzione": 5618,
+                    "numero": 1,
+                    "valore": -1,
+                    "autore": "Cecilia Oliveri",
+                    "testo": "<span class='sogg'>Piero</span> (<em>Contemplando l’Acquedotto Svevo a Sulmona</em>) A  partire da un triangolo rettangolo il cui angolo minore misura 30°, costruisci un triangolo simile ad esso avente il cateto maggiore coincidente con l’ipotenusa del primo. (<em>Sandro lo ascolta guardando da vicino gli archi dell’acquedotto</em>) Ripeti l’operazione altre 11 volte. Qual è il rapporto tra il cateto maggiore del triangolo più grande e quello del triangolo più piccolo? \n<span class='note'>Dare come risposta il rapporto moltiplicato per 1000.</span>"
+                },
+                {
+                    "titolo": "La torta di Crema",
+                    "argomento": "",
+                    "soluzione": 500,
+                    "numero": 2,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<em>A Crema, Giulia si prepara per la selezione per una famosissima competizione televisiva di dolci.</em> \n<span class='sogg'>Giulia</span> La ricetta per la torta che voglio preparare prevede l’uso di 320 g di farina per una teglia circolare di diametro 24 cm. \n<span class='sogg'>Sergio</span> Ma è troppo piccola. \n<span class='sogg'>Giulia</span> Lo so: infatti la faccio in una teglia circolare di 15 cm di raggio. \n<span class='sogg'>Sergio</span> Ma è più piccola! \n<span class='sogg'>Giulia</span> (<em>Sconsolata</em>) No, è più grande, anche l’altezza resta la stessa. \n<span class='sogg'>Sergio</span> Ma come cambiano le quantità? Quanti grammi di farina dovrai usare? (<em>Giulia caccia Sergio fuori dalla cucina.</em>)"
+                },
+                {
+                    "titolo": "Da San Lorenzo al Mare",
+                    "argomento": "",
+                    "soluzione": 1310,
+                    "numero": 3,
+                    "valore": -1,
+                    "autore": "Matteo Di Domenico",
+                    "testo": "<em>Nel ponente ligure, tra San Lorenzo al Mare e Ospedaletti, corre lungo la costa una magnifica pista ciclabile. Le buche lungo il percorso, però, sono un problema.</em> \n<span class='sogg'>Shadi</span> Hai un numero incredibile di raggi sulle tue ruote! \n<span class='sogg'>Maurizio</span> (<em>Fermo sulla sua bicicletta</em>) Sono 250 per ruota, con distribuzione regolare. Così è molto probabile che un raggio sia sulla perpendicolare al terreno, come in questo momento, ad esempio. \n<span class='sogg'>Maurizio</span> Hai visto la ciclabile: ogni 1,04 m, a partire da dove la mia ruota anteriore tocca terra in questo momento, troverò una buca; ogni buca allenta uno dei raggi. \n<span class='sogg'>Shadi</span> Stai attento che dopo due urti in corrispondenza di un medesimo raggio la ruota cede e sarai costretto a fermarti per regolarli tutti. \n<span class='sogg'>Maurizio</span> La circonferenza interna di una ruota, su cui si agganciano i raggi, misura 24 dm; la circonferenza esterna misura 25 dm. Quanti decimetri avrò percorso al primo cedimento?"
+                },
+                {
+                    "titolo": "Nella Grotta delle Meraviglie",
+                    "argomento": "",
+                    "soluzione": 1428,
+                    "numero": 4,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<em>Per chi si trova in Basilicata e desidera visitare la fantastica Grotta delle Meraviglie di Maratea, è un giorno fortunato: Mario ha deciso di regalare il biglietto a chi riuscirà a risolvere i suoi quesiti.</em> \n<span class='sogg'>Mario</span> Quanti sono i numeri compresi tra 1 e 10000 che si scrivono come somma di 7 numeri interi consecutivi? \n<span class='sogg'>Elena</span> (<em>Abituata alle richieste delle gare a squadre di matematica</em>) Estremi inclusi? \n<span class='sogg'>Mario</span> Sì."
+                },
+                {
+                    "titolo": "A Torbole",
+                    "argomento": "",
+                    "soluzione": 30,
+                    "numero": 5,
+                    "valore": -1,
+                    "autore": "Silvia Sconza",
+                    "testo": "<em>A Torbole due amiche, Clara e Sofia, passeggiano sulla riva del Garda  chiacchierando.</em> \n<span class='sogg'>Clara</span> Quanti anni hanno adesso i tuoi figli? \n<span class='sogg'>Sofia</span> Ormai stanno diventando grandi, hanno tutti più di un anno. \n<span class='sogg'>Clara</span> Vuoi dire che tutti hanno già fatto almeno il secondo compleanno? \n<span class='sogg'>Sofia</span> Sì. E il prodotto delle loro età è 360. \n<span class='sogg'>Clara</span> Questo non mi basta per determinare precisamente l’età dei tuoi figli. \n<span class='sogg'>Sofia</span> La semisomma delle loro età è uguale al numero civico di casa tua. \n<span class='sogg'>Clara</span> Non riesco ancora a determinare le loro età. \n<span class='sogg'>Sofia</span> I miei due gemelli hanno gli occhi azzurri come l’acqua del lago oggi, e con quest’ultima informazione dovresti essere in grado di determinare l’età di tutti e quattro i miei figli. \n<span class='sogg'>Clara</span> Hai ragione, adesso ho capito. \n<span class='note'>Fornire come risposta l’età del figlio maggiore moltiplicata per l’età di uno dei gemelli.</span>"
+                },
+                {
+                    "titolo": "A Cesenatico",
+                    "argomento": "",
+                    "soluzione": 651,
+                    "numero": 6,
+                    "valore": -1,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "<span class='sogg'>Domenico</span> A Cesenatico una persona su 10 ha avuto il morbillo. \n<span class='sogg'>Daniele</span> L’ho già passato. (<em>Esce, si incammina verso il palazzetto di viale Magellano e incontra 10 persone. Tra sé e sé...</em>) Qual è la probabilità che io abbia incontrato almeno uno che ha avuto il morbillo? \n<span class='note'>Dare come risposta il risultato moltiplicato per 1000</span>"
+                },
+                {
+                    "titolo": "Il Castel del Monte",
+                    "argomento": "",
+                    "soluzione": 112,
+                    "numero": 7,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<span class='sogg'>Elena</span> Il Castel del Monte è famoso per il ricorrente numero 8 nei vari elementi della sua costruzione. \n<span class='sogg'>Paola</span> Basta guardare le torri: sono otto e sono ottagonali. \n<span class='sogg'>Elena</span> E il cortile interno è un ottagono. Chiama i vertici <em>A</em>, <em>B</em>, <em>C</em>, <em>D</em>, <em>E</em>, <em>F</em>, <em>G</em> e <em>H</em>, partendo da quello a sinistra del portone e girando in senso antiorario. Considerato che <em>AB</em>=<em>BC</em>=<em>CD</em>=<em>DE</em>=<em>EF</em>=<em>FG</em>=<em>GH</em>=<em>HA</em>=5m, <em>AC</em>=<em>CE</em>=<em>EG</em>=<em>GA</em>=8m e <em>AE</em>=<em>CG</em>, quanto vale l’area dell’ottagono?"
+                },
+                {
+                    "titolo": "Nella reggia di Caserta",
+                    "argomento": "",
+                    "soluzione": 3988,
+                    "numero": 8,
+                    "valore": -1,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "<span class='sogg'>Luigi</span> (<em>Passeggiando nei giardini della reggia</em>) Se prendi quattro numeri interi distinti <em>a</em>, <em>b</em>, <em>c</em> e <em>d</em>, e consideri le sei possibili differenze tra essi diverse da zero… \n<span class='sogg'>Daniele</span> (<em>Lo interrompe</em>) Le differenze possibili sono dodici. \n<span class='sogg'>Luigi</span> Hai ragione, scusa: intendevo le distanze reciproche tra numeri diversi, cioè i valori assoluti delle differenze non-zero. \n<span class='sogg'>Daniele</span> D’accordo: quelle sono sei. Ad esempio, presi 1, 3, 5 e 7 intendi |1−3|, |1−5|, |1−7|, |3−5|, |3−7| e |5−7|. \n<span class='sogg'>Luigi</span> Certo! Considera il prodotto delle sei distanze che dicevo. Nell’esempio che hai fatto è 24. Tra tutte le quadruple di numeri interi (<em>a</em>,<em>b</em>,<em>c</em>,<em>d</em>) con 0<<em>a</em><<em>b</em><<em>c</em><<em>d</em><1000 tali che il prodotto delle sei distanze reciproche diverse da zero è 120, qual è quella per cui la somma <em>a</em>+<em>b</em>+<em>c</em>+<em>d</em> è massima? \n<span class='note'>Dare come risposta la somma dei quattro numeri trovati.</span>"
+                },
+                {
+                    "titolo": "A Tropea",
+                    "argomento": "",
+                    "soluzione": 2022,
+                    "numero": 9,
+                    "valore": -1,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "<em>Sdraiati sul bagnasciuga, con i piedi immersi nelle splendide acque cristalline di Tropea, Alessio e Valeria ammazzano il tempo ponendosi a vicenda problemi matematici.</em> \n<span class='sogg'>Valeria</span> Quanti sono i numeri interi 0≤n≤2021 tali che il numero 91<em>n</em>−48<em>n</em>−44<em>n</em>+1 è multiplo di 2021? \n<span class='sogg'>Alessio</span> Dai, questa è facile!"
+                },
+                {
+                    "titolo": "Sul Lago Trasimeno",
+                    "argomento": "",
+                    "soluzione": 0,
+                    "numero": 10,
+                    "valore": -1,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "<em>Sul Lago Trasimeno sorgono tre isole quasi completamente disabitate che attirano numerosi turisti grazie alla presenza di resti di costruzioni medievali. Michela ed Elisa si trovano a Castiglione del Lago e stanno aspettando il traghetto per l’Isola Maggiore.</em> \n<span class='sogg'>Michela</span> Se risolvi il problema che ti propongo, pago i biglietti per il traghetto; altrimenti li paghi tu. \n<span class='sogg'>Elisa</span> Arriva tra 5 minuti, ce la faccio: proponi! \n<span class='sogg'>Michela</span> Considera i polinomi <em>p</em>(<em>x</em>)=<em>x</em><sup>3</sup>−3<em>x</em>+1 e <em>q</em>(<em>x</em>)=<em>x</em><sup>3</sup>−6<em>x</em><sup>2</sup>+9<em>x</em>−1 e sia <em>r</em> la maggiore delle radici reali del polinomio <em>p</em>(<em>x</em>). Quanto vale <em>q</em>(<em>r</em><sup>2</sup>)?"
+                },
+                {
+                    "titolo": "Al Castello di Miramare",
+                    "argomento": "",
+                    "soluzione": 6,
+                    "numero": 11,
+                    "valore": -1,
+                    "autore": "Matteo Di Domenico",
+                    "testo": "<em>A Trieste, davanti al Castello di Miramare, nello spiazzo antistante l’entrata, tra gli alberi a semicerchio e la scogliera, la guida Anna propone una sfida a un gruppo di 25 matematiche in gita.</em> \n<span class='sogg'>Anna</span> A ognuna di voi ho messo un berretto senza che poteste vedere di che colore fosse. Ora mettetevi in cerchio in modo che possiate vedere tutte le altre. Vi assicuro che ciascuna di voi vede almeno un berretto del colore che ha in testa. (<em>Le matematiche si dispongono lungo una circonferenza nello spiazzo, ciascuna in modo da vedere tutte le altre.</em>) Ogni due minuti farò suonare una sirena sul mio cellulare; chi di voi dopo la sirena mi dirà il colore del proprio berretto potrà entrare. Ovviamente: non potete comunicare tra voi in nessun modo. (<em>Al primo avviso, sei parlano, indovinano e entrano. Al secondo altre parlano, tutte indovinano e entrano</em>) Laura (<em>Sottovoce, rivolta a Anna</em>) Quelle appena entrate erano tutte quelle con il berretto rosso. (<em>La sirena suona per la terza volta</em>) Nessuna indovina, nessuna entra. Che strano! (<em>Alla quarta sirena altre ancora parlano, indovinano e entrano</em>) Questa volta non tutte hanno il berretto dello stesso colore. \n<span class='sogg'>Anna</span> Lo sapevo: i matematici ragionano bene. \n<span class='sogg'>Laura</span> (<em>Sorridendo</em>) Beh, nel nostro caso erano tutte matematiche. \n<span class='sogg'>Anna</span> Corretto! Hanno tutte dichiarato il colore con certezza in base a un ragionamento rigoroso. \n<span class='sogg'>Voce fuori campo</span> Quante entrano al quinto avviso, sapendo che tutte quelle che hanno avuto la possibilità hanno indovinato?"
+                },
+                {
+                    "titolo": "A Senigallia",
+                    "argomento": "",
+                    "soluzione": 3142,
+                    "numero": 12,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<span class='sogg'>Mattia</span> (<em>Camminando sotto il primo portico, all’alba</em>) Su quel lato della piazza, dove c’è il Caffè Italia, sorgeva un torrione circolare con un perimetro che superava i 20 metri. \n<span class='sogg'>Luca</span> Il bar è già aperto. \n<span class='sogg'>Mattia</span> È uno dei primi bar ad aprire in città. \n<span class='sogg'>Luca</span> (<em>Entrando nel bar</em>) Quanto vale la somma delle parti intere dei numeri π+<em>i</em>/1000 al variare di <em>i</em> da 1 a 1000? \n<span class='sogg'>Mattia</span> Estremi compresi? \n<span class='sogg'>Luca</span> Sì. Dunque il raggio del torrione era circa di π m. \n<span class='sogg'>Mattia</span> La valutazione è buona solo perché π è una ragionevole approssimazione della radice quadrata di 10. \n<span class='sogg'>Voce fuori campo</span> Che cosa risponde Mattia alla domanda di Luca?"
+                },
+                {
+                    "titolo": "A spasso nella Calà del Sasso",
+                    "argomento": "",
+                    "soluzione": 1,
+                    "numero": 13,
+                    "valore": -1,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "<em>Trovandosi nei dintorni di Asiago, Andrea e Giacomo decidono di percorrere la Calà del Sasso che, con i suoi 4444 gradini, è la scalinata più lunga d’Italia. Per sentir meno la fatica decidono di affrontare la salita ponendosi problemi a vicenda.</em> \n<span class='sogg'>Giacomo</span> Fattorizza 4444 in numeri primi. \n<span class='sogg'>Andrea</span> 2×2×11×101. \n<span class='sogg'>Giacomo</span> Il numero 11 è primo ed è scritto con un numero primo di cifre 1 soltanto, in notazione decimale. Ma ci sono numeri primi scritti con un numero non primo di cifre 1 soltanto, in notazione decimale? \n<span class='sogg'>Andrea</span> (<em>Affaticato</em>) No. \n<span class='sogg'>Giacomo</span> (<em>Disturbato</em>) Usando la fattorizzazione di 4444, puoi scrivere 4 come 2×2 e 26 come 2×(2+11). Ma per quanti numeri primi <em>p</em> anche il numero <em>p</em><sup>4</sup>−26 è primo? \n<span class='sogg'>Andrea</span> Basta, Giacomo, non ce la faccio più!"
+                },
+                {
+                    "titolo": "In Piazza Villena",
+                    "argomento": "",
+                    "soluzione": 1053,
+                    "numero": 14,
+                    "valore": -1,
+                    "autore": "Cecilia Oliveri",
+                    "testo": "<em>Piazza Villena a Palermo ha una pianta a forma di ottagono regolare ed è per questo conosciuta come Ottagono del Sole.</em> \n<span class='sogg'>Cecilia</span> L’area della piazza misura 745 m<sup>2</sup>. \n<span class='sogg'>Simone</span> Quanto vale l’area della stella a 8 punte ottenuta prolungando i lati dell’ottagono fino ad incontrarsi? \n<span class='sogg'>Cecilia</span> Intendi la stella con area minore? \n<span class='sogg'>Simone</span> Sì, quella."
+                },
+                {
+                    "titolo": "A Villaromagnano",
+                    "argomento": "",
+                    "soluzione": 266,
+                    "numero": 15,
+                    "valore": -1,
+                    "autore": "Silvia Sconza",
+                    "testo": "<em>A Villaromagnano c’è uno splendido ponte ciclabile sul rio del Gerbino, con una caratteristica particolare: in certi giorni dell’anno Giovanni non permette alle persone di attraversare il ponte se non rispondono correttamente alla domande che lui pone.</em> \n<span class='sogg'>Giovanni</span> Quanti sono i numeri interi positivi palindromi, con cinque cifre, che non sono divisibili per nessun numero tra 2 e 6? \n<span class='sogg'>Silvia</span> Che cos’è un numero palindromo? \n<span class='sogg'>Giovanni</span> Non tanto un numero, quanto una lista di segni si dice <em>palindroma</em> quando la lista coincide con la lista rovesciata, cioè data una lista ℓ di <em>k</em> segni e considerata la lista ℓ' il cui <em>i</em>-esimo segno è il segno (<em>k</em>+1−i)-esimo della lista ℓ, è ℓ=ℓ'. Silvia Insomma la parola inno non è palindroma, ma il suo plurale sì. \n<span class='sogg'>Giovanni</span> Esatto! Per i numeri considero la loro scrittura in base dieci. \n<span class='sogg'>Silvia</span> Milledieci è da considerare palindromo visto che posso scriverlo con uno zero davanti. \n<span class='sogg'>Giovanni</span> No, perché quando scrivo i numeri interi in notazione decimale la cifra principale è diversa da 0. \n<span class='sogg'>Silvia</span> 2 e 6 compresi? \n<span class='sogg'>Giovanni</span> Sì."
+                },
+                {
+                    "titolo": "A Sterzing",
+                    "argomento": "",
+                    "soluzione": 33,
+                    "numero": 16,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<em>A Sterzing, la rinomata azienda casearia a Ferragosto mette in palio quattro vasetti di yogurt per i visitatori più fortunati.</em> \n<span class='sogg'>Lucia</span> Dobbiamo scegliere a caso tre numeri interi <em>x</em>, <em>y</em> e <em>z</em> tra 0 e 2021, non necessariamente diversi. \n<span class='sogg'>Stefano</span> Estremi compresi? \n<span class='sogg'>Lucia</span> Esatto, se la somma <em>xy</em>+<em>yz</em>+<em>xz</em> è un multiplo di 3 portiamo a casa gli yogurt. \n<span class='sogg'>Stefano</span> Che percentuale di probabilità abbiamo di vincere?"
+                },
+                {
+                    "titolo": "A Sepino",
+                    "argomento": "",
+                    "soluzione": 172,
+                    "numero": 17,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<span class='sogg'>Stefano</span> (<em>Passeggiando tra le rovine dell’antica città romana di Sepino</em>) Chissà quante colonne in origine erano state erette in questa piazza? \n<span class='sogg'>Claudia</span> L’ho letto all’entrata: tante quante le quadruple di numeri interi <em>a</em>≤<em>b</em>≤<em>c</em>≤<em>d</em> tali che <em>a</em>·<em>b</em>·<em>c</em>·<em>d</em>=216."
+                },
+                {
+                    "titolo": "Al Mulinaccio di Scandicci",
+                    "argomento": "",
+                    "soluzione": 7944,
+                    "numero": 18,
+                    "valore": -1,
+                    "autore": "Silvia Sconza",
+                    "testo": "<em>Visitando il Mulinaccio di Scandicci, Ludovico e Roberta ritrovano una pagina di un vecchio  manoscritto.</em> \n<span class='sogg'>Ludovico</span> Ascolta che frasi sono scritte:<ol> <li> Ci sono più frasi vere che false.</li> <li> Il numero <em>N</em> è una potenza di 2 oppure è maggiore di 2021.</li> <li> L’ultima cifra di <em>N</em> è il numero della prima frase vera.</li> <li> Almeno 3 delle prime 4 frasi sono false.</li> <li> <em>N</em> è divisibile per 27 ed è minore di 2021.</li> <li> Tutte le frasi dispari sono false.</li> <li> Le frasi pari sono tutte vere oppure tutte false.</li></ol> <span class='sogg'>Roberta</span> Sono proprio numerate. C’è scritto che alcune di queste frasi sono vere e alcune false, ma non quali; questo non basta a determinare <em>N</em>. \n<span class='sogg'>Ludovico</span> Aspetta, c’è una nota in fondo che dice che <em>N</em> è un numero intero compreso tra 1 e 8000 inclusi. \n<span class='sogg'>Roberta</span> Non abbiamo comunque abbastanza informazioni! \n<span class='sogg'>Ludovico</span> Hai ragione. Però possiamo determinare il massimo e il minimo valore che può assumere <em>N</em>. \n<span class='sogg'>Voce fuori campo</span> Qual è la somma dei due valori determinati da Roberta e Ludovico?"
+                },
+                {
+                    "titolo": "Nel Pantheon",
+                    "argomento": "",
+                    "soluzione": 7419,
+                    "numero": 19,
+                    "valore": -1,
+                    "autore": "Cecilia Oliveri",
+                    "testo": "<em>La struttura interna del Pantheon è formata da un cilindro sormontato sulla base orizzontale superiore da una semisfera. Il cilindro ha altezza e raggio uguali al raggio della semisfera.</em> \n<span class='sogg'>Cecilia</span> Intersecando la cupola e un piano parallelo a terra ad un’altezza di 30 m si ottiene una circonferenza di raggio 20,1 m. \n<span class='sogg'>Simone</span> Quanto vale la superficie della struttura interna? \n<span class='sogg'>Cecilia</span> Pavimento, pareti e soffitto? \n<span class='sogg'>Simone</span> Sì, solo quello."
+                },
+                {
+                    "titolo": "Al Museo di Aggius",
+                    "argomento": "",
+                    "soluzione": 57,
+                    "numero": 20,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<em>Nel paese di Aggius, nell’entroterra gallurese, il Museo dei Briganti rievoca in poche stanze attraverso oggetti e ritagli dei secoli scorsi dei frammenti di vita passata di queste terre.</em> \n<span class='sogg'>Paola</span> (<em>Legge</em>) Da Anonimo del 1895: «All’osteria del centro ogni brigante troverà sempre due dadi a sei facce, perfettamente equilibrati. Il campione e lo sfidante tirano un dado a testa. Quest’ultimo vince se la faccia del proprio dado segna un numero strettamente maggiore di quello ottenuto dal campione. Se ciò non accade lo sfidante ha la possibilità di riprovare lanciando un’altra volta». \n<span class='sogg'>Voce fuori campo</span> Qual è la percentuale di probabilità di vittoria per lo sfidante?"
+                },
+                {
+                    "titolo": "Nel castello di Fénis",
+                    "argomento": "",
+                    "soluzione": 192,
+                    "numero": 21,
+                    "valore": -1,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "<span class='sogg'>Carlo</span> (<em>Nel cortile del castello di Fénis</em>) Chiediamo a quel signore di fare una foto a tutto il gruppo? \n<span class='sogg'>Silvano</span> D’accordo. Siamo in nove, siamo tutti di altezze diverse: cerchiamo di disporci in modo che siamo tutti visibili. \n<span class='sogg'>Carlo</span> Ci mettiamo su tre file: in ogni fila mettiamo il più alto della fila al centro. Così è tutto ordinato. \n<span class='sogg'>Silvano</span> Però dobbiamo assicurarci che quelli delle file davanti non coprano quelli delle file dietro: quelli nella stessa posizione sulle tre file sono in ordine crescente a partire dalla fila davanti. \n<span class='sogg'>Roberto</span> Vuoi dire che, se ad esempio tu, Carlo e io siamo nella seconda posizione di tre file diverse, tu, che sei il più basso, stai nella fila davanti, io, che sono il più alto, sto nella fila dietro. \n<span class='sogg'>Silvano</span> Sì’! E Carlo sta nella fila di mezzo. \n<span class='sogg'>Roberto</span> Però, io non posso stare nella seconda posizione della fila dietro. Claudio è il più alto di tutti e non può stare che in quella posizione. \n<span class='sogg'>Pino</span> Certo! In effetti c’è un solo modo per organizzare la posa per la foto. \n<span class='sogg'>Carlo</span> (<em>Stupito</em>) Non è vero! \n<span class='sogg'>Voce fuori campo</span> In quanti modi si può organizzare il gruppo per la foto a soddisfare le condizioni richieste da Silvano?"
+                }
+            ]
+        },/*
+        {
+            "Tipologia": "Locale",
+            "SottoTipologia" : "Femminile",
+            "Anno": 2022,
+            "Ringraziamenti": "",
+            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Problemi": [
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 1,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 2,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 3,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 4,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 5,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 6,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 7,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 8,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 9,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 10,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 11,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 12,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 13,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 14,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 15,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 16,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 17,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 18,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 19,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 20,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 21,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                }
+            ]
+        },*/
+        {   
+            "Tipologia": "Locale",
+            "SottoTipologia" : "Femminile",
+            "Anno": 2023,
+            "Ringraziamenti": "Sandro Campigotto, Carlo Càssola, Lorenzo Mazza, Annalisa Caviglia, Andrea Giusto, Matteo Littardi, Simone Muselli, Luca Renzi, Silvia Sconza, Anna Ulivi",
+            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Problemi": [
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 30,
+                    "numero": 1,
+                    "valore": 79,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<span class='sogg'>Teodomiro</span> Mentre venivo, pensavo alle coppie ordinate (<em>a</em>,<em>b</em>) di numeri interi tali che <em>ab</em>=2023<sup>2</sup>. \n<span class='sogg'>Astragone</span> Quante sono?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 850,
+                    "numero": 2,
+                    "valore": 27,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "<span class='sogg'>Teodomiro</span> Ti ho portato due fogli rettangolari. \n<span class='sogg'>Astragone</span> Di che dimensioni? \n<span class='sogg'>Teodomiro</span> Sono tutti 30 cm × 20 cm. (<em>Astragone passa alcuni minuti sistemando con molta cura i fogli a terra; alla fne i due rettangoli sono sovrapposti. La parte sovrapposta è un quadrato</em>) Perché hai fatto una croce con i rettangoli? \n<span class='sogg'>Astragone</span> Non è una croce: ho tracciato sul terreno anche i segmenti che collegano due vertici vicini dei rettangoli esterni. È venuto un ottagono con lati opposti paralleli e uguali. \n<span class='sogg'>Teodomiro</span> Quanti cm<sup>2</sup> è l’area dell’ottagono?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 504,
+                    "numero": 3,
+                    "valore": 28,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "<span class='sogg'>Astragone</span> Che cosa facciamo? \n<span class='sogg'>Teodomiro</span> Aspettiamo. \n<span class='sogg'>Astragone</span> Chi? \n<span class='sogg'>Teodomiro</span> Godol. \n<span class='sogg'>Astragone</span> Verrà? \n<span class='sogg'>Teodomiro</span> Ha detto che sarebbe venuto. \n<span class='sogg'>Astragone</span> Non so cosa fare. \n<span class='sogg'>Teodomiro</span> Conta fino a 1000. \n<span class='sogg'>Astragone</span> 1-2-3-4-5-6-7 \n<span class='sogg'>Teodomiro</span> (<em>Lo interrompe</em>) 993 \n<span class='sogg'>Astragone</span> Che cosa dici? \n<span class='sogg'>Teodomiro</span> Ogni sette numeri che dichiari, dico quanti ne devi ancora contare. \n<span class='sogg'>Astragone</span> Qual è il primo numero che dico più grande di uno di quelli che avrai detto tu in precedenza?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 25,
+                    "numero": 4,
+                    "valore": 42,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<span class='sogg'>Astragone</span> Stavo pensando, Dodo? \n<span class='sogg'>Teodomiro</span> A cosa? \n<span class='sogg'>Astragone</span> In quanti modi si scrive un’addizione con numeri interi maggiori di 1 che dia risultato 10, usando tra gli addendi almeno un 2? \n<span class='sogg'>Teodomiro</span> L’ordine è rilevante? \n<span class='sogg'>Astragone</span> Certo, 8+2 e 2+8 sono scritture diverse."
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 254,
+                    "numero": 5,
+                    "valore": 119,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<span class='sogg'>Astragone</span> Prendi i numeri interi da 1 fno a <em>n</em>, diciamo 5. Mettili in sequenza con un picco. \n<span class='sogg'>Teodomiro</span> Che cos’è una sequenza con un picco? \n<span class='sogg'>Astragone</span> Te lo spiego: ci sono numeri che crescono fino a 5, almeno uno; poi ci sono numeri che diminuiscono da 5, almeno uno. (<em>Teodomiro è sorpreso</em>) Ad esempio, 2-3-5-4-1 è una sequenza con picco, anche  1-5-4-3-2. Ma 3-2-5-4-1 non è una sequenza con un picco perché i numeri non crescono fino a 5, e 5-4-3-2-1 non ha un picco perché non ci sono numeri in salita. Neppure 1-2-3-4-5 ha un picco: mancano numeri in discesa. \n<span class='sogg'>Teodomiro</span> (<em>Guarda quello che Astragone scrive per terra</em>) Stai usando i numeri da 1 a 9. \n<span class='sogg'>Astragone</span> Sì, sto scrivendo le 10 sequenze con picco dei numeri da 1 a 9. \n<span class='sogg'>Teodomiro</span> Ma non sono 10! \n<span class='sogg'>Astragone</span> Come no! Quante sono le sequenze con picco di numeri interi da 1 a 9?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 41,
+                    "numero": 6,
+                    "valore": 58,
+                    "autore": "Carlo Càssola",
+                    "testo": "<span class='sogg'>Teodomiro</span> (<em>Parlando tra sé</em>) Chissà qual è il più grande fattore primo del numero 48<sup>4</sup>−22<sup>4</sup>?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 72,
+                    "numero": 7,
+                    "valore": 59,
+                    "autore": "Carlo Càssola",
+                    "testo": "<span class='sogg'>Astragone</span> Guarda! (<em>Teodomiro guarda</em>) Ho disegnato il triangolo <em>ABC</em>. (<em>Indica il primo triangolo</em>) I suoi lati misurano <em>AB</em>=45 cm, <em>BC</em>=39 cm, <em>CE</em>=12 cm. Poi ho disegnato il triangolo <em>CAD</em>; (<em>Indica il secondo triangolo</em>) i suoi altri due lati misurano <em>CD</em>=39 cm e <em>AD</em>=45 cm. Quanto vale la lunghezza del segmento che congiunge <em>B</em> con <em>D</em>? (<em>Teodomiro ride</em>)"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 1022,
+                    "numero": 8,
+                    "valore": 77,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<span class='sogg'>Teodomiro</span> Sapevo che il numero naturale <em>n</em> è il prodotto di due numeri primi e che, sottraendo <em>n</em> alla somma dei divisori di <em>n</em>, si ottiene 2023. Mi piacerebbe sapere quanto vale <em>n</em>. \n<span class='sogg'>Astragone</span> Le condizioni non bastano, Dodo! Ci sono 59 numeri che verificano le condizioni. \n<span class='sogg'>Teodomiro</span> Però, Gogo, il numero <em>n</em> che pensavo è il massimo tra quelli. Quanto vale allora <em>n</em>? \n<span class='note'>Dare come risposta le prime quattro cifre signifcative di <em>n</em>.</span>"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 6,
+                    "numero": 9,
+                    "valore": 64,
+                    "autore": "Carlo Càssola",
+                    "testo": "Astragone Nel triangolo <em>ABC</em> il lato <em>AB</em> è lungo 6,7 m, il lato <em>BC</em> è lungo 9 m, l’altezza da <em>A</em> è lunga 6 m. Teodomiro Disegna i punti medi dei tre lati: <em>M</em> su <em>BC</em>, <em>N</em> su <em>AB</em> e <em>P</em> su <em>AC</em>. Su <em>AM</em> prendi i punti <em>D</em> e <em>E</em> tali che <em>AD</em>=<em>DE</em>=<em>EM</em>. Quanto vale il rapporto fra l’area del triangolo <em>ABC</em> e l’area del triangolo <em>ANE</em>?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 253,
+                    "numero": 10,
+                    "valore": 138,
+                    "autore": "Simone Muselli",
+                    "testo": "<span class='sogg'>Teodomiro</span> Ricordo ancora quando ero presentabile e volevo comperare la nuova <b>Interius</b>. Ricordo che la Maxiclette la lanciò sul mercato a un prezzo inferiore al prezzo di listino, ma comunque superiore a 5/6 del prezzo di listino. Mantenne quel prezzo per un anno, poi passò a prezzo di listino. Passato un anno, la Maxiclette decise di scontarlo di più del 16,6% rispetto al prezzo di listino, tornando esattamente al prezzo dell’anno di lancio. La cosa incredibile è che, per una scelta aziendale, l’<b>Interius</b> ha sempre un prezzo intero positivo. \n<span class='sogg'>Astragone</span> Quanto era, come minimo, il prezzo di listino dell’<b>Interius</b>?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 34,
+                    "numero": 11,
+                    "valore": 90,
+                    "autore": "Carlo Càssola",
+                    "testo": "<span class='sogg'>Astragone</span> Tra i quadrilateri con soli angoli retti i cui lati, misurati in centimetri, hanno lunghezza intera, prendi quelli il cui perimetro in centimetri è lo stesso numero di quello dell’area in centimetri quadrati. Quali sono tutte queste aree? \n<span class='note'>Dare come risposta la somma di tutte le aree diverse.</span>"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 9910,
+                    "numero": 12,
+                    "valore": 54,
+                    "autore": "Carlo Càssola",
+                    "testo": "<span class='sogg'>Astragone</span> Aspettando, ho scritto tutti i numeri da 1000 fino a 10000. \n<span class='sogg'>Teodomiro</span> Lascia il primo numero, cancella il numero che lo segue. \n<span class='sogg'>Astragone</span> Cioè il 1001, potevi dirlo. \n<span class='sogg'>Teodomiro</span> Fai come ti dico! Ora lascia il numero che segue, cancella i due numeri dopo. \n<span class='sogg'>Astragone</span> Cioè il 1003 e il 1004. \n<span class='sogg'>Teodomiro</span> Giusto! Ora lascia il numero che segue, cancella i tre numeri dopo. Lascia il numero che segue; cancella i quattro dopo. Continua: ogni volta lasci scritto un numero e cancelli tanti numeri quanti ne hai cancellati nel passo precedente più un altro. \n<span class='sogg'>Astragone</span> Qual è il numero più grande e minore di 10000 che rimane scritto sul foglio?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 3000,
+                    "numero": 13,
+                    "valore": 76,
+                    "autore": "Carlo Càssola",
+                    "testo": "<em>Notevole trambusto fuori scena; entrano Pucky, carico di valigie, con una corda al collo, e Lozzo, che tiene la corda e una frusta; la fa schioccare.</em> \n<span class='sogg'>Astragone</span> (<em>Rivolto a Teodomiro</em>) Attento, tirati indietro! (<em>Lozzo vede Astragone e Teodomiro, si ferma. La corda si tende, trattenendo per il collo Pucky, che cade rovinosamente</em>) È lui? \n<span class='sogg'>Teodomiro</span> Chi? \n<span class='sogg'>Astragone</span> Godol. \n<span class='sogg'>Po</span> Mi presento: sono Lozzo. Volevo chiedervi: presi a caso tre numeri interi positivi minori di 6, a due a due distinti, qual è la probabilità che i numeri scelti siano le lunghezze in metri dei lati di un triangolo di area non nulla? \n<span class='note'>Dare come risposta la probabilità moltiplicata per 10<sup>4</sup>.</span>"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 7056,
+                    "numero": 14,
+                    "valore": 30,
+                    "autore": "Carlo Càssola",
+                    "testo": "<span class='sogg'>Lozzo</span> (<em>Rivolto a Astragone</em>) Nel triangolo <em>ABC</em> rettangolo in <em>A</em>, inscrivi il quadrato <em>ADEF</em> in modo che i punti <em>D</em> e <em>F</em> siano sui cateti <em>AB</em> e <em>CA</em>, rispettivamente, e <em>E</em> sull’ipotenusa. Misura <em>CF</em> e <em>DB</em>. \n<span class='sogg'>Astragone</span> <em>CF</em>=112 cm, <em>DB</em>=63 cm. \n<span class='sogg'>Teodomiro</span> Bene! Qual è l’area di <em>ADEF</em>?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 1372,
+                    "numero": 15,
+                    "valore": 78,
+                    "autore": "Carlo Càssola",
+                    "testo": "<span class='sogg'>Teodomiro</span> (<em>Cercando di non guardare Pucky, parlando tra sé</em>) Qual è la potenza del fattore 7 nella scomposizione del fattoriale 77! in fattori primi? \n<span class='sogg'>Pucky</span> Il fattoriale di un numero intero positivo   è il prodotto di tutti i numeri interi positivi minori o uguali a <em>n</em>, vero? (<em>Teodomiro annuisce</em>) \n<span class='note'>Dare come risposta le prime quattro cifre signifcative del risultato.</span>"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 297,
+                    "numero": 16,
+                    "valore": 122,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "<span class='sogg'>Lozzo</span> (<em>Rivolto a Teodomiro e Astragone</em>) Prendete una funzione tale che <em>g</em>(0)=0, <em>g</em>(1)=1 e <em>g</em>(<em>n</em>+<em>m</em>)=<em>g</em>(<em>n</em>)⋅<em>g</em>(<em>m</em>) per <em>n</em> e <em>m</em> numeri positivi. Prendete anche una funzione tale che <em>f</em>(0,<em>m</em>)=0 e <em>f</em>(<em>n</em>+ 1, <em>m</em>) è il prodotto di due somme: la somma 1+<em>g</em>(<em>m</em>)⋅[<em>g</em>(<em>m</em>−<em>f</em>(<em>n</em>,<em>m</em>)−1)−1] e la somma 1+<em>f</em>(<em>n</em>,<em>m</em>). \n<span class='sogg'>Astragone</span> (<em>Scrive rapidamente per terra</em>) <em>f</em>(2, 0)=2, <em>f</em>(2,1)=0. \n<span class='sogg'>Lozzo</span> Per forza! Ma che numero è <em>f</em>(235 532)+<em>f</em>(532,235)?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 2820,
+                    "numero": 17,
+                    "valore": 52,
+                    "autore": "Carlo Càssola",
+                    "testo": "<span class='sogg'>Astragone</span> (<em>Gira intorno a Pucky, cercando di distrarlo</em>) Se so che tre delle radici del polinomio <em>x</em><sup>4</sup>−<em>ax</em><sup>2</sup>+<em>bx</em>+<em>c</em> sono −1, −3 e −4, quanto valgono <em>a</em>, <em>b</em> e <em>c</em>? \n<span class='note'>Dare come risposta il valore di <em>ab</em>+<em>bc</em>+<em>ac</em>.</span>"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 7,
+                    "numero": 18,
+                    "valore": 100,
+                    "autore": "Luca Renzi",
+                    "testo": "<span class='sogg'>Lozzo</span> (<em>Rivolto a Astragone</em>) Mettigli il cappello in testa. (<em>Astragone esegue, ma il cappello cade, Lozzo si infastidisce</em>) Raccogli il cappello! Rimettiglielo in testa; non vedi che è caduto? (<em>Astragone esegue attento</em>) \n<span class='sogg'>Pucky</span> (<em>Apre gli occhi e la bocca</em>) ...un’isola con animali molto strani: sono numerati da 1 a 100; parlano, ma dicono soltanto «sì» o «no»; inoltre mentono sempre... esattamente uno di loro è carnivoro... voglio scoprire qual è... va bene, domando solo <ul><li> «Sei carnivoro?» oppure</li> <li>«Tra gli animali con numero compreso tra <em>n</em> e <em>m</em> (escluso te, se hai uno di quei numeri) è presente quello carnivoro?»</li></ul> <span class='sogg'>Astragone</span> (<em>Sussurrando a Teodomiro</em>) Quante domande come minimo deve fare per essere certo di determinare, in ogni caso, il numero dell’animale carnivoro?"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 1376,
+                    "numero": 19,
+                    "valore": 122,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "<span class='sogg'>Astragone</span> (<em>Rivolto a Teodomiro</em>) Hai visto il pendaglio che ha Pucky al collo? È un tetraedro regolare, diciamo di spigolo ℓ, composto da quattro tetraedri regolari di metà spigolo, cioè lungo ℓ/2 . \n<span class='sogg'>Teodomiro</span> (<em>Studiando il pendaglio da vicino</em>) E i quattro tetraedri si appoggiano su un ottaedro regolare, pure di spigolo ℓ/2 . \n<span class='sogg'>Astragone</span> (<em>Girano intorno a Pucky</em>) Ti immagini se l’ottaedro che ha nel pendaglio fosse a sua volta composto da 6 ottaedri di spigolo ℓ/4 che si appoggiano su tetraedri regolari, pure di spigolo ℓ/4 ... \n<span class='sogg'>Teodomiro</span> (<em>Girando sempre più in fretta</em>) Beh, scomporrei anche ciascuno dei 4 tetraedri di spigolo ℓ/2 in 4 tetraedri e un ottaedro, ognuno di spigolo ℓ/4 . \n<span class='sogg'>Astragone</span> (<em>Pucky si agita</em>) E se scomponessimo ciascun tetraedro e ciascun ottaedro di spigolo ℓ/4 in tetraedri e ottaedri di spigolo ℓ/8 ...(<em>Pucky raccoglie le valigie. Lozzo schioccca la frusta, Pucky si muove, escono di scena</em>) \n<span class='sogg'>Teodomiro</span> E se lo facessimo ancora una volta, scomponendo ciascun tetraedro e ciascun ottaedro di spigolo ℓ/8 in tetraedri e ottaedri di spigolo ℓ/16 , quanti tetraedri di spigolo ℓ/16 ci sarebbero nel pendaglio? (<em>Crollano a terra sfiatati</em>)"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 333,
+                    "numero": 20,
+                    "valore": 66,
+                    "autore": "Sandro Campigotto",
+                    "testo": "<span class='sogg'>Astragone</span> Guarda, Dodo: ho trovato un sacchetto con quindici palline numerate da 1 a 15. Se ne tiro fuori quattro, qual è la probabilità che la loro somma sia multiplo di 3? \n<span class='note'>Dare come risposta la probabilità moltiplicata per 10<sup>4</sup>.<span>"
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": 39,
+                    "numero": 21,
+                    "valore": 109,
+                    "autore": "Silvia Sconza",
+                    "testo": "<em>Entra Il ragazzo, fa un inchino, inizia a parlare.</em> \n<span class='sogg'>Il ragazzo</span> Il signor Godol mi ha incaricato di informarvi che oggi non verrà e di lasciarvi questo orologio. \n<span class='sogg'>Teodomiro</span> (<em>Prende l’orologio</em>) Le due lancette si muovono a scatti. \n<span class='sogg'>Il ragazzo</span> Sì, la lancetta dei minuti si muove alla posizione successiva allo scoccare del minuto; la lancetta delle ore, quando la lancetta dei minuti supera la tacca del sessantesimo minuto, scatta alla posizione dell’ora successiva. \n<span class='sogg'>Astragone</span> (<em>Interrompendo</em>) La lancetta delle ore usa solo 12 posizioni? \n<span class='sogg'>Il ragazzo</span> (<em>Senza scomporsi</em>) Sì. (<em>Continua</em>) Però l’orologio batte i minuti in modo particolare: quando le lancette segnano le dodici in punto, dopo un minuto la lancetta dei minuti si sposta in avanti di una tacca per minuti, dopo un altro minuto reale scatta di due tacche per minuti, dopo un altro minuto scatta di tre tacche, e così via. Il signor Godol verrà quando le due lancette dell’orologio segneranno l’una precisa. \n<span class='sogg'>Teodomiro</span> Vuoi dire che la lancetta delle ore è sulla tacca dell’una, la lancetta dei minuti su quella del sessantesimo minuto? \n<span class='sogg'>Il ragazzo</span> Esattamente. (<em>Se ne va</em>) \n<span class='sogg'>Astragone</span> Le lancette sono sulle dodici e l’orologio sta ticchettando. Tra quanti minuti reali le due lancette dell’orologio segneranno per la prima volta l’una precisa?"
+                }
+            ]
+        },
+        {
+            "Tipologia": "Locale",
+            "SottoTipologia" : "Femminile",
+            "Anno": 2024,
+            "Ringraziamenti": "",
+            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Problemi": [
+                {
+                    "titolo": "Per il 2024",
+                    "argomento": "",
+                    "soluzione": 7,
+                    "numero": 1,
+                    "valore": -1,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "Qual è il più piccolo numero intero positivo <em>n</em> tale che la radice <em>n</em>-esima di 2024 è minore di 3?"
+                },
+                {
+                    "titolo": "Fino al 2024",
+                    "argomento": "",
+                    "soluzione": 33,
+                    "numero": 2,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Scrivendo in ordine crescente tutti e soli i numeri interi non negativi le cui scritture usano solo le cifre “0”, “2” e “4”, che posizione occupa 2024?"
+                },
+                {
+                    "titolo": "Guardiani",
+                    "argomento": "",
+                    "soluzione": 1349,
+                    "numero": 3,
+                    "valore": -1,
+                    "autore": "Andrea Giusto",
+                    "testo": "Alle porte della città di Tarskent, dove ogni abitante dice sempre la verità oppure mente sempre, ci sono 2024 guardiani, numerati da 1 a 2024. Per entrare in città si deve rispondere alla domanda che fanno i guardiani dopo aver parlato: \n<span class='sogg'>Guardiano 1</span> Se esistono polinomi <em>p</em> tali che il polinomio <em>p</em><sup>2</sup> ha una radice diversa dalle radici di <em>p</em>, allora tutti gli altri guardiani dicono il vero. \n<span class='sogg'>Guardiano 2</span> È falso. \n<span class='sogg'>Guardiano 1</span> Il numero di guardiani che dicono il vero è il più piccolo numero tale che i guardiani che mentono non siano più del doppio dei guardiani che dicono il vero. \n<span class='sogg'>Guardiano 2</span> Il numero di guardiani che dicono sempre il vero è la somma del più grande numero primo minore della metà di 2023 e del più grande numero primo minore di un terzo di 2023. \n<span class='sogg'>Guardiano 3</span> Io dico il vero. \n<span class='sogg'>Guardiano 4</span> È falso. \n<span class='sogg'>Guardiano 5</span> È falso. \n<span class='sogg'>Guardiano 6</span> È falso. \n<span class='sogg'>Guardiano 7</span> Io dico il vero. \n<span class='sogg'>Guardiano 8</span> È falso. \n<span class='sogg'>Guardiano 9</span> È falso. \n<span class='sogg'>Guardiano 10</span> Io dico il vero. \n<span class='sogg'>Guardiano 11</span> Io dico il vero.  \n<span class='tre_punti'>&#8942</span> \n<span class='sogg'>Guardiano 2024</span> Io dico il vero. \n<span class='sogg'>Tutti i guardiani in coro</span> Quanti di noi mentono sempre?"
+                },
+                {
+                    "titolo": "Distanze",
+                    "argomento": "",
+                    "soluzione": 601,
+                    "numero": 4,
+                    "valore": -1,
+                    "autore": "Andrea Macco e Giuseppe Rosolini",
+                    "testo": "Con un teodolite fsso a terra, sono state valutare le distanze fno alla cima del Campanile e fno alla sommità della Porta Soprana. I due numeri che esprimono le due distanze sono nella stessa unità di misura. Si sa che<ul> <li>entrambe le distanze sono maggiori di 100 e minori di 1000;</li> <li> rispetto al teodolite, le due distanze formano un angolo di 90°;</li> <li> le due distanze sono due numeri interi consecutivi;</li> <li> la minore delle due distanze ha come somma delle cifre 11 ed è multiplo di 17;</lu> <li> la maggiore delle due distanze ha tutte cifre pari.</li></ul> Quanto vale, nell’unità di misura utilizzata, la distanza tra la cima del campanile e la Porta Soprana?"
+                },
+                {
+                    "titolo": "Piastrelle",
+                    "argomento": "",
+                    "soluzione": 2731,
+                    "numero": 5,
+                    "valore": -1,
+                    "autore": "Fabrizio Conca",
+                    "testo": "Per piastrellare un corridoio rettangolare 2 m × 12 m, si usano due tipi di piastrelle, di dimensioni 1 m × 2 m e 2 m × 2 m. In quanti modi diversi si può fare?"
+                },
+                {
+                    "titolo": "Verso il 2030",
+                    "argomento": "",
+                    "soluzione": 45,
+                    "numero": 6,
+                    "valore": -1,
+                    "autore": "Carlo Càssola",
+                    "testo": "Qual è il più piccolo numero intero positivo il cui quadrato è divisibile per uno dei prossimi sei anni, incluso il corrente (cioè da ora [2024] fino a prima del 2030)?"
+                },
+                {
+                    "titolo": "Fino a 100",
+                    "argomento": "",
+                    "soluzione": 486,
+                    "numero": 7,
+                    "valore": -1,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Fissato un numero pari <em>a</em>, si considera la sequenza (<em>a<sub>n</sub></em>)<sub><em>n</em>=1,...,100</sub> di cento numeri interi positivi costruita nel seguente modo: <em>a</em><sub>1</sub> e <em>a</em><sub><em>n</em>+1</sub>=<em>a<sub>n</sub></em>⋅<em>n</em>. Qual è il più picccolo numero <em>a</em>, intero positivo pari, tale che <em>a</em><sub>100</sub> è l’unico numero divisibile per 3<sup>53</sup> nella sequenza?"
+                },
+                {
+                    "titolo": "Sufficienza",
+                    "argomento": "",
+                    "soluzione": 277,
+                    "numero": 8,
+                    "valore": -1,
+                    "autore": "Federico Borasio",
+                    "testo": "La classe è stata sottoposta a un esame al termine del quale a ogni studente è stato assegnato un voto intero compreso fra il minimo 1 e il massimo 100. Yu ha preso 31; per la sufficienza bastava prendere un voto maggiore o uguale a 30. Perciò la prova di Yu è sufficiente. Nella classe ci sono stati 8 studenti che hanno preso un voto sufficiente superiore a quello di Yu. Qual è il numero minimo di studenti della classe che hanno preso un voto insufficiente, che assicura che il voto di Yu sia strettamente superiore alla media dei voti della classe, qualunque siano i voti presi dai compagni?"
+                },
+                {
+                    "titolo": "Ombre nella notte",
+                    "argomento": "",
+                    "soluzione": 270,
+                    "numero": 9,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Sono in un viale nella notte, sotto la luce di un lampione. Sono alto 1,80 m: proietto un’ombra di 1 m. Se avanzo di un metro, l’ombra diventa lunga il triplo. A quale altezza si trova la luce del lampione in cm?"
+                },
+                {
+                    "titolo": "Reciprocando",
+                    "argomento": "",
+                    "soluzione": 8729,
+                    "numero": 10,
+                    "valore": -1,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "Considera il più grande numero <em>r</em> che ha la seguente proprietà: quando a <em>r</em> aggiungi 3, poi calcoli il reciproco del risultato, a questo numero aggiungi 1, poi calcoli il reciproco dell’ultimo risultato, e a quello aggiungi 3, ottieni <em>r</em>. Che numero è <em>r</em>? \n<span class='note'>Dare come risposta le prime quattro cifre della parte decimale.</span>"
+                },
+                {
+                    "titolo": "Su una scacchiera",
+                    "argomento": "",
+                    "soluzione": 1393,
+                    "numero": 11,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Una pedina si trova nella casella della prima colonna e della riga centrale di una scacchiera a 10 colonne e 3 righe. Con una mossa la pedina avanza sempre nella colonna successiva, in una casella con almeno un vertice in comune con la casella da cui la si sposta. Quanti sono i percorsi che porteranno la pedina nella casella centrale della decima colonna?"
+                },
+                {
+                    "titolo": "Potenze",
+                    "argomento": "",
+                    "soluzione": 49,
+                    "numero": 12,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto e Giuseppe Rosolini",
+                    "testo": "Si vede facilmente che non sempre <em>m<sup>n</sup></em>=<em>n<sup>m</sup></em>, ad esempio 0<sup>2</sup>≠2<sup>0</sup>, anche se 2<sup>4</sup>=4<sup>2</sup>; perciò è necessario usare parentesi quando si iterano scritture a potenza. Purtroppo la somma\n&emsp;&emsp;&emsp;2<sup>4<sup>2<sup>0</sup></sup></sup> + 0<sup>2<sup>4<sup>2</sup></sup></sup> + 2<sup>0<sup>2<sup>4</sup></sup></sup> + 4<sup>2<sup>0<sup>2</sup></sup></sup> \n è stata scritta senza parentesi e si possono ottenere risultati diversi in dipendenza di diverse inserzioni di parentesi. Chi ha scritto l’addizione intendeva usare sempre la stessa inserzione di parentesi, ma è rimasto ambiguo quale ha inteso usare tra le tante possibili. Ad esempio, non ha sicuramente inteso scrivere la somma ((2<sup>4</sup>)<sup>2</sup>)<sup>0</sup> + 0<sup>(2<sup>(4<sup>2</sup>)</sup>)</sup> + ((2<sup>0</sup>)<sup>2</sup>)<sup>4</sup> + 4<sup>(2<sup>(0<sup>2</sup>)</sup>)</sup>; d’altro canto, può benissimo aver inteso discrivere la somma ((2<sup>4</sup>)<sup>2</sup>)<sup>0</sup> + ((0<sup>2</sup>)<sup>4</sup>)<sup>2</sup> + ((2<sup>0</sup>)<sup>2</sup>)<sup>4</sup> + ((4<sup>2</sup>)<sup>0</sup>)<sup>2</sup>. Qual è la somma di tutti i risultati diversi possibili al variare delle inserzioni delle parentesi?"
+                },
+                {
+                    "titolo": "Un pranzo a Tarksent",
+                    "argomento": "",
+                    "soluzione": 759,
+                    "numero": 13,
+                    "valore": -1,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Sull’isola di Tarskent ci sono 2024 abitanti, alcuni dei quali sono cavalieri (che dicono sempre la verità) e altri furfanti (che mentono sempre). Viene organizzato un pranzo con una lunga tavolata alla quale siedono tutti loro. Il cuoco, che proviene da un’altra isola e non conosce i gusti dei presenti; chiede loro a quanti piace la pasta e si alzano 2024 mani, poi chiede a quanti piace la carne e si alzano le mani della metà dei presenti, quindi chiede a quanti piace il pesce e si alzano ancora le mani della metà dei presenti, infine chiede a quanti piace il formaggio e solo un quarto dei presenti alza la mano. Sapendo che a ciascuno degli abitanti dell’isola piace una ed una sola portata tra le quattro proposte dal cuoco, quanti sono i cavalieri?"
+                },
+                {
+                    "titolo": "Motivi",
+                    "argomento": "",
+                    "soluzione": 63,
+                    "numero": 14,
+                    "valore": -1,
+                    "autore": "Andrea Macco e Giuseppe Rosolini",
+                    "testo": "I costruttori della scuola matematica devono disporre quattro mattonelle quadrate di uguali dimensioni, ma di colori diversi, in modo da formare motivi ornamentali planari per decorare le pareti. Ciascuna mattonella è bifronte, cioè le sue due facce sono identiche: stesso colore, stessa porosità, (ovviamente) stesse dimensioni. Così una mattonella può essere adagiata su una qualunque delle sue due facce con identico efetto. I maestri che hanno dato l’ordine hanno solo specifcato che per formare un motivo ogni mattonella deve toccarne almeno un’altra con un intero lato, e almeno una mattonella deve toccarne almeno due. Però non hanno specifcato più in dettaglio come disporle. Quanti motivi diversi possono ottenere i costruttori a meno di simmetrie del motivo?"
+                },
+                {
+                    "titolo": "Tutte diverse",
+                    "argomento": "",
+                    "soluzione": 1525,
+                    "numero": 15,
+                    "valore": -1,
+                    "autore": "Carlo Càssola",
+                    "testo": "Quanti sono i numeri aventi le cifre tutte diverse e che hanno le cifre disposte in ordine strettamente crescente oppure in ordine strettamente decrescente?"
+                },
+                {
+                    "titolo": "Quadrati",
+                    "argomento": "",
+                    "soluzione": 1571,
+                    "numero": 16,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Sulla retta <em>r</em> sono dati in ordine tre punti <em>A</em>, <em>B</em>, e <em>C</em> tali che <em>AB</em>=20 m e <em>BC</em>=80 m. Sono costruiti, dalla stessa parte del piano rispetto a <em>r</em>, un quadrato <em>ABDE</em> e un rettangolo <em>BCFG</em> con <em>BG</em>=70 m. Sia <em>H</em> il punto di intersezione tra i segmenti <em>AF</em> e <em>CE</em>. Qual è la lunghezza di <em>BH</em> in cm?"
+                },
+                {
+                    "titolo": "Ultime",
+                    "argomento": "",
+                    "soluzione": 6574,
+                    "numero": 17,
+                    "valore": -1,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Quali sono le ultime quattro cifre (migliaia, centinaia, decine e unità) della parte intera della radice quadrata di 2022×2024<sup>2</sup>×2026+5?"
+                },
+                {
+                    "titolo": "Regalo",
+                    "argomento": "",
+                    "soluzione": 235,
+                    "numero": 18,
+                    "valore": -1,
+                    "autore": "Fabrizio Conca",
+                    "testo": "Un gruppo di 6 amici organizza uno scambio di regali. Un foglietto con ciascun nome viene messo in un’urna. Uno dopo l’altro, i sei amici estraggono un foglietto senza guardare che nome c’è scritto sopra: il nome sul foglietto pescato da ciascuno sarà il destinatario del suo regalo. L’estrazione non è valida se almeno una persona deve regalare il regalo a se stessa. Qual è la probabilità che l’estrazione non sia valida? \n<span class='note'>Dare come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
+                },
+                {
+                    "titolo": "Aroma",
+                    "argomento": "",
+                    "soluzione": 8912,
+                    "numero": 19,
+                    "valore": -1,
+                    "autore": "Carlo Càssola",
+                    "testo": "Un numero è <b>aromatico</b> se è composto soltanto da cifre dispari, a due a due diverse, e nessuna permutazione delle cifre produce un numero divisibile per 7. Perciò un numero aromatico non può essere superiore a 99999. Esistono certamente numeri aromatici, ad esempio 17 (e 71). Mentre 53 non è aromatico perché 35 è divisibile per 7. Qual è la somma di tutti i numeri aromatici? \n<span class='note'>Dare come risposta le prime quattro di cifre da destra del risultato.</span>"
+                },
+                {
+                    "titolo": "Connessione",
+                    "argomento": "",
+                    "soluzione": 13,
+                    "numero": 20,
+                    "valore": -1,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "Ventisette rilevatori sono disposti in un reticolo cubico 3×3×3. Su ciascuna faccia (quadrata) del cubo ci sono 9 rilevatori: quattro nei vertici, quattro nei punti medi dei lati, 1 al centro della faccia. Un ulteriore rilevatore è al centro del cubo. Ogni rilevatore è collegato direttamente a ciascuno di quelli più vicini ad esso (almeno 3, al massimo 6 a seconda della posizione nel reticolo cubico) mediante un cavo che sta su uno spigolo del cubo, oppure è parallelo a un spigolo. Ci sono due rilevatori speciali: il rilevatore <em>A</em> nel vertice in basso, a sinistra, davanti; il rilevatore <em>I</em> nel vertice opposto, in alto, a destra, dietro. Gli sperimentatori conducono un test sul reticolo di rilevatori per determinare se trasmettono correttamente. Al termine del test, il rapporto elenca la stessa risposta per tutti i rilevatori: “Esattamente 4 rilevatori collegati direttamente a me non trasmettono correttamente.” Chiaramente qualche rilevatore non trasmette correttamente. Gli sperimentatori si rendono conto che i rilevatori che trasmettono correttamente sono il numero massimo possibile e preparano un secondo test in modo che un segnale, inserito nel reticolo a partire dal rilevatore <em>A</em> arrivi al rilevatore <em>I</em> passando attraverso tutti i rilevatori che trasmettono correttamente. Qual è il minor numero possibile di volte che il segnale passa in un rilevatore che non trasmette correttamente?"
+                },
+                {
+                    "titolo": "Polvere",
+                    "argomento": "",
+                    "soluzione": 260,
+                    "numero": 21,
+                    "valore": -1,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "È possibile utilizzare quattro tetraedri regolari di lato ℓ e un ottaedro regolare, pure di lato ℓ, per ottenere un tetraedro di lato 2ℓ, appoggiando i tetraedri di lato ℓ contro quattro facce opportune tra le otto dell’ottaedro di lato ℓ. Quanti ottaedri e tetraedri di lato ℓ servono per ottenere un tetraedro di lato 8ℓ, appogiando i tetraedri contro facce opportune degli ottaedri?"
                 }
             ]
         },
@@ -13143,7 +13935,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "In viaggio verso nord",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 9911,
                     "numero": 8,
                     "valore": 106,
                     "autore": "",
