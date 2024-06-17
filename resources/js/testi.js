@@ -13865,6 +13865,203 @@ function loadProblems(tipologia,sottotipologia,anno){
         },
         {
             "Tipologia": "Nazionale",
+            "SottoTipologia" : "Finale Mista",
+            "Anno": 2021,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "L'inizio di una grande avventura",
+                    "argomento": "",
+                    "soluzione": 1732,
+                    "numero": 1,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Nella regione di Kantor, nella città di Biancavillani, le case di nAsh e di Green  posizionate in <em>A</em> e <em>B</em> rispettivamente) e il laboratorio del prof. oaT (posizionato in <em>L</em>) formano un triangolo inscritto in una circonferenza di raggio 2000. nAsh e Green muovono i loro primi passi per diventare Campioni della Lega Mathémon camminando sui segmenti che congiungono le loro case al laboratorio. Se <em>M</em> è il punto medio di <em>AB</em> e in un certo istante nAsh e Green si trovano rispettivamente nei punti <em>N</em> e <em>G</em> tali che ∠<em>MNA</em>=∠<em>MAN</em>=70° e ∠<em>MGB</em>=∠<em>MBG</em>=80°, quanto vale il raggio della circonferenza circoscritta a <em>NGL</em>?"
+                },
+                {
+                    "titolo": "Il mio primo Mathémon",
+                    "argomento": "",
+                    "soluzione": 582,
+                    "numero": 2,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"«Viva i Mathémon, tosti e...». Il distratto nAsh viene richiamato dal prof. oaT: «Ehi, aspetta nAsh, non andare! È pericoloso! Non puoi avventurarti nell’erba alta senza Mathémon! Te ne darò uno, Picauchy, se saprai rispondere alla seguente domanda. Detto <em>p</em>(<em>n</em>) = MCD(1,<em>n</em>)·MCD(2,<em>n</em>)···MCD(<em>n</em>−1,<em>n</em>)·MCD(<em>n</em>,<em>n</em>), quanto vale la somma di tutti i possibili valori di <em>n</em> tali che che l’esponente di 2 nella fattorizzazione di <em>p</em>(<em>n</em>) è esattamente 105?»"
+                },
+                {
+                    "titolo": "Il suo primo Mathémon",
+                    "argomento": "",
+                    "soluzione": 6855,
+                    "numero": 3,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"«Nonno, non ce la faccio più ad aspettare!». A queste parole, il prof. oaT ribatte: «Abbi un po’ di pazienza, Green. Ce n’è uno anche per te. Dimmi solo quanto vale <em>s</em>(2310), dove <em>s</em>(<em>n</em>)=MCD(1,<em>n</em>) +MCD(2,<em>n</em>) +...+MCD(<em>n</em>−1,<em>n</em>) +MCD(<em>n</em>,<em>n</em>).»"
+                },
+                {
+                    "titolo": "La Scheda Allenatore",
+                    "argomento": "",
+                    "soluzione": 499,
+                    "numero": 4,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Ad ognuno degli infiniti allenatori all’inizio del loro viaggio viene assegnato un polinomio identificativo <em>p</em>(<em>x</em>) a coefficienti interi, in modo che ad ogni polinomio a coefficienti interi sia associato uno e un solo allenatore. La Scheda Allenatore, per semplicità, non riporta <em>p</em>(<em>x</em>), bensì il suo <em>carattere</em>, definito come la differenza tra il quadrato della somma dei coefficienti di grado pari e il quadrato della somma dei coefficienti di grado dispari. Due allenatori si dicono <em>compatibili</em> se le loro Schede Allenatore riportano lo stesso carattere. Determinare, al variare di tutte le coppie di allenatori tra loro compatibili, il massimo numero primo che divide sempre <em>p</em>(999)<em>p</em>(−999)−<em>q</em>(999)<em>q</em>(−999), dove <em>p</em> e <em>q</em> sono i polinomi identificativi dei due allenatori."
+                },
+                {
+                    "titolo": "La palestra di RosenBrock",
+                    "argomento": "",
+                    "soluzione": 69,
+                    "numero": 5,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Durante la sfida alla prima palestra della regione di Kantor, nAsh chiede a RosenBrock quanti massi compongano il suo enorme Mathémon di tipo Roccia: «Il loro numero è tale che, per scrivere il suo quadrato e il suo cubo, utilizzi tutte le cifre decimali, ciascuna una sola volta.» Quanti massi compongono il Mathémon di RosenBrock?"
+                },
+                {
+                    "titolo": "La palestra di Mistyrling",
+                    "argomento": "",
+                    "soluzione": 12,
+                    "numero": 6,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Prima di sfidare Mistyrling, nAsh deve affrontare 8 sfide, ciascuna contro una coppia composta da un allenatore e una allenatrice. Ogni allenatore o allenatrice manderà in campo uno tra Squilbert e Goldbacheen, in modo tale che nessuna coppia mandi in campo due Mathémon uguali. nAsh sa che, per 1≤<em>i</em>≤4, almeno uno tra l’allenatore della sfida <em>i</em> e l’allenatore della sfida 2<em>i</em> manderà in campo Squilbert, e che almeno una tra l’allenatrice della sfida <em>i</em> e l’allenatrice della sfida <em>i</em>+1 manderà in campo Squilbert. Quanti sono i casi possibili? \n<span class='note'>Nota: per “casi possibili” si intendono i modi di associare ad ognuna delle 16 persone un Mathémon tra Squilbert e Goldbacheen.</span>"
+                },
+                {
+                    "titolo": "La palestra di Lt. Surgermaine",
+                    "argomento": "",
+                    "soluzione": 169,
+                    "numero": 7,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Il terzo capopalestra, Lt. Surgermaine, è noto per adoperare i suoi Mathémon di tipo Elettro, perfettamente circolari, Voltorbicelli ed Electrotele. Il suo schieramento di battaglia consiste in un triangolo <em>ABC</em> di lati <em>AB</em>=5, <em>AC</em>=12, <em>BC</em>=13, con un Voltorbicelli inscritto in <em>ABC</em>, tangente ad <em>AB</em> in <em>D</em> e ad <em>AC</em> in <em>E</em>. In seguito, manda in campo due Electrotele: uno si posiziona tangente ad <em>AB</em> in <em>D</em>, alla retta <em>BC</em> e al Voltorbicelli, l’altro si posiziona tangente ad <em>AC</em> in <em>E</em>, alla retta <em>BC</em> e al Voltorbicelli. Quanto vale l’area del triangolo formato dal centro del Voltorbicelli e dai centri dei due Electrotele?"
+                },
+                {
+                    "titolo": "Il box del PC",
+                    "argomento": "",
+                    "soluzione": 58,
+                    "numero": 8,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"I Mathémon, si sa, possono essere depositati nei PC in box formati da 44 righe e 48 colonne. nAsh dedica il box numero 1 alle famiglie con tre stadi evolutivi, come Charmangardner, Charmilnor e Charizhardy, disponendo i Mathémon secondo la seguente regola: per ciascuna famiglia evolutiva, i primi due Mathémon devono trovarsi sulla stessa riga e su colonne adiacenti, mentre il terzo deve trovarsi sulla riga successiva e sulla stessa colonna di uno dei primi due. nAsh riesce ad occupare completamente tutti i posti che non sono nell’ultima riga o nell’ultima colonna, mentre solo <em>N</em> posti sul totale dei 91 rimanenti risultano occupati. Quanto vale <em>N</em>?"
+                },
+                {
+                    "titolo": "Una squadra divisibile",
+                    "argomento": "",
+                    "soluzione": 8278,
+                    "numero": 9,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"A metà del suo viaggio nella regione di Kantor, il MathéDex di nAsh si compone di 40 Mathémon, numerati da 1 a 40. Quante sono le possibili squadre di 4 Mathémon distinti che nAsh può scegliere in modo che la somma dei loro numeri di MathéDex sia divisibile per 5?"
+                },
+                {
+                    "titolo": "Fuga da Lavoisonia",
+                    "argomento": "",
+                    "soluzione": 17,
+                    "numero": 10,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Arrivato a Lavoisonia, nAsh trova tante persone che vogliono andarsene, disturbate da suoni sinistri. Decide di aiutare Mr. Fujulia, che deve traslocare la sua preziosa raccolta di MT (“Matematiche Temibili”). Ogni MT consiste in un quadrato rigido di lato 20 cm e 1mm di spessore. Lo scatolone in cui bisogna metterli è un cubo di spigolo 30 cm. Per non rovinarne la custodia, ogni MT deve essere collocata o in orizzontale, o in verticale con un lato orizzontale. Per quanto ci provi, nAsh non riesce a riempire lo scatolone completamente. Quant’è al massimo la frazione di volume che riesce a riempire ? \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
+                },
+                {
+                    "titolo": "Il casinò di Azzurroppoli",
+                    "argomento": "",
+                    "soluzione": 248,
+                    "numero": 11,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Nel casinò di Azzurroppoli, nAsh si imbatte in un poster sospetto, recante l’immagine di un triangolo di lati 306, 408 e 510, contenente tre cerchi di raggio 2, ciascuno tangente a due dei lati del triangolo. Tastando il poster, nAsh si accorge della presenza di un quarto cerchio, tangente esternamente ad ognuno dei primi tre. Tale cerchio è un pulsante, che apre l’accesso al nascondiglio del Team Rockenujan! Quanto vale il raggio del pulsante?"
+                },
+                {
+                    "titolo": "Snoetherlax e il Mathé Flauto",
+                    "argomento": "",
+                    "soluzione": 36,
+                    "numero": 12,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Uno Snoetherlax addormentato blocca la strada! Per svegliarlo nAsh deve suonare il Mathé Flauto, ma non sa quali siano le note corrette. Gli infiniti fori sul Mathé Flauto sono etichettati dai numeri interi. Mr. Fujulia rivela a nAsh che ogni nota della melodia è ottenuta chiudendo una coppia di fori (<em>x</em>,<em>y</em>) tali che <em>x</em><sup>2</sup>+36<em>y</em><sup>2</sup>+4<em>x</em><sup>2</sup><em>y</em><sup>2</sup>+4<em>x</em><sup>2</sup><em>y</em>−24<em>xy</em><sup>2</sup>+48<em>xy</em>+30<em>x</em>−180<em>y</em>+232 sia un quadrato perfetto. Quanto vale la somma dei possibili valori distinti che può assumere <em>x</em>?"
+                },
+                {
+                    "titolo": "La mappa di Kantor",
+                    "argomento": "",
+                    "soluzione": 20,
+                    "numero": 13,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Una volta appresa la MN Volo (“Matematica Non Volontaria”), nAsh consulta la mappa di Kantor per decidere in quale città spostarsi. Nota che ogni città è collegata ad esattamente altre 3 città da altrettante strade (inclusi i ben noti passaggi sotterranei); inoltre, partendo da una qualunque città, è possibile raggiungere ogni altra città percorrendo al più 3 strade. Quante città ci sono al massimo nella regione di Kantor?"
+                },
+                {
+                    "titolo": "La palestra di Kogalois",
+                    "argomento": "",
+                    "soluzione": 176,
+                    "numero": 14,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"«Ahahah! Sono Kogalois, il capopalestra di tipo Veleno. Baricentriche, LTE, Combinatorial Nullstellensatz: ti distruggerò con le mie infide tecniche! Dimostrami quanto vali trovando i numeri naturali di due cifre <em>a</em>, <em>b</em>, <em>c</em> per cui 4<em>a</em>+4<em>b</em>+4<em>c</em>+<em>abc</em>=2439+2<em>ab</em>+2<em>bc</em>+2<em>ca</em>, con <em>a</em><<em>b</em><<em>c</em>. Quanto vale <em>ab</em>−<em>c</em>?»"
+                },
+                {
+                    "titolo": "La nascita di Newtwo",
+                    "argomento": "",
+                    "soluzione": 1476,
+                    "numero": 15,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Esplorando le rovine della Villa Mathémon sull’Isola Matenella, nAsh si imbatte nei mostruosi calcoli di Giovandelbrot e Mr. Fujulia per creare il Mathémon più forte di sempre: Newtwo! Se (<em>x<sub>n</sub></em>,<em>y<sub>n</sub></em>) sono coppie di numeri reali tali che per ogni <em>n</em>≥1 valgono <em>y<sub>n</sub></em>=<em>x<sub>n</sub></em>/2·(−1+(1+4/<em>x<sub>n</sub></em><sup>3</sup>)<sup>1/2</sup>) e <em>y<sub>n</sub>x<sub>n</sub></em>=−<em>n</em>, la nascita di Newtwo era prevista dopo un numero di giorni pari a 1/|<em>x</em><sub>1</sub>+<em>y</em><sub>1</sub>|+1/|<em>x</em><sub>2</sub>+<em>y</em><sub>2</sub>|+...+1/|<em>x</em><sub>151</sub>+<em>y</em><sub>151</sub>|. «Quindi, nAsh, quanti giorni ha richiesto la creazione di Newtwo?» chiede in seguito il prof. oaT."
+                },
+                {
+                    "titolo": "Il SuperQuattro di ALgebra",
+                    "argomento": "",
+                    "soluzione": 1791,
+                    "numero": 16,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Finalmente giunto sull’AltoIperpiano Blu, nAsh deve affrontare le ultime sfide che lo separano dal titolo di Campione della Lega Mathémon: i SuperQuattro Problemi! Il primo consiste in questo: qual è la soluzione positiva dell’equazione (5−<em>x</em>)<sup>1/2</sup>=5−<em>x</em><sup>2</sup>?\n<span class='note'>Dare come risposta la soluzione moltiplicata per 1000.</span>"
+                },
+                {
+                    "titolo": "Il SuperQuattro di Combinatoria",
+                    "argomento": "",
+                    "soluzione": 2121,
+                    "numero": 17,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Nella stanza del secondo SuperQuattro, nAsh si trova di fronte ad <em>n</em> esemplari dell’<em>n</em>-esimo Mathémon del MathéDex di Kantor, per ogni 1≤<em>n</em>≤2021. Il Mathémon di numero di MathéDex 1 compie 2021 passi; i Mathémon di numero di MathéDex 2 compiono 2020 passi ciascuno, e così via, fino ai Mathémon di numero di MathéDex 2021, che compiono 1 passo ciascuno. Ogni volta che un Mathémon compie un passo lascia una impronta; due Mathémon hanno impronte uguali se e solo se hanno stesso numero di MathéDex. Al massimo, quante volte è presente una data impronta?"
+                },
+                {
+                    "titolo": "Il SuperQuattro di Geometria",
+                    "argomento": "",
+                    "soluzione": 45,
+                    "numero": 18,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Una volta entrato nella stanza del terzo SuperQuattro, nAsh si accorge che essa è perfettamente circolare, con le pareti rivestite da specchi. Un biglietto attaccato sulla parete recita: “Posiziona Picauchy nel punto diametralmente opposto a questo e fagli colpire questo biglietto con un un lampo di luce che rimbalzi al più 9 volte sulle pareti prima di giungere qui.” In quante possibili direzioni Picauchy potrà sparare il suo lampo di luce? \n<span class='note'>Il primo rimbalzo, se c’è, deve avvenire in un punto della circonferenza distinto da quello in cui è presente Picauchy</span>"
+                },
+                {
+                    "titolo": "Il SuperQuattro di Teoria dei Numel",
+                    "argomento": "",
+                    "soluzione": 1504,
+                    "numero": 19,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"nAsh: «Prof. oaT, non pensavo che nella regione di Kantor vivessero i Num...». Prof. oaT: «C’è tempo e luogo per ogni cosa, ma non ora! Concentrati sull’ultimo SuperQuattro! Devi calcolare il resto della divisione per 47<sup>2</sup> del numero 1<sup>46<em>c</em>+1</sup>+2<sup>46<em>c</em>+1</sup>+...+2021<sup>46<em>c</em>+1</sup>.» nAsh: «L’ho risolto, ma solo per <em>c</em>=5, e la soluzione è... Ora sono il Campione della Lega Mathémon!» Prof. oaT: «Lo saresti stato, se un allenatore non avesse risolto i Problemi prima di te. Il suo nome è...». <em>Quale numero ha detto nAsh al prof. oaT</em>?"
+                },
+                {
+                    "titolo": "L’ultima sfida",
+                    "argomento": "",
+                    "soluzione": 73,
+                    "numero": 20,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"Green: «Campione della Lega Mathémon! nAsh! Sai cosa significa? Sono l’allenatore migliore del mondo!» nAsh: «Non credo, Green. Vedi, il simbolo della Lega Mathémon è composto da quattro Mathé Ball circolari: la prima, Γ, ha raggio 20; la seconda e la terza, Γ<sub>1</sub> e Γ<sub>2</sub>, hanno raggio 5 e 15 e sono tangenti internamente a Γ in due punti <em>A</em>, <em>B</em> tali che <em>AB</em>=32; la quarta è tangente a Γ<sub>1</sub>, Γ<sub>2</sub> e al maggiore dei due archi <em>AB</em> di Γ. Un vero Campione saprebbe calcolare al volo il raggio di quest’ultima.» Green: «...cosa? Non può essere! Non è giusto!» <em>Qual è il raggio della quarta Mathé Ball</em>? \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
+                },
+                {
+                    "titolo": "Le aiuole del prof. oaT",
+                    "argomento": "",
+                    "soluzione": 259,
+                    "numero": 21,
+                    "valore": -1,
+                    "autore": "",
+                    "testo":"nAsh è giunto alla fine del suo viaggio per la regione di Kantor. Mentre ammira tutti i suoi Mathémon nel giardino del prof. oaT, si accorge che questo è composto da tante aiuole, a due a due non congruenti. Le forme delle aiuole sono tutti i triangoli non degeneri con lati interi, perimetro minore di 60 e con un angolo pari al doppio di un altro. La mamma di nAsh, vedendo il figlio pensoso, gli concede: «Se saprai trovare la somma dei loro perimetri, avrai il permesso di andare ad allenarti sul monte Argel’fand.». Quanto vale questa somma?"
+                }
+            ]   
+        },
+        {
+            "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2020,
             "Autori": "",
