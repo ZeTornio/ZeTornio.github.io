@@ -9135,7 +9135,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2520,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 26,
                     "autore": "",
                     "testo": "Fibonhui e Seidue, stanchi di giocare a Go, si dedicano agli scacchi; dopo aver messo correttamente i pedoni, non si ricordano come mettere gli altri pezzi, sanno solo che la regina deve stare a sinistra del re (non per forza adiacente). \n <span class='note'>  Rispettando questa regola in quanti modi diversi Fibonhui pu\u00f2 disporre i suoi pezzi? I pezzi degli scacchi sono 2 alfieri, 2 cavalli, 2 torri, un re e una regina, e vanno disposti sulla prima riga di una scacchiera quadrata con 8 caselle per lato, uno in ogni casella.</span>"
                 },
@@ -9144,7 +9144,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 4840,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 37,
                     "autore": "",
                     "testo": "La citt\u00e0 di \u03c7oto ha un sistema stradale particolare: dalla piazza principale partono 2021 strade rettilinee, e tutte queste finiscono sulla strada esterna, di forma circolare. Quanti percorsi posso fare partendo dalla piazza e ritornando ad essa, senza mai passare per un incrocio due volte? \n <span class='note'>La piazza \u00e8 da considerarsi un incrocio.</span>"
                 },
@@ -9153,7 +9153,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 928,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 112,
                     "autore": "",
                     "testo": "Fibonhui e Seidue giocano con la loro barchetta nella fontana del parco di \u03c7oto, un esagono regolare di lato 5m. Hanno entrambi un radiocontrollo che fa s\u00ec che la barchetta risulti sempre a distanza 5m da entrambi: in questo modo quando Fibonhui e Seidue sono su due vertici consecutivi dell\u2019esagono, la barchetta si trova nel centro della fontana. Se Fibonhui cammina lungo il perimetro della fontana e Seidue cammina anch\u2019egli sul perimetro dell\u2019esagono, ad una distanza costante di 5m da Fibonhui, qual \u00e8 la lunghezza percorsa dalla barchetta quando Fibonhui fa un giro completo? \n <span class='note'>Rispondere il valore trovato moltiplicato per 100.</span>"
                 },
@@ -9162,7 +9162,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2828,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 28,
                     "autore": "",
                     "testo": "L\u2019organizzatore delle Olimpiadi di \u03c7oto ha un incubo dove sogna che la manifestazione verr\u00e0 rimandata nuovamente. La nuova cerimonia di inaugurazione sar\u00e0 nella data futura pi\u00f9 vicina che rispetta le seguenti condizioni:<ul><li>non sar\u00e0 in gennaio;</li><li>il primo dell\u2019anno in cui \u00e8 prevista la cerimonia sar\u00e0 un luned\u00ec;</li><li>il primo del mese in cui \u00e8 prevista la cerimonia sar\u00e0 un luned\u00ec;</li><li>la cerimonia si svolger\u00e0 nel secondo luned\u00ec del mese. </li></ul>Qual \u00e8 questa data?\n <span class='note'> Dare come risposta <em>g</em><sub>1</sub><em>g</em><sub>2</sub><em>m</em><sub>1</sub><em>m</em><sub>2</sub>+<em>a</em><sub>1</sub><em>a</em><sub>2</sub><em>a</em><sub>3</sub><em>a</em><sub>4</sub> (le lettere indicano le cifre della data in base dieci con giorno/mese/anno: <em>g</em><sub>1</sub><em>g</em><sub>2</sub>/</em>m</em><sub>1</sub><em>m</em><sub>2</sub>/<em>a</em><sub>1</sub><em>a</em><sub>2</sub><em>a</em><sub>3</sub><em>a</em><sub>4</sub>).</span>"
                 },
@@ -9171,7 +9171,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 108,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 54,
                     "autore": "",
                     "testo": "Il signor \u03c6yagi, nel suo piccolo, \u00e8 un numismatico. Nella citt\u00e0 di \u03c7oto esistono solo tre tipi di monete antiche:<ul><li> Satai, composta da 4g d\u2019oro, 4g d\u2019argento, 3g di bronzo;</li><li> Heikin, composta da 3g d\u2019oro, 4g d\u2019argento, 3g di bronzo;</li><li> Sadai, composta da 2g d\u2019oro, 2g d\u2019argento, 3g di bronzo.</li></ul> Dopo alcuni scambi di monete antiche tra il signor \u03c6yagi e un suo amico, quest\u2019ultimo risulta avere <em>x</em> grammi d\u2019oro, <em>y</em> grammi d\u2019argento e <em>z</em> grammi di bronzo in pi\u00f9 di quanto avesse in partenza. Quante sono le terne possibili (<em>x</em>,<em>y</em>,<em>z</em>), con <em>x</em>, <em>y</em> e <em>z</em> tutti strettamente positivi e strettamente minori di 10?"
                 },
@@ -9180,7 +9180,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2010,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 56,
                     "autore": "",
                     "testo": "Il signor \u03c6yagi \u00e8 un cerimoniere del t\u00e8 e ha ideato la seguente cerimonia. Egli scrive su di una lavagna un intero positivo <em>n</em>. Dopodich\u00e9 inizia a contare ad alta voce, partendo da 1. Ogni volta che dice un numero <em>k</em>, se <em>k</em> divide il numero in quel momento scritto alla lavagna, il signor \u03c6yagi incrementa il numero scritto alla lavagna di 15 e tutti i presenti devono effettuare un inchino. Diciamo che <em>n</em> \u00e8 <em>ossequioso</em> se, da un certo punto in poi, bisogna inchinarsi ogni volta che il signor \u03c6yagi dice un numero. Qual \u00e8 il pi\u00f9 grande intero <em>ossequioso</em> minore o uguale di 2021?"
                 },
@@ -9189,7 +9189,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 12,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 96,
                     "autore": "",
                     "testo": "Fibonhui, appassionata di origami, decide di fare questo gioco: appoggiata su un tavolo, prende un foglio rettangolare e lo piega a met\u00e0 lungo la direzione verticale, poi ancora a met\u00e0 lungo la stessa direzione, e cos\u00ec via, per 2021 volte. Si accorge che ad ogni piega pu\u00f2 scegliere se portare il lembo di sinistra del foglio sopra quello a destra oppure il lembo di destra del foglio sopra quello a sinistra. In questo modo, dopo aver riaperto tutto il foglio sul tavolo, esso avr\u00e0 una sequenza di 2<sup>2021</sup>\u22121 pieghe parallele, alcune \u201ca monte\u201d (\u2227) ed altre \u201ca valle\u201d (\u2228). Ripete lo stesso gioco con tanti fogli diversi. Osservando tutte le sottosequenze di 4 pieghe consecutive sui vari fogli, si chiede: quante di differenti se ne possono contare, al pi\u00f9?"
                 },
@@ -9198,7 +9198,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 4,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 29,
                     "autore": "",
                     "testo": "Nella citt\u00e0 di \u03c7oto vi \u00e8 un sistema monetario alquanto particolare: esistono tutte e sole le monete con valore un numero primo dispari. Il signor \u03c6yagi compra una ciotola di ramen, e si accorge che nessuna combinazione di monete gli permetter\u00e0 di pagarlo esattamente senza ricevere del resto. Quanto costa il ramen al massimo?"
                 },
@@ -9207,7 +9207,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2013,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 81,
                     "autore": "",
                     "testo": "Prima di affrontarsi sul dohy\u014d, i lottatori di summo eseguono alcune mosse rituali. Viene scelto un punto <em>X</em> del piano e si applica la trasformazione <em>T<sub>X</sub></em>, che manda <em>X</em> in s\u00e9 e ogni punto <em>P</em> distinto da <em>X</em> in <em>P</em><sub>0</sub> secondo la seguente costruzione: <em>P</em><sub>0</sub> \u00e8 il punto della circonferenza di diametro <em>X<sub>P</sub></em> tale che l\u2019arco <em>PP</em><sub>0</sub>, percorso in senso antioriario, descrive un angolo al centro di 90\u00b0. La trasformazione pu\u00f2 essere applicata pi\u00f9 di una volta, se i tenjin (gli spiriti) sono benevoli; se per\u00f2 <em>T<sub>X</sub></em> viene applicata una volta di troppo, i tenjin si arrabbiano e l\u2019incontro non pu\u00f2 essere disputato. Per il primo incontro di summo di quest\u2019anno viene scelto come <em>X</em> un vertice di un 2021-agono regolare di area 2021!. Quante volte al massimo pu\u00f2 essere applicata <em>T<sub>X</sub></em>, sapendo che i tenjin saranno benevoli fintantoch\u00e9 l\u2019area del poligono rimane un numero intero? \n <span class='note'>Il simbolo 2021! indica il fattoriale di 2021. </span>"
                 },
@@ -9216,7 +9216,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8281,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 91,
                     "autore": "",
                     "testo": "Nel quartiere di Ginzeta da secoli si tramanda una tecnica per produrre il miele in citt\u00e0: bisogna predisporre 13 alberi di mandarino in fila, ognuno distante dagli adiacenti esattamente 2. In ognuno di questi alberi c\u2019\u00e8 un alveare con probabilit\u00e0 1/2 indipendentemente dagli altri alberi. Gli apicoltori, per ogni alveare, possono modificare il raggio d\u2019azione delle api di quell\u2019alveare con particolari tecniche tramandate da secoli: api aventi raggio d\u2019azione <em>r</em> arrivano in tutti gli alberi che distano meno di <em>r</em> dal proprio alveare. Per ottenere il miele migliore possibile, bisogna predisporre i raggi d\u2019azione degli alveari presenti in modo tale che: <ul><li> il raggio d\u2019azione di ogni alveare sia un intero positivo dispari;</li><li> il primo e l\u2019ultimo albero non vengano raggiunti da api;</li><li> in ogni albero diverso dal primo e l\u2019ultimo arrivino api che provengono esattamente da un solo alveare.</li></ul> Calcolare la probabilit\u00e0 che, modificando opportunamente i raggi d\u2019azione, sia possibile ottenere il miglior miele.\n <span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
@@ -9225,7 +9225,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1933,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 39,
                     "autore": "",
                     "testo": "Nel parco di della citt\u00e0 di \u03c7oto, si trovano 10000 alberi di ciliegio: inoltre, per ogni naturale <em>n</em> tale che 0&#8804;<em>n</em><10000 esiste esattamente un albero di ciliegio nel parco che risulta avere <em>n</em> foglie. Un ciliegio con <em>n</em> foglie fiorisce se e solo se per ogni <em>y</em>&#8712;&Ropf; si ha <em>n</em>\u00b7(90\u2212<em>n</em>)&#8804;(2021\u2212<em>n</em>)\u00b7<em>y</em><sup>2</sup>. Quanti sono i ciliegi del parco di \u03c7oto che fioriscono?"
                 },
@@ -9234,7 +9234,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 60,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 106,
                     "autore": "",
                     "testo": "Il giardino zen di Fibonhui ha la forma di un quadrilatero convesso <em>ABCD</em> tale che <em>AB</em>=84m e <em>CD</em>=140m. Per ammirarne l\u2019armonia, Fibonhui si mette in <em>P</em>, punto d\u2019incontro di <em>AC</em> e <em>BD</em>. Ella sa che&#8736;<em>BAP</em>=&#8736;<em>PAD</em> e &#8736;<em>CDP</em>=&#8736;<em>PDA</em>; si accorge inoltre che <em>P</em>, il punto in cui si trova, \u00e8 equidistante da <em>B</em> e da <em>C</em>. Quanto vale, in metri, tale lunghezza?"
                 },
@@ -9243,7 +9243,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 4,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 56,
                     "autore": "",
                     "testo": "PhiPhi \u00e8 un panda arrivato da poco nello zoo di To\u03c7o: il primo giorno ha mangiato una canna di bamb\u00f9, il secondo ne ha mangiate due, il terzo ne ha mangiate tre. Dal quarto giorno in poi, nel giorno <em>n</em>, PhiPhi ha mangiato una canna di bamb\u00f9 in pi\u00f9 rispetto al giorno <em>n</em>\u22123. Determinare per quali <em>n</em> risulta che al termine del giorno <em>n</em> il totale di canne di bamb\u00f9 mangiate in giorni pari fino a quel momento \u00e8 uguale al totale di canne di bamb\u00f9 mangiate in giorni dispari fino a quel momento. \n <span class='note'> Dare come risposta la somma di tutti i possibili valori di <em>n</em> con <em>n</em>&#8804;2021.</span>"
                 },
@@ -9252,7 +9252,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 3,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 61,
                     "autore": "",
                     "testo": "Fibonhui e Seidue fanno un gioco. Fibonhui sceglie a caso 3 numeri distinti n1,n2,n3 dall\u2019insieme {1,2, . . . ,2021} e costruisce una scatola di dimensioni <em>n</em><sub>1</sub>,<em>n</em><sub>2</sub>,<em>n</em><sub>3</sub> a forma di parallelepipedo. Seidue fa lo stesso selezionando <em>m</em><sub>1</sub>,<em>m</em><sub>2</sub>,<em>m</em><sub>3</sub> (sempre a caso e distinti) dai 2018 rimanenti. Fibonhui vince se una delle due scatole pu\u00f2 essere inserita all\u2019interno dell\u2019altra (con le facce parallele all\u2019altra e totalmente contenuta al suo interno). Qual \u00e8 la probabilit\u00e0 di vittoria di Fibonhui? \n <span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
@@ -9261,7 +9261,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 44,
                     "autore": "",
                     "testo": "Fibonhui sta mangiando del sushi: guarda desolata il piatto in cui sono rimasti solo un uramaki e un maki, che vede dall\u2019alto come due circonferenze, rispettivamente <em>\u0393</em> (di raggio <em>R</em>) e <em>\u03b3</em> (di raggio <em>r</em><<em>R</em>), tangenti in <em>T</em>. Inoltre il ripieno dell\u2019uramaki pu\u00f2 essere rappresentato anch\u2019esso da una circonferenza <em>\u0393<sub>i</sub></em>, concentrica a <em>\u0393</em> e di raggio <em>R<sub>i</sub></em><<em>R</em>. Nota la seguente curiosit\u00e0: chiamando <em>P</em> e <em>P</em><sub>0</sub> i punti di tangenza di <em>\u0393</em> con le due tangenti comuni di <em>\u0393</em> e <em>\u03b3</em>  che non passano per <em>T</em>, risulta che <em>PP</em><sub>0</sub> \u00e8 tangente a <em>\u0393<sub>i</sub></em>. Sapendo che <em>R<sub>i</sub></em>/<em>R</em>=(3/5)<sup>1/2</sup>, quanto vale la somma <em>R</em>/<em>r</em>+<em>r</em>/<em>R</em>?"
                 },
@@ -9270,7 +9270,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 615,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 46,
                     "autore": "",
                     "testo": "Per ottenere eterna fortuna, il signor \u03c6yagi costruisce molte gru piegando fogli di carta: per l\u2019esattezza, una per ogni numero di 4 cifre che abbia come somma delle cifre 19. Quante sono?"
                 },
@@ -9279,7 +9279,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1978,
                     "numero": 17,
-                    "valore": -1,
+                    "valore": 49,
                     "autore": "",
                     "testo": "Il grande samatemurai Yakobi allena la propria resistenza, fisica e matematica, in una radura di forma circolare, lungo la cui circonferenza sono cresciuti 2000 alberi in altrettanti punti equispaziati. Yakobi fa cos\u00ec: sceglie un albero, con la sua kartana incide sul tronco il numero 1, poi, in verso orario, salta 1 albero, e sul successivo incide il 2, salta 2 alberi, e sul successivo incide il 3, salta 3 alberi, e sul successivo incide il 4, e cos\u00ec via finch\u00e9 tutti i numeri fino al 2021 sono stati scritti (anche pi\u00f9 di uno sullo stesso albero). Qual \u00e8 il massimo <em>n</em><2021 tale che <em>n</em> \u00e8 scritto sullo stesso albero su cui \u00e8 inciso 2021?"
                 },
@@ -9288,12 +9288,559 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 17,
                     "numero": 18,
-                    "valore": -1,
+                    "valore": 52,
                     "autore": "",
                     "testo": "L\u2019isola di Aoshimura \u00e8 famosa per essere abitata da una numerosa colonia felina. Fibonhui vi si reca spesso: un certo numero di gatti la ascolta attentamente mentre parla di matematica. Fibonhui ha notato che il numero di felini che si raduna attorno a lei \u00e8 uguale al numero di coefficienti dispari nel polinomio (1+<em>x</em>+<em>x</em><sup>2</sup>+<em>x</em><sup>3</sup>+<em>x</em><sup>4</sup>)<sup>10</sup>. Quanti sono?"
                 }
             ]
         },
+        {
+            "Tipologia": "Nazionale",
+            "SottoTipologia" : "Semifinale Mista",
+            "Anno": 2022,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "Mai sottovalutare i gatti",
+                    "argomento": "",
+                    "soluzione": 1365,
+                    "numero": 1,
+                    "valore": 36,
+                    "autore": "",
+                    "testo": "Goose sembrava un’innocua gatta rossa ed invece si è rivelata essere della letale specie aliena dei Flessken! Goose ha ingoiato, oltre al Tesseract, anche un ragguardevole numero di nemici Kree. Nick Fouryer li ha contati: sono tanti quanti la somma di tutti i numeri <em>abc</em> di esattamente tre cifre, non necessariamente distinte, che si scrivono come prodotto di esattamente due primi e tali che <em>a</em>+4<em>b</em>+7<em>c</em>=24. Quanti Kree ha mangiato Goose?"
+                },
+                {
+                    "titolo": "Il peso del martello",
+                    "argomento": "",
+                    "soluzione": 7844,
+                    "numero": 2,
+                    "valore": 94,
+                    "autore": "",
+                    "testo": "L’agente del C.A.U.C.H.Y.L.D. Phil Coulson ha trovato il martello di CanThor nel deserto. Vorrebbe portarlo al quartier generale, ma nessuno riesce a spostarlo. L’agente Coulson sa che il peso, in kg, del martello è uguale al numero di coppie di interi positivi (<em>a</em>,<em>b</em>) tali che 4·MCD(<em>a</em>,<em>b</em>)<<em>a</em>+<em>b</em><2022. Quanto pesa il martello?"
+                },
+                {
+                    "titolo": "Quanti ne rimarranno?",
+                    "argomento": "",
+                    "soluzione": 2222,
+                    "numero": 3,
+                    "valore": 94,
+                    "autore": "",
+                    "testo": "CanThor, Logχ e Ammodino stanno combattendo i Gb-anti di ghiaccio sulla terra. Alla battaglia partecipano 6 asgardneriani, 17 umani e <em>n</em> Gb-anti di ghiaccio: ci sono dei rapporti di potenza tra queste razze e in particolare<ul> <li>Un asgardneriano può uccidere un umano o un Gb-ante;</li> <li>Un Gb-ante può uccidere un umano;</li> <li>Un umano non può uccidere nessuno.</li></ul> A causa di una maledizione che si è abbattuta sul campo di battaglia:<ul> <li>Quando un asgardneriano uccide un Gb-ante, si trasforma in umano;</li> <li>Quando un asgardneriano uccide un umano, si trasforma in Gb-ante;</li> <li>Quando un Gb-ante uccide un umano, si trasforma in asgardneriano.</li></ul> Sapendo che a un certo punto non c’è più possibilità che qualcuno uccida qualcun altro, sia <em>f</em>(<em>n</em>) il massimo numero di personaggi rimasti sul campo. Calcolare <em>f</em>(1)+<em>f</em>(2) +...+<em>f</em>(99)+<em>f</em>(100)."
+                },
+                {
+                    "titolo": "La creazione del Super Matematico",
+                    "argomento": "",
+                    "soluzione": 1049,
+                    "numero": 4,
+                    "valore": 54,
+                    "autore": "",
+                    "testo": "Il giorno è arrivato: a Steve verrà iniettato il siero del Super Matematico. L’agente Peggy Cartesio controlla che sia tutto a posto nella stanza, che ha la forma di un quadrilatero <em>ABCD</em>, dove si svolgerà l’esperimento. L’agente sa che l’angolo in <em>A</em> è ampio 120 gradi, mentre quello in <em>D</em> è ampio 45 gradi. Sa inoltre che i lati <em.AB</em> e <em>BC</em> sono congruenti ed hanno lunghezza intera, inoltre la bisettrice dell’angolo in <em>A</em> passa per <em>C</em>. L’agente Cartesio non ricorda l’area della stanza; sa solo che è maggiore di 1000m<sup>2</sup>. Quanto vale al minimo l’area (in m<sup>2</sup>)?"
+                },
+                {
+                    "titolo": "Lo scudo di Capitan Numerica",
+                    "argomento": "",
+                    "soluzione": 19,
+                    "numero": 5,
+                    "valore": 30,
+                    "autore": "",
+                    "testo": "Lo scudo di Capitan Numerica è stato costruito da Harold Stark. Ha una forma circolare e per tenerlo sono fissate due cinghie in 4 punti della circonferenza esterna <em>A</em>,<em>B</em>,<em>C</em>,<em>D</em>, in quest’ordine. Le due cinghie sono vanno rispettivamente da <em>A</em> a <em>C</em> e da <em>B</em> a <em>D</em>, intersecandosi in <em>T</em>. Sapendo che <em>AB</em>=40cm, <em>BC</em>=70cm, <em>CD</em>=80cm, <em>AD</em>=98cm, determinare il rapporto tra <em>DT</em> e <em>TB</em>. \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
+                },
+                {
+                    "titolo": "L’invasione dei χτri",
+                    "argomento": "",
+                    "soluzione": 2393,
+                    "numero": 6,
+                    "valore": 94,
+                    "autore": "",
+                    "testo": "Il malvagio Logχ è riuscito ad aprire il varco spaziotemporale per permettere ai χτri di invadere la terra: essi sono divisi in 390 battaglioni. Si sa che l’<em>n</em>-esimo battaglione, per ogni <em>n</em>, è composto da un numero di χτri pari a τ(<em>n</em>), il numero dei divisori interi positivi di <em>n</em>. Quanti χτri è riuscito a invocare Logχ?"
+                },
+                {
+                    "titolo": "L’hobby di Drax",
+                    "argomento": "",
+                    "soluzione": 280,
+                    "numero": 7,
+                    "valore": 48,
+                    "autore": "",
+                    "testo": "Drax il Distruttore di Congetture, si sa, sotto sotto è un tenerone che ama gli origami. Questa volta parte da un foglio quadrato <em>ABCD</em> di lato 420mm. La prima cosa che deve fare è e ettuare una singola piega che porti il vertice <em>D</em> sul punto <em>P</em> del lato <em>AB</em> tale che <em>AP</em>=210mm. In questo modo il lato <em>DC</em> va ad intersecare il lato <em>BC</em> nel punto <em>Q</em>: quanto vale, in mm, la lunghezza di <em>BQ</em>?"
+                },
+                {
+                    "titolo": "<em>sup</em>-ereroi ordinati",
+                    "argomento": "",
+                    "soluzione": 512,
+                    "numero": 8,
+                    "valore": 28,
+                    "autore": "",
+                    "testo": "In fuga da Ultron, gli Avengers si nascondono nella fattoria di Occhio di Calcolo. Per non perdere i propri <em>sup</em>-erpoteri matematici, fanno questo gioco. Dato che sono 10 ed ognuno ha un’altezza diversa da tutti gli altri, si dispongono in fila uno a fianco all’altro in modo che ognuno abbia alla sua sinistra solo persone più basse di lui, oppure solo persone più alte di lui. In quanti modi è possibile farlo?"
+                },
+                {
+                    "titolo": "Una tabella di particelle πm",
+                    "argomento": "",
+                    "soluzione": 4881,
+                    "numero": 9,
+                    "valore": 75,
+                    "autore": "",
+                    "testo": "In una tabella quadrata composta da 81×81 caselle sono poste delle particelle πm, e in ognuna della caselle c’è un numero diverso di particelle e ce ne sono di tutte le numerosità da 1 a 81<sup>2</sup> nel seguente modo: partendo da un angolo della tabella si trovano in ordine crescente 1 particella, 2 particelle, 3 particelle, prima nelle caselle al bordo andando sempre più all’interno così da creare una spirale a chiocciola di particelle πm con le caselle meno numerose all’esterno e quelle più numerose all’interno. Nella casella al centro della tabella si troveranno dunque 81<sup>2</sup> particelle πm. Arctan-man deve ora scegliere 81 caselle in modo che non ce ne siano due nella stessa riga o nella stessa colonna. Successivamente il Prof. πm seleziona, tra le 81 caselle scelte da Arctan-man, quella che contiene il maggior numero di particelle πm e le mette via. Dopo questa doppia procedura di selezione, quante sono al minimo le particelle messe via dal Prof. πm?"
+                },
+                {
+                    "titolo": "Silenzio colpevole",
+                    "argomento": "",
+                    "soluzione": 6237,
+                    "numero": 10,
+                    "valore": 40,
+                    "autore": "",
+                    "testo": "Eigen Man ha appena scoperto che fu Winter Solider ad uccidere i suoi genitori. Arrabbiato con Captain Numerica per non averglielo detto, lo mette alle strette con la seguente domanda: quanto vale il numeratore della frazione <img src='./resources/images/Testi/Semifinale/2022_10.JPG' width=100> ridotta ai minimi termini?"
+                },
+                {
+                    "titolo": "Il quartier generale",
+                    "argomento": "",
+                    "soluzione": 527,
+                    "numero": 11,
+                    "valore": 90,
+                    "autore": "",
+                    "testo": "Sam Weilson, alias Falcon, può volare grazie a delle ali artificiali e dall’alto guarda il quartier generale degli Avengers. La pianta dell’edificio è un triangolo <em>ABC</em> di lati <em>AB</em>=7 Cap-metri, <em>BC</em>=25 Cap-metri e <em>CA</em>=24 Cap-metri. Vista dall’alto, l’area di atterraggio di elicotteri e <em>sup</em>-ereroi è la circonferenza ω  inscritta ad <em>ABC</em>, tangente a <em>BC</em> in <em>D</em>. C’è poi un laghetto di forma circolare, che dall’alto è la circonferenza Ω ex-inscritta opposta al vertice <em>A</em>, che tange il lato <em>BC</em> in <em>E</em>. Detti <em>X</em> l’intersezione più vicina ad <em>A</em> della retta <em>AE</em> con ω e <em>Y</em> l’intersezione più lontana da <em>A</em> della retta <em>AD</em> con Ω , Weilson si chiede quanto valga l’area del quadrilatero <em>XEYD</em> (in Cap-metri quadri)."
+                },
+                {
+                    "titolo": "L’Occhio di Campigotto",
+                    "argomento": "",
+                    "soluzione": 1764,
+                    "numero": 12,
+                    "valore": 44,
+                    "autore": "",
+                    "testo": "Dottor Stringa è stato scelto dall’Antico per poter diventare il nuovo guardiano dell’Occhio di Campigotto, che contiene la gemma del Tempo. L’Occhio di Campigotto è un amuleto circolare con un diametro tracciato; sulla circonferenza sono poste 4 pietre preziose, 2 agli estremi del diametro tracciato e altre due, sempre diametralmente opposte, a formare un quadrato con le altre. Affinché l’Occhio di Campigotto possa avere la potenza di contenere la gemma del Tempo, se due pietre preziose sono collegate direttamente (o da un quarto di circonferenza o dal diametro), esse devono essere differenti. Per poter padroneggiare l’Occhio di Campigotto, il Dottor Stringa deve sapere esattamente quanti sono i possibili modi di decorarlo, avendo a disposizione 9 tipi di pietre preziose diverse.\n<span class='note'> Due decorazioni sono considerate equivalenti se gli amuleti corrispondenti sono uguali a meno di una rotazione del piano che contiene l’amuleto stesso.</span>"
+                },
+                {
+                    "titolo": "La sfida tra i gladiolimpionici",
+                    "argomento": "",
+                    "soluzione": 5052,
+                    "numero": 13,
+                    "valore": 42,
+                    "autore": "",
+                    "testo": "CanThor è finito sul pianeta di Schwarzaar, dove, per ritornare sulla terra, deve sfidare come gladiolimpionico il campione di Schwarzaar, che si rivela essere il suo collega di lavoro Convex Hulk. Il Gran Maestro pone allora loro il seguente problema: «Cari gladiolimpionici, una successione di polinomi è definita per ricorrenza da <em>p</em><sub>0</sub>(<em>x</em>)=1 e <em>p</em><sub><em>n</em>+1</sub>(<em>x</em>)=(<em>x</em>−7)<em>p<sub>n</sub></em>(<em>x</em>)+<em>p<sub>n</sub></em>(2022) per ogni intero non negativo <em>n</em>. Chi determinerà il più grande intero <em>k</em> per cui 4<em>k</em> divide <em>p</em><sub>2022</sub>(7) avrà salva la vita!». CanThor riesce a risolvere correttamente il problema per primo: qual è la sua risposta?"
+                },
+                {
+                    "titolo": "Nuovi superpoteri",
+                    "argomento": "",
+                    "soluzione": 86,
+                    "numero": 14,
+                    "valore": 67,
+                    "autore": "",
+                    "testo": "Petersen Parker è stato morso da un ragno ed ha acquisito alcuni super poteri, tra cui quello di muoversi su qualsiasi superficie. Testa la sua nuova abilità arrampicandosi su un edificio di forma cilindrica, avente sulla superficie laterale 2 scanalature parallele alle facce circolari e 3 scanalature verticali parallele all’asse del cilindro. Petersen parte sul piede di una di queste scanalature verticali e, muovendosi solo lungo i solchi o lungo le circonferenze delle basi, vuole arrivare sulla stessa scanalatura di partenza ma sulla faccia superiore. Può muoversi solo verso l’alto o in senso antiorario. In quanti modi può raggiungere il proprio obiettivo senza mai percorrere due volte lo stesso tratto (ma potendo passare più di una volta in uno stesso punto, anche quello finale)?"
+                },
+                {
+                    "titolo": "Per il destino della tribù",
+                    "argomento": "",
+                    "soluzione": 810,
+                    "numero": 15,
+                    "valore": 96,
+                    "autore": "",
+                    "testo": "Il nuovo re di QuodEratWakandum, T’Chebyschev, ha parlato con Okoye, che gli ha proposto un quesito da cui dipende la pace fra le tribù. Scelto un intero <em>m</em>, bisogna applicare ripetutamente la seguente procedura: si calcolano, in ordine, 2027<em>m</em>/2029, 2029<em>m</em>/2027, <em>m</em>/6, 2029<em>m</em>/2, 2027<em>m</em>/3; non appena una di queste operazioni restituisce un intero, si sostituisce <em>m</em> con il primo intero trovato e si riapplica la procedura. Se nessuno dei valori precedentemente calcolati è un intero, ci si ferma e le tribù si riappacificano. Quanti sono gli interi 1≤<em>m</em>≤2022 che garantiscano la riappacificazione?"
+                },
+                {
+                    "titolo": "Eigen Man e J.A.R.V.I.S.",
+                    "argomento": "",
+                    "soluzione": 6065,
+                    "numero": 16,
+                    "valore": 90,
+                    "autore": "",
+                    "testo": "Eigen Man verifica le abilità matematiche di J.A.R.V.I.S., l’intelligenza artificiale da lui creata. Scrive al touch screen il polinomio <em>x</em><sup>2022</sup>+3<em>x</em><sup>2021</sup>+3<sup>2</sup><em>x</em><sup>2020</sup>+...+3<sup>2020</sup><em>x</em><sup>2</sup>+3<sup>2021</sup><em>x</em>+ 3<sup>2022</sup>; J.A.R.V.I.S., in ogni momento, può:<ul><li> riscrivere il polinomio scritto al touch screen in un qualunque modo come prodotto di polinomi a coefficienti reali e di grado maggiore o uguale a 1; oppure</li><li> cancellare un fattore di secondo grado <em>ax</em><sup>2</sup>+<em>bx</em>+<em>c</em> e sostituirlo con (<em>b</em>−<em>c</em>)<em>x</em>+<em>c</em>.</li></ul> Dopo che J.A.R.V.I.S. ha effettuato un certo numero di mosse, Eigen Man legge al touch screen un polinomio <em>p</em>(<em>x</em>) di primo grado, e si chiede quale sia la soluzione di <em>p</em>(<em>x</em>)=0. \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
+                }
+            ]
+        },/*
+        {
+            "Tipologia": "Nazionale",
+            "SottoTipologia" : "Semifinale Mista",
+            "Anno": 2023,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 1,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 2,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 3,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 4,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 5,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 6,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 7,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 8,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 9,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 10,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 11,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 12,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 13,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 14,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 15,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 16,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 17,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 18,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 19,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 20,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 21,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                }
+            ]
+        },
+        {
+            "Tipologia": "Nazionale",
+            "SottoTipologia" : "Semifinale Mista",
+            "Anno": 2024,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 1,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 2,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 3,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 4,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 5,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 6,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 7,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 8,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 9,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 10,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 11,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 12,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 13,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 14,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 15,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 16,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 17,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 18,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 19,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 20,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 21,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                }
+            ]
+        },
+        */
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
@@ -11493,7 +12040,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 1,
                     "valore": 24,
                     "autore": "",
-                    "testo": ""
+                    "testo": "All’alba dell’8 maggio 1726, Jack Disparrow, Bourbakossa e Elizabeth Somm siedono sbronzi al tavolo di un bar, quando si presenta un giovane dall’aria ingenua che dice di aver saputo che per diventare un π-rata deve rivolgersi in quel bar ai tre π-rati dall’aspetto importante. Tra il serio e il faceto, i tre amici gli sottopongono un quesito piratesco: “Quanti sono gli anni da adesso al 2010 che sono multipli della risposta a questa domanda?”"
                 },
                 {
                     "titolo": "Lotta tra le flotte",
@@ -11502,7 +12049,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 2,
                     "valore": 25,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Nell’epico scontro tra la flotta dei π-rati e quella della Compagnia delle Indie Orientali, come si racconterà per generazioni, le <em>n</em> navi guidate da Capitan Jack Disparrow sconfissero le m navi della flotta di Lord Bracket, dove <em>n</em> ed <em>m</em> sono le soluzioni dell’equazione <em>x</em><sup>2</sup>−126<em>x</em>+3293=0. Sapendo che su ognuna delle n navi di Disparrow c’erano <em>n</em> π-rati e che su ogni nave della Compagnia c’erano <em>m</em> militari, quanti in tutto parteciparono allo scontro?"
                 },
                 {
                     "titolo": "\u03c0-rata nobile e pure esteta",
@@ -11511,7 +12058,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 3,
                     "valore": 35,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Il sanguinario Bourbakossa è sorprendentemente anche un fine esteta e vuole mettere ordine nella sua cantina, dopo il passaggio di Jack. Egli possiede 28 bottiglie identiche di rum, che vuole disporre sulle 7 mensole della sua cabina in modo che:<ul><li>ce ne sia un numero diverso per ogni mensola e</li><li> per ogni <em>n</em>=1,2,...,7 il numero complessivo di bottiglie sulle prime <em>n</em> mensole <em>non</em> sia multiplo di 3.</li></ul>In quanti modi diversi può riempire le mensole, in modo che nessuna di esse risulti vuota?"
                 },
                 {
                     "titolo": "Il pendolo della salvezza",
@@ -11520,7 +12067,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 4,
                     "valore": 26,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Alcuni π-rati sono stati imprigionati dai cannibali in una gabbia che penzola in mezzo ad un burrone e legata ad una lunga fune. Per fuggire devono far oscillare la fune fino ad arrivare alla parete del burrone. Elizabeth calcola che il numero di oscillazioni necessarie è la somma degli interi positivi che sono uguali al quadrato della somma delle proprie cifre. Quante oscillazioni dovranno fare, se i suoi calcoli sono giusti?"
                 },
                 {
                     "titolo": "Pirateria musicale",
@@ -11529,7 +12076,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 5,
                     "valore": 38,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Tutti i π-rati amano la musica, ma quelli veramente puristi non vogliono pagarla, e si limitano a “navigare” fino a che trovano l’occasione propizia per “scaricarla” illegalmente (dalle navi catturate! Che avevate capito!). Jack è sulle tracce di un carico di Menestrelli Pirateschi 3-mendi e per sapere dove intercettare la nave che li trasporta deve trovare tutti i numeri di 4 cifre tali che:<ul><li> la somma della prima e della terza cifra sia uguale alla somma della seconda e della quarta cifra e sia uguale a 9;</li><li> non ci siano due cifre dispari vicine;</li><li> la prima cifra (cioè quella delle migliaia) sia minore della seconda e della quarta.</li></ul> La somma di tutti i numeri che soddisfano questi requisiti rappresenta le coordinate del carico da depredare. Determinare tale somma."
                 },
                 {
                     "titolo": "La corsa mattutina",
@@ -11538,7 +12085,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 6,
                     "valore": 25,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Prima di diventare un temibile π-rata, l’armaiolo e spadaccino dilettante Will Turing si teneva allenato facendo tutti i giorni una corsetta dalla sua bottega nella città alta fin giù al molo, distante 5km, tornando poi per la stessa strada. Will spiega a Elizabeth che nei tratti in piano la velocità media della sua corsa era di 20 km/h; nei tratti in discesa si lanciava fino a raggiungere una media di 30 km/h, mentre in salita (pant... pant... ) non riusciva che a fare i 15 km/h di media. Will sfida Elizabeth a indovinare quanto tempo impiegava tutti i giorni per la sua corsetta. Al massimo, quanti secondi potevano essere?"
                 },
                 {
                     "titolo": "La bussola impazzita",
@@ -11547,7 +12094,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 7,
                     "valore": 58,
                     "autore": "",
-                    "testo": ""
+                    "testo": "La bussola di Jack Disparrow non indica quasi mai il nord. A mezzanotte di un certo giorno la bussola indica il nord e inizia a muoversi seguendo questo algoritmo: ogni 5 minuti l’ago si sposta improvvisamente in avanti di 90 gradi e poi torna altrettanto istantaneamente indietro di un numero di gradi pari a 6 volte il numero dei minuti passati fino a quel momento iniziando a contare dalla mezzanotte. Per quanti minuti nel corso di una settimana la bussola indica esattamente il nord?"
                 },
                 {
                     "titolo": "Osteria dei Sargassi",
@@ -11556,7 +12103,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 8,
                     "valore": 54,
                     "autore": "",
-                    "testo": ""
+                    "testo": "I π-rati della Perla Vera sono a cena presso l’osteria dei Sargassi; vogliono unire 5 tavoli quadrati (facendone combaciare dei lati) in modo da avere un’unica tavolata da 12 posti. (Un posto corrisponde a un lato libero di un quadrato). Quante tavolate soddisfano le richieste, considerando come distinte due tavolate che lo siano a meno di rotazioni (ma non di simmetrie)?"
                 },
                 {
                     "titolo": "Al Perimetro del Mondo",
@@ -11565,7 +12112,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 9,
                     "valore": 68,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Bourbakossa è infine riuscito a sottrarre la Mappa del Perimetro del Mondo al π-rata Sao Feng e la sta studiando comodamente sul suo vascello. Ruotando e spostando i vari pezzi mobili della Mappa, Bourbakossa fa comparire un esagono regolare. Successivamente aggiunge esternamente ad esso tutti i pentagoni regolari che può, in modo che abbiano tutti un lato in comune con la figura precedente, senza che si sovrappongano; ripete la procedura sui pentagoni facendo comparire tutti i possibili quadrati, e sui quadrati aggiungendo tutti i possibili triangoli equilateri, sempre in modo che non ci siano sovrapposizioni con quanto già costruito. Sia <em>a</em> il numero di poligoni regolari che compongono la figura finale e sia <em>b</em> la misura in gradi del più piccolo angolo non nullo che si viene a formare tra due qualsiasi lati con un vertice in comune. Quanto vale <em>ab</em>?"
                 },
                 {
                     "titolo": "Per una mano in pi\u00f9",
@@ -11574,7 +12121,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 10,
                     "valore": 28,
                     "autore": "",
-                    "testo": ""
+                    "testo": "A causa dei continui duelli, la probabilità che un π-rata perda una mano in un combattimento è estremamente elevata. Per questo motivo, nella comunità dei π-rati la base di numerazione decimale è sostituita dalla numerazione in base 5. Ragetti, il mozzo dall’occhio di legno sta facendo il seguente gioco: scrive su un foglio tutti i numeri che, in base 5, si scrivono utilizzando una ed una sola volta tutte le cifre da 0 a 4 (lo 0 può essere anche in posizione iniziale). Infine, calcola la media di tutti i numeri che ha scritto. Che numero ha ottenuto, in base 10?"
                 },
                 {
                     "titolo": "Chi cerca i favori di Davy Jensen?",
@@ -11583,7 +12130,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 11,
                     "valore": 25,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Il π-rata maledetto Davy Jensen ha una borsa che contiene 90 tessere bianche della tombola (numerate da 1 a 90), più 1 singola tessera rosso sangue. Chiunque gli chieda i suoi favori, per sapere per quanti anni ne potrà godere, si sottopone al seguente gioco: estrae le tessere a caso una alla volta, fino a che non esce la tessera rossa. Chi gioca, avrà i favori per tanti anni quante sono le tessere bianche con un numero multiplo di 7 che sono uscite prima di quella rossa. Bill “Sputafuoco” Turing, che osserva in disparte, si domanda mediamente quanti anni si vincano in questo modo. Jack non capisce esattamente cosa intenda il suo collega π-rata, ma suo figlio Will, che ha studiato, gli spiega che tra i tanti modi di definire il numero medio di anni vinti (tutti che portano allo stesso risultato) quello più comune è la somma dei numeri <em>k</em>·<em>p<sub>k</sub></em> dove, per ogni numero naturale 0≤<em>k</em>≤12, <em>p<sub>k</sub></em> è la probabilità che gli anni vinti siano <em>k</em>. Qual è il numero medio di anni vinti? \n<span class='note'>Come risultato fornire il prodotto di numeratore e denominatore della frazione ridotta ai minimi termini</span>"
                 },
                 {
                     "titolo": "La bocca del Cramer",
@@ -11592,7 +12139,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 12,
                     "valore": 59,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Nessuno sa esattamente come sia fatta la bocca del Cramer (almeno nessuno è vissuto per raccontarlo). Una leggenda però parla di una particolare forma triangolare. . . Nel triangolo PQR sia <em>QR</em><<em>PR</em><<em>PQ</em> e sia <em>S</em> l’intersezione fra la bisettrice dell’angolo esterno in <em>P</em> e la retta <em>QR</em>. Sia inoltre <em>T</em> l’intersezione fra la bisettrice dell’angolo esterno in <em>R</em> e la retta <em>PQ</em>. Sapendo che <em>SP</em>=<em>PR</em>=<em>RT</em>, trovare quanto misura l’angolo ∠<em>QRP</em> . Rispondere in minuti di arco. (Un minuto di arco è 1/60 di grado.)"
                 },
                 {
                     "titolo": "Alzare la posta",
@@ -11601,7 +12148,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 13,
                     "valore": 53,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Will Turing non ha mai mandato giù la sua sconfitta nel duello con Jack Disparrow, quando si sono conosciuti. Ogni anno, per 40 anni, si incontrano e duellano: entrambi puntano la stessa somma di denaro e alla fine uno dei due vince e si prende tutto il piatto. Il primo anno la puntata è <em>a</em><sub>1</sub>=2010 dobloni, poi gli anni successivi puntano una somma di denaro data dalla formula <em>a</em><sub><em>n</em>+1</sub>=2<em>a<sub>n</sub></em>+2<em>n</em>−1 dove <em>n</em>= 1,..,39. Alla fine di questa grande sfida di 40 duelli Will risulta colui che ha vinto più dobloni ma Jack è comunque contento perché ha perso il minimo possibile. Quanti dobloni ha vinto Will?"
                 },
                 {
                     "titolo": "Il talismano anti-Cramer",
@@ -11610,7 +12157,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 14,
                     "valore": 46,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Jack è sempre più terrorizzato dal Cramer, che sente ovunque la sua presenza e cerca senza tregua la sua nave. La lady voodoo Tria Geome, usando i suoi poteri Geomistici, lo aiuterà a costruire un talismano che può tenere lontana la creatura. Gli spiega che dovrà fabbricare una sfera di creta sulla cui superficie dovrà tracciare due circonferenze mistiche. Queste circonferenze dovranno avere diametri di 50 e 36 cm, dovranno giacere su piani ortogonali, e dovranno toccarsi in due punti distanti 14 cm. Quanti <em>millimetri</em> dovrà misurare il diametro della sfera di creta?"
                 },
                 {
                     "titolo": "L\u2019organo del capitano",
@@ -11619,7 +12166,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 15,
                     "valore": 44,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Come tutti i capitani malinconici, anche Davy Jensen suona l’organo, e ne ha fatto installare sull’Olandese Secante uno molto particolare, che ha 9999 tasti numerati a 1 a 9999. Di questi tasti sono bianchi tutti e soli quelli il cui numero può essere scritto come ⌊2<em>x</em>⌋+⌊4<em>x</em>⌋+⌊8<em>x</em>⌋+⌊12<em>x</em>⌋ per qualche <em>x</em> reale. Gli altri sono neri. Quanti sono i tasti bianchi? \n<span class='note'>Si ricorda che il simbolo ⌊·⌋ denota la parte intera, quindi se <em>y</em> è un numero reale, ⌊y⌋ denota il più grande intero minore o uguale a <em>y</em>.</span>"
                 },
                 {
                     "titolo": "Il delirio di Jack Disparrow",
@@ -11628,7 +12175,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 16,
                     "valore": 71,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Jack alla fine non è riuscito a sfuggire al Cramer, che se lo è pappato con tutta la Perla Vera. Ora, prigioniero oltre il Perimetro del Mondo, è in preda alle allucinazioni. Dall’albero maestro della Perla Vera guarda in basso e vede 144 granchi sassosi che cominciano a muoversi disponendosi ai vertici di un poligono regolare di 144 lati. Ancora in preda alle allucinazioni si domanda quanti siano i triangoli non congruenti che hanno vertici nei vertici del poligono. Qual è la risposta? \n<span class='note'>Si ricorda che in particolare triangoli simmetrici rispetto ad una retta sono congruenti.</span>"
                 },
                 {
                     "titolo": "Lo scrigno di Davy Jensen",
@@ -11637,7 +12184,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 17,
                     "valore": 92,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Jack e il suo equipaggio sono prigionieri nello scrigno di Davy Jensen, le acque mistiche oltre il Perimetro del Mondo. Al tramonto Capitan Disparrow capisce come tornare nel mondo dei vivi: occorre rovesciare la nave in modo che navighi sottosopra, e contemporaneamente occorre trovare tre interi positivi <em>a</em>, <em>b</em>, <em>c</em>, tali che <em>a</em>+<em>b</em>+<em>c</em>=2010 e che si possano rovesciare anche loro, ottenendo che 1/<em>a</em>+1/<em>b</em>+1/<em>c</em>=1/58. Mentre con un verde baleno i π-rati tornano nel mondo dei vivi, rispondere il minimo comune multiplo dei tre interi."
                 },
                 {
                     "titolo": "La bussola di Jack Disparrow",
@@ -11646,7 +12193,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 18,
                     "valore": 46,
                     "autore": "",
-                    "testo": ""
+                    "testo": "La magica bussola che è in possesso di Jack Disparrow è stata creata da Tria Geome, usando rigorosi criteri Geomistici. La forma della bussola infatti è un esagono ottenuto come segue: si parte da un triangolo rettangolo con cateti che misurano un numero intero di mm; si costruiscono sui suoi lati i tre quadrati (esterni); si uniscono infine a due a due i vertici dei quadrati che non stanno sul triangolo, in modo da ottenere un esagono convesso. Sapendo che l’area dell’esagono misura 1922 mm<sup>2</sup>, determinare l’area del triangolo di partenza."
                 },
                 {
                     "titolo": "Il cruccio di Cutler Bracket",
@@ -11655,7 +12202,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 19,
                     "valore": 30,
                     "autore": "",
-                    "testo": ""
+                    "testo": "La fratellanza dei π-rati nobili si raduna in un luogo segreto detto la Città dei Relitti. Per comunicarne le coordinate ai nuovi affiliati, si usano dei messaggi in codice, comprensibili solo da veri π-rati. Lord Bracket ne ha intercettato uno e da un po’ si scervella senza successo: “Le coordinate sono tre numeri interi positivi a,b, c tali che nessuno dei tre è multiplo di un altro,\n&emsp;&emsp; mcm(<em>a</em>,<em>b</em>)·mcm(<em>b</em>,<em>c</em>)·mcm(<em>a</em>,<em>c</em>)=<em>a</em>·<em>b</em>·<em>c</em>·MCD(<em>a</em>,<em>b</em>,<em>c</em>)\n e il valore di <em>a</em>+<em>b</em>+<em>c</em> è il minimo possibile.” Quanto vale <em>a</em>+<em>b</em>+<em>c</em>?"
                 },
                 {
                     "titolo": "Il cane con le chiavi",
@@ -11664,7 +12211,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 20,
                     "valore": 30,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Dopo l’ennesimo voltafaccia, Jack Disparrow è rinchiuso in una cella dell’Olandese Secante. Immancabilmente compare Spiffy, il cane con le chiavi, e Jack tenta di attirarlo senza successo. Dal buio della cella emerge Bill “Sputafuoco” Turing, che gli spiega: “Il cane risponde solo a chi conosce i numeri magici a e b e pronuncia il loro prodotto. Ti darò qualche indizio: a è un intero positivo di due cifre distinte; b si ottiene da a scambiandone le cifre; la differenza <em>a</em><sup>2</sup>−<em>b</em><sup>2</sup> è un quadrato perfetto ed è, inoltre, la minima possibile.” Che numero deve pronunciare Jack per attirare Spiffy?"
                 },
                 {
                     "titolo": "Le due mappe",
@@ -11673,7 +12220,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 21,
                     "valore": 132,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Esistono due mappe che conducono all’Isla de Mono. Sulla prima mappa, di forma quadrata e di lato 1726 miglia, i 4 porti maggiori della Compagnia delle Indie orientali si trovano ognuno su un lato; per una strana coincidenza, la seconda mappa ha questi stessi quattro porti come vertici, ha ancora forma quadrata, ma ha lato 1250 miglia. Entrambe le mappe sono divise in quadratini di lato 1 miglio con linee color sangue parallele ai lati. Jack sa che, sia nella prima che nella seconda mappa, l’Isla de Mono sta esattamente all’incrocio di due delle linee color sangue (compresi i bordi delle mappe). Non sa però quali siano queste linee. Quanti sono in tutto i punti in cui può trovarsi l’isola?"
                 },
                 {
                     "titolo": "Il segreto di Monkey Island<sup>TM</sup>",
@@ -11682,7 +12229,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 22,
                     "valore": 80,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Tutti i π-rati con qualche anno sulle spalle hanno sentito parlare del favoloso tesoro nascosto nella perduta Isla de Mono; la leggenda narra che il tesoro sia sepolto in un punto dell’isola in cui l’altitudine è di almeno 5 metri. Tria Geome possiede forse l’unica mappa dell’isola, dalla quale si deduce che:<ul><li>la pianta è un pentagono circoscrittibile (ovvero che ammette una circonferenza inscritta, tangente a tutti i lati);</li><li> la profondità del mare attorno all’isola è pari a π<sup>1/2</sup> volte la distanza minima dalla costa misurata sulla cartina, mentre l’altitudine di ogni punto della superficie dell’isola è pari a π<sup>1/2</sup>/2 moltiplicato per la minima distanza di quel punto dall’acqua, misurata sulla cartina;</li><li> l’area racchiusa sulla cartina dai punti che sono a 1 metro di profondità è 12343 m<sup>2</sup> mentre quella racchiusa dai punti che sono a 3 metri di profondità è 12835 m<sup>2</sup>.</li></ul> Quanti m<sup>2</sup> misura sulla cartina la parte dell’isola nella quale secondo la leggenda si può trovare il tesoro?"
                 },
                 {
                     "titolo": "Una trappola per i polli.",
@@ -11691,7 +12238,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 23,
                     "valore": 45,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Appiedato a Tortuga, Mastro Gibbs si guadagna da vivere truffando i passanti con il gioco d’azzardo. Il malcapitato estrae a caso da un sacchetto un numero da 1 a 10000. Inizia quindi iterativamente a sostituirlo con il prodotto delle sue cifre, e perde se in un qualunque momento scende strettamente sotto 9. Vince invece se riesce a ottenere indefinitamente numeri non inferiori a 9. Qual è la probabilità di vincere? \n<span class='note'>Come risultato fornire il prodotto di numeratore e denominatore della frazione ridotta ai minimi termini</span>"
                 },
                 {
                     "titolo": "La Citt\u00e0 dei Relitti",
@@ -11700,7 +12247,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 24,
                     "valore": 107,
                     "autore": "",
-                    "testo": ""
+                    "testo": "La roccaforte inespugnabile della fratellanza dei π-rati nobili è costruita interamente con il legno dei relitti di navi arenate. La forma è quella di quattro coni identici, appoggiati su un terreno piatto in modo che i vertici si tocchino, le loro superfici laterali siano tangenti al terreno su 4 segmenti uguali e perpendicolari che formano una croce e due coni adiacenti abbiano le superfici laterali tangenti. Scrivere le prime quattro cifre dopo la virgola del rapporto tra l’altezza e il raggio di base dei coni."
                 }
             ]
         },
@@ -13874,7 +14421,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1732,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 28,
                     "autore": "",
                     "testo":"Nella regione di Kantor, nella città di Biancavillani, le case di nAsh e di Green  posizionate in <em>A</em> e <em>B</em> rispettivamente) e il laboratorio del prof. oaT (posizionato in <em>L</em>) formano un triangolo inscritto in una circonferenza di raggio 2000. nAsh e Green muovono i loro primi passi per diventare Campioni della Lega Mathémon camminando sui segmenti che congiungono le loro case al laboratorio. Se <em>M</em> è il punto medio di <em>AB</em> e in un certo istante nAsh e Green si trovano rispettivamente nei punti <em>N</em> e <em>G</em> tali che ∠<em>MNA</em>=∠<em>MAN</em>=70° e ∠<em>MGB</em>=∠<em>MBG</em>=80°, quanto vale il raggio della circonferenza circoscritta a <em>NGL</em>?"
                 },
@@ -13883,7 +14430,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 582,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 28,
                     "autore": "",
                     "testo":"«Viva i Mathémon, tosti e...». Il distratto nAsh viene richiamato dal prof. oaT: «Ehi, aspetta nAsh, non andare! È pericoloso! Non puoi avventurarti nell’erba alta senza Mathémon! Te ne darò uno, Picauchy, se saprai rispondere alla seguente domanda. Detto <em>p</em>(<em>n</em>) = MCD(1,<em>n</em>)·MCD(2,<em>n</em>)···MCD(<em>n</em>−1,<em>n</em>)·MCD(<em>n</em>,<em>n</em>), quanto vale la somma di tutti i possibili valori di <em>n</em> tali che che l’esponente di 2 nella fattorizzazione di <em>p</em>(<em>n</em>) è esattamente 105?»"
                 },
@@ -13892,7 +14439,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 6855,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 33,
                     "autore": "",
                     "testo":"«Nonno, non ce la faccio più ad aspettare!». A queste parole, il prof. oaT ribatte: «Abbi un po’ di pazienza, Green. Ce n’è uno anche per te. Dimmi solo quanto vale <em>s</em>(2310), dove <em>s</em>(<em>n</em>)=MCD(1,<em>n</em>) +MCD(2,<em>n</em>) +...+MCD(<em>n</em>−1,<em>n</em>) +MCD(<em>n</em>,<em>n</em>).»"
                 },
@@ -13901,7 +14448,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 499,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 48,
                     "autore": "",
                     "testo":"Ad ognuno degli infiniti allenatori all’inizio del loro viaggio viene assegnato un polinomio identificativo <em>p</em>(<em>x</em>) a coefficienti interi, in modo che ad ogni polinomio a coefficienti interi sia associato uno e un solo allenatore. La Scheda Allenatore, per semplicità, non riporta <em>p</em>(<em>x</em>), bensì il suo <em>carattere</em>, definito come la differenza tra il quadrato della somma dei coefficienti di grado pari e il quadrato della somma dei coefficienti di grado dispari. Due allenatori si dicono <em>compatibili</em> se le loro Schede Allenatore riportano lo stesso carattere. Determinare, al variare di tutte le coppie di allenatori tra loro compatibili, il massimo numero primo che divide sempre <em>p</em>(999)<em>p</em>(−999)−<em>q</em>(999)<em>q</em>(−999), dove <em>p</em> e <em>q</em> sono i polinomi identificativi dei due allenatori."
                 },
@@ -13910,7 +14457,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 69,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 32,
                     "autore": "",
                     "testo":"Durante la sfida alla prima palestra della regione di Kantor, nAsh chiede a RosenBrock quanti massi compongano il suo enorme Mathémon di tipo Roccia: «Il loro numero è tale che, per scrivere il suo quadrato e il suo cubo, utilizzi tutte le cifre decimali, ciascuna una sola volta.» Quanti massi compongono il Mathémon di RosenBrock?"
                 },
@@ -13919,7 +14466,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 12,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 42,
                     "autore": "",
                     "testo":"Prima di sfidare Mistyrling, nAsh deve affrontare 8 sfide, ciascuna contro una coppia composta da un allenatore e una allenatrice. Ogni allenatore o allenatrice manderà in campo uno tra Squilbert e Goldbacheen, in modo tale che nessuna coppia mandi in campo due Mathémon uguali. nAsh sa che, per 1≤<em>i</em>≤4, almeno uno tra l’allenatore della sfida <em>i</em> e l’allenatore della sfida 2<em>i</em> manderà in campo Squilbert, e che almeno una tra l’allenatrice della sfida <em>i</em> e l’allenatrice della sfida <em>i</em>+1 manderà in campo Squilbert. Quanti sono i casi possibili? \n<span class='note'>Nota: per “casi possibili” si intendono i modi di associare ad ognuna delle 16 persone un Mathémon tra Squilbert e Goldbacheen.</span>"
                 },
@@ -13928,7 +14475,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 169,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 35,
                     "autore": "",
                     "testo":"Il terzo capopalestra, Lt. Surgermaine, è noto per adoperare i suoi Mathémon di tipo Elettro, perfettamente circolari, Voltorbicelli ed Electrotele. Il suo schieramento di battaglia consiste in un triangolo <em>ABC</em> di lati <em>AB</em>=5, <em>AC</em>=12, <em>BC</em>=13, con un Voltorbicelli inscritto in <em>ABC</em>, tangente ad <em>AB</em> in <em>D</em> e ad <em>AC</em> in <em>E</em>. In seguito, manda in campo due Electrotele: uno si posiziona tangente ad <em>AB</em> in <em>D</em>, alla retta <em>BC</em> e al Voltorbicelli, l’altro si posiziona tangente ad <em>AC</em> in <em>E</em>, alla retta <em>BC</em> e al Voltorbicelli. Quanto vale l’area del triangolo formato dal centro del Voltorbicelli e dai centri dei due Electrotele?"
                 },
@@ -13937,7 +14484,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 58,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 60,
                     "autore": "",
                     "testo":"I Mathémon, si sa, possono essere depositati nei PC in box formati da 44 righe e 48 colonne. nAsh dedica il box numero 1 alle famiglie con tre stadi evolutivi, come Charmangardner, Charmilnor e Charizhardy, disponendo i Mathémon secondo la seguente regola: per ciascuna famiglia evolutiva, i primi due Mathémon devono trovarsi sulla stessa riga e su colonne adiacenti, mentre il terzo deve trovarsi sulla riga successiva e sulla stessa colonna di uno dei primi due. nAsh riesce ad occupare completamente tutti i posti che non sono nell’ultima riga o nell’ultima colonna, mentre solo <em>N</em> posti sul totale dei 91 rimanenti risultano occupati. Quanto vale <em>N</em>?"
                 },
@@ -13946,7 +14493,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8278,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 33,
                     "autore": "",
                     "testo":"A metà del suo viaggio nella regione di Kantor, il MathéDex di nAsh si compone di 40 Mathémon, numerati da 1 a 40. Quante sono le possibili squadre di 4 Mathémon distinti che nAsh può scegliere in modo che la somma dei loro numeri di MathéDex sia divisibile per 5?"
                 },
@@ -13955,7 +14502,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 17,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 88,
                     "autore": "",
                     "testo":"Arrivato a Lavoisonia, nAsh trova tante persone che vogliono andarsene, disturbate da suoni sinistri. Decide di aiutare Mr. Fujulia, che deve traslocare la sua preziosa raccolta di MT (“Matematiche Temibili”). Ogni MT consiste in un quadrato rigido di lato 20 cm e 1mm di spessore. Lo scatolone in cui bisogna metterli è un cubo di spigolo 30 cm. Per non rovinarne la custodia, ogni MT deve essere collocata o in orizzontale, o in verticale con un lato orizzontale. Per quanto ci provi, nAsh non riesce a riempire lo scatolone completamente. Quant’è al massimo la frazione di volume che riesce a riempire ? \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
@@ -13964,7 +14511,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 248,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 62,
                     "autore": "",
                     "testo":"Nel casinò di Azzurroppoli, nAsh si imbatte in un poster sospetto, recante l’immagine di un triangolo di lati 306, 408 e 510, contenente tre cerchi di raggio 2, ciascuno tangente a due dei lati del triangolo. Tastando il poster, nAsh si accorge della presenza di un quarto cerchio, tangente esternamente ad ognuno dei primi tre. Tale cerchio è un pulsante, che apre l’accesso al nascondiglio del Team Rockenujan! Quanto vale il raggio del pulsante?"
                 },
@@ -13973,7 +14520,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 36,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 42,
                     "autore": "",
                     "testo":"Uno Snoetherlax addormentato blocca la strada! Per svegliarlo nAsh deve suonare il Mathé Flauto, ma non sa quali siano le note corrette. Gli infiniti fori sul Mathé Flauto sono etichettati dai numeri interi. Mr. Fujulia rivela a nAsh che ogni nota della melodia è ottenuta chiudendo una coppia di fori (<em>x</em>,<em>y</em>) tali che <em>x</em><sup>2</sup>+36<em>y</em><sup>2</sup>+4<em>x</em><sup>2</sup><em>y</em><sup>2</sup>+4<em>x</em><sup>2</sup><em>y</em>−24<em>xy</em><sup>2</sup>+48<em>xy</em>+30<em>x</em>−180<em>y</em>+232 sia un quadrato perfetto. Quanto vale la somma dei possibili valori distinti che può assumere <em>x</em>?"
                 },
@@ -13982,7 +14529,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 20,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 130,
                     "autore": "",
                     "testo":"Una volta appresa la MN Volo (“Matematica Non Volontaria”), nAsh consulta la mappa di Kantor per decidere in quale città spostarsi. Nota che ogni città è collegata ad esattamente altre 3 città da altrettante strade (inclusi i ben noti passaggi sotterranei); inoltre, partendo da una qualunque città, è possibile raggiungere ogni altra città percorrendo al più 3 strade. Quante città ci sono al massimo nella regione di Kantor?"
                 },
@@ -13991,7 +14538,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 176,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 39,
                     "autore": "",
                     "testo":"«Ahahah! Sono Kogalois, il capopalestra di tipo Veleno. Baricentriche, LTE, Combinatorial Nullstellensatz: ti distruggerò con le mie infide tecniche! Dimostrami quanto vali trovando i numeri naturali di due cifre <em>a</em>, <em>b</em>, <em>c</em> per cui 4<em>a</em>+4<em>b</em>+4<em>c</em>+<em>abc</em>=2439+2<em>ab</em>+2<em>bc</em>+2<em>ca</em>, con <em>a</em><<em>b</em><<em>c</em>. Quanto vale <em>ab</em>−<em>c</em>?»"
                 },
@@ -14000,7 +14547,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1476,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 58,
                     "autore": "",
                     "testo":"Esplorando le rovine della Villa Mathémon sull’Isola Matenella, nAsh si imbatte nei mostruosi calcoli di Giovandelbrot e Mr. Fujulia per creare il Mathémon più forte di sempre: Newtwo! Se (<em>x<sub>n</sub></em>,<em>y<sub>n</sub></em>) sono coppie di numeri reali tali che per ogni <em>n</em>≥1 valgono <em>y<sub>n</sub></em>=<em>x<sub>n</sub></em>/2·(−1+(1+4/<em>x<sub>n</sub></em><sup>3</sup>)<sup>1/2</sup>) e <em>y<sub>n</sub>x<sub>n</sub></em>=−<em>n</em>, la nascita di Newtwo era prevista dopo un numero di giorni pari a 1/|<em>x</em><sub>1</sub>+<em>y</em><sub>1</sub>|+1/|<em>x</em><sub>2</sub>+<em>y</em><sub>2</sub>|+...+1/|<em>x</em><sub>151</sub>+<em>y</em><sub>151</sub>|. «Quindi, nAsh, quanti giorni ha richiesto la creazione di Newtwo?» chiede in seguito il prof. oaT."
                 },
@@ -14009,7 +14556,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1791,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 26,
                     "autore": "",
                     "testo":"Finalmente giunto sull’AltoIperpiano Blu, nAsh deve affrontare le ultime sfide che lo separano dal titolo di Campione della Lega Mathémon: i SuperQuattro Problemi! Il primo consiste in questo: qual è la soluzione positiva dell’equazione (5−<em>x</em>)<sup>1/2</sup>=5−<em>x</em><sup>2</sup>?\n<span class='note'>Dare come risposta la soluzione moltiplicata per 1000.</span>"
                 },
@@ -14018,7 +14565,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2121,
                     "numero": 17,
-                    "valore": -1,
+                    "valore": 28,
                     "autore": "",
                     "testo":"Nella stanza del secondo SuperQuattro, nAsh si trova di fronte ad <em>n</em> esemplari dell’<em>n</em>-esimo Mathémon del MathéDex di Kantor, per ogni 1≤<em>n</em>≤2021. Il Mathémon di numero di MathéDex 1 compie 2021 passi; i Mathémon di numero di MathéDex 2 compiono 2020 passi ciascuno, e così via, fino ai Mathémon di numero di MathéDex 2021, che compiono 1 passo ciascuno. Ogni volta che un Mathémon compie un passo lascia una impronta; due Mathémon hanno impronte uguali se e solo se hanno stesso numero di MathéDex. Al massimo, quante volte è presente una data impronta?"
                 },
@@ -14027,7 +14574,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 45,
                     "numero": 18,
-                    "valore": -1,
+                    "valore": 48,
                     "autore": "",
                     "testo":"Una volta entrato nella stanza del terzo SuperQuattro, nAsh si accorge che essa è perfettamente circolare, con le pareti rivestite da specchi. Un biglietto attaccato sulla parete recita: “Posiziona Picauchy nel punto diametralmente opposto a questo e fagli colpire questo biglietto con un un lampo di luce che rimbalzi al più 9 volte sulle pareti prima di giungere qui.” In quante possibili direzioni Picauchy potrà sparare il suo lampo di luce? \n<span class='note'>Il primo rimbalzo, se c’è, deve avvenire in un punto della circonferenza distinto da quello in cui è presente Picauchy</span>"
                 },
@@ -14036,7 +14583,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1504,
                     "numero": 19,
-                    "valore": -1,
+                    "valore": 37,
                     "autore": "",
                     "testo":"nAsh: «Prof. oaT, non pensavo che nella regione di Kantor vivessero i Num...». Prof. oaT: «C’è tempo e luogo per ogni cosa, ma non ora! Concentrati sull’ultimo SuperQuattro! Devi calcolare il resto della divisione per 47<sup>2</sup> del numero 1<sup>46<em>c</em>+1</sup>+2<sup>46<em>c</em>+1</sup>+...+2021<sup>46<em>c</em>+1</sup>.» nAsh: «L’ho risolto, ma solo per <em>c</em>=5, e la soluzione è... Ora sono il Campione della Lega Mathémon!» Prof. oaT: «Lo saresti stato, se un allenatore non avesse risolto i Problemi prima di te. Il suo nome è...». <em>Quale numero ha detto nAsh al prof. oaT</em>?"
                 },
@@ -14045,7 +14592,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 73,
                     "numero": 20,
-                    "valore": -1,
+                    "valore": 120,
                     "autore": "",
                     "testo":"Green: «Campione della Lega Mathémon! nAsh! Sai cosa significa? Sono l’allenatore migliore del mondo!» nAsh: «Non credo, Green. Vedi, il simbolo della Lega Mathémon è composto da quattro Mathé Ball circolari: la prima, Γ, ha raggio 20; la seconda e la terza, Γ<sub>1</sub> e Γ<sub>2</sub>, hanno raggio 5 e 15 e sono tangenti internamente a Γ in due punti <em>A</em>, <em>B</em> tali che <em>AB</em>=32; la quarta è tangente a Γ<sub>1</sub>, Γ<sub>2</sub> e al maggiore dei due archi <em>AB</em> di Γ. Un vero Campione saprebbe calcolare al volo il raggio di quest’ultima.» Green: «...cosa? Non può essere! Non è giusto!» <em>Qual è il raggio della quarta Mathé Ball</em>? \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
@@ -14054,12 +14601,604 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 259,
                     "numero": 21,
-                    "valore": -1,
+                    "valore": 126,
                     "autore": "",
                     "testo":"nAsh è giunto alla fine del suo viaggio per la regione di Kantor. Mentre ammira tutti i suoi Mathémon nel giardino del prof. oaT, si accorge che questo è composto da tante aiuole, a due a due non congruenti. Le forme delle aiuole sono tutti i triangoli non degeneri con lati interi, perimetro minore di 60 e con un angolo pari al doppio di un altro. La mamma di nAsh, vedendo il figlio pensoso, gli concede: «Se saprai trovare la somma dei loro perimetri, avrai il permesso di andare ad allenarti sul monte Argel’fand.». Quanto vale questa somma?"
                 }
             ]   
         },
+        {
+            "Tipologia": "Nazionale",
+            "SottoTipologia" : "Finale Mista",
+            "Anno": 2022,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "Stuzzicadenti intrecciati",
+                    "argomento": "",
+                    "soluzione": 8025,
+                    "numero": 1,
+                    "valore": 40,
+                    "autore": "",
+                    "testo": "Convex Hulk, a tavola, si diverte a giocare con degli stuzzicadenti tutti uguali, sovrapponendoli in vari modi sul tavolo e contando i vari rettangoli che abbiano per vertici le intersezioni degli stuzzicadenti e i lati lungo porzioni degli stuzzicadenti stessi. Qual è il numero massimo di rettangoli che riesce a contare se ha a disposizione 2022 stuzzicadenti?\n<span class='note'>Dare come risposta le ultime 4 cifre del risultato.</span>"
+                },
+                {
+                    "titolo": "Infiltrati Kree",
+                    "argomento": "",
+                    "soluzione": 43,
+                    "numero": 2,
+                    "valore": 132,
+                    "autore": "",
+                    "testo": "2022 soldati Skrull sono in fila sull’attenti. Tra di loro ci sono alcuni traditori Kree che devono essere scoperti. Capitan Mordell interroga ognuno di loro ed ognuno risponde così: «Tra i miei vicini almeno uno è un Kree o esattamente uno non lo è (o entrambe, chiaramente)». Purtroppo i Kree mentono sempre, mentre gli Skrull sono sempre onesti. Detto <em>N</em> il numero delle possibili stringhe di K e S lunghe 2022 (dove con K e S si intende Kree e Skrull rispettivamente) che soddifano gli esiti delle interrogazioni, si dia come risposta <em>N</em> (mod 60), cioé il resto di <em>N</em> nella divisione per 60."
+                },
+                {
+                    "titolo": "Un cono tagliato",
+                    "argomento": "",
+                    "soluzione": 300,
+                    "numero": 3,
+                    "valore": 132,
+                    "autore": "",
+                    "testo": "Il Dr. Stringa sta lanciando un incantesimo per creare uno scudo mistico attorno ai sup-ereroi. Prima di tutto traccia per terra un simbolo magico composto da un quadrato di lato 10m e dal cerchio circoscritto ad esso. Poi crea una barriera di luce che ha la forma della superficie laterale di un cono retto di altezza 20m, con base il cerchio tracciato. Infine traccia a partire dai lati del quadrato quattro muri diritti perpendicolari al terreno e infinitamente alti. Qual è l’area del “tetto” di questa barriera, composto dalla parte di cono all’interno delle quattro pareti?"
+                },
+                {
+                    "titolo": "Area relax",
+                    "argomento": "",
+                    "soluzione": 1011,
+                    "numero": 4,
+                    "valore": 26,
+                    "autore": "",
+                    "testo": "Square Groot ha bisogno di riposo e di crescere sano, per cui Bracket decide di interrarne le radici in un terreno di forma triangolare <em>ABC</em>, con ortocentro <em>H</em>, circocentro <em>O</em> ed <em>M</em> punto medio del lato <em>BC</em>. Siano <em>D</em>, <em>E</em> ed <em>F</em> i piedi delle altezze relative ai lati <em>BC</em>, <em>AC</em> e <em>AB</em> rispettivamente, e sia inoltre <em>X</em>, compreso tra <em>A</em> ed <em>H</em>, l’intersezione tra la circonferenza circoscritta a <em>EMF</em> e <em>AH</em>. Sapendo che l’area di <em>AHM</em> vale 2022, quanto vale l’area di <em>XMO</em>?"
+                },
+                {
+                    "titolo": "Un riscaldamento contoso",
+                    "argomento": "",
+                    "soluzione": 2601,
+                    "numero": 5,
+                    "valore": 53,
+                    "autore": "",
+                    "testo": "Appena giunti su Titano, il pianeta natale di tanh(os), Dr. Stringa si accinge a calcolare in quanti dei possibili futuri gli Avengers usciranno vittoriosi. Prima di un calcolo così complicato ha però bisogno di un riscaldamento e chiede ad Eigen Man un problema contoso da risolvere. Eigen man: «Prova questo! Hai <em>p</em>(<em>x</em>)=<em>x</em><sup>3</sup>+<em>ax</em><sup>2</sup>+<em>bx</em>+<em>c</em> un polinomio di terzo grado. Dette <em>x</em><sub>1</sub>,<em>x</em><sub>2</sub>,<em>x</em><sub>3</sub> le sue radici, sai che <em>x</em><sub>1</sub>, <em>x</em><sub>2</sub>, <em>x</em><sub>3</sub>, <em>x</em><sub>1</sub><em>x</em><sub>2</sub><em>x</em><sub>3</sub> sono numeri interi in modulo minori o uguali a 51 e che <em>x</em><sub>1</sub>+<em>x</em><sub>2</sub>+<em>x</em><sub>3</sub> è un numero pari. Quanto vale, al massimo, <em>b</em>?» Dr. Stringa: «Elementare! Purtroppo i futuri in cui vinciamo sono molti di meno...» Qual era la risposta al problema proposto da Eigen Man?"
+                },
+                {
+                    "titolo": "Il cuore triangolare di una stella morente",
+                    "argomento": "",
+                    "soluzione": 7924,
+                    "numero": 6,
+                    "valore": 120,
+                    "autore": "",
+                    "testo": "CanThor ha raggiunto NidaVennir e incontrato Ei3 ed è ora pronto a forgiare la sua nuova arma. Per riaccendere la fucina dovrà risvegliare il cuore di una stella morente. La fucina, la stella e la navicella formano un triangolo rettangolo <em>ABC</em>, con cateti che misurano 426 e 120(3)<sup>1/2</sup> km. CanThor deve ora scegliere una distanza d in modo che sia possibile costruire un triangolo equilatero <em>A'B'C'</em> (anche detto triangolo stellare di fusione, in gergo nanico) tale che <em>AA'</em>=<em>BB'</em>=<em>CC'</em>=<em>d</em>, in tale modo la stelle potrà rinascere. CanThor: «Proviamo intanto con una distanza d di un chilometro» Ei3: «Così perderai solo tempo, è troppo piccola!» Qual è il minimo valore di <em>d</em><sup>2</sup> in chilometri tale che sia possibile riaccendere la stella e forgiare Stormbreaker?"
+                },
+                {
+                    "titolo": "Energia da dimensioni parallele",
+                    "argomento": "",
+                    "soluzione": 4088,
+                    "numero": 7,
+                    "valore": 120,
+                    "autore": "",
+                    "testo": "Quando Dr. Stringa deve creare uno scudo mistico o lanciare un incantesimo, inizia ad agitare le mani in aria per tracciare rette di pura energia. Durante la battaglia su Titano, Spline-Man osserva Stringa che traccia le sue rette, ma è molto di cile da seguire. Dr. Stringa traccia inizialmente un quadrato <em>ABCD</em>; chiamati <em>M</em> ed <em>N</em> i punti medi di <em>AB</em> e <em>BC</em>, rispettivamente, egli sceglie poi <em>P</em> e <em>Q</em> rispettivamente sui segmenti <em>NC</em>, <em>BN</em>. Dopodiché il mago supremo traccia le rette <em>s</em>, <em>r</em> passanti per <em>A</em> e rispettivamente parallele a <em>MP</em> e <em>MQ</em>. Poi si focalizza sui punti <em>R</em>=<em>s</em>∩<em>DC</em> e <em>T</em>=<em>r</em>∩<em>DC</em> ed infine illumina di energia i punti <em>S</em>=<em>TQ</em>∩<em>AB</em> e <em>G</em>=<em>RP</em>∩<em>AB</em>. E finalmente lo scudo di energia è pronto. Spline-Man non è riuscito a seguire tutti i passaggi, ma è sicuro che <em>RG</em> misuri 2017 pollici energetici e <em>RT</em> ne misuri 2071. Quanto vale <em>SG</em>+<em>ST</em> (in pollici energetici)?"
+                },
+                {
+                    "titolo": "L’attacco degli outrider",
+                    "argomento": "",
+                    "soluzione": 2375,
+                    "numero": 8,
+                    "valore": 39,
+                    "autore": "",
+                    "testo": "L’esercito di tanh(os) e i suoi seguaci sono giunti nel QuodEratWakandum per uno scontro con il gruppo di Avengers rimasti sulla Terra. Il terreno di battaglia è una scacchiera 8×8 e le navicelle del titano pazzo cariche di outrider cominciano a schiantarsi nella casella in basso a sinistra. Un outrider può muoversi solo in alto o a destra sulla scacchiera (e parte da dove è atterrata la sua navicella, cioè in basso a sinistra). Il Dr. Banner, che indossa la Convex Hulkbuster, si domanda quanti siano i percorsi che uno degli outrider può fare tale che termini nella metà superiore del campo di battaglia. Qual è il numero che Banner sta cercando?"
+                },
+                {
+                    "titolo": "Gemma iperpoligonale",
+                    "argomento": "",
+                    "soluzione": 52,
+                    "numero": 9,
+                    "valore": 80,
+                    "autore": "",
+                    "testo": "Schuri sta cercando di estrarre la gemma della mente da Visione Prospettica senza ucciderlo. L’alloggiamento della gemma sulla fronte di Visione Prospettica ha la forma di un icosaedro regolare e Schuri sa che deve evidenziare un poligono regolare nell’alloggiamento per effettuare l’estrazione. Quanti sono i poligoni regolari i cui vertici sono anche vertici dell’icosaedro?"
+                },
+                {
+                    "titolo": "Superscudi della tribù del confine",
+                    "argomento": "",
+                    "soluzione": 4186,
+                    "numero": 10,
+                    "valore": 122,
+                    "autore": "",
+                    "testo": "La battaglia contro il temibile esercito di tanh(os) imperversa e tra le fila degli Avengers militano anche i leggendari guerrieri di QuodEratWakandum della tribù del confine. Ogni guerriero possiede uno scudo di vibranio rettangolare che ha per lati dei numeri interi di piedi wakandiani compresi tra 1 e 20. Ogni scudo <em>S</em> possiede un coefficiente di resistenza <em>C<sub>S</sub></em>=<em>p</em><sup>2</sup>−2<em>A</em>, dove <em>p</em> è il suo semiperimetro ed <em>A</em> la sua area. Due guerrieri possono saldare i loro scudi lungo un lato per formare un superscudo ancora rettangolare, il cui coefficiente di resistenza è il prodotto dei coefficienti di resistenza degli scudi che lo compongono. Un superscudo diventa indistruttibile se il suo coefficiente di resistenza può essere scritto come somma di due quadrati perfetti non nulli. Quanti superscudi diversi sono indistruttibili?\n<span class='note'>Il superscudo formato con gli scudi (8,12) e (12,3) è lo stesso di (3,12) e (8,12) perché il rettangolo con la saldatura è identico nei due casi, mentre gli scudi (4,8) e (8,4) formano due superscudi diversi e vanno contati due volte.</span>"
+                },
+                {
+                    "titolo": "Non solo fiori e conchiglie seguono Fibonacci",
+                    "argomento": "",
+                    "soluzione": 3,
+                    "numero": 11,
+                    "valore": 34,
+                    "autore": "",
+                    "testo": "Cinque anni dopo lo schiocco che ha ucciso metà delle forme di vita dell’universo, alcuni Avengers rimasti si riuniscono telematicamente. \n<span class='sogg'>Nash-ata</span> Carol ti vedremo qui il mese prossimo? (<em>riferendosi a Captain Mordell</em>). \n<span class='sogg'>Capitan Mordell</span> Improbabile: le cose che accadono sulla terra stanno accadendo ovunque. La mappa del nostro vasto universo è una griglia <em>n</em>×<em>n</em> di celle (con <em>n</em> intero positivo). Nella prima e seconda cella sono presenti rispettivamente nessuna e una galassia. Inoltre in ognuna delle celle successive è presente la somma delle galassie presenti nelle due celle precedenti (le celle sono ordinate da in alto a sinistra fino in basso a destra, da sinistra a destra in ogni riga). \n<span class='sogg'>Bracket</span> Sarebbe proprio un universo interessante se esistessero una riga e una colonna di celle che possiedono lo stesso numero di galassie!.\n Quanti sono i possibili <em>n</em>≥1 per cui la richiesta di Bracket è soddisfatta?"
+                },
+                {
+                    "titolo": "Autovalori di particelle e stringhe spaziotemporali",
+                    "argomento": "",
+                    "soluzione": 337,
+                    "numero": 12,
+                    "valore": 36,
+                    "autore": "",
+                    "testo": "Eigen Man è alle prese con Friday per capire se è possibile sfruttare il regno quantico per viaggiare nel tempo. \n<span class='sogg'>Eigen Man</span> Dammi l’autovalore di quella particella, includendo la decomposizione spettrale. Ci vorrà poco! \n<span class='sogg'>Friday</span> Non è così semplice! Ogni simulazione richiede di autoannullare una stringa spaziotemporale molto intricata. (<em> Nel frattempo sbuca deMorgan, la figlia di Eigen Man</em>)  \n<span class='sogg'>deMorgan</span> Papà, cosa vuol dire autoannullare una stringa spaziotemporale? \n<span class='sogg'>Eigen Man</span> Signorinella, perché ancora in piedi? Dovresti essere già a dormire! Una stringa spaziotemporale è una stringa di numeri (<em>a</em><sub>0</sub>,...,<em>a<sub>k</sub></em>) con <em>k</em>≥3, tale che <em>a</em><sub>0</sub>+<em>a</em><sub>1</sub>+<em>a</em><sub>2</sub>+...+<em>a<sub>k</sub></em>=0 e inoltre abbia la proprietà che <em>a</em><sub>1</sub>+2<em>a</em><sub>2</sub>+3<em>a</em><sub>3</sub>+...+<em>k</em>·<em>a<sub>k</sub></em>=2022. Autoannullarla vuol dire annullare tutti i suoi elementi eseguendo (anche più di una volta) questa mossa: prendi 4 numeri consecutivi e, da sinistra a destra, aggiungi 4, togli 7, aggiungi 8 e togli 5. \n<span class='sogg'>Friday</span> Allora, piccola genio, se sai che posso autoannullarla, quante mosse ci vorrano al minimo?"
+                },
+                {
+                    "titolo": "Ant-Man tra stati quantici spaziotemporali",
+                    "argomento": "",
+                    "soluzione": 6,
+                    "numero": 13,
+                    "valore": 48,
+                    "autore": "",
+                    "testo": "Convex Hulk, sta tentando diversi modi di far viaggiare Ant-man nel tempo, ma senza grandi risultati. \n<span class='sogg'>Convex Hulk</span> Sembra che il suo corpo stia saltando da uno stato quantico all’altro! Non riesco a controllarlo! \n<span class='sogg'>Captain Numerica</span> Puoi riportarlo qui? \n<span class='sogg'>Convex Hulk</span> Ci sto lavorando. Arctan-man è partito da questo stato quantico, che chiamiamo stato-0, e sta saltando tra questo e altri tre stati quantici, lo stato-1, lo stato-2 e lo stato-3. In ogni salto si sposta su uno degli altri tre stati con probabilità uniforme e, arrivato nello stato <em>n</em>-esimo (con 0≤<em>n</em>≤3) accumula <em>n</em> grammi di tempomateria nel suo corpo!» \n<span class='sogg'>Nash-ata</span> Se i miei calcoli sono corretti, considerando che è partito senza alcun quantitativo di tempomateria in corpo, mediamente al ritorno nello stato quantico di partenza stato-0 peserà... (<em>Instantaneamente Arctan-man riesce a tornare dal regno quantico, tutto intero, interrompendo Nash-ata.</em>) \n<span class='sogg'>Convex Hulk</span> Io questa la considero una vittoria assoluta!\n Quale peso di tempomateria (in grammi) stava per dire Nash-ata prima di essere interrotta?"
+                },
+                {
+                    "titolo": "Ricerca di gemme disperse",
+                    "argomento": "",
+                    "soluzione": 342,
+                    "numero": 14,
+                    "valore": 74,
+                    "autore": "",
+                    "testo": "Avendo finalmente capito come viaggiare nel tempo, gli Avengers rimasti si interrogano su come recuperare tutte le gemme. Per massimizzare l’efficienza della missione, devono riuscire a trovare dei luoghi dello spazio e del tempo in cui sono riunite più gemme possibili. Per fare una ricerca sulla posizione delle gemme hanno a disposizione 2022 droni spaziotemporali numerati da 1 a 2022. Ogni drone potrà recarsi in un anno non negativo e strettamente minore di 2022, che chiameremo <em>a<sub>i</sub></em> (dove <em>i</em> è l’indice che identifica il drone). L’unico vincolo sul lancio dei droni è che deve esistere un polinomio a coefficienti interi <em>p</em>(<em>x</em>), il cosidetto polinomio lancia-droni-spaziotemporali, tale che, per ogni i, il numero <em>a<sub>i</sub></em>−<em>p</em>(<em>i</em>) sia multiplo di 2022. \n<span class='sogg'>Bracket</span> Quindi in quanti diversi modi possiamo lanciare i droni? \n<span class='sogg'>Eigen Man</span> Ovviamente intendi identificare un lancio come una 2022-upla ordinata, visto che i droni sono numerati, giusto? \n<span class='sogg'>Bracket</span> Si, certo! E droni diversi possono anche recarsi nello stesso anno!\n Quale numero <em>X</em> risponde alla domanda di Bracket? \n<span class='note'>Dare come risultato la somma degli esponenti della fattorizzazione in primi di <em>X</em>.</span>"
+                },
+                {
+                    "titolo": "Allineamento di specchi",
+                    "argomento": "",
+                    "soluzione": 2023,
+                    "numero": 15,
+                    "valore": 62,
+                    "autore": "",
+                    "testo": "Eigen Man e il Dr. Banner stanno finendo di progettare la macchina per il viaggio nello spazio tempo attraverso il regno quantico. La macchina è un triangolo <em>ABC</em> isoscele di base <em>AB</em>. Sul lato <em>BC</em> è posto il primo specchio iperriflettore nel punto <em>A</em><sub>1</sub> (diverso da <em>B</em>) tale che <em>AA</em><sub>1</sub>=<em>AB</em>; il secondo specchio è posto sul lato <em>AC</em> nel punto <em>A</em><sub>2</sub> (diverso da <em>A</em>) tale che <em>A</em><sub>1</sub><em>A</em><sub>2</sub>=<em>AB</em>; il terzo è invece posto sempre sul lato <em>BC</em> nel punto <em>A</em><sub>3</sub> (diverso da <em>A</em><sub>1</sub>) tale che <em>A</em><sub>2</sub><em>A</em><sub>3</sub>=<em>AB</em>; e così via. Per far sì che la macchina funzioni e possa spedire gli Avengers in diversi punti dello spaziotempo, si vuole che il 2022-esimo specchio coincida con il punto <em>C</em>. Per poter ultimare la costruzione della macchina è necessario conoscere il rapporto tra l’ampiezza dell’angolo al vertice e quella di uno degli angolialla base. Quanto vale questo rapporto?\n<span class='note'> Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
+                },
+                {
+                    "titolo": "Incantesimi più che razionali",
+                    "argomento": "",
+                    "soluzione": 22,
+                    "numero": 16,
+                    "valore": 130,
+                    "autore": "",
+                    "testo": "Convex Hulk è appena giunto nel 2012 e si reca al Santuario per chiedere a Stringa di consegnargli la gemma del tempo. Appena arrivato, si rende però conto che il Dr. Stringa è ancora un chirurgo in quel passato, ed un altro stregone supremo difende la gemma: L’Antico. \n<span class='sogg'>L’Antico</span> Bruce, se ti consegno la gemma per salvare la tua realtà, la mia perderà la sua più potente arma contro le forze del male! Ci resteranno solo gli incantesimi. Per ogni numero <em>a</em>&#8712;ℚ noi possiamo scagliare un diverso incatesimo ed il suo indice di efficacia è calcolato come (3<em>a</em>+7)<sup>1/2</sup>+(12<em>a</em>+5)<sup>1/2</sup>. Ma in assenza della gemma del tempo nell’Occhio di Campigotto, gli unici incatesimi che possiamo scagliare sono quelli con indice di efficacia intero. Come puoi notare con un veloce calcolo, la somma degli indici di efficacia degli incatesimi scagliabili è molto bassa se io ti lascio portare via la gemma\n Quanto vale dunque la somma a cui l’Antico fa riferimento?"
+                },
+                {
+                    "titolo": "Scontri insoliti",
+                    "argomento": "",
+                    "soluzione": 105,
+                    "numero": 17,
+                    "valore": 66,
+                    "autore": "",
+                    "testo": "Captain Numerica vuole recuperare lo scettro di Logχ nella Avengers Tower, quando si imbatte nel sé stesso del passato. I due Cap hanno gli stessi schemi di combattimento e sembra impossibile che uno riesca ad avere la meglio sull’altro. Si muovono costantemente lungo un parallelogramma <em>ABCD</em>. Il Captain Numerica del futuro ha trovato una mossa imprevedibile, ma per poterla ultimare ha bisogno di calcolare l’ampiezza in gradi dell’angolo ∠<em>DAC</em> . Finora ha soltanto capito che ∠<em>DBC</em>=∠<em>CAB</em>=2∠<em>ABD</em>. \n<span class='sogg'>Captain Numerica del passato</span> Ho tutto il giorno libero! \n<span class='sogg'>Captain Numerica del futuro</span> Sì, lo so (<em>e scaglia la mossa vincente</em>)\n Qual è l’ampiezza (in gradi) dell’angolo che il Cap del futuro cercava per vincere?"
+                },
+                {
+                    "titolo": "Viaggio in un passato più remoto",
+                    "argomento": "",
+                    "soluzione": 1514,
+                    "numero": 18,
+                    "valore": 31,
+                    "autore": "",
+                    "testo": "Eigen Man ha perso la possibilità di recuperare il Tesseract nel 2012 e si interroga, insieme a Captain Numerica e Ant-man, su come riuscire a portare a termine la missione. Per farlo deve trovare un anno in cui nello stesso luogo si trovavano sia le particelle fim (il carburante per il viaggio nel tempo) che il Tesseract. \n<span class='sogg'>Eigen Man</span> Gli unici anni in cui possiamo recarci sono quelli tra l’1 e il 2022 (estremi inclusi) tali che si possano scrivere come differenza di due quadrati di interi positivi \n<span class='sogg'>Cap</span> Credo di sapere dove andare: una base del C.A.U.C.H.Y.L.D. nel New Jersey \n<span class='sogg'>Eigen Man</span> Perfetto, andremo lì!\n In quanti anni possono andare?"
+                },
+                {
+                    "titolo": "Salti nello spazio",
+                    "argomento": "",
+                    "soluzione": 180,
+                    "numero": 19,
+                    "valore": 45,
+                    "autore": "",
+                    "testo": "Nash-ata e Occhio di Calcolo hanno appena lasciato NebUlam e War Machine su Morag, nel 2014. Devono ora andare su Vormir per recuperare la gemma dell’Anima. Occhio di Calcolo deve pilotare la Cesenatico (la navicella dei Geometri della Galassia) ma non ha idea di cosa fare. Per fortuna Bracket ha lasciato loro un video tutorial. \n<span class='sogg'>Bracket</span> (<em>nel video</em>) La Cesenatico ha due possibili propulsioni a curvatura spazio-temporale. Con la prima percorrerete 4,3 anni luce per ogni impulso e con la seconda 4,7. Per viaggiare dovrete sempre usare un numero intero di impulsi scegliendo liberamente ad ogni impulso quale propulsione usare. Potete quindi anche usare una propulsione più volte che l’altra. Vi faccio un esempio: voi che vi trovate a Morag e dovete andare a Vormir, che dista 202 anni luce, potete farlo esattamente! Dove con esattamente intendo che arriverete lì precisamente, senza dover tornare indietro. Buona fortuna! \n<span class='sogg'>Nash-ata</span> Chissà qual è il minimo numero intero <em>N</em> tale che tutti i tragitti di lunghezza intera (in anni luce) maggiore o uguale ad <em>N</em> possano essere percorsi con la Cesenatico? \n<span class='sogg'>Occhio di Calcolo</span> Queste domande non fanno per me..."
+                },
+                {
+                    "titolo": "Morire di calcoli",
+                    "argomento": "",
+                    "soluzione": 45,
+                    "numero": 20,
+                    "valore": 120,
+                    "autore": "",
+                    "testo": "Occhio di Calcolo e Nash-ata sono arrivati su Vormir per recuperare la gemma dell’Anima. Ad accoglierli al tempio c’è Red SkHull. \n<span class='sogg'>Red SkHull</span> Qfello che cercate è dafanti a foi, come qfello che temete \n<span class='sogg'>Nash-ata</span> La gemma è laggiù \n<span class='sogg'>Red SkHull</span> Per uno di foi; l’altro infece dofrà morire di conti risolfendo qfesto problema: Siano a, b, c reali e siano <em>u</em>=<em>a</em><sup>2</sup>+<em>b</em><sup>2</sup>+<em>c</em><sup>2</sup> e <em>v</em>=<em>ab</em>+<em>bc</em>+<em>ca</em>. Sapete che 2022<em>u</em>=2018<em>v</em>+2025. Quanto fale (vale, NdT) al massimo 37<em>a</em>−22<em>b</em>−13<em>c</em>?\n<span class='sogg'> Occhio di Calcolo</span> Sappiamo tutti e due chi deve morire\n<span class='sogg'>Nash-ata</span> A quanto pare...\n Ed entrambi tentano di lanciarsi nel dirupo. Qual è la soluzione del problema proposto da Red SkHull?"
+                },
+                {
+                    "titolo": "L’universo modulo 79",
+                    "argomento": "",
+                    "soluzione": 1,
+                    "numero": 21,
+                    "valore": 46,
+                    "autore": "",
+                    "testo": "Wong chiama a raccolta gli stregoni dei tre santuari per andare a combattere la battaglia finale contro tanh(os). \n<span class='sogg'>Wong</span> Davanti a voi avete due stanze, e in ognuna di esse troverete 39 reliquie distinte e non ci sono reliquie uguali tra le due stanze. Entrate prima nella stanza di destra e prendetene alcune per attaccare il nemico. Entrate poi nella stanza di sinistra e prendetene alcune per difendervi. Il numero di quelle che prendete per difendervi deve essere inferiore a quelle che prendete per attaccare, eventualmente anche 0\n <em>Mentre pronuncia queste parole, Wong si domanda quante combinazioni non ordinate di reliquie si possano ottenere seguendo le istruzioni appena dette. Allora Dr. Stringa, che lo legge nel pensiero, gli dà un consiglio:</em> \n<span class='sogg'>Dr. Stringa</span> Devi guardare l’universo modulo 79 se vuoi capirlo davvero!\n A quale numero stava pensando Wong? \n<span class='note'>Si risponda indicando la congruenza modulo 79 del risultato.</span>"
+                }
+            ]
+        },/*
+        {
+            "Tipologia": "Nazionale",
+            "SottoTipologia" : "Finale Mista",
+            "Anno": 2023,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 1,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 2,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 3,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 4,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 5,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 6,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 7,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 8,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 9,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 10,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 11,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 12,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 13,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 14,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 15,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 16,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 17,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 18,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 19,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 20,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 21,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                }
+            ]
+        },
+        {
+            "Tipologia": "Nazionale",
+            "SottoTipologia" : "Finale Mista",
+            "Anno": 2024,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 1,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 2,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 3,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 4,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 5,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 6,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 7,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 8,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 9,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 10,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 11,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 12,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 13,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 14,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 15,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 16,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 17,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 18,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 19,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 20,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 21,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                }
+            ]
+        },
+        */
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
@@ -14453,7 +15592,599 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "testo": "Tornata la calma, <em>Giratina</em> scompare nel cielo e il piccolo <em>Shaymin</em> arriva nel campo di <em>Gracidea</em>, dove incontra tutti i suoi simili. Il campo di <em>Gracidea</em> \u00e8 un quadrilatero ciclico <em>ABCD</em> dove <em>P</em> \u00e8 il punto di intersezione delle diagonali dal quale passano tutti gli <em>Shaymin</em>. Alcuni percorrono il segmento <em>AP</em> lungo 60 m e altri il segmento <em>BP</em> che misura 180 m. Se <em>E</em> \u00e8 il punto di incontro dei lati <em>AB</em> e <em>CD</em>, tutti, prima o poi, raggiungono il triangolo <em>ADE</em>, dove si trasformano nella <em>Forma Cielo</em>. Ash stima in 12321 m<sup>2</sup> l\u2019area del triangolo <em>ECB</em> e si chiede quanto \u00e8 grande l\u2019area del triangolo <em>ADE</em>. Distratto dal volo degli <em>Shaymin</em> non completa il calcolo. Che risultato avrebbe trovato?"
                 }
             ]
-        }
+        },
+        {
+            "Tipologia": "Nazionale",
+            "SottoTipologia" : "Finale Femminile",
+            "Anno": 2022,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "Amora, l'incantatrice",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 1,
+                    "valore": 30,
+                    "autore": "Carlo Càssola",
+                    "testo": "Amora è diventata così potente nelle arti magiche da essere soprannominata “l’incantatrice”. È in grado di affascinare qualsiasi umano per ottenere le informazioni che le servono. Oggi ha incontrato un matematico e lo ha incantato con queste parole: “Come te la cavi con le funzioni? Prendi una funzione <em>f</em>, di cui sai soltanto che <em>f</em>(<em>n</em>+1) =(3<em>f</em>(<em>n</em>)+4)/3 e che <em>f</em>(0)=1. Sapresti dirmi quanto vale <em>f</em>(2022)?” Il matematico ha risposto correttamente. Cosa ha detto?"
+                },
+                {
+                    "titolo": "Dazzler",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 2,
+                    "valore": 29,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Dazzler, il cui vero nome è Alison Blair, è capace di trasformare il suono in luce per creare raggi fotonici che possono stordire o abbagliare gli avversari. Epico fu il combattimento contro Galactus: realizzò attorno al suo avversario un grande quadrilatero convesso di luce <em>ABCD</em> tale che <em>BC</em>+<em>CD</em>=2022m, <em>AB</em>=<em>AD</em>, ∠<em>BAD</em>=60° e ∠<em>BCD</em>=120°. Quanti metri misurava la lunghezza del raggio AC che sconfisse Galactus?"
+                },
+                {
+                    "titolo": "La Donna invisibile",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 3,
+                    "valore": 99,
+                    "autore": "Simone Bertone",
+                    "testo": "La Donna Invisibile, il cui vero nome è Susan Storm, è l’unico membro femminile dei Fantastici 4. Acquisì i suoi poteri in seguito all’esposizione ai raggi cosmici durante il lancio dell’astronave sperimentale di Reed Richards. È capace di rendersi invisibile e può creare campi di forze che riesce a sfruttare anche per alzarsi in volo. Intelligente al punto che, ancora giovane, stupì i suoi insegnanti risolvendo in pochi secondi il seguente quesito: quanti sono i numeri reali positivi <em>x</em> che sono uguali a 2022 volte la loro parte decimale? Quale fu la risposta?"
+                },
+                {
+                    "titolo": "Wasp",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 4,
+                    "valore": 34,
+                    "autore": "Simone Bertone",
+                    "testo": "Janet van Dyne, nota anche come Wasp, attualmente ha le dimensioni da insetto ed è in difficoltà, bloccata dalla colla. Ha chiamato in aiuto suo marito Ant-Man, che ha le dimensioni di una formica. I due si trovano su una specie di tubo di cartone, formato da un cubo di lato 10 dm, da cui sono state levate due facce opposte. Ant-Man si trova al centro di una faccia interna al tubo e camminando lungo le pareti (interne o esterne) cerca il percorso più breve possibile per arrivare al centro della faccia opposta ma esternamente al cubo dove si trova bloccata Wasp. Quanto è lungo in centimetri il cammino più breve che Ant-Man può fare per raggiungere sua moglie?"
+                },
+                {
+                    "titolo": "Spider Girl",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 5,
+                    "valore": 81,
+                    "autore": "Roberto Corisello",
+                    "testo": "Mayday Parker, figlia di Peter, scoprì i suoi poteri al liceo, durante una partita di basket, quando senza volere spiccò un salto di cinque metri. In realtà una prima avvisaglia si era già verificata durante una lezione di matematica. L’insegnante aveva chiesto alla classe di costruire un parallelepipedo di lati 3, 4 e 5 cm, di dividere le sei facce in quadretti di lato di 1 cm e di scrivere un numero intero positivo per ciascun quadretto di ciascuna faccia in modo che i quadretti di ogni faccia avessero tutti lo stesso numero, che i quadretti delle facce opposte avessero lo stesso numero e che lungo ogni striscia larga un quadretto che gira attorno al parallelepipedo e passa per la faccia più piccola, la somma dei numeri scritti fosse sempre 240 . Mayday sapeva già la risposta prima ancora di cominciare a realizzare i possibili parallelepipedi. \n<span class='note'> Dare come risposta la somma dei possibili numeri che si possono scrivere sulla faccia più piccola del parallelepipedo.</span>"
+                },
+                {
+                    "titolo": "Illyana Rasputin",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 6,
+                    "valore": 30,
+                    "autore": "Simona Pieri",
+                    "testo": "Illyana è stata istruita nelle arti della magia nera dopo essere stata rapita e condotta nel reame demoniaco Limbo. È capace di creare pozioni magiche la cui preparazione è estremamente delicata. Seguendo con attenzione le istruzioni, ha posato i primi quattro ingredienti della pozione nei vertici del trapezio <em>ABCD</em> la cui base minore <em>CD</em> è 1/7 della base maggiore <em>AB</em>. A questo punto altri due ingredienti della pozione vanno messi in <em>M</em> ed <em>N</em>, punti medi rispettivamente dei lati obliqui <em>AD</em> e <em>CB</em>. La pozione sarà efficace se Illyana riuscirà a determinare il rapporto tra l’area di <em>MNCD</em> e quella di <em>ABNM</em>. \n<span class='note'>Dai come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
+                },
+                {
+                    "titolo": "Gamora",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 7,
+                    "valore": 35,
+                    "autore": "Simone Bertone",
+                    "testo": "Gamora, l’ultima componente della specie degli Zen Whoberi, ha diverse capacità straordinarie. Tra queste, è capace di calcolare in un attimo la somma 1/(1⋅3)+1/(3⋅5)+1/(5⋅7)+...+1/(2019⋅2021). Quanto vale questa somma? \n<span class='note'>Dai come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
+                },
+                {
+                    "titolo": "Vedova Nera",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 8,
+                    "valore": 31,
+                    "autore": "Roberta Corisello",
+                    "testo": "Considerata una delle donne più pericolose del Pianeta, Natasha Romanoff, detta anche Vedova Nera, è esperta di combattimento corpo a corpo. Natasha padroneggia le arti marziali ed è un'esperta sia nell'uso delle armi da fuoco che delle armi bianche. Sa calcolare molto velocemente e risolve problemi di conteggio in pochi secondi. Un giorno Bruce Banner le ha chiesto di contare quanti sono i numeri di cinque cifre <em>abcde</em>, con tutte le cifre diverse e tali che <em>a</em>><em>b</em>><em>c</em> e <em>c</em><<em>d</em><<em>e</em> . Lei ha dato la risposta in meno di un secondo. Che risposta ha dato?"
+                },
+                {
+                    "titolo": "Phoenix",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 9,
+                    "valore": 29,
+                    "autore": "Simone Bertone",
+                    "testo": "Phoenix è considerata una delle telepati più potenti della terra se non la più potente in assoluto. La sua capacità di leggere le menti non è mai venuta meno, nemmeno quando si è trovata ad una grande cena di politici newyorkesi. C’erano 2022 persone sedute ad una tavola rotonda. Alcune mentivano, altre dicevano la verità. Il primo di questi, una volta interrogato, ha affermato che “il collega seduto alla mia destra dice la verità”. Il secondo, che è seduto alla destra del primo, dice: “la persona seduta nel posto diametralmente opposto al mio dice la verità”. Il terzo, che è seduto alla destra del secondo, dice: “Il politico seduto alla mia sinistra mente”. Successivamente il quarto ha detto la stessa cosa del primo, il quinto la stessa cosa del secondo, il sesto la stessa cosa del terzo e così via, fino al 2022-esimo. Phoenix, leggendo la mente di tutti contemporaneamente ha rivelato che sono presenti il massimo numero possibile di politici che mentono. Quanti erano?"
+                },
+                {
+                    "titolo": "Red Sonja",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 10,
+                    "valore": 57,
+                    "autore": "Simone Bertone",
+                    "testo": "La grande guerriera Red Sonja dovrà affrontare in duello 10.000 guerrieri, uno alla volta secondo un ordine stabilito. I guerrieri sono numerati da 1 a 10.000 e Sonja li affronterà in ordine crescente a partire da quello che ha il numero 1. Prima che inizi il duello, però, alcuni guerrieri si ritirano. Abbandonano la sfida tutti e soli i guerrieri il cui numero contiene almeno una cifra 0 o almeno una cifra 2 (ovviamente si ritirano anche i guerrieri i cui numeri contengono entrambe le cifre). Qual è il numero del 2022-esimo guerriero che sfiderà Red Sonya?"
+                },
+                {
+                    "titolo": "She Hulk",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 11,
+                    "valore": 109,
+                    "autore": "Michelangelo Sabatini",
+                    "testo": "Jennifer Walters, abile avvocato di professione, ha prestato servizio come consulente legale di vari supereroi in numerose occasioni. È la cugina di Bruce Banner, alter ego di Hulk, dal quale ha ricevuto i superpoteri in seguito ad una trasfusione di sangue. Al contrario del cugino, però, ha completo controllo del suo potere. Jennifer è la donna più forte dell’universo, almeno dal punto di vista fisico. Data una lastra quadrata di metallo divisa in nove quadratini uguali colorati o di bianco o di nero, diciamo che la lastra è connessa se tutti i quadratini bianchi sono collegati tra loro per almeno un lato e così pure quelli neri. Jennifer è in grado di spezzare la lastra in modo da separare i due colori con un solo gesto. Quante lastre è possibile avere con i quadratini bianchi e neri connessi? \n<span class='note'>N.B una lastra tutta dello stesso colore è considerata connessa.</span>"
+                },
+                {
+                    "titolo": "Tempesta",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 12,
+                    "valore": 74,
+                    "autore": "Roberta Corisello",
+                    "testo": "Ororo Munroe, nota anche come Tempesta, è in grado di controllare il clima e gli agenti atmosferici. Sfrutta i venti caldi per sollevarsi da terra e grazie a questi è in grado di volare a grande velocità. Durante gli scontri contro gli avversari può richiamare i fulmini per scagliarli contro i suoi nemici. Le basta determinare un numero positivo <em>b</em>, dato dalla sua posizione geografica, da inserire nell’equazione <em>x</em><sup>2</sup>−<em>ax</em>+<em>b</em> e calcolare la somma dei valori diversi che può assumere <em>a</em> affinché l'equazione abbia soluzioni intere positive. Che valore calcolerebbe Tempesta se <em>b</em>=576?"
+                },
+                {
+                    "titolo": "Polaris",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 13,
+                    "valore": 72,
+                    "autore": "Claudia Manotti",
+                    "testo": "Polaris, il cui vero nome è Lorna Dane, è una mutante capace di controllare il magnetismo quasi come lo storico avversario degli X-Men, Magneto. Da tempo, oramai, ha lasciato la lotta contro il male per dedicarsi agli studi universitari, ma non ha dimenticato i suoi poteri. Oggi, ad esempio, passando vicino ad un parco giochi per bambini, ha sagomato una lunga sbarra d’acciaio per formare gli spigoli, lunghi 3 metri, di un grande icosaedro regolare. Per non spezzare la sbarra, a volte, ha dovuto ripassare su alcuni spigoli. Quanto era lunga la sbarra, come minimo?"
+                },
+                {
+                    "titolo": "Emma Frost",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 14,
+                    "valore": 112,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Emma Grace Frost è una mutante, una telepate molto potente, nonché donna d'affari ricca ed influente; ha inoltre sviluppato una mutazione secondaria che le permette di trasformare il suo intero corpo in diamante organico, che le dona una resistenza e una forza sovrumane. Per un periodo ha insegnato all'interno dello Xavier Institute. Uno dei suoi test preferiti era il seguente: calcola <img src='./resources/images/Testi/Finale Femminile/2022_14.JPG' width=100>dove <em>a<sub>k</sub></em> indica che il numero <em>a</em> è scritto in base <em>k</em>. Qual era la risposta?"
+                },
+                {
+                    "titolo": "Mystica",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 15,
+                    "valore": 120,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Mystica è una mutaforma mutante che può alterare col solo pensiero la formazione delle sue cellule biologiche per cambiare il suo aspetto. Ha il potere di spostare gli atomi del proprio corpo per trasformarlo completamente assumendo la forma di altri umani e di animali. Il suo controllo è così preciso che può replicare con precisione la retina dell'occhio, il palmo della mano e le corde vocali della persona di cui assume le sembianze. Per fare questo le basta trovare degli interi positivi <em>a</em><sub>1</sub>,<em>a</em><sub>2</sub>,...,<em>a<sub>n</sub></em>, <em>a</em><sub>1</sub><<em>a</em><sub>2</sub><...<<em>a<sub>n</sub></em> tali che la somma <em>a</em><sub>1</sub>/<em>a</em><sub>2</sub>+<em>a</em><sub>2</sub>/<em>a</em><sub>3</sub>+...+<em>a<sub>n</sub></em>/<em>a</em><sub>1</sub> sia anch’esso un intero. Per quanti interi <em>n</em>, con 2≤<em>n</em>≤10.000, è possibile farlo?"
+                },
+                {
+                    "titolo": "Valchiria",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 16,
+                    "valore": 56,
+                    "autore": "Simone Bertone",
+                    "testo": "Brunilde è la più forte di tutte le Valchirie. Sebbene non sia immortale invecchia molto più lentamente degli esseri umani, può percepire l'avvicinarsi della morte di una persona e condurla da e verso il regno dei morti ed è un'ottima combattente con la spada e a mani nude. Da giovane, Brunilde si iscrisse ad una accademia d'armi dove si distinse subito per le sue innate capacità. Un giorno dovette fronteggiare quattro avversari. In una semicirconferenza di diametro <em>AB</em>, lei si trovava in un punto <em>C</em> del diametro ed era circondata da quattro uomini situati nei punti <em>A</em>, <em>B</em>, <em>D</em>, ed <em>E</em> (in questo ordine sulla semicirconferenza). Brunilde valutò immediatamente che <em>CE</em> era perpendicolare a <em>CD</em>, l'angolo ∠<em>EDC</em> era di 32° e l'angolo ∠<em>CBD</em> era di 61°. Calcolò l’angolo ∠<em>CDB</em> e grazie a questo calcolo riuscì ad attaccare e sconfiggere tutti e quattro gli avversari. Quanto misurava l’angolo ∠CDB ?"
+                },
+                {
+                    "titolo": "Crystal",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 17,
+                    "valore": 75,
+                    "autore": "Michelangelo Sabatini",
+                    "testo": "Crystal, come tutti gli inumani, possiede numerose abilità fisiche sovrumane, tra le quali una grande forza e una grande resistenza. Ha la capacità di manipolare i quattro elementi naturali, ma anche di giocare con i numeri naturali. Per fare questo prende un qualunque numero naturale <em>n</em> e ne calcola tutti i divisori <em>d</em> (1 ed <em>n</em> compresi). Per ciascuno calcola la sua lunghezza <em>L</em>(<em>d</em>), cioè il numero di prodotti necessari per andare da 1 a <em>d</em> moltiplicando solo per numeri primi (ad esempio <em>L</em>(12)=3 e <em>L</em>(1)=0). Quanto vale la somma dei quadrati di tutte le lunghezze dei divisori di <em>n</em>=10800?"
+                },
+                {
+                    "titolo": "Capitan Marvel",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 18,
+                    "valore": 100,
+                    "autore": "Roberta Corisello",
+                    "testo": "Capitan Marvel sta volando per cercare di raggiungere Yon-Rogg e catturarlo. Le loro velocità sono tali che 2<em>v<sub>CM</sub></em>=5<em>v<sub>YR</sub></em>. Rappresentando la loro posizione in un sistema di assi cartesiano bidimensionale (i loro moti giacciono sullo stesso piano), partono nello stesso istante rispettivamente dai punti (<em>a</em>;<em>b</em>), con <em>a</em>>0 , e (0;0) (le coordinate sono espresse in chilometri). Yon-Rogg si muove lungo l’asse <em>x</em> con velocità 2 km/h mentre Capitan Marvel si muove in modo che la somma delle distanze dalle rette <em>x</em>=2 e <em>y</em>=2 sia costante. È l’unico modo per non venire rilevata. Capitan Marvel ha già calcolato che raggiungerà l’avversario esattamente nel punto (4;0). Quali sono le coordinate del punto da cui è partita?\n<span class='note'>Dare come risposta il valore di a trovato espresso in metri.</span>"
+                },
+                {
+                    "titolo": "Scarlet",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 19,
+                    "valore": 122,
+                    "autore": "Simona Pieri",
+                    "testo": "Ancora oggi Scarlet, al secolo Wanda Maximoff, ricorda il giorno in cui lo stesso Tony Stark le ha chiesto di unirsi agli Avengers per mettere al servizio dell’umanità il suo potere di distorcere la realtà spazio-temporale e di alterare le probabilità. Tony le chiese qual è la probabilità che, disponendo in linea, a caso, 7 giocatori di una squadra che indossano magliette con numeri tutti diversi, accada che 5 consecutivi di essi (da sinistra verso destra) non abbiano le maglie con i numeri in ordine crescente. <span class='note'>Dai come risultato la somma del numeratore e del denominatore della frazione ridotta ai minimi termini.</span>"
+                },
+                {
+                    "titolo": "Kitty Pryde",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 20,
+                    "valore": 120,
+                    "autore": "Roberta Corisello",
+                    "testo": "L'abilità mutante di Kitty (il cui vero nome è Katherine Anne) consiste nell'attraversare qualsiasi oggetto solido si trovi sul suo cammino, riuscendo a “slegare” i propri atomi per passare tra gli spazi atomici di qualsiasi oggetto o materiale. Può anche estendere questo status d'intangibilità ad una dozzina di persone o di oggetti (aventi la stessa massa) attorno a lei, purché mantengano un contatto fisico e lei risolva un’opportuna equazione. La volta che ha fatto attraversare la grande muraglia a ben 10 uomini ha dovuto calcolare <em>p</em>(10), dove <em>p</em>(<em>x</em>) è un polinomio a coefficienti interi tale che, per ogni <em>x</em> reale, sia (<em>x</em>−81)<em>p</em>(3<em>x</em>)=81(<em>x</em>−1)<em>p</em>(<em>x</em>) e <em>p</em>(26)=21505. Che valore ha trovato?"
+                },
+                {
+                    "titolo": "Elektra",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 21,
+                    "valore": 122,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Elektra è di origini greche. Quando aveva nove anni un gruppo di criminali l’ha rapita per chiedere un riscatto al padre. Salvata dal fratello maggiore, da allora è stata seguita da un sensei giapponese rivelandosi un prodigio delle arti marziali. Il segreto, le ha insegnato il maestro giapponese, è la concentrazione su problemi di matematica. Nell’ultimo scontro ha sgominato da sola una banda di 50 banditi armati calcolando a mente quante sono le terne di naturali positivi (<em>x</em>,<em>y</em>,<em>z</em>) con <em>x</em><<em>y</em><<em>z</em>, tali che <em>xyz</em>=2<sup>2</sup>⋅3<sup>2</sup>⋅5<sup>2</sup>⋅7<sup>2</sup>⋅11<sup>2</sup>. Che valore ha trovato?"
+                }
+            ]
+        }/*,
+        {
+            "Tipologia": "Nazionale",
+            "SottoTipologia" : "Finale Femminile",
+            "Anno": 2023,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 1,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 2,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 3,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 4,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 5,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 6,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 7,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 8,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 9,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 10,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 11,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 12,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 13,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 14,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 15,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 16,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 17,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 18,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 19,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 20,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 21,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                }
+            ]
+        },
+        {
+            "Tipologia": "Nazionale",
+            "SottoTipologia" : "Finale Femminile",
+            "Anno": 2024,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 1,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 2,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 3,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 4,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 5,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 6,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 7,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 8,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 9,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 10,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 11,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 12,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 13,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 14,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 15,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 16,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 17,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 18,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 19,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 20,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                },
+                {
+                    "titolo": "",
+                    "argomento": "",
+                    "soluzione": ,
+                    "numero": 21,
+                    "valore": -1,
+                    "autore": "",
+                    "testo": ""
+                }
+            ]
+        },
+        */
     ]){
         if(tipologia!=null){
             if(gara.Tipologia==tipologia && gara.SottoTipologia==sottotipologia && gara.Anno==anno){
