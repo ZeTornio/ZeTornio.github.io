@@ -1,14 +1,16 @@
-[Nazionale, Mista, 2022]()
-[Nazionale, Semifinale Mista, 2020]()
-[Nazionale, Finale femminile, 2021]()
-[Locale, Mista, 2016]()
-[Locale, Femminile, 2021]()
-
-
+## Gare originali
 | Tipologia|2024|2023|2022|2021|2020|
 |-------------:|:---------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Locale Mista | [2024](https://zetornio.github.io/?t=Locale&st=Mista&a=2024) | ['23]()|
-| Locale Femminile| [2024](https://zetornio.github.io/?t=Locale&st=Femminile&a=2024)|
-| Semifinale Nazionale Mista | -|[2023](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2023)|
-| Finale Nazionale Mista | -|[2023](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2023)|
-| Finale Nazionale Femminile | -|[2023](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2023)|
+| Locale Mista | [2024](https://zetornio.github.io/?t=Locale&st=Mista&a=2024) | [2023](https://zetornio.github.io/?t=Locale&st=Mista&a=2024)|[2022](https://zetornio.github.io/?t=Locale&st=Mista&a=2022)|[2021](https://zetornio.github.io/?t=Locale&st=Mista&a=2021)|[2020](https://zetornio.github.io/?t=Locale&st=Mista&a=2020)|
+| Locale Femminile| [2024](https://zetornio.github.io/?t=Locale&st=Femminile&a=2024)|[2023](https://zetornio.github.io/?t=Locale&st=Femminile&a=2023)|*|[2021](https://zetornio.github.io/?t=Locale&st=Femminile&a=2021)|[2020](https://zetornio.github.io/?t=Locale&st=Femminile&a=2020)|
+| Semifinale Nazionale Mista | -|[2023](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2023)|[2022](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2022)|[2021](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2021)|[2020](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2020)|
+| Finale Nazionale Mista | -|[2023](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2023)|[2022](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2022)|[2021](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2021)|[2020](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2020)|
+| Finale Nazionale Femminile | -|[2023](https://zetornio.github.io/?t=Nazionale&st=Finale%20Femminile&a=2023)|[2022](https://zetornio.github.io/?t=Nazionale&st=Finale%20Femminile&a=2022)|[2021](https://zetornio.github.io/?t=Nazionale&st=Finale%20Femminile&a=2021)|[2020](https://zetornio.github.io/?t=Nazionale&st=Finale%20Femminile&a=2020)|
+
+| Tipologia|2019|2018|2017|2016|2015|2014|2013|2012|2011|2010|
+|-------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Locale Mista| [2019](https://zetornio.github.io/?t=Locale&st=Mista&a=2019)|[2018](https://zetornio.github.io/?t=Locale&st=Mista&a=2018)|[2017](https://zetornio.github.io/?t=Locale&st=Mista&a=2017)|[2016](https://zetornio.github.io/?t=Locale&st=Mista&a=2016)|[2015](https://zetornio.github.io/?t=Locale&st=Mista&a=2015)|[2014](https://zetornio.github.io/?t=Locale&st=Mista&a=2014)|[2013](https://zetornio.github.io/?t=Locale&st=Mista&a=2013)|[2012](https://zetornio.github.io/?t=Locale&st=Mista&a=2012)|[2011](https://zetornio.github.io/?t=Locale&st=Mista&a=2011)|[2010](https://zetornio.github.io/?t=Locale&st=Mista&a=2010)|
+|Locale Femminile|[2019](https://zetornio.github.io/?t=Locale&st=Femminile&a=2019)|[2018](https://zetornio.github.io/?t=Locale&st=Femminile&a=2018)|[2017](https://zetornio.github.io/?t=Locale&st=Femminile&a=2017)|
+|Semifinale Nazionale Mista|[2019](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2019)|[2018](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2018)|[2017](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2017)|[2016](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2016)|[2015](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2015)|[2014](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2014)|[2013](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2013)|[2012](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2012)|[2011](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2011)|[2010](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2010)|
+|Finale Nazionale Mista|[2019](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2019)|[2018](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2018)|[2017](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2017)|[2016](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2016)|[2015](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2015)|[2014](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2014)|[2013](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2013)|[2012](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2012)|[2011](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2011)|[2010](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2010)|
+|Finale Nazinolae Femminile|*|*|*|
