@@ -411,7 +411,7 @@ function reset_prob_nums(){
   for(let i=0;i<divs.length;i++){
     divs[i].getElementsByClassName("p-num")[0].innerHTML=i;
     if(probs[i]!=null){
-      divs[i].getElementsByClassName("prob-title")[0].innerHTML=(i+1)+" - "+probs[i].titolo;
+      divs[i].getElementsByClassName("prob-title")[0].innerHTML=(i+1)+". "+probs[i].titolo;
     }
   }
   divs=document.getElementsByClassName("add-cont");
@@ -555,7 +555,7 @@ function extract_and_set_problem(i){
     p=error_problem;
   }
   console.log(interest_div);
-  interest_div.getElementsByClassName("prob-title")[0].innerHTML=(i+1)+" - "+probs[i].titolo;
+  interest_div.getElementsByClassName("prob-title")[0].innerHTML=(i+1)+". "+probs[i].titolo;
   interest_div.getElementsByClassName("prob-author")[0].innerHTML=p.autore;
   interest_div.getElementsByClassName("prob-text")[0].innerHTML=p.testo;
 }
@@ -630,7 +630,7 @@ function downloadPDF(){
   container.insertBefore(tit,container.firstChild);
   sol_t='<p>Soluzioni</p>';
   for(i=0;i< probs.length;i++){
-    sol_t+= `<b>${probs[i].titolo}</b>: ${probs[i].soluzione}&nbsp &nbsp(${probs[i].Tipologia} ${probs[i].SottoTipologia}, ${probs[i].Anno}, ${probs[i].numero})<br>`
+    sol_t+= `<b>${i+1}. ${probs[i].titolo}</b>: ${probs[i].soluzione}&nbsp &nbsp(${probs[i].Tipologia} ${probs[i].SottoTipologia}, ${probs[i].Anno}, ${probs[i].numero})<br>`
   }
   let sol=document.createElement('div');
   sol.setAttribute('id','soluzioni');
@@ -656,8 +656,13 @@ function displaySingleGara(tipologia,sottotipologia,anno){
   document.getElementById("text-cont").style.display='block';
   for(i in problems){
     console.log(problems[i]);
-    document.getElementById("text-cont").innerHTML+=`<div class='problem'><div class='prob-head'><div class='prob-title'>${(parseInt(i)+1)} - ${problems[i].titolo} [${problems[i].soluzione}]</div><div class='prob-author'>${problems[i].autore}</div></div><div class='prob-text'>${problems[i].testo}</div></div>`;
+    document.getElementById("text-cont").innerHTML+=`<div class='problem'><div class='prob-head'><div class='prob-title'>${(parseInt(i)+1)}. ${problems[i].titolo} [${problems[i].soluzione}]</div><div class='prob-author'>${problems[i].autore}</div></div><div class='prob-text'>${problems[i].testo}</div></div>`;
   }
 }
-//TODO remove, used just to debug
-//displaySingleGara("Locale","Mista",2024)
+//DISPLAYING SPECIFIC Gare
+const queryString=window.location.search
+const urlParams = new URLSearchParams(queryString);
+if(urlParams.has("t")){
+  
+  displaySingleGara(urlParams.get("t"),urlParams.get("st"),urlParams.get("a"))
+}

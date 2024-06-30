@@ -9445,7 +9445,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "testo": "Eigen Man verifica le abilità matematiche di J.A.R.V.I.S., l’intelligenza artificiale da lui creata. Scrive al touch screen il polinomio <em>x</em><sup>2022</sup>+3<em>x</em><sup>2021</sup>+3<sup>2</sup><em>x</em><sup>2020</sup>+...+3<sup>2020</sup><em>x</em><sup>2</sup>+3<sup>2021</sup><em>x</em>+ 3<sup>2022</sup>; J.A.R.V.I.S., in ogni momento, può:<ul><li> riscrivere il polinomio scritto al touch screen in un qualunque modo come prodotto di polinomi a coefficienti reali e di grado maggiore o uguale a 1; oppure</li><li> cancellare un fattore di secondo grado <em>ax</em><sup>2</sup>+<em>bx</em>+<em>c</em> e sostituirlo con (<em>b</em>−<em>c</em>)<em>x</em>+<em>c</em>.</li></ul> Dopo che J.A.R.V.I.S. ha effettuato un certo numero di mosse, Eigen Man legge al touch screen un polinomio <em>p</em>(<em>x</em>) di primo grado, e si chiede quale sia la soluzione di <em>p</em>(<em>x</em>)=0. \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 }
             ]
-        },/*
+        },
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
@@ -9453,196 +9453,151 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Autori": "",
             "Problemi": [
                 {
-                    "titolo": "",
+                    "titolo": "Lo stemma di famiglia",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 30,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 29,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Arcsenio Lupin/3 è il rampollo di un’illustre famiglia di ladri matematici. Da piccolo, Arcsenio amava disegnare e colorare lo stemma di famiglia, che è a forma di pentagono. In quanti modi è possibile colorare i lati dello stemma, usando i colori giallo, blu e rosso, in modo che lati consecutivi abbiano colori diversi?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Area massima",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1980,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 45,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Il primo ad unirsi alle avventure di Lupin/3 è stato Jig∈\u2115, abile pistolero e risolutore di quesiti. Ad esempio, intanto che ricaricava ha determinato quale fosse la massima area che può avere un triangolo con il lato più corto che misura 40 e con il lato più lungo che misura 101. Qual è?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Per scappare da Zenonigata",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 220,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 41,
                     "autore": "",
-                    "testo": ""
+                    "testo": "L’ispettore Zenonigata ha votato la propria carriera alla cattura di Lupin/3. Forse stavolta ce l’ha fatta: la zattera di Lupin/3 (un quadrato di lato ℓ) ha un lato incollato ad un lato della zattera di Zenonigata (un quadrato più grande, di lato 1100). L’unica possibilità per Lupin/3 di farla franca sarebbe quella di calcolare la lunghezza di ℓ, sapendo che la circonferenza circoscritta alla zattera di Zenonigata passa anche per i due vertici della zattera di Lupin/3 che non giacciono sull’altra zattera. Sfortunatamente per l’ispettore, Lupin/3 fugge. Quanto vale ℓ?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Cassette di sicurezza",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2880,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 87,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Le cassette di sicurezza della banca che Lupin/3 sta rapinando sono disposte come una scacchiera 9×9 (messa in verticale) dalla quale sono state rimosse tutte le caselle strettamente sopra la diagonale che va da in alto a sinistra a in basso a destra. Lupin sa che ogni cassetta contiene un numero intero di milioni di dollari compreso tra 1 e 9, estremi inclusi; inoltre, ogni numero compare un numero diverso di volte ed in modo che ogni cassetta contenga un numero strettamente maggiore rispetto alla cassetta sottostante (se c’è una cassetta) e maggiore o uguale rispetto alla cassetta alla sua sinistra (se c’è). In quanti modi possono essere disposti i soldi?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Non scrivibilità",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2162,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 87,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Goemetrikon è un abile samaterai che alterna la fidata katana alla risoluzione di quesiti matematici. L’ultimo che ha risolto è il seguente: siano <em>a</em> e <em>b</em> interi positivi tali che 2069 sia il più grande numero che non può essere scritto come somma di un multiplo (non negativo) di <em>a</em> e di un multiplo (non negativo) di <em>b</em>. Quanto vale, come minimo, <em>ab</em>? Dopo averlo visto all’opera, Lupin/3 lo vuole nella propria banda."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Sporcarsi le mani",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 6,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 33,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Goemetrikon: «Mi unirò a voi se dimostrerete di non aver paura di sporcarvi le mani... nel fare i conti. Mi sapreste dire quanto vale 2023<sup>3</sup>−3·2022<sup>3</sup>+3·2021<sup>3</sup>−2020<sup>3</sup>?».\nLupin/3: «Dammi un attimo...». Qual è la risposta al quesito di Goemetrikon?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Lupin/3 si innamora",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 9776,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 51,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Lupin/3 è innamorato della bella FujIto, una ladra che lo ha ammaliato rispondendo quasi all’istante al seguente quesito: quanto vale la somma mcm(1,8)+mcm(2,8) +...+mcm(136,8)?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "M’ama non m’ama",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1366,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 62,
                     "autore": "",
-                    "testo": ""
+                    "testo": "C’è chi sfoglia le margherite per sapere se il proprio amore è corrisposto, Lupin/3 preferisce invece affidarsi a questo gioco: estrae tre palline da un sacchetto contenente 9 palline numerate da 1 a 9. Ogni volta che estrae una pallina segna il numero e poi la reinserisce nel sacchetto. Se il massimo comun divisore (MCD) di questi 3 numeri è 1 allora la bella FujIto contraccambia il suo amore, altrimenti non è ricambiato. Qual è la probabilità che Lupin/3 sia corrisposto?\n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Sei porte in sequenza",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 19,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 36,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Lupin/3 e la sua banda vogliono rubare il prototipo di un nuovo computer quantistico. Devono superare in sequenza sei porte. Ogni porta ha come codice di accesso un numero intero compreso tra 0 e 18 estremi inclusi. Hanno scoperto che la somma dei codici di due porte consecutive è un numero che diviso per 19 dà resto 3. Questa proprietà vale per la prima e la seconda porta, per la seconda e la terza, e così via ma anche per la sesta e la prima porta. Quante sono le sequenze di sei codici che soddisfano queste condizioni?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Lavoro di squadra",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 7,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 37,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Lupin/3 è riuscito a mettere le mani sullo scudo di Volpe Nera dove è incastonato il prezioso diamante Regina d’Africa. Lo scudo è un quadrato <em>ABCD</em>. Jig∈\u2115 scalfisce i lati del quadrato, un proiettile per ogni lato: <em>A</em>' sul lato AB tale che 2<em>AA</em>'=<em>A</em>'<em>B</em> e, ciclicamente anche <em>B</em>' sul lato <em>BC</em> tale che 2<em>BB</em>'=<em>B</em>'<em>C</em>, analogamente <em>C</em>' e <em>D</em>'. Goemetrikon esegue quattro tagli netti lungo <em>DA</em>', <em>AB</em>', <em>BC</em>' e <em>CD</em>' staccando così il diamante centrale dal resto dello scudo. Quanto vale il rapporto tra l’area del diamante e quella dello scudo iniziale? \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La disciplina del samaterai",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 3457,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 97,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Goemetrikon è diventato un samaterai grazie a disciplina ferrea e quesiti di geometria. Anni fa risolse questo: sia Γ una circonferenza di centro <em>O</em>, e sia <em>r</em> una retta tangente ad essa nel punto <em>T</em>. Siano <em>A</em> un punto appartenente a <em>r</em> distinto da <em>T</em>, e <em>B</em> e <em>C</em> le intersezioni della retta <em>OA</em> con Γ tali che <em>AB</em><<em>AC</em>. Siano <em>M</em> un punto sul segmento <em>OC</em> e <em>R</em> l’intersezione della retta <em>TM</em> con Γ distinta da <em>T</em>. Infine, siano <em>S</em> un punto sull’arco di estremi <em>TC</em> non contenente <em>B</em> tale che ∠<em>MAT</em>=∠<em>RTS</em>, <em>F</em> un punto sul segmento <em>BS</em> tale che ∠<em>ATS</em>+∠<em>BFT</em>=180°, e <em>Q</em> l’intersezione dei segmenti <em>BC</em> e <em>RS</em>. Sapendo che <em>QR</em>/<em>RM</em>=8/13 , <em>BS</em>=33 e <em>TF</em>=18, determinare il rapporto delle aree dei triangoli <em>BMF</em> e <em>BSQ</em>. <span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Malanni matematici",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 9,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 101,
                     "autore": "",
-                    "testo": ""
+                    "testo": "<span class='sogg'>Jig∈\u2115</span> Hai letto che nelle città di MathVillain ed EstPonente quest’anno la sin(usite) è stata più forte del solito? \n<span class='sogg'>Goemetrikon</span> Sì. La percentuale di ammalati su tutta la popolazione a MathVillain è stata l’8%, mentre ad EstPonente è stata del 10%. \n<span class='sogg'>Jig∈\u2115</span> Inoltre, tra gli under 50 la percentuale di ammalati a MathVillain è stata doppia che ad EstPonente, ed anche nella fascia over 50 è stato riscontrato lo stesso rapporto. \n<span class='sogg'>Goemetrikon</span> Com’è possibile? Non c’è una contraddizione? \n<span class='sogg'>Jig∈\u2115</span> No. Sapendo che entrambe le città sono giovani, cioè gli under 50 sono almeno tanti quanti gli over 50, quanto è al minimo il rapporto tra gli under 50 mathvillani e il totale della popolazione di MathVillain?\n<span class='note'> Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Colpo al museo",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 36,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 41,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Per progettare il colpo perfetto occorre conoscere perfettamente il luogo. Lupin/3, Jig∈\u2115 e Goemetrikon studiano la mappa della stanza del museo da cui faranno sparire una famosa statua. La stanza è un triangolo <em>ABC</em> isoscele di base AB. Le tre porte della stanza si trovano in <em>M</em>, il punto medio di <em>BC</em>, in <em>F</em>, il piede dell’altezza relativa a <em>B</em> e in <em>E</em>, punto su <em>AB</em> tale che <em>EB</em>&sim;<em>BM</em>. Sanno inoltre che per <em>B</em>,<em>E</em>,<em>F</em>,<em>M</em> passa una circonferenza. Per riuscire a eludere la videosorveglianza, è importante conoscere l’ampiezza degli angoli di <em>ABC</em>. Quanto vale ∠<em>ACB</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La Massima Comun Combinazione",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 900,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 86,
                     "autore": "",
-                    "testo": ""
+                    "testo": "<span class='sogg'>Goemetrikon</span> Ecco la cassaforte! Il codice che la apre è il massimo comun divisore di tutti i numeri della forma 1<sup><em>n</em></sup>+2<sup><em>n</em></sup>+3<sup><em>n</em></sup>+···+ 999<em><sup>n</sup></em> dove <em>n</em> è un intero positivo...\n<span class='sogg'>Jig∈\u2115</span> Accidenti, non abbiamo tempo di calcolare infiniti numeri!\nLupin/3 sogghigna. Qual è il codice?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Salto dell’ispettore",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 101,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 95,
                     "autore": "",
-                    "testo": ""
+                    "testo": "L’ispettore Zenonigata è convinto di riuscire a catturare tutti e tre i ladri. Egli si trova nel baricentro del triangolo GJL formato dai tre ladri. Goemetrikon e Jig∈\u2115 distano 79 metri l’uno dall’altro, mentre Goemetrikon e Lupin/3 distano 119 metri. Goemetrikon salta come solo i samaterai sanno fare ed atterra nel simmetrico, rispetto a Zenonigata, del suo punto di partenza. Realizza che si trova (ancora) sulla circonferenza circoscritta a GJL; calcola la distanza tra Lupin e Jig∈\u2115 e porta in salvo i suoi amici. Quanti metri misura la distanza tra Lupin e Jig∈\u2115?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Una cena per gioco",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1225,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 93,
                     "autore": "",
-                    "testo": ""
-                },
-                {
-                    "titolo": "",
-                    "argomento": "",
-                    "soluzione": ,
-                    "numero": 17,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
-                },
-                {
-                    "titolo": "",
-                    "argomento": "",
-                    "soluzione": ,
-                    "numero": 18,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
-                },
-                {
-                    "titolo": "",
-                    "argomento": "",
-                    "soluzione": ,
-                    "numero": 19,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
-                },
-                {
-                    "titolo": "",
-                    "argomento": "",
-                    "soluzione": ,
-                    "numero": 20,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
-                },
-                {
-                    "titolo": "",
-                    "argomento": "",
-                    "soluzione": ,
-                    "numero": 21,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "testo": "Sia Lupin/3 che FujIto amano scommettere. Ora giocano l’uno contro l’altra: se vince Lupin/3, usciranno a cena; se vince FujIto, lui dovrà regalarle l’enorme diamante che ha appena rubato. Hanno di fronte a loro 2023 fiammiferi. Inizialmente FujIto sceglie un intero positivo <em>n</em>. Lupin/3 nei suoi turni toglie un numero di fiammiferi fra 1 e <em>n</em> estremi compresi; invece, FujIto ad ogni turno toglie un numero di fiammiferi fra <em>n</em>+1 e 2<em>n</em> estremi compresi. Inizia a muovere Lupin/3. Chi all’inizio del proprio turno non può fare nessuna mossa ha perso.\n<span class='note'>Dare come risposta la somma dei valori di <em>n</em> che FujIto può scegliere per essere sicura di vincere.</span>"
                 }
             ]
-        },
+        },/*
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
@@ -14803,7 +14758,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "testo": "Wong chiama a raccolta gli stregoni dei tre santuari per andare a combattere la battaglia finale contro tanh(os). \n<span class='sogg'>Wong</span> Davanti a voi avete due stanze, e in ognuna di esse troverete 39 reliquie distinte e non ci sono reliquie uguali tra le due stanze. Entrate prima nella stanza di destra e prendetene alcune per attaccare il nemico. Entrate poi nella stanza di sinistra e prendetene alcune per difendervi. Il numero di quelle che prendete per difendervi deve essere inferiore a quelle che prendete per attaccare, eventualmente anche 0\n <em>Mentre pronuncia queste parole, Wong si domanda quante combinazioni non ordinate di reliquie si possano ottenere seguendo le istruzioni appena dette. Allora Dr. Stringa, che lo legge nel pensiero, gli dà un consiglio:</em> \n<span class='sogg'>Dr. Stringa</span> Devi guardare l’universo modulo 79 se vuoi capirlo davvero!\n A quale numero stava pensando Wong? \n<span class='note'>Si risponda indicando la congruenza modulo 79 del risultato.</span>"
                 }
             ]
-        },/*
+        },
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
@@ -14811,196 +14766,196 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Autori": "",
             "Problemi": [
                 {
-                    "titolo": "",
+                    "titolo": "10000 minions in fila",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 5000,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 44,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Krull è un supercattivo criminale, ma dall’animo buono... Oggi è agitato perché pensa che non è ancora riuscito a rubare la luna! Per rilassarsi gli piace pensare a problemi matematici. Scende allora nel suo laboratorio e prende 10000 minions, suoi fidati aiutanti, numerati da 1 a 10000. Poi decide di metterli in fila in modo tale che la più piccola delle 9999 differenze in valore assoluto tra i numeri di due minions consecutivi sia più grande possibile. Quanto vale questa differenza?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Anche i cattivi lasciano la mancia",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 41,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 26,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Krull è talmente cattivo che, per saltare la fila al caffé, congela tutti con il suo raggio congelante e poi prende la tazza di caffè in mano alla barista esterrefatta dalla scena. Quindi Krull se ne va via fischiettando, ma non prima di aver messo nel barattolo delle mance una moneta di forma circolare di raggio (3)<sup>1/2</sup>cm. Il barattolo è un prisma retto con base un esagono regolare <em>E</em> di lato 10cm. Supponendo che la moneta sia caduta piatta sul fondo del barattolo, qual è la frazione di area di <em>E</em> su cui il centro della moneta può essere atterrato?\n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Minion di Collatz",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 164,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 32,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Il Dr. Nefarey sta sperimentando con dei minion un nuovo tipo di gas triplidimezzante. Se chiusi in una stanza piena di questo gas, succedono delle cose strane. Se i minions sono in numero pari, si dimezza il loro numero, ma se sono in numero dispari, si moltiplicano fino a raggiungere il triplo della popolazione iniziale, più uno. È un comportamento peculiare, visto che sembra che alla fine del processo rimanga sempre un minion solo! Il Dr. Nefarey vuole capire da quali quantità di minions può partire per arrivare ad un certo punto ad avere esattamente 10 minions. Per esempio, se mette nella stanza 20 minions, il numero di minions diventa immediatamente 10. A questo punto il professore sta cercando di trovare i più piccoli 10 numeri iniziali di minions, maggiori di 10 e diversi da 20, che permettono di avere esattamente 10 minions. Qual’è la somma di questi 10 numeri?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Test della guardia",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1652,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 35,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Dopo aver scoperto che qualcuno è riuscito a rubare la piramide di Cheope, Krull decide che è finalmente l’ora di rubare la luna! Per farlo però ha bisogno di un prestito dalla banca del crimine. Per testare le qualità di supercriminale, all’entrata della banca la guardia chiede: “Quanto vale la somma di tutti i quadrati perfetti, con almeno due cifre, tali che tutte le cifre tranne la prima da sinistra sono dei 4?”. Cosa deve rispondere Krull per poter entrare e parlare con il direttore?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Come rubare una piramide",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 27,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 33,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Nella sala d’attesa, Krull incontra Vector, colui che è riuscito a rubare la piramide. Incuriosito, gli chiede come ci è riuscito. Tronfio, Vector gli risponde: “Devi immaginarti due circonferenze Γ<sub>1</sub> e Γ<sub>2</sub> rispettivamente di raggi 7 e 41, tangenti esternamente nel punto <em>P</em>. Poi prendi <em>r</em> una retta tangente ad entrambe le circonferenze e sia <em>Q</em> il punto di tangenza di <em>r</em> con Γ<sub>2</sub> (che è diverso da <em>P</em>). Presa <em>R</em> l’intersezione distinta da <em>P</em> tra la retta <em>PQ</em> e Γ<sub>1</sub>, considera poi <em>s</em> la retta tangente a Γ<sub>1</sub> in <em>R</em>. Ti sarebbe chiaro come ci sono riuscito se tu sapessi quanto è distante la retta <em>s</em> dal centro di Γ<sub>2</sub>!”. “Eeeeh? E come mi aiuterebbe a capirlo?”. Rispondi con la distanza di <em>s</em> dal centro di Γ<sub>2</sub>."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Stuzzichini di benvenuto",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 7316,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 38,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Krull prende in affido Maria, Gaetana e Agnese, affinché si possano infiltrare a casa di Vector. Le accoglie con alcuni stuzzichini di benvenuto: 5 tranci di pizza, 4 sfilatini al formaggio e 3 involtini di zucchine. I quattro mangiano tutto e nessuno resta a digiuno. In quanti modi possono farlo, sapendo che gli stuzzichini non vengono divisi in parti più piccole?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Passatempo I: Gaetana e il suo triangolo murale",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 4,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 23,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Maria, Gaetana e Agnese si stanno annoiando a casa di Krull e allora ognuna di loro pianta un chiodo nel muro, per divertirsi... I tre chiodi formano un triangolo <em>ABC</em>. Gaetana, che ama la geometria, prende un bel pennarello nero e disegna il baricentro <em>G</em> del triangolo sul muro, e successivamente anche <em>H</em>, il piede dell’altezza relativa ad <em>A</em> e <em>K</em> il piede della perpendicolare a <em>BC</em> condotta da <em>G</em>. Quanto vale il rapporto <em>GK</em>/<em>AH</em>?\n<span class='note'> Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Passatempo II: Dove prende le palline Agnese?",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2023,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 28,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Agnese trova due barattoli dove sono presenti delle biglie esplosive. Deve prendere <em>N</em> biglie per andare a giocare con le sorelle, e si accorge che se le prende tutte dal primo barattolo, poi nel secondo ci saranno 23 volte le biglie rimaste nel primo barattolo; se invece le prende tutte nel secondo barattolo, le biglie nel primo risulteranno 88 volte quelle rimaste nel secondo. Qual è il numero minimo di biglie che servono ad Agnese?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Passatempo III: Maria e gli scacchi",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 10,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 73,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Maria è un’amante degli scacchi, e per passare il tempo decide di giocare al seguente solitario, sperando che duri molto... Posiziona quattro cavalli ai vertici di una scacchiera 3×3. Poi muove i cavalli come negli scacchi, da un vertice ad un altro di un sottorettangolo 2×3 della scacchiera. Inizialmente, <em>n</em>=0. Ad ogni turno, Maria compie le seguenti operazioni:<ul><li> muove ognuno dei cavalli in una casella che può legalmente raggiungere, scelta a caso, indipendentemente, con probabilità uniforme: in questa operazione non è un problema se due o più cavalli si trovano nella stessa casella.</li><li> incrementa <em>n</em> di 1.</li><li> se più cavalli si trovano nella stessa casella, li rimuove tutti tranne uno.</li></ul> Se al termine di un turno rimane un solo cavallo, il gioco termina. Quanto vale <em>n</em>, in media, quando il gioco finisce?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "10000 minions da dividere",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 46,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 62,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Krull deve dividere 10000 minions in gruppi, affinché svolgano diverse mansioni. Per farlo, decide di usare questa procedura strampalata: innanzitutto li numera da 1 a 10000. Poi ogni minion deve prendere il suo numero a, scriverlo in base 3 e cancellare le cifre 2. Poi, se sono presenti più di due cifre 1, deve eliminare tutte le cifre più a sinistra del secondo 1 a partire da destra; il numero binario che si ottiene è il numero della squadra (eventualmente 0) a cui verrà assegnato a quel minion. Ad esempio il minion 115=11021<sub>3</sub> viene assegnato alla squadra 101<sub>2</sub>=5. Quante squadre comporrà in questo modo Krull?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Rituale della buonanotte",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2319,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 43,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Dal momento che Krull non legge la storia della buonanotte, Gaetana per addormentarsi scrive alla lavagna i quadrati dei numeri naturali <em>n</em> da 10 a 2023 (quindi scrive 100,121,...,4092529). Successivamente Agnese cancella le ultime tre cifre (unità, decine e centinaia) di ogni numero scritto. Quindi Maria rimbocca loro le coperte e osservando i numeri che restano, si chiede: quanti sono i numeri naturali compresi tra 1 e 4092 che non compaiono sulla lavagna?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Un dolce ingresso",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2829,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 89,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Le tre bimbe si infiltreranno a casa di Vector con la scusa di vendere biscotti facendolo scegliere tra 82 tipi diversi. I minions si occupano di cucinarli: preparano teglie da 68 biscotti; una teglia del primo tipo, due del secondo tipo e così via, fino all’82-esimo tipo di biscotto di cui ne infornano 82 teglie. Le confezioni le ha procurate il Dr. Nefarey, che però ha capito male al telefono e le ha prese da 83 biscotti l’una. Sapendo che in ogni confezione vengono messi biscotti di un solo tipo, e che tutti i biscotti cucinati vengono confezionati, qual è il numero minimo di confezioni che i minions dovranno usare?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La casa quadratica di Vector",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 593,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 129,
                     "autore": "",
-                    "testo": ""
+                    "testo": "La casa di Vector è costruita attorno alla piscina dove vive il suo squalo: essa è un triangolo <em>ABC</em> con <em>AB</em>=20m, <em>AC</em>=23m e <em>BC</em>=29m. Sul lato <em>BC</em> viene costruito il quadrato <em>BCC</em><sub>1</sub><em>B</em><sub>2</sub>, nella stessa parte di piano in cui si trova il triangolo. Analogamente vengono costruiti <em>CAA</em><sub>1</sub><em>C</em><sub>2</sub> e <em>ABB</em><sub>1</sub><em>A</em><sub>2</sub>. I lati di questi tre quadrati costituiscono le mura della casa. I condotti per l’aria condizionata sono <em>B</em><sub>1</sub><em>B</em><sub>2</sub> e <em>C</em><sub>1</sub><em>C</em><sub>2</sub>; essi intersecano <em>A</em><sub>1</sub><em>A</em><sub>2</sub>, rispettivamente, in <em>P</em> e <em>Q</em>. La retta per <em>P</em> perpendicolare ad <em>AB</em> e la retta per <em>Q</em> perpendicolare ad <em>AC</em> si incontrano in <em>X</em>, la presa d’aria centrale, da cui Krull dovrà scendere senza farsi vedere da Vector. il corridoio <em>AX</em>, che passa sopra la piscina interseca la circonferenza circoscritta ad <em>ABC</em> nuovamente in <em>Y</em> (che è finalmente l’uscita!). Determinare <em>AX</em>·<em>XY</em> in m<sup>2</sup>. \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Tiro al bersaglio",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 6191,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 72,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Per festeggiare il successo della missione Krull e le tre bimbe si recano al Luna Park. Lo stand del tiro al bersaglio è stato costruito per minimizzare l’area da poter colpire. Il tabellone è formato da una serie di quadrati affiancati; la somma delle lunghezze dei loro lati è 2023mm e ciascuno ha come lato un numero intero di mm. Inoltre i quadrati sono tutti di dimensioni diverse. Qual è la minima area totale del tabellone in mm<sup>2</sup>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Un minion davvero mignon",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 360,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 48,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Kelvin sta portando il raggio restringente nel locale di sicurezza, che è una stanza con le pareti a specchio. La planimetria della stanza è un quadrilatero <em>ABCD</em> tale che ∠<em>ABC</em>=90°, ∠<em>CDA</em>=90°, ∠<em>BCD</em>=36°, <em>BC</em>=2,8m e <em>BD</em>=1,8m. Kelvin è nel vertice <em>A</em> e giocando con il raggio restringente accidentalmente spara puntando sul lato <em>BC</em>, parallelamente al pavimento e il raggio, dopo aver colpito una volta la parete <em>BC</em> e una volta la parete <em>CD</em>, torna di nuovo sul punto <em>A</em>, chiudendo un percorso triangolare e restringendo lo sprovveduto Kelvin. Qual è la lunghezza complessiva percorsa dal raggio, in cm?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La cerimonia del tè",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 66,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 34,
                     "autore": "",
-                    "testo": ""
+                    "testo": "L’esercito dei minions sta costruendo il razzo che permetterà a Krull di rubare la luna. Nel frattempo i minion Stewart, Kelvin e Bob tengono impegnate le tre bimbe. Maria, Gaetana e Agnese si apprestano a giocare alla cerimonia del tè. Si trovano sui vertici di un triangolo di lati <em>AB</em>=165 cm, <em>BC</em>=220 cm e <em>AC</em>= 275 cm. I minion Stewart e Kelvin si trovano rispettivamente in <em>S</em>, il piede della bisettrice uscente da <em>A</em> e in <em>K</em>, il piede dell’altezza relativa a <em>B</em>. Arriva un po’ in ritardo Bob, che si siede sul piede dell’altezza relativa ad <em>S</em> del triangolo <em>ACS</em>; finalmente tutti possono iniziare a sorseggiare il tè! Quanto distano in cm Bob e Kelvin?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Traiettoria per l’allunaggio",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 8420,
                     "numero": 17,
-                    "valore": -1,
+                    "valore": 66,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Il Dr. Nefarey sa che la complessità binaria <em>c</em>(<em>n</em>) di un numero naturale <em>n</em> è il minimo numero di potenze di 2 necessario per scrivere <em>n</em> come somma o differenza di potenze di 2. Ad esempio <em>c</em>(4)=1 poiché 4=2<sup>2</sup>, <em>c</em>(15)=2 poiché 15=2<sup>4</sup>−2<sup>0</sup> e <em>c</em>(23)=3 infatti 23 = 2<sup>4</sup>+ 2<sup>3</sup>−2<sup>0</sup>. Per settare la traiettoria in modo che il razzo raggiunga la luna deve calcolare <em>c</em>(1)+<em>c</em>(2)+<em>c</em>(3)+...+<em>c</em>(2047)+<em>c</em>(2048). Che valore ottiene?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Poltrone numerate in modo bislacco",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1,
                     "numero": 18,
-                    "valore": -1,
+                    "valore": 72,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Lo spettacolo di danza di Maria, Gaetana e Agnese si svolge in un teatro la cui platea è costituita da 2022 file da 2023 poltrone ciascuna. La numerazione è particolare e ripetitiva: nella prima fila i numeri sono, in sequenza, la prima e la 2022-esima riga del triangolo di Tartaglia (in quest’ordine), nella seconda fila i numeri sono, sempre in sequenza e in quest’ordine, la seconda e la 2021-esima riga del triangolo di Tartaglia, e così via. Quindi, per ogni j intero tra 1 e 2022, nella <em>j</em>-esima fila le poltrone sono state numerate con la <em>j</em>-esima riga e la (2023−<em>j</em>)-esima riga del triangolo di Tartaglia. Inoltre, poltrone che sono collocate in posizione pari di una fila pari sono arancioni, mentre poltrone in posizione dispari di una fila dispari sono blu, e le restanti gialle. Quanto vale la differenza tra la somma dei numeri assegnati alle poltrone blu e la somma dei numeri assegnati alle poltrone arancioni?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Codice di rientro",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1632,
                     "numero": 19,
-                    "valore": -1,
+                    "valore": 105,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Dopo aver recuperato la luna, Krull si accorge che potrebbe essere ancora in tempo per il balletto di Maria, Gaetana e Agnese. Allora cerca di immettere subito il codice di rientro <em>p</em>(10), dove <em>p</em>(<em>x</em>) è il polinomio (<em>x</em>−1)<sup>9</sup>. Tuttavia nella fretta si confonde e considera invece <em>f</em>(<em>x</em>), la funzione ottenuta copiando l’espressione di <em>p</em>(<em>x</em>) e sostituendo ogni termine del tipo <em>a<sub>n</sub>x<sup>n</sup></em> con <em>a<sub>n</sub>n<sup>x</sup></em>. Quanto vale <em>f</em>(10), il numero veramente inserito da Krull?\n<span class='note'> Si diano le prime 4 cifre del risultato.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Il riscatto",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 99,
                     "numero": 20,
-                    "valore": -1,
+                    "valore": 33,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Krull è arrivato troppo tardi: il balletto è finito e Vector ha rapito le tre bimbe. Ha lasciato però un biglietto in cui definisce <em>Q</em>(<em>n</em>) come la somma dei numeri naturali minori o uguali ad <em>n</em> che non hanno fattori primi in comune con <em>n</em> (ad esempio Q(1) = 1, <em>Q</em>(5)=1+2+3+4 e <em>Q</em>(15)=1+2+4+7+8+11+13+14). Krull per riscattare le tre bimbe deve rispondere alla domanda lasciata da Vector in fondo al biglietto: quanti sono i numeri interi <em>n</em> compresi tra 1 e 100 tali che <em>Q</em>(<em>n</em>) sia un multiplo di <em>n</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Festeggiamenti algebrici",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 81,
                     "numero": 21,
-                    "valore": -1,
+                    "valore": 67,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Krull riesce a salvare le bimbe e rispedire la luna (insieme a Vector) in cielo. È tempo di festeggiare!! Quale modo migliore se non risolvendo un bel problema di algebra? Se <em>p</em>(<em>x</em>)=<em>x</em><sup>3</sup>−23<em>x</em><sup>2</sup>+<em>ax</em>−<em>b</em><sup>2</sup> è un polinomio con 3 radici intere (non necessariamente distinte) tale che <em>a</em>, <em>b</em> sono due numeri naturali, quali valori può assumere <em>b</em>? \n<span class='note'>Dare come risposta la somma di tutti i valori possibili.</span>"
                 }
             ]
-        },
+        },/*
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
@@ -15789,7 +15744,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "testo": "Elektra è di origini greche. Quando aveva nove anni un gruppo di criminali l’ha rapita per chiedere un riscatto al padre. Salvata dal fratello maggiore, da allora è stata seguita da un sensei giapponese rivelandosi un prodigio delle arti marziali. Il segreto, le ha insegnato il maestro giapponese, è la concentrazione su problemi di matematica. Nell’ultimo scontro ha sgominato da sola una banda di 50 banditi armati calcolando a mente quante sono le terne di naturali positivi (<em>x</em>,<em>y</em>,<em>z</em>) con <em>x</em><<em>y</em><<em>z</em>, tali che <em>xyz</em>=2<sup>2</sup>⋅3<sup>2</sup>⋅5<sup>2</sup>⋅7<sup>2</sup>⋅11<sup>2</sup>. Che valore ha trovato?"
                 }
             ]
-        }/*,
+        },
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
@@ -15797,196 +15752,196 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Autori": "",
             "Problemi": [
                 {
-                    "titolo": "",
+                    "titolo": "Furto in Egitto",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2043,
                     "numero": 1,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 31,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Tutti i telegiornali del mondo stanno trasmettendo una notizia incredibile. Qualcuno ha rubato la Piramide di Giza lasciando al suo posto una gigantesca copia gonfiabile ed un biglietto: “Grazie <em>n</em> dove <em>n</em> è la somma delle cifre di 9+99+999+...+99...99, dove l'ultimo numero presenta la cifra 9 2023 volte.” Chi sarà il cattivo che è riuscito nell’impresa, ma soprattutto, quanto vale <em>n</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Gru",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 19,
                     "numero": 2,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 48,
+                    "autore": "Carlo Càssola",
+                    "testo": "Felonius Gru è un aspirante supercattivo, famoso per essere una delle persone più perfide della città. Gru prova piacere a fare dispetti e a veder soffrire le altre persone. Ora sta passeggiando nel parco quando vede un bambino a cui è caduto il gelato. Si avvicina e gli chiede: “Se mi dici quanti sono i numeri <em>k</em> tali che dividendo 2023 per <em>k</em>, si ottiene come resto 43, ti ricompro il gelato.” Il povero bambino si mette a piangere... mentre Gru si allontana soddisfatto. Che numero avrebbe dovuto dare come risposta?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "I biscotti di Margo, Edith e Agnes",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1716,
                     "numero": 3,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 35,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Tornato a casa Gru si distende sul divano quando qualcuno suona alla porta. Dallo spioncino vede tre bambine con in mano delle scatole di biscotti. La più grande dice: “Abbiamo 7 tipi di biscotti, <em>A</em> , <em>B</em>, <em>C</em>, <em>D</em>, <em>E</em>, <em>F</em> e <em>G</em> e per ciascuno di loro ne abbiamo 7 scatole. Se lei ci compra 7 scatole a sua scelta, le facciamo uno sconto ma le consigliamo di mangiarli in ordine, cioè prima tutti i biscotti delle scatole <em>A</em>, poi tutti quelli delle scatole <em>B</em> e così via. Lei sa in quanti modi diversi potrebbe mangiare 7 scatole di biscotti seguendo il nostro consiglio?” Gru calcola la risposta ma poi irritato dalle tre bambine imita una segreteria telefonica e fa credere loro di non essere in casa. Le ragazze si allontanano sconsolate. Che numero ha calcolato?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Assemblea dei Minion",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 45,
                     "numero": 4,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 41,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "È l’amico e complice dottor Nefarius ad informare Gru del furto della piramide. Gru, arrabbiato, non perde tempo e convoca immediatamente all’interno del triangolo <em>ABC</em> l’assemblea dei Minions, gli “scagnozzi” che lo aiutano in tutte le sue imprese. Gru si trova proprio sull’ortocentro H quando si accorge che <em>AC</em>+<em>BH</em>. Quanto vale, in gradi, l’ampiezza dell’angolo ∠<em>ABC</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Il grande annuncio",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 4045,
                     "numero": 5,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 37,
+                    "autore": "Carlo Càssola",
+                    "testo": "“Miei Minions... se <em>f</em><sub>0</sub>(<em>x</em>)=1/(1−<em>x</em>), ∀<em>x</em>>0 e <em>x</em>≠1, e <em>f<sub>n</sub></em>(<em>x</em>)=<em>f</em><sub>0</sub>(<em>f</em><sub><em>n</em>−1</sub>(<em>x</em>)), quanto vale <em>f</em><sub>2023</sub>(2023) ? Non sapete rispondere... e allora rispondete a questo (pausa d’effetto): RUBEREMO LA LUNA!!!” Il grido di gioia dei Minions soffoca la voce del dottor Nefarius che con il suo computer aveva già calcolato la soluzione. Che valore ha trovato? \n<span class='note'>Se la soluzione è una frazione, dai come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Istituto femminile della Signora Hattie",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 486,
                     "numero": 6,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 40,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Nel frattempo le tre piccole Margo, Edith e Agnes camminano verso l’orfanotrofio dove vivono facendo un gioco. Agnes dice un numero  <em>k</em><sub>0</sub> pari. Edith e Margo rispondono a turno. Edith dice <em>k</em><sub>1</sub>=2<em>k</em><sub>0</sub> , Margo <em>k</em><sub>2</sub>=3<em>k</em><sub>1</sub>. Le due ragazze continuano a rispondere a turno, ogni volta calcolando <em>k<sub>i</sub></em>=(<em>i</em>+1)<em>k</em><sub><em>i</em>−1</sub>. Quando arrivano davanti alla porta dell’Istituto della Sig.ra Hattie, Margo si accorge che il numero <em>k</em><sub>100</sub> che ha appena calcolato è divisibile per 3<sup>53</sup>. Qual è il più piccolo valore di <em>k</em><sub>0</sub> che può aver detto inizialmente Agnes?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La Banca dei Cattivi",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 180,
                     "numero": 7,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 35,
+                    "autore": "Simona Pieri",
+                    "testo": "Per realizzare il suo progetto Gru ha bisogno di soldi, così decide di recarsi alla Banca dei Cattivi per chiedere un prestito. Tutti i cattivi sanno che la banca è nascosta dietro ai bagni della Central Bank, ma per accedervi bisogna risolvere il problema che si trova sulla salvietta che ti capita quando ti lavi le mani. A Gru tocca un problema di geometria. Un triangolo equilatero <em>ABC</em> ha il lato lungo 32 cm . Siano <em>D</em>, <em>E</em> ed <em>F</em> appartenenti a <em>BC</em>, <em>AC</em> e <em>AB</em> tali che <em>AD</em> è perpendicolare a <em>BC</em>, <em>DE</em> è perpendicolare ad <em>AC</em> ed infine <em>EF</em> è perpendicolare ad <em>AB</em>. Detta <em>G</em> l’intersezione tra <em>AD</em> ed <em>EF</em> , quanto vale in cm<sup>2</sup> l’area di <em>BFGD</em>? Che valore serve a Gru per accedere alla Banca dei Cattivi?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Sala d'attesa",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 404,
                     "numero": 8,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 126,
+                    "autore": "Simona Pieri",
+                    "testo": "In attesa di essere ricevuto dal direttore della banca, Gru fa la conoscenza di un altro supercattivo, un ragazzo che dice di chiamarsi Vector. Il ragazzo racconta: “Ho considerato un tetraedro regolare <em>ABCD</em> di lato 2424 cm e ho chiamato <em>G</em> il suo baricentro e <em>G</em>' il baricentro della faccia <em>ABC</em>. Calcolare la distanza di <em>G</em>' dal piano che passa per <em>A</em>, <em>B</em> e <em>G</em> è stato uno scherzo, come rubare la Piramide di Giza.” Gru sorpreso e arrabbiato estrae il raggio congelante e prima di entrare nell’ufficio del direttore congela, per dispetto, la testa di Vector. Quanto vale la distanza calcolata da Vector in cm?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Prestito negato",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1013,
                     "numero": 9,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 126,
+                    "autore": "Claudia Manotti",
+                    "testo": "Accolto dal direttore della banca, Gru espose il suo piano per rubare la Luna nei minimi dettagli. Il direttore chiese a Gru, quale garanzia, di risolvere il seguente problema: in una lunghissima strada su case numerate da 1 fino 10.000, abitano degli gnomi, uno per ogni casa. Gli gnomi sono tutti sinceri. Un giorno, per una mutazione, lo gnomo della casa 2023 diventa mentitore. Da quel giorno gli gnomi possono cambiare la loro natura di notte (da sinceri a mentitori e viceversa). Questo avviene se e solo se il giorno prima erano vicini ad esattamente un mentitore. Quando sono passate 1024 notti da quel giorno, chiedendo ai primi 2023 gnomi se la loro casa ha il numero pari, in quanti rispondono si? Mentre Gru sta ancora facendo i calcoli, il direttore lo interrompe chiedendogli se possiede il raggio restringente. Alla risposta “no” di Gru, lo caccia fuori dalla banca negandogli il prestito. Qual è la risposta al problema del direttore?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Il raggio restringente",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 4250,
                     "numero": 10,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 35,
+                    "autore": "Michelangelo Sabatini",
+                    "testo": "Saputo che in un laboratorio di ricerca cinese un gruppo di ricercatori ha costruito il raggio restringente, Gru, assieme ai Minions è volato a rubarlo. Gru ha scoperto che i codici per attivare il raggio sono stringhe <em>ABxyzCD</em> dove <em>A</em>, <em>B</em>, <em>C</em> e <em>D</em> indicano una delle 5 possibili vocali e <em>x</em>, <em>y</em> e <em>z</em> una delle 10 possibili cifre. Ogni stringa deve essere “quasi palindroma”, cioè non deve essere palindroma ma diventarlo cambiando uno solo dei sette caratteri. Quanti codici fanno funzionare il raggio?\n<span class='note'>Dai la risposta divisa per 10 .</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La vendetta di Vector",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 336,
                     "numero": 11,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 47,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Mentre Gru rientra alla base con la sua astronave, viene attaccato da Vector, che su un mezzo tecnologicamente avanzato, gli ruba il raggio restringente. Dopo vari scambi con armi da fuoco, Vector decide di usare il raggio restringente contro l’astronave di Gru. Per attivarlo deve riempire lo schema (sotto riportato) rispettando i segni di disuguaglianza con 6 diversi numeri da 1 a 9 . In quanti modi può farlo?\n<img src='./resources/images/Testi/Finale Femminile/2023_11.JPG' width=125>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Il covo di Vector",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 6049,
                     "numero": 12,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 50,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Gru sta provando ad espugnare il covo del nemico in tutti i modi possibili, ma il sistema d’allarme avverte sempre Vector dei suoi tentativi. Alla fine Vector, stufo di giocare con Gru, attiva la funzione di difesa <em>f</em>(<em>x</em>)=<em>ax</em><sup>3</sup>+<em>bx</em><sup>2</sup>+<em>cx</em>−256 dove <em>a</em>, <em>b</em> e <em>c</em> sono numeri interi. Vector sa che <em>f</em>(<em>a</em>)=1, <em>f</em>(<em>b</em>)=1 e <em>f</em>(<em>c</em>)=1. Calcola il valore <em>f</em>(5) e così facendo attiva le armi pesanti che respingono Gru. Che valore ha permesso a Vector di battere l’avversario?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Adozioni",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 71,
                     "numero": 13,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 34,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Dopo essere stato umiliato, Gru nota le tre ragazze Margo, Edith e Agnes che suonano alla porta di Vector e, con sua grande sorpresa, vede che Vector, goloso di biscotti, le accoglie in casa. Gru ha così un’idea luminosa. Decide di adottare le tre ragazze per poter rubare il raggio restringente. Si presenta così travestito da dottore all’orfanotrofio della signora Hattie, chiedendo di poter adottare le tre fanciulle: potrà farlo se riesce a calcolare qual è la probabilità di estrarre due numeri da un’urna che contiene tutti i numeri primi minori di 40, tali che il prodotto dei due numeri estratti aumentato di uno sia un quadrato perfetto. Quale probabilità permette a Gru di adottare le tre bimbe? \n<span class='note'>Dai il risultato sommando il numeratore e denominatore della probabilità scritta sotto forma di frazione irriducibile.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "I bisco-robot",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 138,
                     "numero": 14,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 120,
+                    "autore": "Simona Pieri",
+                    "testo": "Mentre Gru è costretto a passare del tempo con le tre ragazze, portandole a danza e al Luna Park, il dottor Nefario sta predisponendo il piano ideato da Gru: la costruzione di mini biscotti robot. Il progetto dei bisco-robot prevede che siano di forma triangolare <em>ABC</em> (acutangolo) con <em>BA</em><<em>AC</em>, <em>BC</em>=23 mm, e <em>BA</em>=13 mm. Se <em>H</em> è l'ortocentro ed <em>F</em> il punto sul segmento <em>AC</em> tale che <em>BF</em>=13 mm, allora detto <em>T</em> il punto di intersezione tra <em>FH</em> e il prolungamento di <em>BC</em>, deve accadere che <em>BT</em>=13 mm. Quanto vale l’area <em>ABC</em> di un bisco-robot?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Crowfunding",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 9233,
                     "numero": 15,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 107,
+                    "autore": "Michelangelo Sabatini",
+                    "testo": "Il piano dei bisco-robot funziona e così Gru recupera il raggio restringente. Ora bisogna superare le difficoltà economiche per la costruzione del razzo. Sono le tre bambine che, donando il loro salvadanaio a Gru, innescano una raccolta fondi tra tutti i Minion. Alla fine vengono raccolte tante migliaia di dollari quante sono le coppie ordinate (<em>a</em>,<em>b</em>) di interi compresi tra 1 e 2023 inclusi, tali che mcm(<em>a</em>,<em>b</em>)<7⋅MCD(<em>a</em>,<em>b</em>). Quante migliaia di dollari ha a disposizione il dottor Nefarius per costruire il razzo?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La decisione di Nefarius",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 44,
                     "numero": 16,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 107,
+                    "autore": "Claudia Manotti",
+                    "testo": "Oramai le tre bambine sono entrate nel cuore di Gru, che le segue e le accudisce come un padre. Questo non piace al dottor Nefarius che vuole riportare Gru alla ragione. Nefarius prende un dado regolare a 4 facce e lo lancia 7 volte. Al settimo lancio si accorge di aver visto almeno una volta tutte le facce e decide di telefonare all’orfanotrofio per denunciare Gru e costringerlo a restituire le bambine. Qual è la probabilità che al sesto lancio Nefarius non avesse ancora visto una delle facce? \n<span class='note'>Dai come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Rotta verso la Luna",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 4032,
                     "numero": 17,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 126,
+                    "autore": "Carlo Càssola",
+                    "testo": "Oramai tutto è pronto. Il razzo è sulla rampa di lancio e Gru ha indossato la sua tuta spaziale... diventata rosa a causa di errato lavaggio assieme ai tutù delle tre ragazze. I Minions stanno calcolando la rotta per la Luna. Kevin ha riportato le traiettorie e le orbite tutte in scala ma gli manca ancora una lunghezza. Se rappresentiamo la situazione con due circonferenze <em>C</em><sub>1</sub> , di centro <em>O</em><sub>1</sub> e raggio <em>r</em><sub>1</sub>=21 m , e <em>C</em><sub>2</sub> , di centro <em>O</em><sub>2</sub> e raggio <em>r</em><sub>2</sub>=25 m , e tracciamo da <em>O</em><sub>1</sub> le tangenti a <em>C</em><sub>2</sub> esse incontrano <em>C</em><sub>1</sub> in due punti <em>A</em> e <em>B</em> tali che il segmento <em>AB</em> è lungo 14 m. Costruite le tangenti a <em>C</em><sub>1</sub> uscenti da <em>O</em><sub>2</sub> , queste incontrano <em>C</em><sub>1</sub> nei punti <em>C</em> e <em>D</em>. Qual è la lunghezza del segmento <em>CD</em> in cm?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Ho rubato la Luna",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 252,
                     "numero": 18,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 49,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Giunto in orbita lunare Gru mette in atto il suo piano criminale. Per attivare il raggio restringente deve riempire lo schema (sotto riportato) rispettando i segni di disuguaglianza con 6 diversi numeri da 1 a 9 . Gru non ci mette molto e dopo poco può afferrare la Luna “ristretta” con una mano. In quel preciso momento si rende conto che fare il cattivo non gli interessa più e che darebbe qualunque cosa pur di essere al saggio di danza delle tre bambine. In quanti modi diversi avrebbe potuto riempire lo schema per attivare il raggio?\n<img src='./resources/images/Testi/Finale Femminile/2023_18.JPG' width=125>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "A casa di corsa",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2220,
                     "numero": 19,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 50,
+                    "autore": "Carlo Càssola",
+                    "testo": "Gru, messa in tasca la Luna, rientra nel razzo e decide di attivare il rientro rapido per cercare di raggiungere in tempo il teatro dove si svolge il saggio di danza. Il computer dell’astronave chiede di inserire la somma di tutti i numeri <em>n</em> di tre cifre (tutte diverse e diverse da 0) tali che la media aritmetica di tutti i numeri ottenuti permutando le sue cifre (incluso il numero di partenza) valga <em>n</em>. Gru inserisce il valore richiesto e riesce ad atterrare proprio fuori dal teatro, giusto in tempo per scoprire che Vector ha rapito le bimbe chiedendo la Luna come riscatto. Gru cede al ricatto, ma Vector non mantiene il patto. Quale numero ha permesso a Gru di attivare il computer di bordo?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Tutto come prima",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 102,
                     "numero": 20,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 124,
+                    "autore": "Claudia Manotti",
+                    "testo": "Al centro della faccia superiore di un cubo di spigolo 8 cm è piantato un bastoncino lungo 3 cm alla cui sommità è legato un filo sottile lungo 8 cm. All’altra estremità è legato un micro Minion ristretto dal raggio restringente. Il dottor Nefario sta studiando quanto misura in 2 cm l’area della regione di superficie del cubo che il piccolo Minion può raggiungere, quando il piccolo, improvvisamente, ritorna alla grandezza normale. Evidentemente il raggio restringente ha un effetto limitato. Infatti anche la Luna si sta ingrandendo proprio mentre Gru e Vector si stanno scontrando nei cieli. Gru riesce a salvare le ragazze, mentre Vector rimane incastrato sulla Luna che torna alla sua dimensione e al suo posto naturale. Quale sarebbe stata la risposta al quesito di Nefario?\n<span class='note'>Scrivi la risposta nel formato <em>a</em>+<em>b</em>π/<em>c</em>+<em>d</em>⋅(<em>e</em>)<sup>1/2</sup> (<em>b</em> e <em>c</em> primi tra loro ed <em>e</em> senza divisori quadrati) e dai come risposta abcde <em>a</em>+<em>b</em>+<em>c</em>+<em>d</em>+<em>e</em>.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Un padre affettuoso",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 319,
                     "numero": 21,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 119,
+                    "autore": "Michelangelo Sabatini",
+                    "testo": "Gru lascia la carriera da cattivo per diventare padre a tempo pieno. Ogni sera racconta una storia alle sue tre bambine. Questa sera la storia è quella del salmone Salomone e dei suoi fratelli che nuotano in fila indiana assieme ad altri salmoni. Un pescatore cattivo ha deciso che pescherà esattamente 3 salmoni. La probabilità che il pescatore ne prenda uno qualsiasi che gli passi davanti è 1/3. Salomone si trova settimo nella fila e i sui fratelli sono il secondo e il quarto. Qual è la probabilità che Salomone si salvi assieme ai suoi due fratelli?\n<span class='note'>Dare come risposta la somma tra numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 }
             ]
-        },
+        }/*,
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
