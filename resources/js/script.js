@@ -625,7 +625,7 @@ function downloadPDF(){
   }
   let tit=document.createElement('div');
   tit.setAttribute('id','titolone');
-  tit.innerHTML=`<div>${title}</div><div>Gara creata su https://zetornio.github.io/</div><div>Le gare da cui provengono i testi sono organizzate da TODO</div>`;
+  tit.innerHTML=`<div>${title}</div><div>Gara creata su https://zetornio.github.io</div><div>Le gare da cui provengono i testi sono organizzate da TODO</div>`;
   container=document.getElementById("text-cont");
   container.insertBefore(tit,container.firstChild);
   sol_t='<p>Soluzioni</p>';

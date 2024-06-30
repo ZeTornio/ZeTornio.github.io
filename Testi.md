@@ -5,10 +5,10 @@
 [Locale, Femminile, 2021]()
 
 
-| <!-- -->      | <!-- -->        | <!-- -->      |
+| Tipologia|2024|2023|2022|2021|2020|
 |-------------:|:---------------:|:-------------:|
-| Locale Mista | ['24]() | ['23]()|
-| Locale Femminile|
-| Semifinale Nazionale Mista |
-| Finale Nazionale Mista |
-| Finale Nazionale Femminile |
+| Locale Mista | [2024](https://zetornio.github.io/?t=Locale&st=Mista&a=2024) | ['23]()|
+| Locale Femminile| [2024](https://zetornio.github.io/?t=Locale&st=Femminile&a=2024)|
+| Semifinale Nazionale Mista | -|[2023](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2023)|
+| Finale Nazionale Mista | -|[2023](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2023)|
+| Finale Nazionale Femminile | -|[2023](https://zetornio.github.io/?t=Nazionale&st=Finale%20Mista&a=2023)|
