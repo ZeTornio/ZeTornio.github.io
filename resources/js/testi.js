@@ -6726,137 +6726,137 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Autori": "",
             "Problemi": [
                 {
-                    "titolo": "Problema 1 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 77,
                     "numero": 1,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Siano dati un triangolo <em>ABC</em> isoscele in <em>C</em> e un punto <em>A'</em> sul lato <em>AC</em> tale che il triangolo <em>AA'B</em> sia isoscele in <em>A</em>. Siano poi <em>B'</em> un punto sul lato <em>BC</em> e <em>C'</em> il punto di intersezione tra <em>AB'</em> e <em>A'B</em>. Sapendo che anche i triangoli <em>ABB'</em>, <em>AB'C</em> e A'BC</em> sono isosceli, calcolare il valore (in gradi) dell\u2019angolo &#8736;<em>A'C'B'</em>."
                 },
                 {
-                    "titolo": "Problema 2 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 4263,
                     "numero": 2,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Da un pezzo di stoffa lungo 100cm e largo 50cm si vogliono ricavare due semicerchi in modo da utilizzare pi\u00f9 stoffa possibile. Qual \u00e8 l\u2019area totale della stoffa utilizzata?"
                 },
                 {
-                    "titolo": "Problema 3 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 314,
                     "numero": 3,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Si consideri un dodecagono regolare di vertici <em>A</em><sub>1</sub><em>A</em><sub>2</sub>...<em>A</em><sub>12</sub> e lato di lunghezza 11. Tracciando i ssegmenti <em>A</em><sub>1</sub><em>A</em><sub>6</sub>, <em>A</em><sub>5</sub><em>A</em><sub>10</sub> e <em>A</em><sub>9</sub><em>A</em><sub>2</sub> si formano quattro triangoli all\u2019interno del dodecagono. Calcolare la somma delle aree di questi quattro triangoli."
                 },
                 {
-                    "titolo": "Problema 4 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 74,
                     "numero": 4,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Un piastrellista vuole ricoprire una stanza rettangolare 546 \u00d7 330 con piastrelle rettangolari di misura <em>c</em> \u00d7 <em>d</em>. Per quante coppie (ordinate) di dimensioni (<em>c</em>,<em>d</em>) questo \u00e8 possibile?"
                 },
                 {
-                    "titolo": "Problema 5 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 351,
                     "numero": 5,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Trovare il massimo intero positivo che non pu\u00f2 essere espresso nella forma 23<em>k</em> + 17<em>h</em>, con <em>h</em>,<em>k</em>\u22650."
                 },
                 {
-                    "titolo": "Problema 6 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 4,
                     "numero": 6,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Quante sono le coppie ordinate di interi (<em>a</em>,<em>b</em>) per cui\n\n &nbsp &nbsp &nbsp <em>a</em><sup>4</sup> + 4<em>b</em><sup>4</sup> + 12<em>ab</em> \u2212 9\n\n \u00e8 un numero primo?"
                 },
                 {
-                    "titolo": "Problema 7 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 76,
                     "numero": 7,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "I 2005 partecipanti ad un torneo di basket vogliono dividersi in 401 squadre, di 5 giocatori ognuna, per giocare ad un torneo. Scrivere le ultime 2 cifre del numero di modi diversi in cui possono dividersi."
                 },
                 {
-                    "titolo": "Problema 8 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 8188,
                     "numero": 8,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Su una scacchiera del tipo in figura (ma la riga centrale ha 23 caselle), quanti modi ci sono per andare dalla casella centrale a un bordo in esattamente <em>n</em> mosse, muovendo ogni volta in una casella adiacente orizzontalmente o verticalmente?<img src='./resources/images/Testi/Semifinale/2005_8.JPG' width=120>"
                 },
                 {
-                    "titolo": "Problema 9 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 7104,
                     "numero": 9,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Andrea, Bernardo e Chiara vogliono dividersi un pacchetto di caramelle. Il pacchetto contiene 9 caramelle alla fragola, 9 al limone e 9 alla menta. In quanti modi \u00e8 possibile distribuire le 27 caramelle (anche in parti non uguali) tra i tre, in modo che ognuno abbia caramelle di esattamente due tipi?"
                 },
                 {
-                    "titolo": "Problema 10 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 81,
                     "numero": 10,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Dati 5 rettangoli, in quante parti finite, al massimo, possono dividere il piano?"
                 },
                 {
-                    "titolo": "Problema 11 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 8193,
                     "numero": 11,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Calcolare il resto della divisione di 3<sup>2<sup>11</sup></sup> per 2<sup>14</sup>"
                 },
                 {
-                    "titolo": "Problema 12 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 991,
                     "numero": 12,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Un <em>ultraprimo</em> \u00e8 un numero primo tale che, permutando le sue cifre, il numero ottenuto rimane primo. Qual \u00e8 il pi\u00f9 grande numero di 3 cifre ultraprimo?"
                 },
                 {
-                    "titolo": "Problema 13 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 500,
                     "numero": 13,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Sia dato un triangolo rettangolo in cui l\u2019incentro \u00e8 equidistante dal vertice dell\u2019angolo retto e dal punto medio dell\u2019ipotenusa. Sapendo che l\u2019ipotenusa misura 1000, calcolare il cateto minore del triangolo."
                 },
                 {
-                    "titolo": "Problema 14 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 30,
                     "numero": 14,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Il quadrilatero <em>ABCD</em> in figura ha gli angoli &#8736;<em>ABD</em>=30&#176;, &#8736;<em>DBC</em>=50&#176;, &#8736;<em>BCA</em>=60&#176; e &#8736;<em>ACD</em>=20&#176;. Quanto misura l\u2019angolo &#8736;<em>CAD</em>?<img src='./resources/images/Testi/Semifinale/2005_14.JPG' width=120>"
                 },
                 {
-                    "titolo": "Problema 15 2005",
+                    "titolo": "",
                     "argomento": "",
                     "soluzione": 228,
                     "numero": 15,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Un parallelepipedo di lati 126, 60 e 70 \u00e8 fatto da cubetti di lato 1. Quanti cubetti vengono attraversati, al loro interno, dalla diagonale del parallelepipedo?"
                 }
@@ -6873,7 +6873,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2060,
                     "numero": 1,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Hardy e Ron sono stati di nuovo pizzicati a chiacchierare durante la noiosa lezione di divinazione. Per punizione devono risolvere un esercizio: data la sequenza 2, 3, 5, 6, 7, 10, 11, . . . , formata da tutti gli interi positivi che non sono n\u00e9 quadrati n\u00e9 cubi di altri interi, vaticinare il 2006-esimo termine."
                 },
@@ -6882,7 +6882,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 4033,
                     "numero": 2,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Finalmente \u00e8 giunto il gran giorno del torneo TreAngoli, che mette a confronto i migliori studenti di matemagia. Ecco la prima prova: trovare quante sono le coppie (<em>a</em>,<em>b</em>) di interi positivi tali che <em>a</em> \u2264 222 e <em>a</em>/2 < <em>b</em> < (2/3)<em>a</em>."
                 },
@@ -6891,7 +6891,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2088,
                     "numero": 3,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "L\u2019unico modo per rendere visibile ci\u00f2 che \u00e8 stato scritto sulla costruzione del malandrino consiste nel risolvere un problema geomantico: in un triangolo <em>ABC</em> le lunghezze dei lati uscenti da <em>A</em> sono 1358 e 2006, e la mediana uscente da <em>A</em> ha lunghezza 1358. Qual \u00e8 la lunghezza di <em>BC</em>?"
                 },
@@ -6900,7 +6900,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8383,
                     "numero": 4,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Per una strana, matemagica coincidenza, nel Medio Evo il direttore della Scuola Matemagica Superiore \u00e8 stato nominato solo negli anni con la seguente peculiare propriet\u00e0: sono stati tutti gli anni <em>N</em> tra il 476 e il 1492 per cui l\u2019equazione <em>x</em><sup>4</sup>\u2212<em>y</em><sup>4</sup>=<em>N</em> ha soluzione negli interi positivi. Qual \u00e8 la somma di questi anni?"
                 },
@@ -6909,7 +6909,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 128,
                     "numero": 5,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Henri e Smale Perelman, i due fratelli pi\u00f9 grandi di Ron, raramente seguono le lezioni e piuttosto si dedicano a inventare nuovi giochi. Oggi giocano a chi indovina per primo il seguente quesito: dire quante sono le frazioni <em>m</em>/<em>n</em>, ridotte ai minimi termini, tali che 0 < <em>m</em>/<em>n</em> < 1 e per cui <em>m</em>\u00b7<em>n</em>=20!."
                 },
@@ -6918,7 +6918,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 168,
                     "numero": 6,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Il Quamditch \u00e8 uno sport che coniuga scatto, agilit\u00e0 e potenza tanto di pensiero che di azione. Per questo Hardy, capitano della squadra di Quamditch della casa di <em>Rapportaureo</em>, sottopone gli aspiranti matemaghi atleti alla seguente prova: mentre eseguono una tripla capriola carpiata, devono considerare tutte le coppie ordinate di interi positivi (<em>a</em>,<em>b</em>) tali che <em>a</em><sup>2</sup>+<em>b</em><sup>2</sup>=1105. Qual \u00e8 la somma dei diversi valori di <em>a</em>?"
                 },
@@ -6927,7 +6927,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 210,
                     "numero": 7,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "La preparazione di certe pozioni \u00e8 lunga ed elaborata, impresa solo per matemaghi esperti. L\u2019abile Hermita \u00e8 intenta a preparare la pozione Polifattore: essa richiede un certo numero di sanguisughe. Tale numero <em>P</em> \u00e8 il prodotto di tutti i divisori positivi di 1500000 (incluso lo stesso 1500000). Con quanti zeri termina <em>P</em>?"
                 },
@@ -6936,7 +6936,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2437,
                     "numero": 8,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Spesso ci si chiede come sia possibile riconoscere un matemago da un matebbano, cio\u00e8 qualcuno a digiuno di matemagia. Il metodo \u00e8 molto semplice! Provate a chiedere a un matebbano il seguente quesito. In un triangolo <em>ABC</em>, retto in <em>A</em>, siano <em>AB</em> = 7 e <em>AC</em> = 24. Sia <em>P</em> l\u2019intersezione tra l\u2019altezza da <em>A</em> e la mediana da <em>B</em>. Determinare <em>AP</em>.\n<span class='note'>Rispondere con la somma del numeratore e del denominatore della frazione ridotta ai minimi termini.</span>"
                 },
@@ -6945,7 +6945,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 9912,
                     "numero": 9,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "La valente Hermita \u00e8 piuttosto confusa dall\u2019uso della <em>Giratempo</em>, che le permette di viaggiare nel tempo. Dunque si ritrova costretta a tenere spesso d\u2019occhio l\u2019orologio. Sia <em>N</em> il numero di volte che, in una settimana, la lancetta dei secondi sorpassa la lancetta dei minuti. Quanto vale <em>N</em>?"
                 },
@@ -6954,7 +6954,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 540,
                     "numero": 10,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Hardy e Hermita sono nel laboratorio di geomanzia, per esercitarsi a creare simboli magici. Partendo da una circonferenza su cui segnano sei punti equidistanti, Hermita propone di completare la figura unendo i sei punti a formare una stella di David, di area <em>A</em>. Hardy invece propone di unirli ad esagono, di area <em>B</em>. Per misurare la potenza dei due incantesimi, i due misurano le due aree. Dire quanto vale 360<em>B</em>/<em>A</em>."
                 },
@@ -6963,7 +6963,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 9375,
                     "numero": 11,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "I concorrenti al temibile torneo TreAngoli che hanno superato la prima prova si trovano ora ad affrontare la seconda. Devono trovare il pi\u00f9 piccolo numero di esattamente 4 cifre tale per cui, sommando le ultime quattro cifre del suo quadrato al numero iniziale, si ottenga 10000."
                 },
@@ -6972,7 +6972,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1342,
                     "numero": 12,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Come tutti i matemaghi sanno, un alfo domestico pu\u00f2 riconquistare la sua libert\u00e0 se riesce a risolvere un problema che gli pone il suo padrone. Recentemente un alfo si \u00e8 visto chiedere qual \u00e8 il pi\u00f9 piccolo numero intero di 4 cifre distinte e non nulle tale che ogni sua cifra (ad eccezione della prima e dell\u2019ultima) sia strettamente maggiore della media aritmetica delle due cifre adiacenti. Qual \u00e8 la risposta che restituisce la libert\u00e0 all\u2019alfo?"
                 },
@@ -6981,7 +6981,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 70,
                     "numero": 13,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Hardy, Ron e Hermita amano trascorrere il pomeriggio davanti a una tazza fumante di t\u00e8 in compagnia del guardacaccia. In queste occasioni la meticolosa Hermita ha sempre un nuovo problema di geomanzia, la sua materia preferita, da proporre agli amici. I punti <em>B</em>, <em>C</em>, <em>D</em>, <em>E</em> giacciono sulla stessa circonferenza e sia <em>A</em> l\u2019intersezione tra la retta <em>BE</em> e la retta <em>CD</em> (vedere figura). Sappiamo che <em>DE</em>=<em>AE</em> e che &#8736;<em>ACB</em>= 40&#176. Determinare &#8736;<em>DAE</em>.<img src='./resources/images/Testi/Semifinale/2006_13.JPG' width=150>"
                 },
@@ -6990,7 +6990,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 9690,
                     "numero": 14,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Il professor Primon fa una strana collezione di manufatti di matemagia oscura. Si tratta di tetraedri regolari che hanno facce tutte colorate di un solo colore (diverso per ogni faccia), e i colori vengono scelti da una gamma di 20 colori diversi. Il professor Primon possiede gi\u00e0 un elemento di questa collezione e ne compra un altro, poi torna a casa lo capovolge, lo ruota sulla base, e si accorge che in realta \u00e8 un doppione. Quanti pezzi conta in totale la collezione (due pezzi ottenibili l\u2019uno dall\u2019altro mediante rotazioni, sono da considerarsi lo stesso)?"
                 },
@@ -6999,7 +6999,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2006,
                     "numero": 15,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "La fine del torneo TreAngoli \u00e8 vicina, e presto si sapr\u00e0 il nome del matemago supremo, colui che sar\u00e0 ricordato per le ere a venire. Solo un prova separa Hardy dal meritato trionfo: determinare quanto vale la somma dei quadrati delle radici del polinomio <em>x</em><sup>3</sup>\u221246<em>x</em><sup>2</sup>+55<em>x</em>\u22127."
                 }
@@ -7615,7 +7615,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 7466,
                     "numero": 1,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Abelix e Borelix hanno intercettato un messaggio proveniente da Giulio Cesare in persona e destinato ad uno dei suoi luogotenenti. Il messaggio recita: \u201cDovete inviare WBUHHH plotoni di soldati, ogni plotone deve essere formato da WKHW soldati da disporre in una testuggine quadrata con UHH soldati per lato inoltre ho bisogno di altri LLCBKWHU soldati che mi facciano da guardia personale.\u201d Abelix scruta il messaggio ed osserva dubbioso: \u201cI romani di solito usano altre buffe lettere al posto dei numeri, tipo XVIII, XLIV e roba del genere. Che abbiano cambiato lettere?\u201d ma poi immediatamente esclama: \u201cMa certo! Giulio Cesare ha usato il suo solito metodo e ha cambiato le lettere semplicemente spostandosi di un numero fissato nell\u2019ordine alfabetico!\u201d. Quanti soldati ha chiesto in tutto Giulio Cesare?"
                 },
@@ -7624,7 +7624,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2090,
                     "numero": 2,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Il desco dell\u2019imperatore \u00e8 un enorme tavolo circolare, il pi\u00f9 grande del mondo, con la bellezza di 3135 posti a sedere. Solo una volta capit\u00f2 di vederlo completamente occupato: si narra che quel giorno ognuno dei commensali fece un commento sui due che aveva di fronte (i due seduti accanto al punto del tavolo diametralmente opposto al suo). In particolare, ognuno disse che dei due davanti solo uno diceva sempre la verit\u00e0, e l\u2019altro mentiva sempre. Tenendo conto che almeno uno di loro era sincero, quanti di loro effettivamente dicevano la verit\u00e0?"
                 },
@@ -7633,7 +7633,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1152,
                     "numero": 3,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "La difesa \u00e8 uno dei punti di forza dell\u2019esercito romano. Per organizzare una linea di difesa il comandante della legione allinea i soldati in base alla loro esperienza sul campo. L\u2019esperienza di ogni soldato viene quantificata con un intero tra 1 e 40. Giulio Cesare \u00e8 un esperto nell\u2019organizzare le linee di difesa ed usa una tecnica segreta che gli garantisce sicuro successo: una linea di difesa efficace \u00e8 composta da soldati allineati in modo che la somma delle esperienze di due soldati tra loro vicini sia sempre multipla di 3. Nell\u2019attaccare la Gallia, Giulio Cesare dispone di soldati con le seguenti esperienze: 4, 10, 11, 14, 16, 23, 32, 34. In quanti modi Giulio Cesare pu\u00f2 organizzare una linea di difesa efficace che usi tutti gli 8 soldati a disposizione?"
                 },
@@ -7642,7 +7642,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 5632,
                     "numero": 4,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Lo scienziato romano Novotonus, che viaggia al seguito delle truppe di Giulio Cesare, vuole rubare al suo rivale gallo Leibnix alcune carte con rivoluzionarie idee matematiche, che quest\u2019ultimo ha messo al sicuro in una cassaforte. Questa si apre inserendo quattro interi positivi <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, tali che <em>a</em>/<em>b</em> e <em>c</em>/<em>d</em> siano due frazioni irriducibili con <em>abcd</em>=35! e <em>ab</em>=n! dove 10 < <em>n</em> < 20. Sia <em>N</em> il numero di quaterne ordinate che soddisfano le condizioni, quanto fa <em>N</em>/256?"
                 },
@@ -7651,7 +7651,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2302,
                     "numero": 5,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Borelix vuole spedire un menhir d\u2019amore alla sua amata Alfabl\u00e0, e deve affrancarlo con 5160 Gallini di Bronzo, la moneta del loro villaggio. Sfortunatamente ha a disposizione solo francobolli da 165 e da 210 Gallini di Bronzo. Quanti francobolli almeno dovr\u00e0 usare Borelix?\n<span class='note'>Nella risposta usare le due cifre di sinistra per il numero di francobolli da 210 e le due cifre di destra per il numero di francobolli da 165 corrispondenti alla soluzione di somma minima.</span>"
                 },
@@ -7660,7 +7660,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 6480,
                     "numero": 6,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Poco prima di esser rapito dai goti, Parabolix aveva riposto le pozioni ricevute dagli altri druidi in uno scrigno chiuso con un lucchetto, la cui combinazione \u00e8 un numero tra 0000 e 9999. Il pi\u00f9 astuto dei Goti rapitori, Euleric, ha scoperto che questo numero pu\u00f2 essere ottenuto nel seguente modo: si scrivono su una riga 4 interi maggiori di 1, diversi tra loro. Nella riga successiva si scrivono i 3 prodotti delle coppie dei numeri precedenti (il primo con il secondo, il secondo con il terzo ed il terzo con il quarto). Nella riga successiva si ripete il procedimento, scrivendo due prodotti. Moltiplicando questi due, si ottiene il risultato. Scrivendo in ordine dal minore al maggiore tutti i numeri di questo tipo, il quarto \u00e8 la combinazione giusta."
                 },
@@ -7669,7 +7669,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 6108,
                     "numero": 7,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Il druido Parabolix per preparare una nuova pozione deve mescolare agli altri ingredienti un numero di grammi di barba di druido pari alla somma di tutti gli interi <em>n</em> compresi tra 1102 e 2011 per cui la differenza tra il quadrato del successivo di <em>n</em> e il quadrato di <em>n</em> \u00e8 un quadrato perfetto di un numero primo. Quanti grammi di barba deve aggiungere?"
                 },
@@ -7678,7 +7678,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1352,
                     "numero": 8,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "L\u2019architetto egiziano Numerotris ha costruito una piramide a base quadrata di volume 8788 cleopassi cubici. L\u2019altezza della piramide \u00e8 pari a met\u00e0 dell\u2019altezza dei triangoli che costituiscono le facce laterali della piramide. Le pareti laterali della piramide devono essere ricoperte di mattonelle triangolari, che hanno cateto maggiore lungo 2 cleopassi e che sono simili all\u2019uno o all\u2019altro dei due triangoli rettangoli in cui ciascuna faccia della piramide \u00e8 divisa dal proprio apotema. Quante mattonelle dovr\u00e0 portare Borelix, affinch\u00e9 Numerotris possa ricoprire le 4 facce laterali della piramide?"
                 },
@@ -7687,7 +7687,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 4646,
                     "numero": 9,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Giulio Cesare desidera regalare un prezioso gioiello alla furiosa Cleopatra per ottenere il suo perdono. Il monile \u00e8 realizzato prendendo i vertici di un 101-agono regolare su una circonferenza e collegando con fili d\u2019oro i vertici che distano tra loro 47 vertici (due vertici adiacenti distano 1). Sapendo che in ogni punto interno alla circonferenza in cui questi fili si incontrano Giulio Cesare vuole incastonare una pietra preziosa, di quante gemme avr\u00e0 bisogno?"
                 },
@@ -7696,7 +7696,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2222,
                     "numero": 10,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Radunato un gruppo di 5 sedicenti druidi, l\u2019Arcidruido li ascolta uno dopo l\u2019altro per individuare se ci siano impostori infiltrati dai romani. Tutti i sospettati sanno chi sono i druidi e chi gli impostori. I druidi dicono sempre la verit\u00e0, gli impostori mentono sempre. I 5 sospettati fanno le seguenti affermazioni:\n &nbsp &nbsp &nbsp A: Il numero di druidi presenti \u00e8 un multiplo di 3.\n &nbsp &nbsp &nbsp B: C\u2019\u00e8 un solo impostore fra di noi.\n &nbsp &nbsp &nbsp C: A e B sono entrambi druidi.\n &nbsp &nbsp &nbsp D: Io ed A non siamo impostori.\n &nbsp &nbsp &nbsp E: D sta mentendo.\nNella risposta, usare le cifre da sinistra a destra per indicare quello che si pu\u00f2 dire di ciascuno dei primi 4 individui: 1 se \u00e8 un druido, 2 se \u00e8 un impostore, 0 se non pu\u00f2 essere determinato univocamente."
                 },
@@ -7705,7 +7705,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 682,
                     "numero": 11,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Giulio Cesare cerca il villaggio dei Galli e ha ristretto la sua area di ricerca ad un quadrato di 60 miglia di lato. I suoi soldati sono stati attaccati ogni volta nei punti medi dei lati del quadrato. Grazie all\u2019informatore Ficcanasus, Giulio Cesare \u00e8 riuscito a scoprire che i Galli non si allontanano mai per pi\u00f9 di 45 miglia dal villaggio quando attaccano. Allora disegna sulla mappa l\u2019area in cui pu\u00f2 trovarsi il villaggio e ordina ai suoi soldati di cercare nel quadrato che ha come vertici i vertici della zona disegnata. Quanto vale in miglia quadre l\u2019area del quadrato?"
                 },
@@ -7714,7 +7714,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 9990,
                     "numero": 12,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Su suggerimento del suo druido-spia, Dimostropercertus ordina di chiudere tutti i porti in mano ai romani. Abelix e i suoi compagni decidono di andare a caso per trovare un porto non controllato ove attraccare. Scelgono casualmente un naturale <em>n</em> tra 1 e 2011, e chiamano <em>q</em> la probabilit\u00e0 che 11|10<sup><em>n</em></sup>\u22121 e <em>r</em> la probabilit\u00e0 che 11|10<sup><em>n</em></sup>+1. Indicare come risultato le prime 4 cifre decimali del quoziente <em>q</em>/<em>r</em>."
                 },
@@ -7723,7 +7723,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 5984,
                     "numero": 13,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Il cantiere per la costruzione del monumento a Cleopatra era fino a ieri un triangolo <em>ABC</em> retto in <em>A</em> con <em>AB</em>=128 e <em>AC</em>=187. Oggi l\u2019area dei lavori \u00e8 stata estesa ad un triangolo <em>BCD</em>, con <em>D</em> sul prolungamento di <em>AB</em> tale che <em>CD</em>=222. All\u2019interno del cantiere allargato, il monumento sorger\u00e0 sulla superficie del quadrilatero <em>AEFG</em>, con <em>E</em>, <em>F</em>, <em>G</em> punti medi di <em>DB</em>, <em>BC</em>, <em>CD</em>. Quanto misura l\u2019area di questo quadrilatero?"
                 },
@@ -7732,7 +7732,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8050,
                     "numero": 14,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Il druido Parabolix \u00e8 uno dei pochi in grado di leggere il linguaggio degli antichi Galli. Un giorno, traducendo una loro pergamena, not\u00f2 nel testo originale il numero 1111111111 (composto da dieci cifre); sapeva per\u00f2 che il loro sistema di numerazione era in base 9. Quando complet\u00f2 la traduzione, che numero scrisse?\n<span class='note'>Indicare le ultime 4 cifre</span>"
                 },
@@ -7741,7 +7741,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 7425,
                     "numero": 15,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Durante un\u2019avventura in Egitto Borelix involontariamente rompe il naso della famosa Sfinge. Il naso, ora a terra, \u00e8 un tetraedro irregolare <em>ABCD</em> appoggiato sulla faccia <em>ABC</em>. Borelix, lanciando un romano, spezza ulteriormente il naso lungo un piano parallelo ad <em>ABD</em> dividendolo in due pezzi di cui quello che contiene il vertice <em>C</em> ha volume che, una volta diminuito del 66,9%, diventa pari a quello dell\u2019altro pezzo. Sapendo che l\u2019altezza (rispetto al suolo) del pezzo che contiene il vertice <em>C</em> misura 6,75m, quanti millimetri misurava l\u2019altezza di <em>ABCD</em> relativa ad <em>ABC</em>?"
                 },
@@ -7750,7 +7750,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8044,
                     "numero": 16,
-                    "valore": "?",
+                    "valore": -1,
                     "autore": "",
                     "testo": "Un\u2019altra avventura \u00e8 finita e immancabilmente il villaggio si raduna per il tradizionale banchetto. Il numero di cinghiali sbafati dai nostri voraci amici gallici \u00e8 pari al numero di soluzioni intere di |<em>x</em>|+2|<em>y</em>|=4022. Quanti suini sono stati necessari?"
                 }
@@ -15221,7 +15221,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 7,
                     "valore": 84,
                     "autore": "",
-                    "testo": "I troll guidati da Granpap\u00e0 raggiungono Elsa ed il popolo di Arendelle. Granpap\u00e0 chiede ad Elsa di risolvere un problema: una sequenza finita di 0 e 1 (che inizi con 1) rappresenta un numero espresso in una qualunque base <em>b</em>&#8805;2, <em>b</em> naturale (ad esempio 1001000 se interpretato come numero in base due rappresenta 72 , in base dieci rappresenta proprio 1.001.000). Per quale sequenza di 0 e 1 la somma dei numeri che essa rappresenta nelle basi da due fino a dieci \u00e8 pari a 3087 ? Appena Elsa risponde con la soluzione Granpap\u00e0 le comunica che gli spiriti che ha risvegliato sono molto arrabbiati e che l\u2019unico modo per placarli \u00e8 quello di scoprire la verit\u00e0 sul passato. \n <span class='note'>Dare come risposta le quattro cifre meno significative della sequenza trovata. <\\span>"
+                    "testo": "I troll guidati da Granpap\u00e0 raggiungono Elsa ed il popolo di Arendelle. Granpap\u00e0 chiede ad Elsa di risolvere un problema: una sequenza finita di 0 e 1 (che inizi con 1) rappresenta un numero espresso in una qualunque base <em>b</em>&#8805;2, <em>b</em> naturale (ad esempio 1001000 se interpretato come numero in base due rappresenta 72 , in base dieci rappresenta proprio 1.001.000). Per quale sequenza di 0 e 1 la somma dei numeri che essa rappresenta nelle basi da due fino a dieci \u00e8 pari a 3087 ? Appena Elsa risponde con la soluzione Granpap\u00e0 le comunica che gli spiriti che ha risvegliato sono molto arrabbiati e che l\u2019unico modo per placarli \u00e8 quello di scoprire la verit\u00e0 sul passato. \n <span class='note'>Dare come risposta le quattro cifre meno significative della sequenza trovata. </span>"
                 },
                 {
                     "titolo": "In viaggio verso nord",
