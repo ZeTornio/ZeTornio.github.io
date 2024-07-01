@@ -9597,7 +9597,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "testo": "Sia Lupin/3 che FujIto amano scommettere. Ora giocano l’uno contro l’altra: se vince Lupin/3, usciranno a cena; se vince FujIto, lui dovrà regalarle l’enorme diamante che ha appena rubato. Hanno di fronte a loro 2023 fiammiferi. Inizialmente FujIto sceglie un intero positivo <em>n</em>. Lupin/3 nei suoi turni toglie un numero di fiammiferi fra 1 e <em>n</em> estremi compresi; invece, FujIto ad ogni turno toglie un numero di fiammiferi fra <em>n</em>+1 e 2<em>n</em> estremi compresi. Inizia a muovere Lupin/3. Chi all’inizio del proprio turno non può fare nessuna mossa ha perso.\n<span class='note'>Dare come risposta la somma dei valori di <em>n</em> che FujIto può scegliere per essere sicura di vincere.</span>"
                 }
             ]
-        },/*
+        },
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
@@ -9605,197 +9605,151 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Autori": "",
             "Problemi": [
                 {
-                    "titolo": "",
+                    "titolo": "Festa al castello",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 272,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 44,
                     "autore": "",
-                    "testo": ""
+                    "testo": "SherLog Hodge, il famoso detective, osserva di nascosto i 33 partecipanti ad una festa. Sa che alcuni sono dalla sua parte, gli altri invece sono fedeli al suo acerrimo nemico Mongearty. Alcuni partecipanti si stringono la mano, ma solo se non si conoscevano prima. Sapendo che gli appartenenti ad una stessa fazione già si conoscevano, al massimo quante strette di mano ha potuto osservare SherLog?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Tentativo di cattura",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1680,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 62,
                     "autore": "",
-                    "testo": ""
+                    "testo": "SherLog Hodge ed il fido Wolfram costruiscono una trappola per incastrare Mongearty. Si tratta di un rettangolo <em>ABCD</em> con <em>AB</em> lungo 48dm e <em>BC</em> lungo 20dm. Sulla diagonale <em>AC</em> viene costruito un rettangolo in modo tale che <em>AC</em> sia un lato ed il lato ad esso opposto passi per <em>B</em>. Allo stesso modo su <em>BD</em> si costruisce un rettangolo passante per <em>A</em>. Se Mongearty entrerà nell’area costituita dall’unione dei tre rettangoli, la trappola scatterà. Wolfram si chiede se l’area sia sufficiente. Quanto vale l’area, in dm<sup>2</sup>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Quesito nel romanzo",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 12,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 67,
                     "autore": "",
-                    "testo": ""
+                    "testo": "La nota scrittrice di libri gialli Jessica Fourier ama piazzare qualche quesito matematico nei suoi romanzi. Nella sua ultima fatica chiede al lettore quante siano le coppie (<em>x</em>,<em>y</em>) di interi con |<em>y</em>| ≤ 4000 per cui esiste un intero positivo <em>k</em> che soddisfa la relazione <em>x</em><sup>2</sup>+<em>y</em><sup>2</sup>+2<sup>2<em>k</em>−1</sup>+2<em><sup>k</sup>x</em>−2<em><sup>k</sup>y</em>=0. Qual è la risposta?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La strada verso il rifugio",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 480,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 66,
                     "autore": "",
-                    "testo": ""
+                    "testo": "L’ispettore Gauget si trova alla base di una montagna conica di apotema lungo 600 m e raggio di base 150 m. Deve catturare un fuggitivo, nascosto nel rifugio che si trova sul lato della montagna a esattamente 150 m da lui verso la vetta della montagna. Per arrivare al rifugio, l’ispettore percorre la strada più corta che faccia anche un giro completo intorno alla montagna; osserva che curiosamente, la strada percorsa è per un primo tratto in salita e poi in discesa. Quanti metri è lungo il tratto in salita?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Pizzini per MontyHallbano",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 57,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 44,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Il boss dei Sin(agra) impartisce ordini in codice utilizzando sequenze di esattamente tre lettere, tutte distinte, prese da un alfabeto che ha in tutto <em>n</em> lettere. Il commissario MontyHallbano non sa tradurre gli ordini scritti sui pizzini, ma sa che il numero totale di possibili sequenze è multiplo di 11 e di 19. Quanto vale <em>n</em>, come minimo?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La generosità di Zenonigata",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 4,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 55,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Zenonigata è talmente ossessionato da Lupin/3 che ha promesso che, quando lo catturerà, regalerà ai colleghi tanti MathYen quanto vale la somma delle cifre della somma delle cifre della somma delle cifre di 20232024. Quanti MathYen sono?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La sfida di Jessica Fourier",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 894,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 69,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Jessica Fourier ha il classico blocco dello scrittore matematico. Per distrarsi sfida il Dr. Sette: entrambi hanno un foglio con disegnata un’identica circonferenza e devono ritagliare un quadrilatero. Entrambi i quadrilateri devono avere la stessa area. Il Dr. Sette ritaglia il quadrato inscritto nella circonferenza. Jessica invece traccia una corda <em>AB</em> a distanza 400mm dal centro <em>C</em> e le tangenti nei punti <em>A</em> e <em>B</em> alla circonferenza che si intersecano in <em>P</em>. Quindi ritaglia il quadrilatero <em>CAPB</em>. Quanto misura il raggio delle due circonferenze identiche in mm?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Vicini di tavola",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 5751,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 112,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Attorno ad una tavola rotonda siedono 10000 persone, ma purtroppo ognuna di esse potrebbe essere un membro della famigerata Organizzazione Nera. Di queste persone, 4248 pronunciano la seguente frase: “Tra me e le due persone al mio fianco si nascondono almeno due membri dell’Organizzazione”; tutte le altre invece dichiarano :“Tra me e le due persone al mio fianco si nasconde al più un membro dell’Organizzazione”. Il detective Kolmogoro, dietro “suggerimento” di coNaN, conclude: “Assumendo che i membri dell’Organizzazione mentano sempre e che tutti gli altri dicano sempre la verità, è possibile che il numero di membri dell’Organizzazione sia...”. Con quanti numeri diversi Kolmogoro avrebbe potuto terminare la frase?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Il disegno di Fuzzy",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1212,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 103,
                     "autore": "",
-                    "testo": ""
+                    "testo": "L’ispettore Giuseppe Fuzzy, collaboratore di MontyHallbano, disegna un triangolo <em>ABC</em> isoscele in <em>A</em>. Prende poi i punti <em>D</em> ed <em>E</em> rispettivamente sui lati <em>AC</em> e <em>AB</em> tali che <em>DE</em> è parallelo a <em>BC</em>. Detta <em>P</em> l’intersezione fra i segmenti <em>BD</em> e <em>CE</em>, osserva che ∠<em>BPC</em>= 60°. Sa, inoltre, che le circonferenze inscritte nel quadrilatero <em>ADPE</em> e nel triangolo <em>BPC</em> hanno raggi congruenti, e che l’altezza del triangolo <em>ABC</em> relativa al vertice <em>A</em> misura 1200. Chiede quindi al commissario MontyHallbano: quanto misura il lato <em>AC</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Il quesito del tenente",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 3040,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 56,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Il tenente Coulomb ha già capito chi è il colpevole, per cui gioca di psicologia per farlo confessare. La domanda che Coulomb pone, e che fa crollare il sospettato, è la seguente: in quanti dei sottoinsiemi non vuoti di {1,2,...,12} il prodotto degli elementi ha zero come cifra delle unità?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Gioco perverso",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 25,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 97,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Mongearty ha catturato il povero Wolfram e lo ha piazzato nel centro di un poligono regolare di 2024 vertici. Per deridere SherLog Hodge, Mongearty fa un gioco perverso: sceglie a caso un sottoinsieme <em>C</em> di 100 vertici tali che non ve ne siano due opposti rispetto al centro del poligono. Poi costruisce tutti i possibili triangoli con vertici in <em>C</em>: se Wolfram è esterno a tutti questi triangoli avrà salva la vita. SherLog ha già calcolato quale sia la frazione <em>f</em>, ridotta ai minimi termini, corrispondente alla probabilità che Wolfram sopravviva. Quanto vale il numeratore di <em>f</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Foglietto con indizio",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1536,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 104,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Sulla scena del crimine, Hermite Poinsot trova un foglietto recante una sequenza di numeri: il primo termine è 1 mentre l’<em>n</em>-esimo termine è la somma del <em>k</em>-esimo termine (dove <em>k</em> è la parte intera della radice di <em>n</em>) e del valore assoluto della differenza tra n e il quadrato perfetto ad esso più vicino. Hercule nota che la differenza tra gli ultimi due numeri è 10: quanto è lunga al minimo la sequenza?\n<span class='note'>Fornire l’esponente di 2 nella fattorizzazione in fattori primi.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Scansionando numeri",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 176,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 72,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Un numero <em>n</em> ha una scrittura consecutiva se esiste una sequenza di almeno due interi positivi consecutivi tali che la loro somma sia <em>n</em>. Tra i vari gadget dell’ispettore Gauget vi è il <em>consecutivometro</em>: dato un numero <em>n</em>, il <em>consecutivometro</em> restituisce il numero di scritture consecutive di <em>n</em>. Per risolvere l’ultimo caso l’ispettore usa il <em>consecutivometro</em> su tutti i numeri da 1 a 101 e somma tutti i valori ottenuti. Quanto vale questa somma?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Chiamate gli artificieri!",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1385,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 95,
                     "autore": "",
-                    "testo": ""
+                    "testo": "MontyHallbano ha avuto una soffiata: una cella terroristica ha nascosto una bomba in una rotonda circolare. Il Commissario è già riuscito a localizzare la rotonda, perché sa che sui bordi ci sono 3 angeli: <em>A</em> e <em>B</em> agli estremi di un diametro e l’altro angelo <em>X</em> forma un angolo ∠<em>XAB</em>= 30°. Inoltre, con gli indizi raccolti, Fuzzy sta disegnando la mappa: traccia un altro diametro <em>XY</em>=18m e chiama <em>C</em>, <em>D</em> rispettivamente le intersezioni tra le rette <em>AX</em> e <em>AY</em> con la tangente alla rotonda condotta da <em>B</em>. <em>M</em> e <em>N</em> sono i punti medi di <em>BX</em> e <em>BY</em>. La bomba è stata piazzata nell’intersezione delle rette <em>CM</em> e <em>DN</em>. Gli artificieri hanno bisogno di conoscere la distanza precisa di <em>A</em> dalla bomba. Quanto vale questa distanza in cm?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Palline magiche",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 4290,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 49,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Il sospettato che Hermite Poinsot sorveglia ha inscenato un gioco di magia per confondere il detective. Inizialmente ha in mano 2 palline rosse; ad ogni passaggio compie una tra le seguenti mosse:<ul><li> aggiunge una pallina blu ed una pallina rossa;</li><li> aggiunge una pallina blu e toglie una pallina rossa;</li><li> aggiunge due palline verdi.</li></ul> Dichiara che quando avrà in mano 11 palline blu, 9 rosse e 4 verdi sparirà, inoltre vuole raggiungere l’obiettivo usando il numero minimo possibile di mosse. In quanti modi può farlo?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Neanche stavolta",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2277,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 64,
                     "autore": "",
-                    "testo": ""
-                },
-                {
-                    "titolo": "",
-                    "argomento": "",
-                    "soluzione": ,
-                    "numero": 17,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
-                },
-                {
-                    "titolo": "",
-                    "argomento": "",
-                    "soluzione": ,
-                    "numero": 18,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
-                },
-                {
-                    "titolo": "",
-                    "argomento": "",
-                    "soluzione": ,
-                    "numero": 19,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
-                },
-                {
-                    "titolo": "",
-                    "argomento": "",
-                    "soluzione": ,
-                    "numero": 20,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
-                },
-                {
-                    "titolo": "",
-                    "argomento": "",
-                    "soluzione": ,
-                    "numero": 21,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "testo": "L’ispettore Zenonigata ha messo Lupin/3 all’angolo proponendogli la successione an, che rispetta la seguente legge: per ogni <em>n</em>>1 si ha che <em>a<sub>n</sub></em>=<em>a</em><sub><em>n</em>−1</sub>+2<em>a</em><sub><em>n</em>−2</sub>+3<em>a</em><sub><em>n</em>−3</sub>+...+(<em>n</em>−1)<em>a</em><sub>1</sub> e inoltre <em>a</em><sub>1</sub>=<em>k</em> per qualche <em>k</em> intero. Zenonigata chiede beffardo se Lupin/3 sappia calcolare la somma di tutti i valori di <em>k</em> per i quali esiste n tale che <em>a<sub>n</sub></em>=2024. Il ladro, altrettanto beffardo, risponde correttamente e scappa, lasciando Zenonigata a mangiarsi le mani per l’occasione sprecata. Cosa ha risposto Lupin/3?"
                 }
             ]
         },
-        */
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
@@ -15152,8 +15106,231 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "testo": ""
                 }
             ]
+        },*/
+        {
+            "Tipologia": "Nazionale",
+            "SottoTipologia" : "Finale Femminile",
+            "Anno": 2018,
+            "Autori": "",
+            "Problemi": [
+                {
+                    "titolo": "Ibernato",
+                    "argomento": "",
+                    "soluzione": 23,
+                    "numero": 1,
+                    "valore": 27,
+                    "autore": "",
+                    "testo": "Philip J. Frege, per gli amici Fry, è un ragazzo che lavora come consegnatore di pizze a New York. La sera del capodanno del 1999 riceve l’ordine di consegnare delle pizze al laboratorio di criogenia. Arrivato sul posto non trova nessuno, ma vede un appunto che dice che il figlio del dottor Hercule Zoup nel 2017 festeggerà un numero di anni che coinciderà con la somma delle cifre del suo anno di nascita. Fry, incuriosito, si chiede che età avrà il figlio di Hercule, ma cadendo in una capsula rimane ibernato per 1000 anni prima di poter risolvere l’enigma."
+                },
+                {
+                    "titolo": "Il risveglio",
+                    "argomento": "",
+                    "soluzione": 7680,
+                    "numero": 2,
+                    "valore": 30,
+                    "autore": "",
+                    "testo": "Fry si risveglia nel 2999. Aprendo gli occhi capisce di trovarsi in un laboratorio con uno strano essere con un occhio solo che gli pone una domanda a bruciapelo: “Considera il più piccolo numero divisibile per tutti i numeri naturali da 1 fino a 30. Quanti sono i suoi divisori positivi?” Fry sorpreso non riesce a rispondere."
+                },
+                {
+                    "titolo": "Verso la libertà",
+                    "argomento": "",
+                    "soluzione": 120,
+                    "numero": 3,
+                    "valore": 36,
+                    "autore": "",
+                    "testo": "Non ricevendo alcuna risposta, Liela Turinga - così si chiama la ragazza con un occhio solo - analizzando Fry, gli propone il lavoro di fattorino. Fry non ci sta e tenta di scappare dal centro di criogenia. Giunto sul retro della struttura, trova una porta a codice chiusa. Qualcuno sulla parete a fianco ha disegnato un triangolo isoscele di base 400 mm e lato 290 mm e due cerchi uguali tangenti tra loro e tangenti, ciascuno, alla base e ad uno dei lati del triangolo. Su uno dei cerchi è riportato un diametro con sopra una <em>x</em>. Vuoi vedere che il codice è proprio il valore di <em>x</em> in mm? Con uno sforzo di memoria Fry ricorda le lezioni di geometria seguite a scuola e, pur sbagliando, dopo un po’, riesce ad azzeccare il codice giusto. Qual è?"
+                },
+                {
+                    "titolo": "Beuler's game 1",
+                    "argomento": "",
+                    "soluzione": 1683,
+                    "numero": 4,
+                    "valore": 37,
+                    "autore": "",
+                    "testo": "Durante la fuga, Fry scambia una cabina per il suicidio per una vecchia cabina telefonica e si mette in fila, conoscendo Beuler, un robot che lavora come “piegatore”. Per passare il tempo Beuler sta risolvendo un gioco riportato su un manifesto pubblicitario: data una scacchiera 6×6 con una pedina posta sulla casella in basso a sinistra, quanti percorsi esistono che portano la pedina nell’angolo in alto a destra potendo fare solo mosse che spostano la pedina dalla casella in cui si trova ad una delle tre caselle confinanti con quella di partenza nel suo vertice in alto a destra?"
+                },
+                {
+                    "titolo": "Coinquilini",
+                    "argomento": "",
+                    "soluzione": 7776,
+                    "numero": 5,
+                    "valore": 38,
+                    "autore": "",
+                    "testo": "Beuler sostiene di odiare gli esseri umani, ma Fry gli sta simpatico e decide di aiutarlo proponendogli di andare a vivere a casa sua. L’appartamento di Beuler è un romboedro, cioè un parallelepipedo le cui sei facce sono tutte rombi. Per impedire alle forze dell’ordine di rilevare Fry (sprovvisto del chip di riconoscimento), Beuler deve sistemare una barra di metallo su tutte le diagonali delle facce dei rombi che formano il suo appartamento. Se gli spigoli della sua casa misurano 18 m, quanto vale la somma dei quadrati delle lunghezze in m di tutte le barre di metallo necessarie?"
+                },
+                {
+                    "titolo": "Effetti magnetici",
+                    "argomento": "",
+                    "soluzione": 5,
+                    "numero": 6,
+                    "valore": 48,
+                    "autore": "",
+                    "testo": "“Vedi, Fry,...” - fà Beuler - “...per vivere nel 31-esimo secolo bisogna conoscere un po’ di matematica. Facciamo un gioco. Osserva. Ho 4 carte, due cuori e due picche. Calcola la probabilità di pescare due carte dello stesso seme. Ora aggiungo un certo numero di carte di fiori. Se la probabilità di pescare due carte dello stesso seme non è cambiata, quante carte ho aggiunto?” Fry tenta di rispondere quando, senza pensarci, stacca una calamita dal frigorifero e la attacca sulla testa di Beuler... che va in tilt e comincia a cantare Blowin’ in the Wind. Qual era la risposta all’enigma di Beuler?"
+                },
+                {
+                    "titolo": "Lontani parenti",
+                    "argomento": "",
+                    "soluzione": 6058,
+                    "numero": 7,
+                    "valore": 79,
+                    "autore": "",
+                    "testo": "Liela riesce a trovare Fry. Gli confida di voler abbandonare il suo lavoro opprimente e che il suo sogno è di viaggiare nello spazio. Iniziano una ricerca per verificare se esiste nella New York dell’anno 3000 un discendente di Fry che li possa aiutare e, in effetti, c’è: si tratta dello scienziato Hubert Fredholm, lontanissimo pro-pro-pro-nipote di Fry. L’unico guaio è che il numero civico di uno scienziato, negli anni 3000, è sempre mascherato da un’operazione matematica. Sul file di Fredholm c’è la serie di numeri 16, 1156, 111556, ... ottenuta inserendo il numero 15 in mezzo alle cifre del numero precedente. Se <em>n</em> è il numero ottenuto dopo il 2018-esimo inserimento e <em>S</em>(<em>n</em>) la somma delle cifre del numero <em>m</em>, il civico di Fredholm è <em>S</em>(<em>n</em><sup>1/2</sup>)."
+                },
+                {
+                    "titolo": "Planar Express",
+                    "argomento": "",
+                    "soluzione": 1425,
+                    "numero": 8,
+                    "valore": 78,
+                    "autore": "",
+                    "testo": "Hubert Fredholm è un professore di “matematica dei neutroni quantici” presso l'Università marziana e membro più anziano dell'Accademia dei Professori. È un grande inventore ed è suo il progetto da cui stati costruiti tutti i robot della Terra. Hubert è il proprietario della agenzia di trasporti intergalattici Planar Express. Hubert propone a Fry, Liela e Beuler di diventare suoi dipendenti, ma solo se sapranno risolvere un problema. Hubert scrive i numeri da 1 a 2018 lasciando uno spazio tra essi e scrivendo un “=” in fondo. Ora chiede di riempire lo spazio tra due numeri con un segno “+” o con un segno “−” in modo da ottenere come risultato finale dell’operazione 1, ma di farlo con il maggior numero possibile di segni “+”. Fry è disperato e Liela sta per spaccare qualcosa. Per fortuna che Beuler ha la soluzione. Che numero di segni “+” farà diventare Fry un fattorino del 3000?"
+                },
+                {
+                    "titolo": "Halbert Conway",
+                    "argomento": "",
+                    "soluzione": 3011,
+                    "numero": 9,
+                    "valore": 71,
+                    "autore": "",
+                    "testo": "Alla Planar Express si è aggiunto Halbert Conway, che la dirige come se fosse sua, occupandosi dell'amministrazione finanziaria e del personale. Le sue peculiarità sono la pignoleria, l'ordine, la puntualità, il rispetto delle norme e dei regolamenti, la pianificazione e l'economia. Adora i giochi con i dadi ed ha un dado elettronico a sei facce che, resettato, ha i primi sei numeri interi positivi sulle sei facce e, dopo ogni lancio, dimezza i valori pari se è uscito un numero pari, aumenta il valore di ciascuna delle sei facce di uno se è uscito un numero dispari. Halbert ha chiesto a Beuler di calcolare quale numero <em>n</em> ha la massima probabilità di uscita al terzo lancio e quale sia questa probabilità <em>a</em>/<em>b</em> ridotta ai minimi termini.\n<span class='note'>Dai come risposta 1000<em>n</em>+<em>a</em>+<em>b</em>.</span>"
+                },
+                {
+                    "titolo": "La Squadra del Tramonto",
+                    "argomento": "",
+                    "soluzione": 3791,
+                    "numero": 10,
+                    "valore": 37,
+                    "autore": "",
+                    "testo": "Negli anni 3000 esiste una polizia spaziale denominata la “Squadra del Tramonto” che, se un essere umano raggiunge i 160 anni, lo cattura e lo trasporta su un apposito pianeta-ospizio facendogli poi vivere gli ultimi anni in una realtà simulata. Siccome il professore Fredholm è nato nel 2841, ha 159 anni ma ne dichiara 150 per evitare di essere catturato. Purtroppo l’inganno viene scoperto. Fry decide di usare una delle invenzioni del professore, lo “Sniffoscopio”, un telescopio capace di annusare l'odore di qualsiasi cosa in qualsivoglia parte dell'universo. Lo Sniffoscopio individua “l’odore di anziano” su un pianeta che dista <em>a</em><sup>8</sup>+<em>b</em><sup>8</sup> parsec dalla terra, dove <em>a</em> e <em>b</em> sono le radici del polinomio <em>x</em><sup>2</sup>+<em>x</em>−5. Quanti parsec dovranno percorre Fry, Liela e Beuler per recuperare il professor Fredholm e tutti gli anziani confinati sul pianeta-ospizio?"
+                },
+                {
+                    "titolo": "Il team cresce",
+                    "argomento": "",
+                    "soluzione": 82,
+                    "numero": 11,
+                    "valore": 66,
+                    "autore": "",
+                    "testo": "Alla squadra della Planar Express, si è aggiunto John Zornberg, vecchio amico del professor Fredholm. Si tratta di un alieno del pianeta Decapod 10, somigliante ad una grossa aragosta. Fry lo ha reclutato come responsabile medico. Le sue competenze sono risultate fondamentali, quando, giunti per una consegna sul pianeta Cese-Na-Tic terzo si è scoperto esserci un’infezione. Zornberg è riuscito a mappare la sintomatologia della malattia nel modo seguente: ha introdotto la notazione <em>P</em>→<em>Q</em> per indicare che chi ha il sintomo <em>P</em> ha anche il sintomo <em>Q</em>. Poi ha determinato tutti i sintomi della malattia e li ha chiamati <em>A</em>, <em>B</em>, <em>C</em>, <em>D</em>, <em>E</em>, <em>F</em>, <em>G</em>, <em>H</em>, <em>I</em>, <em>L</em>, <em>M</em> e <em>N</em>. Infine ha determinato i seguenti collegamenti fondamentali: <em>A</em>→<em>B</em>, <em>B</em>→<em>C</em>, <em>C</em>→<em>D</em>, <em>D</em>→<em>E</em>, <em>E</em>→<em>A</em>, <em>C</em>→<em>F</em>, <em>F</em>→<em>G</em>, <em>G</em>→<em>H</em>, <em>H</em>→<em>I</em>, <em>I</em>→<em>G</em>, <em>L</em>→<em>A</em>, <em>L</em>→<em>M</em>, <em>L</em>→<em>N</em>, <em>N</em>→<em>L</em>, <em>M</em>→<em>L</em> e ha notato che, sapendo che <em>P</em>→<em>Q</em> e <em>Q</em>→<em>R</em>, sa che anche <em>P</em>→<em>R</em>. Per debellare la terribile malattia è stato necessario calcolare tutte le coppie ordinate di sintomi diversi <em>P</em> e <em>Q</em> tra le 12 elencate, tali che <em>P</em>→<em>Q</em>. Quante sono tali coppie ordinate?"
+                },
+                {
+                    "titolo": "Errori spaziali",
+                    "argomento": "",
+                    "soluzione": 4,
+                    "numero": 12,
+                    "valore": 41,
+                    "autore": "",
+                    "testo": "Amy Weil è una studentessa dell'Università Marziana che il professor Fredholm ha assunto perché ha il suo stesso gruppo sanguigno. È una ragazza piuttosto stramba e spesso un po’ superficiale. Ieri, mentre svolgeva degli esercizi in preparazione ad un esame, ha considerato la successione di Fibonacci (<em>a</em><sub>0</sub>=1, <em>a</em><sub>1</sub>=1, <em>a</em><sub><em>n</em>+2</sub>=<em>a</em><sub><em>n</em>+1</sub>+<em>a</em><sub><em>n</em></sub>) ed ha deciso di scrivere in ordine i primi elementi. Purtroppo, ad un certo punto, anziché scrivere il termine corretto lo ha aumentato erroneamente di 1. Da quel momento non ha più sbagliato i calcoli e ha deciso di smettere una volta scritto il numero 1830. Conway, accortosi subito dell’errore, le ha indicato subito l'indice del termine calcolato erroneamente. Quale indice ha indicato?"
+                },
+                {
+                    "titolo": "New Mars Vegas",
+                    "argomento": "",
+                    "soluzione": 5814,
+                    "numero": 13,
+                    "valore": 39,
+                    "autore": "",
+                    "testo": "I componenti della Planar Express fanno visita ai genitori di Amy, Leo e Inez, i quali vogliono costruire una Nuova Mars Vegas. L’idea è quella di prendere il rudere costruito su un terreno protetto, una struttura a forma di parallelepipedo e di ristrutturarla aumentando di 2 m , 3 m e 4 m le tre dimensioni in modo da aumentare il volume della struttura di 3447 m<sup>3</sup> e farlo diventare un cubo. Liela, assieme ad un gruppo di ecofemministe, cerca di opporsi e finisce per salvare una piccola sanguisuga in via di estinzione. Quello che si scoprirà è che la piccola sanguisuga è un alieno che vuole distruggere l’umanità. Per fortuna l’intervento di Fry sistema le cose. Ripartendo da Marte, Beuler si chiede: “Qual era il volume iniziale del rudere prima della ristrutturazione in m<sup>3</sup>?”"
+                },
+                {
+                    "titolo": "Il pianeta Smullyan",
+                    "argomento": "",
+                    "soluzione": 650,
+                    "numero": 14,
+                    "valore": 35,
+                    "autore": "",
+                    "testo": "Fry e la Planar Express stanno per effettuare una consegna sul pianeta Smullyan. Liela ha già messo in guardia Fry sugli abitanti del pianeta che fanno parte di due fazioni religiose: Gli “erov” che sono sempre sinceri e “oslaf” che mentono sempre. All’arrivo compare il sindaco che si presenta dicendo “Io sono un ...” purtroppo un colpo di vento ha impedito a Fry di sentire la sua voce. A questo punto si presentano a ritirare la merce vari gruppi di abitanti: il primo gruppo è formato da due abitanti, ciascuno dichiara: “l’altro è un oslaf”. A seguire arriva una delegazione di tre abitanti che dichiarano ciascuno “gli altri due appartengono al gruppo degli erov”, quindi arriva una gruppo di quattro persone che dichiarano ciascuno: “gli altri tre del gruppo sono oslaf.” E così via fino all’ultima delegazione di 50 abitanti. Ogni gruppo formato da <em>n</em> abitanti ha dichiarato che gli altri <em>n</em>−1 sono “oslaf” se <em>n</em> è pari, “erov” se <em>n</em> è dispari. Beuler chiede a Fry se sa quanti “erov”, al massimo, può aver incontrato."
+                },
+                {
+                    "titolo": "Beuler's game 2",
+                    "argomento": "",
+                    "soluzione": 127,
+                    "numero": 15,
+                    "valore": 50,
+                    "autore": "",
+                    "testo": "I viaggi sulla Planar Express sono noiosi e Beuler, non avendo altro da fare, si mette ad inventare giochi sulla scacchiera. L’ultimo che ha risolto prevedeva di posizionare una pedina sulla casella in basso a sinistra di una scacchiera 8×8 e di calcolare quanti percorsi esistono che portano la pedina nella casella d’angolo in basso a destra potendo fare solo mosse che spostano la pedina da una casella a una delle tre che si trovano nella colonna alla sua destra e nella riga immediatamente superiore, oppure nella stessa riga, oppure in quella immediatamente inferiore. Che numero ha trovato?"
+                },
+                {
+                    "titolo": "Fratture della spazio",
+                    "argomento": "",
+                    "soluzione": 336,
+                    "numero": 16,
+                    "valore": 43,
+                    "autore": "",
+                    "testo": "Il professor Fredholm manda una spedizione a investigare sull’apertura dimensionale improvvisamente apparsa nello spazio. Il computer mostra un’apertura nello spazio <em>ABC</em> dalla forma di un triangolo acutangolo. Se <em>D</em> è il secondo punto di intersezione della bisettrice dell'angolo ∠<em>BAC</em> con la circonferenza circoscritta, <em>AB</em>=26 km , <em>AC</em>=30 km e <em>AD</em>=<em>BD</em>+<em>DC</em> , quanto misura l’area <em>ABC</em> da ispezionare (in km<sup>2</sup>)?"
+                },
+                {
+                    "titolo": "Mordaglia",
+                    "argomento": "",
+                    "soluzione": 3456,
+                    "numero": 17,
+                    "valore": 124,
+                    "autore": "",
+                    "testo": "Mordaglia è diventato l'animaletto domestico di Liela. È stato salvato su un pianeta vicino all’estinzione quando si è scoperto che divora qualsiasi cosa trasformandola in materia oscura, utilizzata come carburante per astronavi. Fry ha scoperto che quando Mordaglia si nutre di libri di matematica, il carburante dura molto di più. Ora c’è bisogno di fare rifornimento per il prossimo viaggio. Fry si avvicina a Mordaglia e gli porge un libro dal quale legge: “Quanti sono i numeri di dieci cifre tutte distinte divisibili per 11111?” Per tutta risposta, il piccolo divora il libro producendo una grande quantità di materia oscura. Quale risposta al problema avrebbe letto Fry se Mordaglia non avesse divorato il libro?"
+                },
+                {
+                    "titolo": "Traiettories nello spazio",
+                    "argomento": "",
+                    "soluzione": 58,
+                    "numero": 18,
+                    "valore": 115,
+                    "autore": "",
+                    "testo": "Ignorando gli ordini del professore Fredholm, Liela porta la navetta Planar Express a un demolition derby per pareggiare i conti con un tizio che l'aveva offesa. Ora però deve far rientro sulla Terra e deve calcolare la traiettoria più breve. Proietta sullo schermo la posizione. Il computer di bordo, forse per un guasto dovuto ai colpi ricevuti, disegna un quadrilatero <em>ABCD</em>. Liela osserva che al suo interno c’è un punto <em>P</em> per cui <em>ADP</em> e <em>BCP</em> sono triangoli equilateri. Costruendo esternamente al quadrilatero i triangoli equilateri <em>ABE</em> e <em>DCF</em>, il computer di bordo indica che la Terra è nel punto <em>F</em> e la Planar Express in <em>E</em> . Il computer riporta solamente i dati <em>AD</em>=20 anni luce, <em>DC</em>=21 anni luce e ∠<em>FDP</em>=90°. Con questi dati, riuscirà Liela a calcolare la lunghezza di <em>EF</em> (in anni luce) per riportare tutti a casa?"
+                },
+                {
+                    "titolo": "Il museo delle teste",
+                    "argomento": "",
+                    "soluzione": 5461,
+                    "numero": 19,
+                    "valore": 132,
+                    "autore": "",
+                    "testo": "Tanti personaggi sono arrivati nel futuro grazie a una tecnologia che consente di separare le teste dal resto del corpo e di conservarle, vive e attive, a tempo indeterminato all'interno di contenitori cilindrici trasparenti. La maggior parte di questi contenitori è radunata all'interno del Museo delle Teste, dove si trovano politici, atleti, attori, presidenti UMI e ogni sorta di personaggi famosi del ventesimo secolo e oltre. Il Museo è in grado di garantire la sopravvivenza di tante teste quante le composizioni di 14 in cui l’ultimo termine (quello più a destra) è dispari. Una <em>composizione</em> di un intero <em>n</em> è una lista ordinata di interi positivi la cui somma è <em>n</em>. Ad esempio il numero 3 ammette le seguenti quattro composizioni: (3), (1;2), (2;1) e (1;1;1)."
+                },
+                {
+                    "titolo": "Beuler's game 3",
+                    "argomento": "",
+                    "soluzione": 7776,
+                    "numero": 20,
+                    "valore": 46,
+                    "autore": "",
+                    "testo": "Di rientro da Marte, Beuler si dedica al suo passatempo preferito. Data una scacchiera 6×6 con una pedina posta sulla casella in basso a sinistra, quanti percorsi esistono che portano la pedina nella casella d’angolo in alto a destra potendo fare solo mosse che spostano la pedina da una casella a una delle tre confinanti con essa in alto, a destra o in basso, senza però poter tornare su caselle già attraversate? Oramai allenato a questi problemi, Beuler risolve l’enigma in pochi secondi. Quale soluzione ha trovato?"
+                },
+                {
+                    "titolo": "Suoni spaziali",
+                    "argomento": "",
+                    "soluzione": 124,
+                    "numero": 21,
+                    "valore": 57,
+                    "autore": "",
+                    "testo": "Un motivetto musicale simile a un richiamo tormenta la terra. Nessuno sa cosa sia, ma Fry deve scoprirlo. Una terribile navicella spaziale sta frantumando i pianeti in cerca di qualcosa. Beuler, utilizzando il suo cervello positronico, riesce a tradurre la musica nel polinomio <em>p</em>(<em>x</em>)=(1+<em>x</em>+<em>x</em><sup>2</sup>+<em>x</em><sup>3</sup>+<em>x</em><sup>4</sup>+<em>x</em><sup>5</sup>)(1+<em>x</em>+<em>x</em><sup>2</sup>+<em>x</em><sup>3</sup>+<em>x</em><sup>4</sup>+<em>x</em><sup>5</sup>+<em>x</em><sup>6</sup>+<em>x</em><sup>7</sup>)(1+<em>x</em>+<em>x</em><sup>2</sup>+<em>x</em><sup>3</sup>+<em>x</em><sup>4</sup>+<em>x</em><sup>5</sup>+<em>x</em><sup>6</sup>+<em>x</em><sup>7</sup>+<em>x</em><sup>8</sup>+<em>x</em><sup>9</sup>). La musica cesserà se si riuscirà ad eliminare i termini di grado 11, 12 e 13 di <em>p</em>(<em>x</em>). Beuler imposta il calcolo scrivendo <em>p</em>(<em>x</em>)−(<em>ax</em><sup>11</sup>+<em>bx</em><sup>12</sup>+<em>cx</em><sup>13</sup>), ma quanto valgono <em>a</em>, <em>b</em> e <em>c</em>? \n<span class='note'>Dai come risposta <em>a</em>+<em>b</em>+<em>c</em>.</span>"
+                },
+                {
+                    "titolo": "Una consegna problematica",
+                    "argomento": "",
+                    "soluzione": 1984,
+                    "numero": 22,
+                    "valore": 50,
+                    "autore": "",
+                    "testo": "Il contenitore di una fornitura alimentare per Decapod 10 ha la forma di un tetraedro. Per proteggerlo dal viaggio spaziale, Amy ha realizzato un triangolo i cui lati misurano 60 m, 50 m e 50 m che è esattamente lo sviluppo della superficie totale del contenitore. Quale volume occupa in m<sup>3</sup>?"
+                },
+                {
+                    "titolo": "Omicidio sul Planar Express",
+                    "argomento": "",
+                    "soluzione": 7406,
+                    "numero": 23,
+                    "valore": 65,
+                    "autore": "",
+                    "testo": "Un terribile mostro alieno è riuscito con l’inganno a salire sul Planar Express e sta divorando tutti i componenti del team. Fry riesce a capire che per sconfiggere il mostro e ridare vita ai suoi amici dovrà risolvere un problema molto difficile. L’alieno morirà solo se colpito con un raggio di energia di potenza pari a (<em>P</em>(2)+<em>P</em>(4)+...+<em>P</em>(998)+<em>P</em>(1000))/6, dove <em>P</em>(<em>n</em>) è il prodotto delle cifre non nulle del numero naturale <em>n</em>. Quale potenza salverà l’equipaggio del Planar Express?"
+                },
+                {
+                    "titolo": "L'ultimo uovo",
+                    "argomento": "",
+                    "soluzione": 2800,
+                    "numero": 24,
+                    "valore": 130,
+                    "autore": "",
+                    "testo": "Fry scopre di avere poteri telepatici e capisce di dover sconfiggere le Forze Oscure e salvare l'ultimo uovo degli Enciclopodi, una specie ormai estinta che evolvendo ha inglobato i DNA di tutte le specie viventi. L’uovo è un parallelepipedo rettangolo di spigoli 20 mm, 40 mm e 60 mm. Per proteggerlo, la Planar Express deve scoprire qual è l’area massima possibile dell’ombra del parallelepipedo proiettata dal sole su uno schermo (si considerino i raggi solari tutti paralleli). Per guadagnare tempo, il Professor Fredholm inventa un pulsante che può trasportare una persona dieci secondi indietro nel tempo. Grazie a questa trovata, Fry riesce a vincere le Forze Oscure. Fry e Liela decidono di sposarsi e di affrontare insieme le prossime avventure spaziali."
+                }
+            ]
         },
-        */
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
