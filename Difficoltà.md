@@ -4,7 +4,7 @@ Ogni gara viene considerata singolarmente:
 + se non sono disponibili informazioni sui punteggi dei problemi, allora la gara sarà ritenuta ordinata per difficoltà, e il punteggio proporzionale all'ordinamento.
 + se ci sono informazioni sui punteggi, viene calcolata la media e deviazione standard escludendo i due punteggi più alti, e poi ogni score viene normalizzato.
 
-In seguito, si considerano i problemi rispetto alla categoria. Tutti i problemi di una categoria vengono ordinati rispetto al punteggio calcolato; la distribuzione è poi trattata come uniforme sullo slider di difficoltà (premere *Personalizza la difficoltà* per vedere gli slider, le difficoltà relative tra le categorie ed eventualmente effettuare modifiche.) 
+In seguito, si considerano i problemi divisi per categoria. Tutti i problemi di una categoria vengono ordinati rispetto al punteggio calcolato; la distribuzione è poi trattata come uniforme sullo slider di difficoltà (premere *Personalizza la difficoltà* per vedere gli slider, le difficoltà relative tra le categorie ed eventualmente effettuare modifiche.) 
 
 ## Bilancia la difficoltà
 Crea *n* intervalli di difficoltà, uniformemente e parzialmente sovrapposti. Da ognuno di questi intervalli sarà estratto uno degli *n* problemi che comporranno la gara. In caso di sostituzione, il nuovo problema sarà estratto dallo stesso intervallo del problema che sostituisce. In caso di aggiunta di un problema, sarà duplicato casualmente un intervallo esistente.
@@ -12,5 +12,5 @@ Crea *n* intervalli di difficoltà, uniformemente e parzialmente sovrapposti. Da
 ## Ordina i problemi per difficoltà
 Questa opzione ha effetto solamente se la difficoltà è bilanciata. Ordina gli intervalli di difficoltà generati. In caso di aggiunta di un problema, il nuovo intervallo sarà una via di mezzo tra i due problemi adiacenti.
 
-# Personalizza difficoltà
-## TODO
+## Personalizza difficoltà
+# TODO
