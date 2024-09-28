@@ -16131,7 +16131,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 44,
                     "autore": "Lorenzo Mazza",
                     "testo": "La Mystery Incorporated si sta dirigendo verso l’Università Statale dove Eric, un compagno del liceo di Velma, ha realizzato un nuovo videogioco con loro come protagonisti. Mentre Fred guida il furgone, Shaggy sta passando il tempo con un vecchio videogame. Per ottenere il bonus dovrebbe inserire la somma dei tre numeri interi positivi il cui prodotto vale 11200 e il più grande dei tre numeri è uguale a 20 volte il più piccolo. Che valore permetterà a Shaggy di ottenere il bonus?"
                 },
@@ -16140,7 +16140,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 47,
                     "autore": "Carlo Càssola",
                     "testo": "Al laboratorio di informatica, il professor Kaufman sta supervisionando il lavoro dei suoi studenti Eric e Bill. Bill sta lavorando alla grafica del suo videogioco sul baseball. Ha chiesto al computer di disegnare due circonferenze, una di raggio 81 mm e l’altra di raggio 64 mm , tangenti esternamente in <em>T</em>, e una retta tangente ad entrambe rispettivamente in <em>A</em> e in B . Vorrebbe calcolare la misura della lunghezza del segmento che congiunge <em>A</em> e <em>B</em> ma il laser 3D del laboratorio si attiva e uno strano personaggio si materializza cominciando a risucchiare tutto il codice. Solo il pronto intervento del professor Kaufman con un super-magnete riesce a fermarlo. Quale sarebbe stata la misura del segmento <em>AB</em> in mm se il Fanta-Virus non fosse intervenuto cancellando il programma?"
                 },
@@ -16149,7 +16149,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 48,
                     "autore": "Sandro Campigotto",
                     "testo": "All’università deve essere successo qualcosa. Al loro arrivo Fred & company sono bloccati da una delle guardie della sicurezza che non li ha mai visti. La guardia chiede di identificarsi usando il numero dei numeri di tre cifre tali che una delle cifre è la somma delle altre due. Velma risponde al quesito della guardia mentre Fred gli fa presente che sono stati invitati dal loro amico Eric. Solo dopo aver sentito la risposta giusta e aver consultato la sua lista, la guardia li lascia passare. Quale numero ha dato Velma come risposta?"
                 },
@@ -16158,7 +16158,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 64,
                     "autore": "Simona Pieri",
                     "testo": "Daphne chiede gentilmente alla guardia di indicarle il laboratorio di informatica e quella le consegna una cartina indicando la direzione da prendere. Velma osserva che la pianta del campus è ottenuta a partire da un dodecagono regolare di lato 1 km, come in figura, dove sono state tracciate sei circonferenze congruenti, ognuna passante per il centro del poligono e per due vertici consecutivi. Velma è così affascinata dalla figura che decide di calcolarne la superficie in km<sup>2</sup>. Che valore trova?\n<span class='note'>Dai la risposta moltiplicata per 100</span><img src='./resources/images/Testi/Finale Femminile/2024_4.JPG' width=150>"
                 },
@@ -16167,7 +16167,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 47,
                     "autore": "Lorenzo Mazza",
                     "testo": "Eric e Bill mostrano a tutti il laboratorio di ricerca. Tutti rimangono affascinati dal laser ad alta densità capace di scomporre un oggetto e ricomporlo nel cyberspazio. Velma chiede ad Eric come funziona il laser, ed Eric le spiega che basta calcolare il giusto valore di <em>k</em>. Ad esempio per scomporre una scatola di Scooby snacks basta che la somma delle prime venti potenze di 4 (a partire da 4<sup>0</sup>) moltiplicata per 12 valga tanto quanto la somma delle prime <em>k</em> potenze di 2 , (sempre a partire da 2<sup>0</sup>) moltiplicata per 4. Shaggy è perplesso ma quando vede comparire la scatola di croccantini sul monitor del computer rimane stupito. Che valore di <em>k</em> ha permesso ad Eric di attivare il laser?"
                 },
@@ -16176,7 +16176,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 44,
                     "autore": "Michelangelo Sabatini",
                     "testo": "Il progetto del laser frutterà ad Eric il premio di 250.000 dollari alla prossima fiera della scienza. Il professor Kaufman ne è sicuro. Eric, però, è preoccupato. Il Fanta-Virus che si è recentemente materializzato ha cancellato gli ultimi giorni di lavoro. Mystery Inc. ha ora un mistero da risolvere. Scooby ne ha un altro: se <em>A</em> è l'insieme dei numeri da 2 a 2024 e <em>B</em> un sottoinsieme di <em>A</em> con <em>n</em>>1 elementi, qual è il minimo valore di <em>n</em> per cui ci sono sicuramente almeno due elementi distinti di <em>B</em> che hanno lo stesso numero di fattori primi, molteplicità esclusa? (Cioè senza contare le ripetizioni: ad esempio 4 e 27 hanno un solo fattore primo mentre 72 ne ha solo due.) Quale valore permetterà a Scooby di attivare il laser per far ricomparire la scatola di croccantini dal cyberspazio?"
                 },
@@ -16185,7 +16185,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 68,
                     "autore": "Claudia Manotti",
                     "testo": "Il piano è semplice: trovare il Fanta-Virus e portarlo al laboratorio dove, sfruttando il laser, lo si rimanda nel videogame di Eric. Per difendersi sarà sufficiente usare un super magnete. Scooby e Shaggy si dirigono verso la mensa, passando per la sala giochi dove uno studente sta giocando a biliardo. Dal punto medio del lato <em>AB</em> del biliardo quadrato <em>ABCD</em> colpisce una pallina (supposta puntiforme) verso un punto <em>P</em> , a caso, del lato <em>BC</em> facendola rimbalzare e incontrare di nuovo il perimetro del quadrato nel punto <em>Q</em> . Shaggy vorrebbe calcolare la probabilità che <em>Q</em> appartenga al segmento <em>DN</em>, dove <em>N</em> è il punto medio di <em>CD</em> , ma dalla mensa arriva un certo profumino... Qual è la risposta alla domanda di Shaggy?\n<span class='note'>Dare come risposta la somma del numeratore e denominatore della frazione ridotta ai minimi termini</span>"
                 },
@@ -16194,7 +16194,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 63,
                     "autore": "Simona Pieri",
                     "testo": "Fred, Daphne e Velma decidono di esplorare una delle cantine del laboratorio di informatica. Armati di super magneti, procedono con attenzione. In uno scatolone Velma trova dei vecchi compiti di informatica e un esercizio attira la sua attenzione. Sia <em>a</em><sub><em>n</em>+1</sub>=<em>a<sub>n</sub></em>/2 se <em>a<sub>n</sub></em> è pari, e sia <em>a</em><sub><em>n</em>+1</sub>=<em>a<sub>n</sub></em>−1 se <em>a<sub>n</sub></em> è dispari e maggiore di 1; 1≤<em>a<sub>n</sub></em>, <em>a<sub>n</sub></em>∈\u2115. Sia <em>P</em>(<em>a</em>) il numero dei termini della successione finita che ha termine iniziale <em>a</em>, dove <em>a</em>∈\u2115 e 2≤<em>a</em>. Ad esempio, <em>P</em>(9)=5 poiché i termini della successione sono 9, 8, 4, 2 e 1. Quanto vale <em>P</em>(2<sup>2024</sup>−2024)? Non fa a tempo a fare il calcolo che il Fanta Virus compare da dietro una porta. Armati di super magneti i nostri eroi riescono a respingerlo. Che valore avrebbe calcolato Velma, avendo avuto tempo?"
                 },
@@ -16203,7 +16203,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 128,
                     "autore": "Simona Pieri",
                     "testo": "Sono Scooby e Shaggy a scontrarsi con il Fanta Virus e a essere inseguiti da lui per tutta l’università. Chissà dove hanno messo i loro super magneti. Inseguiti, raggiungono il laboratorio di informatica. La pavimentazione del laboratorio è composta da tanti rettangoli congruenti <em>A<sub>i</sub>A</em><sub><em>i</em>+1</sub><em>B</em><sub><em>i</em>+1</sub><em>B<sub>i</sub></em>, <em>i</em>=1,2,...,2023 come in figura. Fred, Velma e Daphne si trovano sul segmento <em>HK</em>, dove <em>H</em>=<em>B</em><sub>1010</sub><em>A</em><sub>1012</sub>∩<em>A</em><sub>1</sub><em>B</em><sub>2024</sub> e <em>K</em>=<em>B</em><sub>1010</sub><em>A</em><sub>1013</sub>∩<em>A</em><sub>1</sub><em>B</em><sub>2024</sub>. Quando Scooby e Shaggy li raggiungono, dal punto <em>B</em><sub>1</sub> si attiva il laser 3D riempiendo tutta l’area del triangolo <em>B</em><sub>1</sub><em>HK</em> e trasportando l’intera Mystery Inc. nel cyberspazio. Sapendo che l’area di <em>A</em><sub>1</sub><em>A</em><sub>2</sub><em>B</em><sub>1</sub><em>B</em><sub>2</sub> 81 m<sup>2</sup> quanto vale l’area riempita dal laser in dm<sup>2</sup>?<img src='./resources/images/Testi/Finale Femminile/2024_9.JPG' width=300>"
                 },
@@ -16212,7 +16212,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 65,
                     "autore": "Lorenzo Mazza",
                     "testo": "I cinque si trovano proiettati nel videogame di Eric. Il primo livello è ambientato sulla Luna. Eric aveva spiegato loro che si può passare da un livello all’altro solo trovando e risolvendo l’enigma riportato sul pacco di Scooby snacks. Non c’è scelta...bisogna giocare... solo che nel cyberspazio il Fanta Virus non è solo. Due fantasmi lunari armati di mazze da baseball stanno raggiungendo i nostri eroi, che decidono di darsela a gambe. Scooby con due salti raggiunge la bandiera degli Stati Uniti dove trova il pacco di snacks e l’enigma: per quanti valori di <em>n</em> compresi tra 1 e 2024 l’espressione sotto riportata dà un numero razionale?<img src='./resources/images/Testi/Finale Femminile/2024_10.JPG' width=150>"
                 },
@@ -16221,7 +16221,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 86,
                     "autore": "Sandro Campigotto",
                     "testo": "Il secondo livello è ambientato nel Colosseo dell’Antica Roma. L’arena è un triangolo equilatero <em>ABC</em>. Al suo interno nel punto <em>P</em> vi sono dei gladiatori fantasma, mentre nel punto <em>Q</em>, a 100 m da <em>P</em>, c’è un feroce leone con la scatola di Scooby snacks tra le zampe. Daphne osserva che <em>ACP</em> e <em>ABQ</em> sono entrambi triangoli isosceli di lato 100(7)<sup>1/2</sup> m con il solo vertice <em>A</em> in comune. Fred ha un piano, ma deve scoprire quanto misura il lato <em>AB</em>. Quale valore permetterà a Fred di sconfiggere i fantasmi e passare di livello?"
                 },
@@ -16230,7 +16230,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 69,
                     "autore": "Simona Pieri",
                     "testo": "Il livello preistorico non sembra male... almeno fino a quando un vulcano non comincia a eruttare e i nostri eroi non vengono inseguiti da un T-rex arrabbiato montato dal Fanta Virus. La corsa finisce proprio alla base del vulcano dove nel nido di un piccolo pterosauro si intravede la scatola degli Scooby snacks necessaria per passare di livello. Sulla scatola si legge: avendo 5 lettere: <em>A</em>, <em>B</em>, <em>C</em>, <em>D</em> ed <em>E</em> e dovendo formare parole (anche senza senso) e quindi frasi con le parole appena formate, quante diverse frasi si possono avere se in ogni frase si devono utilizzare tutte le lettere una sola volta e l’ordine delle parole è importante? (Ad esempio la frase “<em>AB CDE</em>” è diversa dalla frase “<em>CDE AB</em>”) Quale numero fornisce la chiave per il nuovo livello?"
                 },
@@ -16239,7 +16239,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 99,
                     "autore": "Simone Bertone",
                     "testo": "Dopo le difficoltà iniziali nei primi tre livelli, il progresso è rapido e il Fanta Virus non riesce a fermare l’avanzata dei nostri eroi. Nemmeno quando nell’Antico Egitto due mummie vestite con la divisa da baseball cercano di impedire a Velma di calcolare la somma di tutti i valori interi positivi di <em>L</em> che rendono intera l’area del trapezio costruito tra due quadrati di lati 4 m e 10 m (come in figura). Quale valore ha permesso alla Mystery Inc. di passare al livello successivo? <img src='./resources/images/Testi/Finale Femminile/2024_13.JPG' width=200>"
                 },
@@ -16248,7 +16248,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 140,
                     "autore": "Santina De Monte",
                     "testo": "Grossi guai al livello nove, dove un orso polare vestito con la divisa dei Mets non permette a Velma & company di risolvere l’enigma. E pensare che la scatola si trova dentro a una piccola sfera incastrata in un cono. La struttura è una grande sfera di ghiaccio di raggio <em>R</em>=5<sup>1/2</sup> m appoggiata su un piedistallo. La grande sfera presenta un foro di forma conica con vertice nel centro della sfera e altezza, perpendicolare al piedistallo, maggiore del raggio di base. Il cono è stato riempito con 2π/3 m<sup>3</sup> d’acqua fino all’orlo e quando la piccola sfera, contenente gli Scooby snacks, è caduta nel foro affondando completamente, è fuoriuscito un volume d’acqua pari a π/48 m<sup>3</sup>. Prima che l’orso catturi i nostri eroi è necessario calcolare quanti millimetri di acqua ci sono in verticale dal punto più alto della sfera piccola alla superficie."
                 },
@@ -16257,7 +16257,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 58,
                     "autore": "Carlo Càssola",
                     "testo": "Una sorpresa attende i nostri eroi all’ultimo livello ambientato nel presente. L’onnipresente Fanta Virus ha tutta una serie di fantasmi che gli danno una mano. Rifugiatisi in un locale, i membri della Mystery Inc. incontrano la loro versione digitale. Ora ci sono due Scooby, due Fred, due Daphne, due Shaggy e due Velma. Per essere certa di non avere le allucinazioni la Velma digitale chiede alla Velma reale di calcolare il più piccolo valore intero che può assumere la radice quadrata della somma di 1800 numeri naturali consecutivi. Ricevuta la risposta giusta, si convince e le copie digitali decidono di aiutare le loro versioni reali. Che numero ha dato come risposta la Velma reale?"
                 },
@@ -16266,7 +16266,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 98,
                     "autore": "Claudia Manotti",
                     "testo": "L’ultimo livello programmato da Eric contiene i mostri più cattivi che la Mystery Inc. ha smascherato in tutti questi anni di indagini. Due di questi, l’Alligatore e il mostro di Catrame, stanno inseguendo i due Scooby e i due Shaggy. I quattro decidono di tentare un diversivo con un gioco di carte. Fanno sedere i due mostri, uno di fronte all’altro, e distribuiscono loro, a caso, 5 carte a testa. Sulle 10 carte ci sono i numeri da 1 a 10. Ciascuno dei due mostri deve giocare la carta più bassa che possiede. Vince la mano chi ha giocato la carta più alta. Un giocatore vince la partita se vince tutte e 5 le mani, altrimenti è patta. Qual è la probabilità che la partita finisca patta?\n<span class='note'>Rispondere con somma di numeratore e denominatore della frazione ridotta ai minimi termini."
                 },
@@ -16275,7 +16275,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 17,
-                    "valore": -1,
+                    "valore": 60,
                     "autore": "Sandro Campigotto",
                     "testo": "Shaggy estrae dalla tasca il super magnete che il professor Kaufman gli aveva consegnato e improvvisamente tutto quello che si trova nei paraggi comincia a sfarfallare, personaggi digitali inclusi. In particolare il bersaglio del tiro a segno, una tabella di tre righe e sei colonne, si colora di bianco, rosso e verde in modo che vi siano sempre due caselle per riga e una per colonna per ogni colore. Ai Fred viene un’idea per ingannare il Fanta Virus: le due Velma si confrontano per capire in quanti modi possono variare i colori dei bersagli. Che numero hanno calcolato le due Velma?"
                 },
@@ -16284,7 +16284,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 18,
-                    "valore": -1,
+                    "valore": 53,
                     "autore": "Simona Pieri",
                     "testo": "L’ultima scatola di Scooby Snacks si trova all’interno della sala giochi del Luna Park. Se ipotizziamo che l’area giochi sia un triangolo <em>ABC</em>, possiamo fare in modo che Scooby si trovi nel circocentro O, mentre il Fanta Virus si trova nell’incentro I assieme alla scatola di snacks. Ora, se Shaggy si mette nel punto <em>P</em>, punto di intersezione tra il prolungamento di <em>AI</em> e la circonferenza circoscritta al triangolo, utilizzando il Super-Magnete, stordirebbe il Virus per un tempo sufficiente da permettere a Scooby di afferrare la scatola. Velma osserva che <em>AI</em>·<em>IP</em>=14400 cm<sup>2</sup> e che il raggio della circoscritta è 130 cm , quindi la cosa sarebbe fattibile. Se i nostri eroi riuscissero a portare a termine il loro piano, quale sarebbe la distanza <em>OI</em> che Scooby dovrebbe percorrere per completare il gioco?"
                 },
@@ -16293,7 +16293,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 19,
-                    "valore": -1,
+                    "valore": 140,
                     "autore": "Michelangelo Sabatini",
                     "testo": "Purtroppo il piano fallisce e il Fanta Virus scatena la sua energia allontanando tutti e bloccando Fred con dei cavi elettrici. Richiamato dallo sconquasso lo Scooby digitale si avvicina. Fred gli suggerisce di distrarre il virus con un problema matematico, mentre il vero Scooby cercherà di afferrare la scatola di snacks. Scooby digitale si fa avanti e dopo una pernacchia chiede al Virus di calcolare quante sono le terne ordinate (<em>a</em>,<em>b</em>,<em>c</em>) di numeri interi distinti tali che |<em>a</em>|<7, |<em>b</em>|<7, |<em>c</em>|<7 e che verificano <em>a</em><sup>3</sup>+<em>b</em><sup>3</sup>+<em>c</em><sup>3</sup>=3<em>abc</em>. Mentre sta cercando di fare il calcolo, Scooby reale riesce nel suo intento e, afferrando la scatola di Scooby snacks, pone fine al gioco. Qual è la soluzione dell’enigma posto dallo Scooby digitale?"
                 },
@@ -16302,7 +16302,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 20,
-                    "valore": -1,
+                    "valore": 98,
                     "autore": "Simone Bertone",
                     "testo": "Tornati nel mondo reale e ricevuti i complimenti dal professor Kaufman è tempo di capire chi è il colpevole. Velma spiega: “L’intero gioco era disseminato di indizi relativi al baseball. All’inizio non ci avevo fatto troppo caso. Nel livello otto però ci siamo ritrovati su un campo quadrato diviso mediante una griglia 3×3 in quadratini con una mina ciascuno. Noi abbiamo dovuto calcolare la probabilità che le mine scoppiassero tutte in esattamente 8 secondi a partire dallo scoppio di quella in alto a sinistra sapendo che una mina adiacente ad un’altra che è appena scoppiata ha una probabilità di 1/2 di scoppiare al secondo successivo. Sul campo era disegnato un campo da baseball, lo stesso del gioco di Eric.” Messo di fronte all’evidenza Eric confessa di aver programmato il Virus per invidia e per far ritirare Bill dalla fiera della scienza. Qual è la probabilità che ha permesso di superare il livello e poi di smascherare il colpevole? \n<span class='note'>Dare la risposta sommando numeratore e denominatore della probabilità scritta in frazione irriducibile.</span>"
                 },
@@ -16311,7 +16311,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": -1,
                     "numero": 21,
-                    "valore": -1,
+                    "valore": 67,
                     "autore": "Santina De Monte",
                     "testo": "Eric e la Mystery Inc. festeggiano tutti assieme in una paninoteca discutendo delle avventure recenti. A un certo punto Eric annuncia di aver completato il videogioco e invita Shaggy a fare una partita. Il portatile chiede una password ed Eric dice che sono le ultime due cifre di <em>a</em><sub>643</sub> della successione: <em>a<sub>n</sub></em>=<em>a</em><sub><em>n</em>−1</sub>+12<em>a</em><sub><em>n</em>−2</sub>, <em>a</em><sub>0</sub>=0 e <em>a</em><sub>1</sub>=7. Shaggy, con il suggerimento di Velma, inserisce la risposta e sul monitor compaiono i doppi digitali che li salutano. Che numero ha dovuto inserire Shaggy per attivare il portatile di Eric?"
                 }
