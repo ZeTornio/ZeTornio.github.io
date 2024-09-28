@@ -4,7 +4,7 @@ const MAX_DIFF = 35
 let probs_diff = []
 let probs_args = []
 let probs =[]
-//Funxioni per aggiungere dinamicament le varie tipologie all'html
+//Funzioni per aggiungere dinamicament le varie tipologie all'html
 var append_text='<div><div class="title">Quali tipologie?</div><div class="explanation">Tale scleta non potrà essere modificata in seguito</div><div class="checkbox-container">'
 for(let i=0;i<Categories.length;i++){
   let c_id=Categories[i].Tipologia.replace(/ /g, '')+"_"+Categories[i].SottoTipologia.replace(/ /g, '');
@@ -225,8 +225,17 @@ function reset_diff(){
   }
 }
 document.getElementById("personalizza-cb").addEventListener('click',reset_diff)
-//Rimozione dell'ordinamento se viene tolto il bilanciamento 
 
+//Rimozione dell'ordinamento se viene tolto il bilanciamento 
+function force_balance(){
+  cb_ord=document.getElementById("ordina");
+  cb_bil=document.getElementById("bilancia");
+  if (cb_ord.checked){
+    cb_bil.checked=true;
+    document.getElementById("bilancia-cb").classList.add("cb-active")
+  }
+}
+document.getElementById("ordina-cb").addEventListener('click',force_balance);
 //Funzione per tarare la difficoltà personalizzata
 function create_diff_intervals(){
   let intervals = [];
