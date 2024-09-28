@@ -5,7 +5,7 @@ let probs_diff = []
 let probs_args = []
 let probs =[]
 //Funzioni per aggiungere dinamicament le varie tipologie all'html
-var append_text='<div><div class="title">Quali tipologie?</div><div class="explanation">Tale scleta non potrà essere modificata in seguito</div><div class="checkbox-container">'
+var append_text='<div><div class="title">Quali tipologie?</div><div class="explanation">Tale scelta non potrà essere modificata in seguito</div><div class="checkbox-container">'
 for(let i=0;i<Categories.length;i++){
   let c_id=Categories[i].Tipologia.replace(/ /g, '')+"_"+Categories[i].SottoTipologia.replace(/ /g, '');
   append_text+='<div id="'+c_id+'-cb" class="c-box">'+Categories[i].Tipologia+", "+Categories[i].SottoTipologia+'</div>'+'<input type="checkbox" id="'+c_id+'" name="alg" style="display: none;">';
