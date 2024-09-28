@@ -1,7 +1,8 @@
 UnseenProblems={}
 SeenProblems={}
 info_gare={}
-tmp_load_probs={}
+tmp_load_probs_with_scores={}
+tmp_load_probs_no_scores={}
 
 function loadProblems(tipologia,sottotipologia,anno){ 
     for(gara of [
@@ -16326,9 +16327,10 @@ function loadProblems(tipologia,sottotipologia,anno){
             if(document.getElementById(c_id).checked){
                 //console.log(c_id)
                 //console.log(gara.Anno)
-                diffs=tara(gara);
-                if(!(c_id in tmp_load_probs)){
-                    tmp_load_probs[c_id]=[];
+                [scores_avail,diffs]=tara(gara);
+                if(!(c_id in tmp_load_probs_no_scores)){
+                    tmp_load_probs_no_scores[c_id]=[];
+                    tmp_load_probs_with_scores[c_id]=[];
                 }
 
                 for(let i=0;i<diffs.length;i++){
@@ -16337,8 +16339,12 @@ function loadProblems(tipologia,sottotipologia,anno){
                     gara.Problemi[i].Anno=gara.Anno;
                     //REMOVE NEXT LINE
                     gara.Problemi[i].argomento="log,geo,tdn,alg,com" //REMOVE THIS LINE
-
-                    tmp_load_probs[c_id].push([diffs[i],gara.Problemi[i]]);
+                    if(scores_avail){
+                        tmp_load_probs_with_scores[c_id].push([diffs[i],gara.Problemi[i]]);
+                    }else{
+                        tmp_load_probs_no_scores[c_id].push([diffs[i],gara.Problemi[i]]);
+                    }
+                    
                 }
             }
             saveInfo(gara)
@@ -16347,14 +16353,14 @@ function loadProblems(tipologia,sottotipologia,anno){
     if(tipologia!=null){
         window.alert("La gara scelta non è stata trovata")
     }
-    for(c_id in tmp_load_probs){
+    for(c_id in tmp_load_probs_no_scores){
         console.log(c_id)
         c_min=parseInt(document.getElementById(c_id+"-min").innerHTML);
         c_max=parseInt(document.getElementById(c_id+"-max").innerHTML);
-        tmp_load_probs[c_id].sort(function (a,b){return a[0]-b[0]});
+        tmp_load_probs_no_scores[c_id].sort(function (a,b){return a[0]-b[0]});
         bin=1;
-        bin_width=tmp_load_probs[c_id].length/(c_max-c_min);
-        for(let i=0;i<tmp_load_probs[c_id].length;i++){
+        bin_width=tmp_load_probs_no_scores[c_id].length/(c_max-c_min);
+        for(let i=0;i<tmp_load_probs_no_scores[c_id].length;i++){
             if(i>Math.round(bin*bin_width)){
                 bin++;
             }
@@ -16362,10 +16368,29 @@ function loadProblems(tipologia,sottotipologia,anno){
             if(!((c_min+bin) in UnseenProblems)){
                 UnseenProblems[c_min+bin]=[];
             }
-            UnseenProblems[c_min+bin].push(tmp_load_probs[c_id][i][1]);
+            UnseenProblems[c_min+bin].push(tmp_load_probs_no_scores[c_id][i][1]);
         }
     }
-    tmp_load_probs={}; //Rilascio di memoria
+    for(c_id in tmp_load_probs_with_scores){
+        console.log(c_id)
+        c_min=parseInt(document.getElementById(c_id+"-min").innerHTML);
+        c_max=parseInt(document.getElementById(c_id+"-max").innerHTML);
+        tmp_load_probs_with_scores[c_id].sort(function (a,b){return a[0]-b[0]});
+        bin=1;
+        bin_width=tmp_load_probs_with_scores[c_id].length/(c_max-c_min);
+        for(let i=0;i<tmp_load_probs_with_scores[c_id].length;i++){
+            if(i>Math.round(bin*bin_width)){
+                bin++;
+            }
+
+            if(!((c_min+bin) in UnseenProblems)){
+                UnseenProblems[c_min+bin]=[];
+            }
+            UnseenProblems[c_min+bin].push(tmp_load_probs_with_scores[c_id][i][1]);
+        }
+    }
+    tmp_load_probs_no_scores={}; //Rilascio di memoria
+    tmp_load_probs_with_scores={};
     console.log(UnseenProblems)
 }
 

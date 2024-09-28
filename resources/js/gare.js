@@ -37,6 +37,7 @@ function tara(gara){
     problemi=gara.Problemi;
 
     diffs=[];
+    scores_available=false;
 
     if(problemi[0].valore>0){
         m1=0
@@ -66,11 +67,11 @@ function tara(gara){
         for(let i=0;i<problemi.length;i++){
             diffs.push((problemi[i]-mean)/std);
         }
+        scores_available=true;
     }else{
         for(let i=0;i<problemi.length;i++){
             diffs.push(i/problemi.length)
         }
     }
-    
-    return diffs;
+    return [scores_available,diffs];
 }
