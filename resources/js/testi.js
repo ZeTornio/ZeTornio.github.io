@@ -1,8 +1,7 @@
 UnseenProblems={}
 SeenProblems={}
 info_gare={}
-tmp_load_probs_with_scores={}
-tmp_load_probs_no_scores={}
+tmp_load_probs={}
 
 function loadProblems(tipologia,sottotipologia,anno){ 
     for(gara of [
@@ -16378,10 +16377,9 @@ function loadProblems(tipologia,sottotipologia,anno){
             if(document.getElementById(c_id).checked){
                 //console.log(c_id)
                 //console.log(gara.Anno)
-                [scores_avail,diffs]=tara(gara);
-                if(!(c_id in tmp_load_probs_no_scores)){
-                    tmp_load_probs_no_scores[c_id]=[];
-                    tmp_load_probs_with_scores[c_id]=[];
+                diffs=tara(gara);
+                if(!(c_id in tmp_load_probs)){
+                    tmp_load_probs[c_id]=[];
                 }
 
                 for(let i=0;i<diffs.length;i++){
@@ -16390,28 +16388,24 @@ function loadProblems(tipologia,sottotipologia,anno){
                     gara.Problemi[i].Anno=gara.Anno;
                     //REMOVE NEXT LINE
                     gara.Problemi[i].argomento="log,geo,tdn,alg,com" //REMOVE THIS LINE
-                    if(scores_avail){
-                        tmp_load_probs_with_scores[c_id].push([diffs[i],gara.Problemi[i]]);
-                    }else{
-                        tmp_load_probs_no_scores[c_id].push([diffs[i],gara.Problemi[i]]);
-                    }
-                    
+
+                    tmp_load_probs[c_id].push([diffs[i],gara.Problemi[i]]);                   
                 }
+                saveInfo(gara)
             }
-            saveInfo(gara)
         }
     }
     if(tipologia!=null){
         window.alert("La gara scelta non è stata trovata")
     }
-    for(c_id in tmp_load_probs_no_scores){
+    for(c_id in tmp_load_probs){
         console.log(c_id)
         c_min=parseInt(document.getElementById(c_id+"-min").innerHTML);
         c_max=parseInt(document.getElementById(c_id+"-max").innerHTML);
-        tmp_load_probs_no_scores[c_id].sort(function (a,b){return a[0]-b[0]});
+        tmp_load_probs[c_id].sort(function (a,b){return a[0]-b[0]});
         bin=1;
-        bin_width=tmp_load_probs_no_scores[c_id].length/(c_max-c_min);
-        for(let i=0;i<tmp_load_probs_no_scores[c_id].length;i++){
+        bin_width=tmp_load_probs[c_id].length/(c_max-c_min);
+        for(let i=0;i<tmp_load_probs[c_id].length;i++){
             if(i>Math.round(bin*bin_width)){
                 bin++;
             }
@@ -16419,36 +16413,18 @@ function loadProblems(tipologia,sottotipologia,anno){
             if(!((c_min+bin) in UnseenProblems)){
                 UnseenProblems[c_min+bin]=[];
             }
-            UnseenProblems[c_min+bin].push(tmp_load_probs_no_scores[c_id][i][1]);
+            UnseenProblems[c_min+bin].push(tmp_load_probs[c_id][i][1]);
         }
     }
-    for(c_id in tmp_load_probs_with_scores){
-        console.log(c_id)
-        c_min=parseInt(document.getElementById(c_id+"-min").innerHTML);
-        c_max=parseInt(document.getElementById(c_id+"-max").innerHTML);
-        tmp_load_probs_with_scores[c_id].sort(function (a,b){return a[0]-b[0]});
-        bin=1;
-        bin_width=tmp_load_probs_with_scores[c_id].length/(c_max-c_min);
-        for(let i=0;i<tmp_load_probs_with_scores[c_id].length;i++){
-            if(i>Math.round(bin*bin_width)){
-                bin++;
-            }
-
-            if(!((c_min+bin) in UnseenProblems)){
-                UnseenProblems[c_min+bin]=[];
-            }
-            UnseenProblems[c_min+bin].push(tmp_load_probs_with_scores[c_id][i][1]);
-        }
-    }
-    tmp_load_probs_no_scores={}; //Rilascio di memoria
-    tmp_load_probs_with_scores={};
+    
+    tmp_load_probs={}; //Rilascio di memoria
     console.log(UnseenProblems)
 }
 
-function saveInfo(gara){ //AGGIUNGERE AUTORI PER LE GARE CHE NON HANNO UN SINGOLO AUTORE e ORGANIZZATORI/ENTI
+function saveInfo(gara){
     if(!(c_id in info_gare)){
         info_gare[c_id]={};
     }
     c_id=gara.Tipologia.replace(/ /g, '')+"_"+gara.SottoTipologia.replace(/ /g, '');
-    info_gare[c_id][gara.Anno]={"Enti":"","Ringraziamenti":""}; //TODO
+    info_gare[c_id][gara.Anno]={"Enti":gara.Enti,"Ringraziamenti":gara.Ringraziamenti}; //TODO
 }
