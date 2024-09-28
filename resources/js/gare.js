@@ -37,22 +37,35 @@ function tara(gara){
     problemi=gara.Problemi;
 
     diffs=[];
-    if(Tipologia=="Nazionale"){
-        mean=0;
-        std=0;
+
+    if(problemi[0].valore>0){
+        m1=0
+        m2=0
+        for(let i=0;i<problemi.length;i++){
+            let v=problemi[i].valore
+            if(v>m2){
+                if(v>m1){
+                    m2=m1;
+                    m1=v;
+                }else{
+                    m2=v;
+                }
+            }
+        }
+        mean=0-m1-m2;
         for(let i=0;i<problemi.length;i++){
             mean+=problemi[i].valore;
         }
-        mean/=problemi.length;
+        mean/=(problemi.length-2);
+        std=0-(m1-mean)*(m1-mean)-(m2-mean)*(m2-mean);
         for(let i=0;i<problemi.length;i++){
             std+=(problemi[i].valore-mean)*(problemi[i].valore-mean);
         }
-        std/=problemi.length;
+        std/=(problemi.length-2);
         std=Math.sqrt(std);
         for(let i=0;i<problemi.length;i++){
             diffs.push((problemi[i]-mean)/std);
         }
-
     }else{
         for(let i=0;i<problemi.length;i++){
             diffs.push(i/problemi.length)
