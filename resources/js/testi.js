@@ -5940,7 +5940,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 5618,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 14,
                     "autore": "Cecilia Oliveri",
                     "testo": "<span class='sogg'>Piero</span> (<em>Contemplando l’Acquedotto Svevo a Sulmona</em>) A  partire da un triangolo rettangolo il cui angolo minore misura 30°, costruisci un triangolo simile ad esso avente il cateto maggiore coincidente con l’ipotenusa del primo. (<em>Sandro lo ascolta guardando da vicino gli archi dell’acquedotto</em>) Ripeti l’operazione altre 11 volte. Qual è il rapporto tra il cateto maggiore del triangolo più grande e quello del triangolo più piccolo? \n<span class='note'>Dare come risposta il rapporto moltiplicato per 1000.</span>"
                 },
@@ -5949,7 +5949,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 500,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 31,
                     "autore": "Sandro Campigotto",
                     "testo": "<em>A Crema, Giulia si prepara per la selezione per una famosissima competizione televisiva di dolci.</em> \n<span class='sogg'>Giulia</span> La ricetta per la torta che voglio preparare prevede l’uso di 320 g di farina per una teglia circolare di diametro 24 cm. \n<span class='sogg'>Sergio</span> Ma è troppo piccola. \n<span class='sogg'>Giulia</span> Lo so: infatti la faccio in una teglia circolare di 15 cm di raggio. \n<span class='sogg'>Sergio</span> Ma è più piccola! \n<span class='sogg'>Giulia</span> (<em>Sconsolata</em>) No, è più grande, anche l’altezza resta la stessa. \n<span class='sogg'>Sergio</span> Ma come cambiano le quantità? Quanti grammi di farina dovrai usare? (<em>Giulia caccia Sergio fuori dalla cucina.</em>)"
                 },
@@ -5958,7 +5958,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1310,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 73,
                     "autore": "Matteo Di Domenico",
                     "testo": "<em>Nel ponente ligure, tra San Lorenzo al Mare e Ospedaletti, corre lungo la costa una magnifica pista ciclabile. Le buche lungo il percorso, però, sono un problema.</em> \n<span class='sogg'>Shadi</span> Hai un numero incredibile di raggi sulle tue ruote! \n<span class='sogg'>Maurizio</span> (<em>Fermo sulla sua bicicletta</em>) Sono 250 per ruota, con distribuzione regolare. Così è molto probabile che un raggio sia sulla perpendicolare al terreno, come in questo momento, ad esempio. \n<span class='sogg'>Maurizio</span> Hai visto la ciclabile: ogni 1,04 m, a partire da dove la mia ruota anteriore tocca terra in questo momento, troverò una buca; ogni buca allenta uno dei raggi. \n<span class='sogg'>Shadi</span> Stai attento che dopo due urti in corrispondenza di un medesimo raggio la ruota cede e sarai costretto a fermarti per regolarli tutti. \n<span class='sogg'>Maurizio</span> La circonferenza interna di una ruota, su cui si agganciano i raggi, misura 24 dm; la circonferenza esterna misura 25 dm. Quanti decimetri avrò percorso al primo cedimento?"
                 },
@@ -5967,7 +5967,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1428,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 34,
                     "autore": "Sandro Campigotto",
                     "testo": "<em>Per chi si trova in Basilicata e desidera visitare la fantastica Grotta delle Meraviglie di Maratea, è un giorno fortunato: Mario ha deciso di regalare il biglietto a chi riuscirà a risolvere i suoi quesiti.</em> \n<span class='sogg'>Mario</span> Quanti sono i numeri compresi tra 1 e 10000 che si scrivono come somma di 7 numeri interi consecutivi? \n<span class='sogg'>Elena</span> (<em>Abituata alle richieste delle gare a squadre di matematica</em>) Estremi inclusi? \n<span class='sogg'>Mario</span> Sì."
                 },
@@ -5976,7 +5976,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 30,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 33,
                     "autore": "Silvia Sconza",
                     "testo": "<em>A Torbole due amiche, Clara e Sofia, passeggiano sulla riva del Garda  chiacchierando.</em> \n<span class='sogg'>Clara</span> Quanti anni hanno adesso i tuoi figli? \n<span class='sogg'>Sofia</span> Ormai stanno diventando grandi, hanno tutti più di un anno. \n<span class='sogg'>Clara</span> Vuoi dire che tutti hanno già fatto almeno il secondo compleanno? \n<span class='sogg'>Sofia</span> Sì. E il prodotto delle loro età è 360. \n<span class='sogg'>Clara</span> Questo non mi basta per determinare precisamente l’età dei tuoi figli. \n<span class='sogg'>Sofia</span> La semisomma delle loro età è uguale al numero civico di casa tua. \n<span class='sogg'>Clara</span> Non riesco ancora a determinare le loro età. \n<span class='sogg'>Sofia</span> I miei due gemelli hanno gli occhi azzurri come l’acqua del lago oggi, e con quest’ultima informazione dovresti essere in grado di determinare l’età di tutti e quattro i miei figli. \n<span class='sogg'>Clara</span> Hai ragione, adesso ho capito. \n<span class='note'>Fornire come risposta l’età del figlio maggiore moltiplicata per l’età di uno dei gemelli.</span>"
                 },
@@ -5985,7 +5985,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 651,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 31,
                     "autore": "Giuseppe Rosolini",
                     "testo": "<span class='sogg'>Domenico</span> A Cesenatico una persona su 10 ha avuto il morbillo. \n<span class='sogg'>Daniele</span> L’ho già passato. (<em>Esce, si incammina verso il palazzetto di viale Magellano e incontra 10 persone. Tra sé e sé...</em>) Qual è la probabilità che io abbia incontrato almeno uno che ha avuto il morbillo? \n<span class='note'>Dare come risposta il risultato moltiplicato per 1000</span>"
                 },
@@ -5994,7 +5994,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 112,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 30,
                     "autore": "Sandro Campigotto",
                     "testo": "<span class='sogg'>Elena</span> Il Castel del Monte è famoso per il ricorrente numero 8 nei vari elementi della sua costruzione. \n<span class='sogg'>Paola</span> Basta guardare le torri: sono otto e sono ottagonali. \n<span class='sogg'>Elena</span> E il cortile interno è un ottagono. Chiama i vertici <em>A</em>, <em>B</em>, <em>C</em>, <em>D</em>, <em>E</em>, <em>F</em>, <em>G</em> e <em>H</em>, partendo da quello a sinistra del portone e girando in senso antiorario. Considerato che <em>AB</em>=<em>BC</em>=<em>CD</em>=<em>DE</em>=<em>EF</em>=<em>FG</em>=<em>GH</em>=<em>HA</em>=5m, <em>AC</em>=<em>CE</em>=<em>EG</em>=<em>GA</em>=8m e <em>AE</em>=<em>CG</em>, quanto vale l’area dell’ottagono?"
                 },
@@ -6003,7 +6003,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 3988,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 69,
                     "autore": "Lorenzo Mazza",
                     "testo": "<span class='sogg'>Luigi</span> (<em>Passeggiando nei giardini della reggia</em>) Se prendi quattro numeri interi distinti <em>a</em>, <em>b</em>, <em>c</em> e <em>d</em>, e consideri le sei possibili differenze tra essi diverse da zero… \n<span class='sogg'>Daniele</span> (<em>Lo interrompe</em>) Le differenze possibili sono dodici. \n<span class='sogg'>Luigi</span> Hai ragione, scusa: intendevo le distanze reciproche tra numeri diversi, cioè i valori assoluti delle differenze non-zero. \n<span class='sogg'>Daniele</span> D’accordo: quelle sono sei. Ad esempio, presi 1, 3, 5 e 7 intendi |1−3|, |1−5|, |1−7|, |3−5|, |3−7| e |5−7|. \n<span class='sogg'>Luigi</span> Certo! Considera il prodotto delle sei distanze che dicevo. Nell’esempio che hai fatto è 24. Tra tutte le quadruple di numeri interi (<em>a</em>,<em>b</em>,<em>c</em>,<em>d</em>) con 0<<em>a</em><<em>b</em><<em>c</em><<em>d</em><1000 tali che il prodotto delle sei distanze reciproche diverse da zero è 120, qual è quella per cui la somma <em>a</em>+<em>b</em>+<em>c</em>+<em>d</em> è massima? \n<span class='note'>Dare come risposta la somma dei quattro numeri trovati.</span>"
                 },
@@ -6012,7 +6012,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2022,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 65,
                     "autore": "Lorenzo Mazza",
                     "testo": "<em>Sdraiati sul bagnasciuga, con i piedi immersi nelle splendide acque cristalline di Tropea, Alessio e Valeria ammazzano il tempo ponendosi a vicenda problemi matematici.</em> \n<span class='sogg'>Valeria</span> Quanti sono i numeri interi 0≤n≤2021 tali che il numero 91<em>n</em>−48<em>n</em>−44<em>n</em>+1 è multiplo di 2021? \n<span class='sogg'>Alessio</span> Dai, questa è facile!"
                 },
@@ -6021,7 +6021,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 0,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 48,
                     "autore": "Lorenzo Mazza",
                     "testo": "<em>Sul Lago Trasimeno sorgono tre isole quasi completamente disabitate che attirano numerosi turisti grazie alla presenza di resti di costruzioni medievali. Michela ed Elisa si trovano a Castiglione del Lago e stanno aspettando il traghetto per l’Isola Maggiore.</em> \n<span class='sogg'>Michela</span> Se risolvi il problema che ti propongo, pago i biglietti per il traghetto; altrimenti li paghi tu. \n<span class='sogg'>Elisa</span> Arriva tra 5 minuti, ce la faccio: proponi! \n<span class='sogg'>Michela</span> Considera i polinomi <em>p</em>(<em>x</em>)=<em>x</em><sup>3</sup>−3<em>x</em>+1 e <em>q</em>(<em>x</em>)=<em>x</em><sup>3</sup>−6<em>x</em><sup>2</sup>+9<em>x</em>−1 e sia <em>r</em> la maggiore delle radici reali del polinomio <em>p</em>(<em>x</em>). Quanto vale <em>q</em>(<em>r</em><sup>2</sup>)?"
                 },
@@ -6030,7 +6030,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 6,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 69,
                     "autore": "Matteo Di Domenico",
                     "testo": "<em>A Trieste, davanti al Castello di Miramare, nello spiazzo antistante l’entrata, tra gli alberi a semicerchio e la scogliera, la guida Anna propone una sfida a un gruppo di 25 matematiche in gita.</em> \n<span class='sogg'>Anna</span> A ognuna di voi ho messo un berretto senza che poteste vedere di che colore fosse. Ora mettetevi in cerchio in modo che possiate vedere tutte le altre. Vi assicuro che ciascuna di voi vede almeno un berretto del colore che ha in testa. (<em>Le matematiche si dispongono lungo una circonferenza nello spiazzo, ciascuna in modo da vedere tutte le altre.</em>) Ogni due minuti farò suonare una sirena sul mio cellulare; chi di voi dopo la sirena mi dirà il colore del proprio berretto potrà entrare. Ovviamente: non potete comunicare tra voi in nessun modo. (<em>Al primo avviso, sei parlano, indovinano e entrano. Al secondo altre parlano, tutte indovinano e entrano</em>) Laura (<em>Sottovoce, rivolta a Anna</em>) Quelle appena entrate erano tutte quelle con il berretto rosso. (<em>La sirena suona per la terza volta</em>) Nessuna indovina, nessuna entra. Che strano! (<em>Alla quarta sirena altre ancora parlano, indovinano e entrano</em>) Questa volta non tutte hanno il berretto dello stesso colore. \n<span class='sogg'>Anna</span> Lo sapevo: i matematici ragionano bene. \n<span class='sogg'>Laura</span> (<em>Sorridendo</em>) Beh, nel nostro caso erano tutte matematiche. \n<span class='sogg'>Anna</span> Corretto! Hanno tutte dichiarato il colore con certezza in base a un ragionamento rigoroso. \n<span class='sogg'>Voce fuori campo</span> Quante entrano al quinto avviso, sapendo che tutte quelle che hanno avuto la possibilità hanno indovinato?"
                 },
@@ -6039,7 +6039,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 3142,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 90,
                     "autore": "Sandro Campigotto",
                     "testo": "<span class='sogg'>Mattia</span> (<em>Camminando sotto il primo portico, all’alba</em>) Su quel lato della piazza, dove c’è il Caffè Italia, sorgeva un torrione circolare con un perimetro che superava i 20 metri. \n<span class='sogg'>Luca</span> Il bar è già aperto. \n<span class='sogg'>Mattia</span> È uno dei primi bar ad aprire in città. \n<span class='sogg'>Luca</span> (<em>Entrando nel bar</em>) Quanto vale la somma delle parti intere dei numeri π+<em>i</em>/1000 al variare di <em>i</em> da 1 a 1000? \n<span class='sogg'>Mattia</span> Estremi compresi? \n<span class='sogg'>Luca</span> Sì. Dunque il raggio del torrione era circa di π m. \n<span class='sogg'>Mattia</span> La valutazione è buona solo perché π è una ragionevole approssimazione della radice quadrata di 10. \n<span class='sogg'>Voce fuori campo</span> Che cosa risponde Mattia alla domanda di Luca?"
                 },
@@ -6048,7 +6048,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 76,
                     "autore": "Lorenzo Mazza",
                     "testo": "<em>Trovandosi nei dintorni di Asiago, Andrea e Giacomo decidono di percorrere la Calà del Sasso che, con i suoi 4444 gradini, è la scalinata più lunga d’Italia. Per sentir meno la fatica decidono di affrontare la salita ponendosi problemi a vicenda.</em> \n<span class='sogg'>Giacomo</span> Fattorizza 4444 in numeri primi. \n<span class='sogg'>Andrea</span> 2×2×11×101. \n<span class='sogg'>Giacomo</span> Il numero 11 è primo ed è scritto con un numero primo di cifre 1 soltanto, in notazione decimale. Ma ci sono numeri primi scritti con un numero non primo di cifre 1 soltanto, in notazione decimale? \n<span class='sogg'>Andrea</span> (<em>Affaticato</em>) No. \n<span class='sogg'>Giacomo</span> (<em>Disturbato</em>) Usando la fattorizzazione di 4444, puoi scrivere 4 come 2×2 e 26 come 2×(2+11). Ma per quanti numeri primi <em>p</em> anche il numero <em>p</em><sup>4</sup>−26 è primo? \n<span class='sogg'>Andrea</span> Basta, Giacomo, non ce la faccio più!"
                 },
@@ -6057,7 +6057,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1053,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 65,
                     "autore": "Cecilia Oliveri",
                     "testo": "<em>Piazza Villena a Palermo ha una pianta a forma di ottagono regolare ed è per questo conosciuta come Ottagono del Sole.</em> \n<span class='sogg'>Cecilia</span> L’area della piazza misura 745 m<sup>2</sup>. \n<span class='sogg'>Simone</span> Quanto vale l’area della stella a 8 punte ottenuta prolungando i lati dell’ottagono fino ad incontrarsi? \n<span class='sogg'>Cecilia</span> Intendi la stella con area minore? \n<span class='sogg'>Simone</span> Sì, quella."
                 },
@@ -6066,7 +6066,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 266,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 60,
                     "autore": "Silvia Sconza",
                     "testo": "<em>A Villaromagnano c’è uno splendido ponte ciclabile sul rio del Gerbino, con una caratteristica particolare: in certi giorni dell’anno Giovanni non permette alle persone di attraversare il ponte se non rispondono correttamente alla domande che lui pone.</em> \n<span class='sogg'>Giovanni</span> Quanti sono i numeri interi positivi palindromi, con cinque cifre, che non sono divisibili per nessun numero tra 2 e 6? \n<span class='sogg'>Silvia</span> Che cos’è un numero palindromo? \n<span class='sogg'>Giovanni</span> Non tanto un numero, quanto una lista di segni si dice <em>palindroma</em> quando la lista coincide con la lista rovesciata, cioè data una lista ℓ di <em>k</em> segni e considerata la lista ℓ' il cui <em>i</em>-esimo segno è il segno (<em>k</em>+1−i)-esimo della lista ℓ, è ℓ=ℓ'. Silvia Insomma la parola inno non è palindroma, ma il suo plurale sì. \n<span class='sogg'>Giovanni</span> Esatto! Per i numeri considero la loro scrittura in base dieci. \n<span class='sogg'>Silvia</span> Milledieci è da considerare palindromo visto che posso scriverlo con uno zero davanti. \n<span class='sogg'>Giovanni</span> No, perché quando scrivo i numeri interi in notazione decimale la cifra principale è diversa da 0. \n<span class='sogg'>Silvia</span> 2 e 6 compresi? \n<span class='sogg'>Giovanni</span> Sì."
                 },
@@ -6075,7 +6075,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 33,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 78,
                     "autore": "Sandro Campigotto",
                     "testo": "<em>A Sterzing, la rinomata azienda casearia a Ferragosto mette in palio quattro vasetti di yogurt per i visitatori più fortunati.</em> \n<span class='sogg'>Lucia</span> Dobbiamo scegliere a caso tre numeri interi <em>x</em>, <em>y</em> e <em>z</em> tra 0 e 2021, non necessariamente diversi. \n<span class='sogg'>Stefano</span> Estremi compresi? \n<span class='sogg'>Lucia</span> Esatto, se la somma <em>xy</em>+<em>yz</em>+<em>xz</em> è un multiplo di 3 portiamo a casa gli yogurt. \n<span class='sogg'>Stefano</span> Che percentuale di probabilità abbiamo di vincere?"
                 },
@@ -6084,7 +6084,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 172,
                     "numero": 17,
-                    "valore": -1,
+                    "valore": 156,
                     "autore": "Sandro Campigotto",
                     "testo": "<span class='sogg'>Stefano</span> (<em>Passeggiando tra le rovine dell’antica città romana di Sepino</em>) Chissà quante colonne in origine erano state erette in questa piazza? \n<span class='sogg'>Claudia</span> L’ho letto all’entrata: tante quante le quadruple di numeri interi <em>a</em>≤<em>b</em>≤<em>c</em>≤<em>d</em> tali che <em>a</em>·<em>b</em>·<em>c</em>·<em>d</em>=216."
                 },
@@ -6093,7 +6093,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 7944,
                     "numero": 18,
-                    "valore": -1,
+                    "valore": 70,
                     "autore": "Silvia Sconza",
                     "testo": "<em>Visitando il Mulinaccio di Scandicci, Ludovico e Roberta ritrovano una pagina di un vecchio  manoscritto.</em> \n<span class='sogg'>Ludovico</span> Ascolta che frasi sono scritte:<ol> <li> Ci sono più frasi vere che false.</li> <li> Il numero <em>N</em> è una potenza di 2 oppure è maggiore di 2021.</li> <li> L’ultima cifra di <em>N</em> è il numero della prima frase vera.</li> <li> Almeno 3 delle prime 4 frasi sono false.</li> <li> <em>N</em> è divisibile per 27 ed è minore di 2021.</li> <li> Tutte le frasi dispari sono false.</li> <li> Le frasi pari sono tutte vere oppure tutte false.</li></ol> <span class='sogg'>Roberta</span> Sono proprio numerate. C’è scritto che alcune di queste frasi sono vere e alcune false, ma non quali; questo non basta a determinare <em>N</em>. \n<span class='sogg'>Ludovico</span> Aspetta, c’è una nota in fondo che dice che <em>N</em> è un numero intero compreso tra 1 e 8000 inclusi. \n<span class='sogg'>Roberta</span> Non abbiamo comunque abbastanza informazioni! \n<span class='sogg'>Ludovico</span> Hai ragione. Però possiamo determinare il massimo e il minimo valore che può assumere <em>N</em>. \n<span class='sogg'>Voce fuori campo</span> Qual è la somma dei due valori determinati da Roberta e Ludovico?"
                 },
@@ -6102,7 +6102,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 7419,
                     "numero": 19,
-                    "valore": -1,
+                    "valore": 48,
                     "autore": "Cecilia Oliveri",
                     "testo": "<em>La struttura interna del Pantheon è formata da un cilindro sormontato sulla base orizzontale superiore da una semisfera. Il cilindro ha altezza e raggio uguali al raggio della semisfera.</em> \n<span class='sogg'>Cecilia</span> Intersecando la cupola e un piano parallelo a terra ad un’altezza di 30 m si ottiene una circonferenza di raggio 20,1 m. \n<span class='sogg'>Simone</span> Quanto vale la superficie della struttura interna? \n<span class='sogg'>Cecilia</span> Pavimento, pareti e soffitto? \n<span class='sogg'>Simone</span> Sì, solo quello."
                 },
@@ -6111,7 +6111,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 57,
                     "numero": 20,
-                    "valore": -1,
+                    "valore": 56,
                     "autore": "Sandro Campigotto",
                     "testo": "<em>Nel paese di Aggius, nell’entroterra gallurese, il Museo dei Briganti rievoca in poche stanze attraverso oggetti e ritagli dei secoli scorsi dei frammenti di vita passata di queste terre.</em> \n<span class='sogg'>Paola</span> (<em>Legge</em>) Da Anonimo del 1895: «All’osteria del centro ogni brigante troverà sempre due dadi a sei facce, perfettamente equilibrati. Il campione e lo sfidante tirano un dado a testa. Quest’ultimo vince se la faccia del proprio dado segna un numero strettamente maggiore di quello ottenuto dal campione. Se ciò non accade lo sfidante ha la possibilità di riprovare lanciando un’altra volta». \n<span class='sogg'>Voce fuori campo</span> Qual è la percentuale di probabilità di vittoria per lo sfidante?"
                 },
@@ -6120,12 +6120,12 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 192,
                     "numero": 21,
-                    "valore": -1,
+                    "valore": 136,
                     "autore": "Giuseppe Rosolini",
                     "testo": "<span class='sogg'>Carlo</span> (<em>Nel cortile del castello di Fénis</em>) Chiediamo a quel signore di fare una foto a tutto il gruppo? \n<span class='sogg'>Silvano</span> D’accordo. Siamo in nove, siamo tutti di altezze diverse: cerchiamo di disporci in modo che siamo tutti visibili. \n<span class='sogg'>Carlo</span> Ci mettiamo su tre file: in ogni fila mettiamo il più alto della fila al centro. Così è tutto ordinato. \n<span class='sogg'>Silvano</span> Però dobbiamo assicurarci che quelli delle file davanti non coprano quelli delle file dietro: quelli nella stessa posizione sulle tre file sono in ordine crescente a partire dalla fila davanti. \n<span class='sogg'>Roberto</span> Vuoi dire che, se ad esempio tu, Carlo e io siamo nella seconda posizione di tre file diverse, tu, che sei il più basso, stai nella fila davanti, io, che sono il più alto, sto nella fila dietro. \n<span class='sogg'>Silvano</span> Sì’! E Carlo sta nella fila di mezzo. \n<span class='sogg'>Roberto</span> Però, io non posso stare nella seconda posizione della fila dietro. Claudio è il più alto di tutti e non può stare che in quella posizione. \n<span class='sogg'>Pino</span> Certo! In effetti c’è un solo modo per organizzare la posa per la foto. \n<span class='sogg'>Carlo</span> (<em>Stupito</em>) Non è vero! \n<span class='sogg'>Voce fuori campo</span> In quanti modi si può organizzare il gruppo per la foto a soddisfare le condizioni richieste da Silvano?"
                 }
             ]
-        },/*
+        },
         {
             "Tipologia": "Locale",
             "SottoTipologia" : "Femminile",
@@ -6134,196 +6134,196 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
-                    "titolo": "",
+                    "titolo": "Il concessionario",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 9900,
                     "numero": 1,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 23,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Un concessionario di automobili rischia di perdere i suoi clienti perché mostra i prezzi delle auto in vendita usando artifici matematici. Ad esempio, il prezzo di un auto è scritto come <em>XYZZZ</em>€+1€=<em>XXYYY</em>€. Se un cliente gli chiede il significato di <em>X</em>, <em>Y</em> e <em>Z</em>, il concessionario gli spiega che a ciascuna lettera corrisponde una cifra. Il concessionario concede uno sconto del 10% sul prezzo che è il totale della somma a chi lo determina da solo. Quanto è il prezzo scontato dell’esempio?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Soffitti quadrati",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 5590,
                     "numero": 2,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 28,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "Ho trovato un soffitto quadrato decorato con otto travi uguali. Ciascuna congiunge il centro del soffitto con uno dei muri laterali. Il soffitto risulta così diviso in otto aree uguali. Il lato della stanza è di 10m. Qual è la lunghezza in mm di una delle otto travi? È facile misurare la lunghezza con un metro senza fare calcoli inutili."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "A bruciapelo",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 66,
                     "numero": 3,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 22,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Quanto vale (2022<sup>3</sup>−2000<sup>3</sup>−22<sup>3</sup>/(2022·2000)? Non c’è che fare i calcoli."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Divisori iniziati",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1348,
                     "numero": 4,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 63,
+                    "autore": "Andrea Giusto",
+                    "testo": "Quante sono le coppie ordinate (<em>a</em>,<em>b</em>) di interi positivi la cui somma <em>a</em>+<em>b</em> è minore di 2023 e tali che <ul>  <li><em>a</em> è un divisore di 2<em>b</em>;</li> <li><em>b</em> è un divisore di 2<em>a</em>, ma</li> <li><em>a</em> non è un divisore di <em>a</em>+<em>b</em> oppure <em>b</em> non è un divisore di <em>b</em>+<em>a</em>?</li></ul> Nonostante il linguaggio per iniziati, basta fare due prove non banali con 1 e 3."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Fattoriale di zeri",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 18,
                     "numero": 5,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 42,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Con quanti zeri termina il fattoriale 40! scritto in base 12? Questo problema non serve perché nessuno scrive in base 12. Ma la soluzione è facile."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Magliette diverse",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 216,
                     "numero": 6,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 56,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Quattro amici indossano una maglietta, ciascuno con il proprio nome sopra. Decidono di scambiarsi le magliette in modo che nessuno indossi la maglietta con il proprio nome e di mettersi in fila per farsi una foto. In quanti modi possono organizzarsi per la foto, scambiandosi magliette e mettendosi in fila? Ma la domanda reale dietro a tutto questo è: per quale motivo lo fanno. E i matematici non provano neppure a rispondere."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Mazzi di carte",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 946,
                     "numero": 7,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 42,
+                    "autore": "Cecilia Oliveri",
+                    "testo": "Un mazzo di 10 carte è formato da 5 coppie di carte uguali. Mischiando il mazzo e dividendolo in cinque coppie di carte, qual è la probabilità che le carte di ciascuna coppia siano uguali tra loro? Questo solitario non prenderà mai piede. \n<span class='note'>Dare come risposta la somma di numeratore e denominatore della frazione ridotta ai minimitermini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Quadrati di numeri",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 674,
                     "numero": 8,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 39,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Un numero naturale <em>a</em> è formato da <em>n</em> cifre, mentre il suo quadrato <em>a</em><sup>2</sup> possiede <em>m</em> cifre. Qual è il minimo valore di <em>n</em> tale che <em>n</em>+<em>m</em>=2022? È chiaro a che cosa potrà servire questo problema quando l’anno 2022 finirà."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Trapei a corona",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 20,
                     "numero": 9,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 31,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Alcuni trapezi isosceli sono stati appoggiati sul tavolo, affiancati uno all’altro condividendo un lato obliquo in modo che ogni base minore sia consecutiva ad altre due basi minori. I trapezi sono tutti uguali: la base maggiore di un trapezio misura 50 cm; la base minore misura 20 cm; gli angoli acuti sulla base maggiore misurano 81°. Quanti sono i trapezi utilizzati?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Prodotti multipli",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 205,
                     "numero": 10,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 89,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Per quante quintuple ordinate (<em>x</em>,<em>y</em>,<em>z</em>,<em>k</em>,<em>t</em>) di cifre accade che la divisione per 1000 del prodotto <em>x</em>×<em>y</em>×<em>z</em>×<em>k</em>×<em>t</em> è un numero intero positivo?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Nel XXI secolo",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 156,
                     "numero": 11,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 89,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Il giorno 02/12/22 (2 dicembre 2022) gode di una particolare proprietà: i tre numeri che descrivono la data (rispettivamente nell’ordine: giorno, mese e ultime due cifre dell’anno) sono in progressione aritmetica, cioè la differenza fra due numeri consecutivi è la stessa—nell’esempio, la differenza fra due numeri consecutivi è 10; li si descrive appunto come “numeri in progressione aritmetica di ragione 10”. Quanti sono, nel XXI secolo, le date che godono della medesima proprietà?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Disparità",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 41,
                     "numero": 12,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 122,
+                    "autore": "Matteo Littardi",
+                    "testo": "Sia <em>A</em> l’insieme dei numeri interi positivi minori di 51. Sia <em>N</em> il numero delle permutazioni di <em>A</em> tali che, per ogni <em>p</em> primo e <em>m</em> e <em>n</em> interi positivi con <em>m</em><<em>n</em>, il numero <em>p<sup>m</sup></em> compare prima di <em>p<sup>n</sup></em> nella permutazione. Qual è il massimo valore di <em>t</em> naturale tale che 2<sup><em>t</em></sup> divide <em>N</em>? Chi è riuscito a leggere fino a qui, trova subito la soluzione e che <em>N</em>/2<sup><em>t</em></sup> è dispari."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Prove di verità",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1200,
                     "numero": 13,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 115,
+                    "autore": "Silvia Sconza",
+                    "testo": "Si considerino le seguenti proprietà numeriche: <ul> <li><em>n</em> è divisibile per 7 oppure <em>n</em>≥1231;</li> <li><em>n</em> è un quadrato perfetto;</li> <li><em>n</em><1674 e <em>n</em> è divisibile per 5.</li></ul> Quanti sono i numeri <em>n</em> compresi tra 1 e 2022, estremi inclusi, tali che <em>n</em> verifica almeno una delle precedenti proprietà e ne falsifica almeno una?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Triplo palindromo",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 114,
                     "numero": 14,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 95,
+                    "autore": "Anna Ulivi",
+                    "testo": "Il più piccolo numero che si può scrivere come numero palindromo di 3 cifre in tre basi diverse è 121. Qual è il più grande numero inferiore a 121 che si scrive come numero palindromo di tre cifre in due basi diverse? La parola “palindromo” si riferisce a una lista che, letta da destra a sinistra, produce la stessa lista. Ad esempio, <em>radar</em> è palindromo; <em>drone</em> non è palindromo; 2020 non è palindromo; 2002 è palindromo."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Cerchi quadrati",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 9188,
                     "numero": 15,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 98,
+                    "autore": "Cecilia Oliveri",
+                    "testo": "Sia dato un quadrato al cui interno sono costruite 204<sup>2</sup> circonferenze uguali affiancate l’una all’altra senza sovrapposizioni. Sono disposte come segue: 4 circonferenze sono tangenti a due lati e ad altre due circonferenze; 808 circonferenze sono tangenti a un solo lato e ad altre due circonferenze; tutte le altre circonferenze non sono tangenti a un lato del quadrato, ma sono tangenti a altre quattro circonferenze. Vi sono in aggiunta altre circonferenze più piccole uguali di raggio 12 cm, ciascuna di queste tangente a quattro circonferenze grandi. Qual è il rapporto tra l’area coperta dai cerchi e l’area del quadrato? Visto che manca il dato del raggio delle circonferenze grandi, si può soltanto indovinare quale possa essere la risposta. \n<span class='note'>Dare come risposta le prime quattro cifre dopo la virgola del rapporto.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Bicchieri e piramidi",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 3744,
                     "numero": 16,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 132,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Venti bicchieri cilindrici identici, sono posizionati a formare una piramide in modo che un bicchiere poggi su tre bicchieri sottostanti. Ce ne sono così 10 al primo livello, 6 al secondo livello, poi 3, poi 1. Un rubinetto gocciola con una portata di 1 l/h esattamente sopra al bicchiere più alto della piramide. Ogni bicchiere ha un volume di 80 cm<sup>3</sup>. Quando l’acqua traborda da un bicchiere goggiola uniformemente nei tre bicchieri sottostanti. Dopo quanti secondi un bicchiere del primo livello sarà pieno d’acqua? Questo problema, così rilevante alle cerimonie importanti, è chiaramente impostato in modo errato dai matematici: c’è da chiedersi se hanno pensato che i bicchieri devono essere dotati di opportune scanalature che permettono all’acqua di defluire senza sbavare. E che nessuno pensa di usare acqua, ma spumante."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Pavimento quadrato",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1035,
                     "numero": 17,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 120,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "Un pavimento quadrato è stato ricoperto usando piastrelle rettangolari (due lati perpendicolari di una piastrella hanno lunghezze diverse) di area 450 cm<sup>2</sup>, tagliandone il minor numero possibile per coprire completamente il pavimento. Una rotazione del quadrato di 90° rispetto al centro non modifica il disegno delle piastrelle. Le piastrelle era state consegnate in scatole da 30 piastrelle ciascuna. Di 79 scatole sono state utilizzate tutte le 30 piastrelle, ma è stato necessario aprire un’altra scatola per completare la pavimentazione. Quanti centimetri è lungo il lato della stanza? Senza calcoli si misura camminando a passi regolari lungo uno dei muri."
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Pacchetti cilindrici",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 6491,
                     "numero": 18,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 145,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "Quattro cilindri uguali, con diametro di base di 20 cm e altezza di 25 cm sono impacchettati insieme in modo che le basi siano tutte appoggiate sul tavolo. Il pacchetto avvolge completamente i quattro cilindri. Qual è l’area totale minima del pacchetto?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Biliardo esagonale",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 6,
                     "numero": 19,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 99,
+                    "autore": "Anna Ulivi",
+                    "testo": "Un tavolo da biliardo ha forma di esagono regolare di lato 120 cm con buche nei sei angoli. Un giocatore colpisce molto forte una pallina posizionata proprio davanti a una delle buche. Il primo rimbalzo della palla è a 40 cm dalla buca diametralmente opposta. Dopo quanti rimbalzi entrerà in una buca?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Matematici truffatori",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 3750,
                     "numero": 20,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 128,
+                    "autore": "Giuseppe Rosolini",
+                    "testo": "Due squadre di tre giocatori si affrontano in un puro gioco d’azzardo. L’arbitro ha a disposizione francobolli gialli e francobolli verd in quantità sovrabbondante. Ad ogni turno di gioco, ne mette uno a caso sulla fronte di ciascun giocatore. Ciascun giocatore può vedere i francobolli sulla fronte dei compagni, e deve cercare di indovinare il colore del francobollo che ha sulla propria fronte; quindi scrive su un foglio il colore che sta indovinando oppure scrive la frase «NON LO SO». Una squadra fa punto quando tutti i suoi giocatori che non scrivono «NON LO SO» indovinano il colore e almeno uno dei giocatori scrive un colore. Vince la squadra che, dopo trenta turni, fa più punti. La squadra sponsorizzata da <strong>FNT</strong> gioca con la strategia più certa: Giorgio, che è il più sicuro dei tre, dichiara un colore che sceglie in base alle sue convinzioni possibili; Giancarlo e Giuseppe scrivono comunque «NON LO SO». Purtroppo, dopo trenta turni, l’altra squadra, composta da sediziosi “matematici”, vince con un numero di punti che fa pensare alla truffa. Alla conferenza stampa, l’unica affermazione che i tre “matematici” continuano a ripetere è: «Abbiamo semplicemente giocato la strategia migliore possibile.» Ammesso che tale strategia esista, qual è la probabilità che un turno sia finito 1 punto a 0 per la squadra dei matematici contro la squadra di <strong>FNT</strong>?\n<span class='note'>Dare come risposta le prime quattro cifre dopo la virgola della probabilità.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Scatole di monete",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2040,
                     "numero": 21,
-                    "valore": -1,
-                    "autore": "",
-                    "testo": ""
+                    "valore": 140,
+                    "autore": "Matteo Littardi",
+                    "testo": "Sono disponibili 3 scatole vuote e 50 monete. Una mossa consiste di quattro azioni combinate: <ol><li> scegliere una scatola delle tre; </li><li> mettere due monete nella scatola; </li><li> scegliere un’altra scatola; </li><li> mettere una moneta in questa.</li></ol> Quante sono le sequenze di mosse che producono come risultato finale che ciascuna delle tre scatole contenga 6 monete? Bisogna stare attenti che i matematici non perdano le 18 monete nelle scatole mentre cercano di risolvere il problema."
                 }
             ]
-        },*/
+        },
         {   
             "Tipologia": "Locale",
             "SottoTipologia" : "Femminile",
@@ -6534,7 +6534,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 7,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 31,
                     "autore": "Giuseppe Rosolini",
                     "testo": "Qual è il più piccolo numero intero positivo <em>n</em> tale che la radice <em>n</em>-esima di 2024 è minore di 3?"
                 },
@@ -6543,7 +6543,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 33,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 26,
                     "autore": "Sandro Campigotto",
                     "testo": "Scrivendo in ordine crescente tutti e soli i numeri interi non negativi le cui scritture usano solo le cifre “0”, “2” e “4”, che posizione occupa 2024?"
                 },
@@ -6552,7 +6552,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1349,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 132,
                     "autore": "Andrea Giusto",
                     "testo": "Alle porte della città di Tarskent, dove ogni abitante dice sempre la verità oppure mente sempre, ci sono 2024 guardiani, numerati da 1 a 2024. Per entrare in città si deve rispondere alla domanda che fanno i guardiani dopo aver parlato: \n<span class='sogg'>Guardiano 1</span> Se esistono polinomi <em>p</em> tali che il polinomio <em>p</em><sup>2</sup> ha una radice diversa dalle radici di <em>p</em>, allora tutti gli altri guardiani dicono il vero. \n<span class='sogg'>Guardiano 2</span> È falso. \n<span class='sogg'>Guardiano 1</span> Il numero di guardiani che dicono il vero è il più piccolo numero tale che i guardiani che mentono non siano più del doppio dei guardiani che dicono il vero. \n<span class='sogg'>Guardiano 2</span> Il numero di guardiani che dicono sempre il vero è la somma del più grande numero primo minore della metà di 2023 e del più grande numero primo minore di un terzo di 2023. \n<span class='sogg'>Guardiano 3</span> Io dico il vero. \n<span class='sogg'>Guardiano 4</span> È falso. \n<span class='sogg'>Guardiano 5</span> È falso. \n<span class='sogg'>Guardiano 6</span> È falso. \n<span class='sogg'>Guardiano 7</span> Io dico il vero. \n<span class='sogg'>Guardiano 8</span> È falso. \n<span class='sogg'>Guardiano 9</span> È falso. \n<span class='sogg'>Guardiano 10</span> Io dico il vero. \n<span class='sogg'>Guardiano 11</span> Io dico il vero.  \n<span class='tre_punti'>&#8942</span> \n<span class='sogg'>Guardiano 2024</span> Io dico il vero. \n<span class='sogg'>Tutti i guardiani in coro</span> Quanti di noi mentono sempre?"
                 },
@@ -6561,7 +6561,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 601,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 80,
                     "autore": "Andrea Macco e Giuseppe Rosolini",
                     "testo": "Con un teodolite fsso a terra, sono state valutare le distanze fno alla cima del Campanile e fno alla sommità della Porta Soprana. I due numeri che esprimono le due distanze sono nella stessa unità di misura. Si sa che<ul> <li>entrambe le distanze sono maggiori di 100 e minori di 1000;</li> <li> rispetto al teodolite, le due distanze formano un angolo di 90°;</li> <li> le due distanze sono due numeri interi consecutivi;</li> <li> la minore delle due distanze ha come somma delle cifre 11 ed è multiplo di 17;</lu> <li> la maggiore delle due distanze ha tutte cifre pari.</li></ul> Quanto vale, nell’unità di misura utilizzata, la distanza tra la cima del campanile e la Porta Soprana?"
                 },
@@ -6570,7 +6570,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 2731,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 122,
                     "autore": "Fabrizio Conca",
                     "testo": "Per piastrellare un corridoio rettangolare 2 m × 12 m, si usano due tipi di piastrelle, di dimensioni 1 m × 2 m e 2 m × 2 m. In quanti modi diversi si può fare?"
                 },
@@ -6579,7 +6579,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 45,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 35,
                     "autore": "Carlo Càssola",
                     "testo": "Qual è il più piccolo numero intero positivo il cui quadrato è divisibile per uno dei prossimi sei anni, incluso il corrente (cioè da ora [2024] fino a prima del 2030)?"
                 },
@@ -6588,7 +6588,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 486,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 73,
                     "autore": "Lorenzo Mazza",
                     "testo": "Fissato un numero pari <em>a</em>, si considera la sequenza (<em>a<sub>n</sub></em>)<sub><em>n</em>=1,...,100</sub> di cento numeri interi positivi costruita nel seguente modo: <em>a</em><sub>1</sub> e <em>a</em><sub><em>n</em>+1</sub>=<em>a<sub>n</sub></em>⋅<em>n</em>. Qual è il più picccolo numero <em>a</em>, intero positivo pari, tale che <em>a</em><sub>100</sub> è l’unico numero divisibile per 3<sup>53</sup> nella sequenza?"
                 },
@@ -6597,7 +6597,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 277,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 85,
                     "autore": "Federico Borasio",
                     "testo": "La classe è stata sottoposta a un esame al termine del quale a ogni studente è stato assegnato un voto intero compreso fra il minimo 1 e il massimo 100. Yu ha preso 31; per la sufficienza bastava prendere un voto maggiore o uguale a 30. Perciò la prova di Yu è sufficiente. Nella classe ci sono stati 8 studenti che hanno preso un voto sufficiente superiore a quello di Yu. Qual è il numero minimo di studenti della classe che hanno preso un voto insufficiente, che assicura che il voto di Yu sia strettamente superiore alla media dei voti della classe, qualunque siano i voti presi dai compagni?"
                 },
@@ -6606,7 +6606,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 270,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 49,
                     "autore": "Sandro Campigotto",
                     "testo": "Sono in un viale nella notte, sotto la luce di un lampione. Sono alto 1,80 m: proietto un’ombra di 1 m. Se avanzo di un metro, l’ombra diventa lunga il triplo. A quale altezza si trova la luce del lampione in cm?"
                 },
@@ -6615,7 +6615,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8729,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 37,
                     "autore": "Giuseppe Rosolini",
                     "testo": "Considera il più grande numero <em>r</em> che ha la seguente proprietà: quando a <em>r</em> aggiungi 3, poi calcoli il reciproco del risultato, a questo numero aggiungi 1, poi calcoli il reciproco dell’ultimo risultato, e a quello aggiungi 3, ottieni <em>r</em>. Che numero è <em>r</em>? \n<span class='note'>Dare come risposta le prime quattro cifre della parte decimale.</span>"
                 },
@@ -6624,7 +6624,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1393,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 48,
                     "autore": "Sandro Campigotto",
                     "testo": "Una pedina si trova nella casella della prima colonna e della riga centrale di una scacchiera a 10 colonne e 3 righe. Con una mossa la pedina avanza sempre nella colonna successiva, in una casella con almeno un vertice in comune con la casella da cui la si sposta. Quanti sono i percorsi che porteranno la pedina nella casella centrale della decima colonna?"
                 },
@@ -6633,7 +6633,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 49,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 128,
                     "autore": "Sandro Campigotto e Giuseppe Rosolini",
                     "testo": "Si vede facilmente che non sempre <em>m<sup>n</sup></em>=<em>n<sup>m</sup></em>, ad esempio 0<sup>2</sup>≠2<sup>0</sup>, anche se 2<sup>4</sup>=4<sup>2</sup>; perciò è necessario usare parentesi quando si iterano scritture a potenza. Purtroppo la somma\n&emsp;&emsp;&emsp;2<sup>4<sup>2<sup>0</sup></sup></sup> + 0<sup>2<sup>4<sup>2</sup></sup></sup> + 2<sup>0<sup>2<sup>4</sup></sup></sup> + 4<sup>2<sup>0<sup>2</sup></sup></sup> \n è stata scritta senza parentesi e si possono ottenere risultati diversi in dipendenza di diverse inserzioni di parentesi. Chi ha scritto l’addizione intendeva usare sempre la stessa inserzione di parentesi, ma è rimasto ambiguo quale ha inteso usare tra le tante possibili. Ad esempio, non ha sicuramente inteso scrivere la somma ((2<sup>4</sup>)<sup>2</sup>)<sup>0</sup> + 0<sup>(2<sup>(4<sup>2</sup>)</sup>)</sup> + ((2<sup>0</sup>)<sup>2</sup>)<sup>4</sup> + 4<sup>(2<sup>(0<sup>2</sup>)</sup>)</sup>; d’altro canto, può benissimo aver inteso discrivere la somma ((2<sup>4</sup>)<sup>2</sup>)<sup>0</sup> + ((0<sup>2</sup>)<sup>4</sup>)<sup>2</sup> + ((2<sup>0</sup>)<sup>2</sup>)<sup>4</sup> + ((4<sup>2</sup>)<sup>0</sup>)<sup>2</sup>. Qual è la somma di tutti i risultati diversi possibili al variare delle inserzioni delle parentesi?"
                 },
@@ -6642,7 +6642,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 759,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 64,
                     "autore": "Lorenzo Mazza",
                     "testo": "Sull’isola di Tarskent ci sono 2024 abitanti, alcuni dei quali sono cavalieri (che dicono sempre la verità) e altri furfanti (che mentono sempre). Viene organizzato un pranzo con una lunga tavolata alla quale siedono tutti loro. Il cuoco, che proviene da un’altra isola e non conosce i gusti dei presenti; chiede loro a quanti piace la pasta e si alzano 2024 mani, poi chiede a quanti piace la carne e si alzano le mani della metà dei presenti, quindi chiede a quanti piace il pesce e si alzano ancora le mani della metà dei presenti, infine chiede a quanti piace il formaggio e solo un quarto dei presenti alza la mano. Sapendo che a ciascuno degli abitanti dell’isola piace una ed una sola portata tra le quattro proposte dal cuoco, quanti sono i cavalieri?"
                 },
@@ -6651,7 +6651,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 63,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 124,
                     "autore": "Andrea Macco e Giuseppe Rosolini",
                     "testo": "I costruttori della scuola matematica devono disporre quattro mattonelle quadrate di uguali dimensioni, ma di colori diversi, in modo da formare motivi ornamentali planari per decorare le pareti. Ciascuna mattonella è bifronte, cioè le sue due facce sono identiche: stesso colore, stessa porosità, (ovviamente) stesse dimensioni. Così una mattonella può essere adagiata su una qualunque delle sue due facce con identico efetto. I maestri che hanno dato l’ordine hanno solo specifcato che per formare un motivo ogni mattonella deve toccarne almeno un’altra con un intero lato, e almeno una mattonella deve toccarne almeno due. Però non hanno specifcato più in dettaglio come disporle. Quanti motivi diversi possono ottenere i costruttori a meno di simmetrie del motivo?"
                 },
@@ -6660,7 +6660,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1525,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 133,
                     "autore": "Carlo Càssola",
                     "testo": "Quanti sono i numeri aventi le cifre tutte diverse e che hanno le cifre disposte in ordine strettamente crescente oppure in ordine strettamente decrescente?"
                 },
@@ -6669,7 +6669,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 1571,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 58,
                     "autore": "Sandro Campigotto",
                     "testo": "Sulla retta <em>r</em> sono dati in ordine tre punti <em>A</em>, <em>B</em>, e <em>C</em> tali che <em>AB</em>=20 m e <em>BC</em>=80 m. Sono costruiti, dalla stessa parte del piano rispetto a <em>r</em>, un quadrato <em>ABDE</em> e un rettangolo <em>BCFG</em> con <em>BG</em>=70 m. Sia <em>H</em> il punto di intersezione tra i segmenti <em>AF</em> e <em>CE</em>. Qual è la lunghezza di <em>BH</em> in cm?"
                 },
@@ -6678,7 +6678,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 6574,
                     "numero": 17,
-                    "valore": -1,
+                    "valore": 118,
                     "autore": "Sandro Campigotto",
                     "testo": "Quali sono le ultime quattro cifre (migliaia, centinaia, decine e unità) della parte intera della radice quadrata di 2022×2024<sup>2</sup>×2026+5?"
                 },
@@ -6687,7 +6687,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 235,
                     "numero": 18,
-                    "valore": -1,
+                    "valore": 87,
                     "autore": "Fabrizio Conca",
                     "testo": "Un gruppo di 6 amici organizza uno scambio di regali. Un foglietto con ciascun nome viene messo in un’urna. Uno dopo l’altro, i sei amici estraggono un foglietto senza guardare che nome c’è scritto sopra: il nome sul foglietto pescato da ciascuno sarà il destinatario del suo regalo. L’estrazione non è valida se almeno una persona deve regalare il regalo a se stessa. Qual è la probabilità che l’estrazione non sia valida? \n<span class='note'>Dare come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
@@ -6696,7 +6696,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 8912,
                     "numero": 19,
-                    "valore": -1,
+                    "valore": 120,
                     "autore": "Carlo Càssola",
                     "testo": "Un numero è <b>aromatico</b> se è composto soltanto da cifre dispari, a due a due diverse, e nessuna permutazione delle cifre produce un numero divisibile per 7. Perciò un numero aromatico non può essere superiore a 99999. Esistono certamente numeri aromatici, ad esempio 17 (e 71). Mentre 53 non è aromatico perché 35 è divisibile per 7. Qual è la somma di tutti i numeri aromatici? \n<span class='note'>Dare come risposta le prime quattro di cifre da destra del risultato.</span>"
                 },
@@ -6705,7 +6705,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 13,
                     "numero": 20,
-                    "valore": -1,
+                    "valore": 120,
                     "autore": "Giuseppe Rosolini",
                     "testo": "Ventisette rilevatori sono disposti in un reticolo cubico 3×3×3. Su ciascuna faccia (quadrata) del cubo ci sono 9 rilevatori: quattro nei vertici, quattro nei punti medi dei lati, 1 al centro della faccia. Un ulteriore rilevatore è al centro del cubo. Ogni rilevatore è collegato direttamente a ciascuno di quelli più vicini ad esso (almeno 3, al massimo 6 a seconda della posizione nel reticolo cubico) mediante un cavo che sta su uno spigolo del cubo, oppure è parallelo a un spigolo. Ci sono due rilevatori speciali: il rilevatore <em>A</em> nel vertice in basso, a sinistra, davanti; il rilevatore <em>I</em> nel vertice opposto, in alto, a destra, dietro. Gli sperimentatori conducono un test sul reticolo di rilevatori per determinare se trasmettono correttamente. Al termine del test, il rapporto elenca la stessa risposta per tutti i rilevatori: “Esattamente 4 rilevatori collegati direttamente a me non trasmettono correttamente.” Chiaramente qualche rilevatore non trasmette correttamente. Gli sperimentatori si rendono conto che i rilevatori che trasmettono correttamente sono il numero massimo possibile e preparano un secondo test in modo che un segnale, inserito nel reticolo a partire dal rilevatore <em>A</em> arrivi al rilevatore <em>I</em> passando attraverso tutti i rilevatori che trasmettono correttamente. Qual è il minor numero possibile di volte che il segnale passa in un rilevatore che non trasmette correttamente?"
                 },
@@ -6714,7 +6714,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "argomento": "",
                     "soluzione": 260,
                     "numero": 21,
-                    "valore": -1,
+                    "valore": 122,
                     "autore": "Giuseppe Rosolini",
                     "testo": "È possibile utilizzare quattro tetraedri regolari di lato ℓ e un ottaedro regolare, pure di lato ℓ, per ottenere un tetraedro di lato 2ℓ, appoggiando i tetraedri di lato ℓ contro quattro facce opportune tra le otto dell’ottaedro di lato ℓ. Quanti ottaedri e tetraedri di lato ℓ servono per ottenere un tetraedro di lato 8ℓ, appogiando i tetraedri contro facce opportune degli ottaedri?"
                 }
@@ -14910,7 +14910,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "testo": "Krull riesce a salvare le bimbe e rispedire la luna (insieme a Vector) in cielo. È tempo di festeggiare!! Quale modo migliore se non risolvendo un bel problema di algebra? Se <em>p</em>(<em>x</em>)=<em>x</em><sup>3</sup>−23<em>x</em><sup>2</sup>+<em>ax</em>−<em>b</em><sup>2</sup> è un polinomio con 3 radici intere (non necessariamente distinte) tale che <em>a</em>, <em>b</em> sono due numeri naturali, quali valori può assumere <em>b</em>? \n<span class='note'>Dare come risposta la somma di tutti i valori possibili.</span>"
                 }
             ]
-        },/*
+        },
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
@@ -14918,196 +14918,196 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Autori": "",
             "Problemi": [
                 {
-                    "titolo": "",
+                    "titolo": "Una crociera di relax",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 8925,
                     "numero": 1,
-                    "valore": -1,
+                    "valore": 67,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Vennma, Daφne, Fredmath, S-Higgs con il loro fidato amico Scoobe-Zout sono in viaggio per raggiungere i genitori di Fredmath e partire per una rilassante crociera per festeggiare il suo compleanno. Durante il viaggio, tra una chiacchiera e l’altra, Vennma disegna sul suo quadernino un rettangolo <em>ABCD</em> con <em>AB</em>=60mm e <em>BC</em>=80mm. Sulla diagonale <em>AC</em> costruisce un rettangolo in modo tale che <em>AC</em> sia un lato ed il lato ad esso opposto passi per <em>B</em>. Allo stesso modo su <em>BD</em> costruisce un rettangolo passante per <em>A</em>. Daφne prende il rossetto e colora tutta la figura e infine esclama: “Ora è molto meglio!”. <em>Calcolare l’area colorata ovvero l’area dell’unione dei tre rettangoli.</em>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Cocktail di Benvenuto",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 106,
                     "numero": 2,
-                    "valore": -1,
+                    "valore": 43,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Finalmente si parte per la crociera, e tutto inizia nel migliore dei modi: con un aperitivo inaugurale. S-Higgs e Scoobe-Zout hanno già l’acquolina in bocca, ma scoprono che per poter partecipare al buffet bisogna trovare un numero <em>n</em> di due cifre uguale alla somma tra il quadrato della cifra delle decine e il cubo della cifra delle unità. <em>Determinare la somma di tutti i numeri con queste proprietà.</em>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Visita alla nave",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 30,
                     "numero": 3,
-                    "valore": -1,
+                    "valore": 56,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Summy Suy Deevysori, la direttrice della crociera, conduce il gruppo di visitatori alla scoperta delle meraviglie della nave: le piscine ottagonali, la stanza dei rompicapo, la palestra della mente e si ferma davanti ad uno stretto corridoio 2m×6m che deve ancora essere piastrellato. Summy invita a tassellarlo completamente usando solo materassini da 1m×2m o da 1m×3m, senza sovrapposizioni. <em>In quanti modi diversi possono raggiungere l’obiettivo</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Biglietto da visita",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 6577,
                     "numero": 4,
-                    "valore": -1,
+                    "valore": 50,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Summy li saluta dando loro il biglietto da visita del Capitano Kronecker. Sul biglietto è scritta un’espressione letterale. Fredmath osserva che l’espressione è un polinomio e la somma dei coefficienti è 2. Vennma fa notare a tutti che il polinomio calcolato nel doppio NON è uguale al doppio del polinomio. La differenza è il doppio del quadrato della variabile diminuito di 1. Allora Daφne annota <em>p</em>(2<em>x</em>)=2<em>p</em>(<em>x</em>)+2<em>x</em><sup>2</sup>−1. Summy ricorda che per poter incontrare il Capitano Kronecker dovranno trovare il valore del polinomio calcolato in 2024. <em>Quale numero permetterà loro di incontrare il capitano</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Il quesito del capitano",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 1287,
                     "numero": 5,
-                    "valore": -1,
+                    "valore": 43,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Arrivati dal Capitano Kronecker, egli esordisce dicendo “Come avrete capito dal mio biglietto da visita sono un appassionato di polinomi. Uno dei miei quesiti preferiti è: quanto vale il più grande coefficiente dispari nello sviluppo di (<em>x</em>+<em>y</em>)<sup>13</sup>?” <em>Quanto vale la risposta</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Incontri inquietanti",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 370,
                     "numero": 6,
-                    "valore": -1,
+                    "valore": 58,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Scoobe-Zout ha incontrato sulla nave un tizio con l’impermeabile dall’aria un po’ inquietante. Immediatamente fugge e salta tra le braccia di S-Higgs che vedendolo così spaventato decide di costruirgli un amuleto per proteggerlo. All’inizio S-Higgs prende un cubo di legno di 10000mm<sup>3</sup>. Tuttavia, poiché Scoobe-Zout preferisce gli ottaedri, S-Higgs usa il suo seghetto di precisione e taglia il cubo ottenendo un ottaedro che ha per vertici i centri delle facce del cubo. Finita l’operazione, però, Scoobe-Zout gli ricorda che nella tradizione inca gli ottaedri sono maledetti. Allora, di tutta fretta, S-Higgs ri-taglia l’ottaedro ottenendo un cubo che ha per vertici i centri delle facce dell’ottaedro. <em>Quanto vale, in millimetri cubi, il volume dell’amuleto</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Per un tuffo in piscina!",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 3435,
                     "numero": 7,
-                    "valore": -1,
+                    "valore": 48,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Fredmath non vede l’ora di disfare la valigia e mettersi il costume, ma arrivato alla camera scopre che per entrare deve digitare una combinazione: un numero n di esattamente 4 cifre, tutte diverse da zero, tale che <em>n</em>=<em>a<sup>a</sup></em>+<em>b<sup>b</sup></em>+<em>c<sup>c</sup></em>+<em>d<sup>d</sup></em> dove <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em> sono rispettivamente le cifre delle migliaia, delle centinaia, delle decine e delle unità di <em>n</em>. <em>Qual è la combinazione agognata</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Sbirciando problemi",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2236,
                     "numero": 8,
-                    "valore": -1,
+                    "valore": 58,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Vennma arriva vicino alla piscina per incontrare Fredmath, ma si distrae notando che ci sono un po’ di persone che chiacchierano sulle sdraio. Riesce a sbirciare un foglio dove legge: “Dato ABC un triangolo con <em>AB</em>=1 e <em>AC</em>=2, sia Γ la sua circonferenza circoscritta, di centro O. Siano D e S rispettivamente le intersezioni dell’altezza da <em>A</em> e del prolungamento di <em>AO</em> con Γ. Inoltre <em>AO</em> interseca la retta <em>BC</em> in <em>E</em>. Sapendo che la circonferenza passante per <em>D</em>,<em>E</em>,<em>S</em> tange la retta <em>BC</em>, determinare 1000 <em>BC</em>”. Vennma si avvicina al gruppo ed esclama “Beh, ma è facile, la soluzione è...” ma viene subito zittita da una persona: “Per favore, lasciate risolvere qualche enigma anche a noi!!”. <em>Qual è la soluzione dell’enigma</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Partitina a carte",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 6666,
                     "numero": 9,
-                    "valore": -1,
+                    "valore": 54,
                     "autore": "",
-                    "testo": ""
+                    "testo": "I genitori di Fredmath stanno giocando con un mazzo di 9 carte numerate da 1 a 9. Summy si avvicina, prende 4 carte e chiede: “Quanti sono i diversi modi di ordinare queste carte?”, Scoobe-Zout risponde: “Scambiando la posizione delle 4 carte si possono ottenere 24 numeri di 4 cifre, tutti diversi.” Allora S-Higgs chiede: “E se li sommassi tutti e 24 che numero otterrei?” Vennma osserva prontamente: “Dipende dalle carte, ma moltiplicando questa somma per un numero di esattamente tre cifre è possibile ottenere un quadrato perfetto <em>n</em><sup>2</sup>.”<em>Al variare della scelta delle 4 carte iniziali, quanto vale al massimo n</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Mandala extra-large",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 4046,
                     "numero": 10,
-                    "valore": -1,
+                    "valore": 50,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Sul ponte della nave c’è un gigantesco pannello formato da 2024×2024 caselle, inizialmente bianche, con il titolo “Keep calm and color on”. Vennma e Daφne per rilassarsi iniziano a colorarle a turno: Vennma con il blu e Daφne con il rosso. Vennma seleziona a caso una casella qualsiasi della griglia e la colora. Poi Daφne sceglie un quadrato 2×2 contenente la casella appena colorata e colora le 3 caselle ancora bianche. Dopodiché Vennma sceglie un quadrato 3×3 contenente tutte e 4 le caselle già scelte e colora le 5 restanti. Continuano così, alternandosi, fino al 2024-esimo passaggio, in cui Daφne colora le ultime 4047 caselle bianche. Quante sono le possibili colorazioni finali della griglia?\n<span class='note'>Fornire come risposta la somma degli esponenti della fattorizzazione in fattori primi.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "L’anello degli indovinelli",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 28,
                     "numero": 11,
-                    "valore": -1,
+                    "valore": 51,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Sulla terrazza scoperta c’è un percorso ad anello formato da 20 caselle numerate in ordine da 1 a 20. Fredmath vuole giocare e si posiziona sulla casella 1, lancia un classico dado gigante a 6 facce e avanza di quanto indicato; gli viene posto un indovinello, se risponde correttamente comincia un nuovo turno tirando il dado, se sbaglia, invece, torna indietro di 2 caselle e poi comincia un nuovo turno tirando il dado. Può fare tutti i turni che vuole: è solo una sfida con se stessi. Sapendo che tutti gli indovinelli sono facili per lui e risponde correttamente a tutti, tranne a quello della casella 6, <em>quante sono le possibili sequenze di 4 lanci del dado per le quali Fredmath torna esattamente sulla casella 1</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Evviva la cena!",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 79,
                     "numero": 12,
-                    "valore": -1,
+                    "valore": 67,
                     "autore": "",
-                    "testo": ""
+                    "testo": "C’è un tavolo pieno di deliziosi salatini. Il cameriere deve distribuire i salatini ai 6 ospiti: prima a S-Higgs che è il più affamato, poi a Fredmath, a sua madre, a suo padre, a Vennma e infine a Daφne. Prepara le porzioni con un elaborato cerimoniale: dà un salatino a Scoobe-Zout e la metà dei salatini restanti al primo ospite; poi dà due salatini a Scoobe-Zout e 2/3 dei rimanenti al secondo ospite e continua così dando <em>k</em> salatini a Scoobe-Zout e <em>k</em>/(<em>k</em>+1) dei rimanenti al <em>k</em>-esimo ospite. S-Higgs sta per addentare il suo primo salatino, ma il cameriere lo ferma e gli dice: “Sono riuscito a fare tutte le suddivisioni senza resti, senza dividere i salatini e tutti ne hanno ricevuto almeno uno. Indovina un po’ quanti salatini ho distribuito?” <em>Qual era il numero minimo di salatini inizialmente sul tavolo</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Conto alla rovescia",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 6080,
                     "numero": 13,
-                    "valore": -1,
+                    "valore": 70,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Durante la cena Summy presenta a tutti lo spettacolo di Mr MeeStern-Volmer, era lui il tizio inquietante. Durante lo spettacolo Mr MeeStern-Volmer scandisce con voce ritmata che: “Il rovescio di un intero positivo è l’intero positivo che si ottiene scrivendo le sue cifre al contrario. Ad esempio, il rovescio di 8267 è 7628 e il rovescio di 15620 è 2651.” Dicendo questo ipnotizza tutto l’equipaggio e i passeggeri, tranne Scoobe-Zout e S-Higgs che sono concentrati sul cibo. Per poter interrompere lo stato di trance dovranno trovare il più piccolo intero positivo n tale che n meno il rovescio di <em>n</em> sia uguale a 12345678. <em>Qual è il numero per uscire dalla trance</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Verso il nascondiglio di BarbaAlberta",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 8095,
                     "numero": 14,
-                    "valore": -1,
+                    "valore": 140,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Per andare dal punto del naufragio al nascondiglio segreto di BarbaAlberta si seguono i lati delle caselle di una griglia di 2024×2024 quadretti. La nave pirata segue un percorso, il gruppo di Scoobe-Zout un altro. Sapendo che entrambe le compagini sono partite insieme da un vertice della griglia e arriveranno al vertice opposto seguendo un percorso minimo, se avessero scelto a caso i due percorsi, quale sarebbe stata la probabilità che i loro percorsi avessero come punti in comune solo quello iniziale e quello finale? \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Ciurma, all’arrembaggio!",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2820,
                     "numero": 15,
-                    "valore": -1,
+                    "valore": 146,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Arrivati al nascondiglio di BarbaAlberta, nemmeno il tempo di guardarsi attorno, che arriva anche il vascello pirata. Su di esso c’è il capitano BarbaAlberta e altri 2024 pirati, che per comodità sono numerati da 1 a 2024; al pirata <em>m</em> BarbaAlberta assegna un numero razionale positivo <em>a<sub>m</sub></em> in modo tale che, per <em>m</em>=31,32,...,2024, si abbia <em>a<sub>m</sub></em>=<em>m</em><sup>2</sup>/max<sub>1≤<em>l</em>≤30</sub>{<em>l</em>+<em>a</em><sub><em>m</em>−l</sub>}.\n I pirati tali che <em>a<sub>m</sub></em>><em>m</em> vengono spediti dal capitano in missione a catturare gli intrusi. Quanti sono i pirati mandati in missione? \n<span class='note'>Fornire la somma di tutte le possibili risposte.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "La cabina di BarbaAlberta",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 2530,
                     "numero": 16,
-                    "valore": -1,
+                    "valore": 126,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Vennma pensa: “BarbaAlberta sta nascondendo qualcosa: non posso aver visto degli aerei della Prima guerra mondiale volare sopra di noi”. Indaga allora con Daφne sottocoperta fino a trovare il lucchetto a combinazione della cabina di BarbaAlberta, recante la scritta “lo spettro di (<em>x</em>−2)(<em>x</em>+2)(<em>x</em><sup>2</sup>+<em>x</em>+1)(<em>x</em><sup>2</sup>−<em>x</em>+ 1)”. “Calzante, lo spettro di un polinomio a coefficienti interi per un pirata fantasma!” esclama Daφne. Vennma riflette: “Sono certa che lo spettro è un numero intero e, sommando gli spettri di tutti i polinomi figli di un polinomio p, si ottiene esattamente il valore del polinomio p calcolato nel suo grado!” Allora Daφne puntualizza: “Certo! E i polinomi figli di <em>p</em>(<em>x</em>) sono quelli monici (<em>ossia con il coefficiente del termine di grado massimo pari a 1</em>) a coefficienti interi che dividono il polinomio e il cui grado divide il grado di <em>p</em>(<em>x</em>). Sorprendentemente ogni polinomio monico è figlio di se stesso.” <em>Qual è la combinazione del lucchetto della cabina di BarbaAlberta</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Interrogando le stelle",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 802,
                     "numero": 17,
-                    "valore": -1,
+                    "valore": 120,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Per trovare il centro del pentagono delle Permuda devono ritrovare nel cielo le stelle rappresentate in un antico dipinto. Le stelle <em>A</em>, <em>B</em>, <em>C</em> e <em>D</em> formano un quadrilatero in cui <em>AB</em>=6, <em>BC</em>=12, la diagonale <em>AC</em>=16, tale che la diagonale <em>BD</em> bisechi l’angolo &angle;<em>ABC</em>, e detta <em>E</em> l’intersezione delle diagonali, si abbia <em>BE</em>·<em>ED</em>=21. Si traccino le circonferenze <em>C<em><sub>1</sub> e <em>C</em><sub>2</sub>, circoscritte rispettivamente ai triangoli <em>ABD</em> e <em>BCD</em>. Esse intersecano <em>AC</em> rispettivamente in <em>G</em> e <em>F</em>. Le rette <em>DF</em> e <em>DG</em> intersecano infine i lati <em>AB</em> e <em>BC</em> rispettivamente in <em>X</em> e <em>Y</em>. Determinare la lunghezza di <em>XY</em> moltiplicata per 100.</span>"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Pentagono delle Permuda",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 417,
                     "numero": 18,
-                    "valore": -1,
+                    "valore": 111,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Con l’abbassarsi della marea, riaffiorano dalle acque cinque spuntoni di roccia posti ai vertici di un pentagono <em>ABCDE</em> inscritto in una circonferenza di raggio 43√3. <em>AB</em>=<em>BC</em>, <em>DE</em>=<em>EA</em> e tutti i suoi lati hanno lunghezze espresse da numeri interi. Inoltre  &angle;BAE= 120°. <em>Quanto vale il perimetro di ABCDE</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Ponte temporale",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 62,
                     "numero": 19,
-                    "valore": -1,
+                    "valore": 95,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Capitan BarbaAlberta spiega alla sua ciurma che per dominare i sette mari incontrastati devono aprire un portale con il passato. Il passaggio dal presente al passato è un cono con raggio di base 10m che scende verso gli abissi; il passaggio dal passato al presente è un cono identico ma ribaltato tale che il suo asse sia parallelo a quello del primo, il cui vertice sta sulla base del primo cono a distanza 6m dal centro della base. Considerata l’intersezione dei due coni e la sua proiezione sul piano che contiene la base del primo, il portale si attiva solo trovando l’area della regione di piano contenuta nella curva ottenuta tramite la proiezione. Quale numero attiverà il portale?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "Lo scontro finale",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 9724,
                     "numero": 20,
-                    "valore": -1,
+                    "valore": 158,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Gli scheletri pirati sono ancora alle prese con la geometria solida quando ecco nel cielo apparire una nave aliena: sono Daφne e Fredmath mascherati. Daφne e BarbaAlberta iniziano il duello finale che consiste in questo gioco: si parte con una coppia di interi positivi (<em>x</em>,<em>y</em>). La mossa da effettuare ad ogni turno consiste nel cambiare la coppia presente (<em>x</em>,<em>y</em>) con una coppia (<em>z</em>,<em>y</em>−<em>z</em>), dove 1≤<em>z</em>≤<em>x</em>; il secondo numero, però, non può mai diventare negativo. Vince chi per primo riesce a cambiare la coppia in modo che il secondo numero sia 0. <em>Per quante coppie iniziali con 1≤<em>x</em>,<em>y</em>≤100 Daφne ha una strategia vincente, sapendo che inizia per prima</em>?"
                 },
                 {
-                    "titolo": "",
+                    "titolo": "L’ultimo enigma",
                     "argomento": "",
-                    "soluzione": ,
+                    "soluzione": 28,
                     "numero": 21,
-                    "valore": -1,
+                    "valore": 82,
                     "autore": "",
-                    "testo": ""
+                    "testo": "Scoobe-Zout e i suoi amici hanno smascherato Mr MeeStern-Volmer e la sua messa in scena: attraverso l’ipnosi aveva arruolato i passeggeri come spettri pirata per impadronirsi dell’oro nascosto nel pentagono. Finita l’avventura, per festeggiare, Summy Suy Deevysori propone un ultimo enigma: calcolare la somma dei pesi dei divisori positivi di 2310, dove il peso di un numero naturale <em>n</em> è il quoziente tra il quadrato del numero dei divisori positivi di <em>n</em> e il numero <em>n</em> stesso. Qual è la soluzione dell’ultimo enigma di Summy? \n<span class='note'>Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.</span>"
                 }
             ]
-        },*/
+        },
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
