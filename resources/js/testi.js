@@ -11,7 +11,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2002,
             "Ringraziamenti":"",
-            "Enti":"Università di Parma",
+            "Enti": "Università di Parma",
             "Problemi": [
                 {
                     "titolo": "Il pendolare meticoloso",
@@ -245,7 +245,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2003,
             "Ringraziamenti":"",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "La bandiera comunale",
@@ -470,7 +470,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2004,
             "Ringraziamenti":"",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "Il mosaico",
@@ -695,7 +695,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2005,
             "Ringraziamenti":"",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "Una torta per cinque",
@@ -920,7 +920,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2006,
             "Ringraziamenti":"",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "Il tagliere",
@@ -1145,7 +1145,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2007,
             "Ringraziamenti":"",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "L\u2019ora fatale",
@@ -1370,7 +1370,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2008,
             "Ringraziamenti":"",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "Il pranzo dei cavalieri dell\u2019Apocalisse",
@@ -1595,7 +1595,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2009,
             "Ringraziamenti":"",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "La luce sulla cima",
@@ -1820,7 +1820,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2010,
             "Ringraziamenti":"Martina Rovelli, Daniele Boccalini, Emilio Esposito, Alessandro Rosolini, Francesco Morandin, Riccardo Morandin, Giuseppe Rosolini, Andrea Anfosso, Alessio Carrà, Alessandro Logar, Edi Rosset, Emanuela Sasso, Ernesto De Vito",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "La passeggiata",
@@ -2045,7 +2045,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2011,
             "Ringraziamenti":"Mihaela Badescu, Marco Caselli, Giuditta Frigerio, Lorenzo Bergallo, Mario De Simoni, Gabriele Balletti, Francesco Morandin, Giuseppe Rosolini, Luigi Amedeo Bianchi, Riccardo Morandin, Giovanni Paolini, Ludovico Pernazza",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "Bunsceroli onesti e disonesti",
@@ -2270,7 +2270,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2012,
             "Ringraziamenti":"Alessandro Logar, Alessio Caminata, Daniele Scarlata, Edi Rosset, Federico Poloni, Gabriele Balletti, Luigi Alberto Bianchi, Mara Barucco, Mario De Simoni, Matteo Musso, Maurizio Paolini, Simone Di Marino",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "Il Giardino Fiorito",
@@ -2495,7 +2495,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2013,
             "Ringraziamenti":"Mihaela Badescu, Gabriele Balletti, Daniele Boccalini, Alessio Caminata, Luca De Stefano, Fulvio Gasparini, Alessandro Logar, Emanuele Maccario, Matteo Musso, Ruggero Pagnan, Maurizio Paolini, Ludovico Pernazza, Edi Rosset, Daniele Scarlata, Carlo Vota",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "Un\u2019altra canzone di ghiaccio e fuoco",
@@ -2720,7 +2720,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2014,
             "Ringraziamenti":"Matteo Bobbio, Luca De Stefano, Mattia Fecit, Simone Gardella, Fulvio Gasparini, Alessandro Logar, Stefano Mereta, Francesco Morandin, Alessandro Murchio, Matteo Musso, Milo Orlich, Maurizio Paolini, Ludovico Pernazza, Edi Rosset, Valentina Trapani",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "L\u2019inspiegabile caso del turista",
@@ -2945,7 +2945,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2015,
             "Ringraziamenti":"Mihaela Badescu, Luigi Amedeo Bianchi, Gabriele Della Torre, Mattia Fecit, Giulia Frosoni, Alessandro Murchio, Simone Muselli, Maurizio Paolini, Damiano Poletti, Edi Rosset",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "L\u2019inquisizione spagnola",
@@ -3170,7 +3170,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2016,
             "Ringraziamenti":"Tuono Pettinato, Matteo Bobbio, Mattia Fecit, Leonardo Gobbi, Francesco Morandin, Alessandro Murchio, Simone Muselli, Franco Obersnel, Maurizio Paolini, Damiano Poletti, Francesco Raspaolo, Edi Rosset, Alberto Saracco",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "Il primo dubbio di Tuono",
@@ -3395,7 +3395,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2017,
             "Ringraziamenti":"Matteo Bobbio, Sandro Campigotto, Mattia Fecit, Alessandro Murchio, Simone Muselli, Franco Obersnel, Maurizio Paolini, Damiano Poletti, Francesco Raspaolo, Alessandro Rosolini, Edi Rosset, Alberto Saracco, Simone Traverso",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "La famiglia Conehead",
@@ -3620,7 +3620,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2018,
             "Ringraziamenti":"Sandro Campigotto, Andrea Damonte, Veronica Grieco, Simone Muselli, Lorenzo Pollani, Damiano Poletti, Edi Rosset, Alberto Saracco, Edoardo Scarabelli, Silvia Sconza, Simone Traverso",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "Un nuovo inizio",
@@ -3845,7 +3845,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2019,
             "Ringraziamenti":"Sandro Campigotto, Alessandro Logar, Edi Rosset, Alberto Saracco, Rodolfo Assereto, Gabriele Balletti, Matteo Bobbio, Andrea Damonte, Mario De Simoni, Mattia Fecit, Veronica Grieco, Bruk Mohamed, Alessandro Murchio, Simone Muselli, Cecilia Oliveri, Milo Orlich, Damiano Poletti, Luca Renzi, Silvia SConza, Simone Traverso",
-            "Enti":"Università di Genova",
+            "Enti": "Università di Genova",
             "Problemi": [
                 {
                     "titolo": "Ghirlande",
@@ -4070,7 +4070,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2020,
             "Ringraziamenti":"Francesco Veneziano, Sandro Campigotto, Giulia Gaggero, Andrea Giusto, Bruk Mohamed, Cecilia Oliveri, Luca Renzi, Silvia Sconza, Simone Traverso, Anna Ulivi",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Quel ramo del lago",
@@ -4268,7 +4268,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2021,
             "Ringraziamenti":"Sandro Campigotto, Simone Di Marino, Loreno Mazza, Francesco Veneziano, Andrea Cogorno, Matteo Di Domenico, Elena Espa, Andrea Giusto, Matteo Littardi, Cecilia Oliveri, Luca Renzi, Silvia Sconza, Marco Veneriano",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Alla Vitrifrigo Arena",
@@ -4466,7 +4466,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2022,
             "Ringraziamenti":"Sandro Campigotto, Carlo Càssola, Lorenzo Mazza, Andrea Giusto, Matteo Littardi, Cecilia Oliveri, Silvia Sonza, Anna Ulivi",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Solo calcoli",
@@ -4664,7 +4664,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2023,
             "Ringraziamenti":"",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "",
@@ -4862,7 +4862,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Mista",
             "Anno": 2024,
             "Ringraziamenti":"",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Cerchi",
@@ -5060,7 +5060,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Femminile",
             "Anno": 2017,
             "Ringraziamenti":"Fabrizio Ardenghi, Matteo Bobbio, Mattia Fecit, Alessandro Murchio, Simone Muselli, Damiano Poletti, Francesco Raspaolo, Simone Traverso",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Parola d\u2019ordine",
@@ -5285,7 +5285,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Femminile",
             "Anno": 2018,
             "Ringraziamenti":"Sandro Campigotto, Andrea Damonte, Mattia Fecit, Veronica Grieco, Alessandro Murchio, Simone Muselli, Maurizio Paolini, Lorenzo Pollani, Damiano Poletti, Francesco Raspaolo, Alberto Saracco, Edoardo Scarabelli, Silvia Sconza, Simone Traverso",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Preparativi",
@@ -5510,7 +5510,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Femminile",
             "Anno": 2019,
             "Ringraziamenti":"Mihaela Badescu, Sandro Campigotto, Alessandro Logar, Rodolfo Assereto, Andrea Damonte, Mattia Fecit, Veronica Grieco, Bruk Mohamed, Alessandro Murchio, Simone Muselli, Cecilia Oliveri, Damiano Poletti, Francesco Raspaolo, Luca Renzi, Silvia Sconza, SImone Traverso",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "La pesca",
@@ -5735,7 +5735,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Femminile",
             "Anno": 2020,
             "Ringraziamenti":"Sandro Campigotto, Matteo Bobbio, Giulia Gaggero, Andrea Giusto, Bruk Mohamed, Cecilia Oliveri, Damiano Poletti, Luca Renzi, Silvia Sconza, Simone Traverso, Anna Ulivi",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Quel ramo del lago",
@@ -5933,7 +5933,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Femminile",
             "Anno": 2021,
             "Ringraziamenti": "Sandro Campigotto, Simone Di Marino, Lorenzo Mazza, Francesco Veneziano, Matteo Di Domenico, Elena Espa, ANdrea Giusto, Cecilia Oliveri, Luca Renzi, SImone Sanna, Silvia Sconza, Simone Traverso, Anna Ulivi",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Davanti all'Acquedotto Svevo",
@@ -6131,7 +6131,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Femminile",
             "Anno": 2022,
             "Ringraziamenti": "",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Il concessionario",
@@ -6329,7 +6329,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Femminile",
             "Anno": 2023,
             "Ringraziamenti": "Sandro Campigotto, Carlo Càssola, Lorenzo Mazza, Annalisa Caviglia, Andrea Giusto, Matteo Littardi, Simone Muselli, Luca Renzi, Silvia Sconza, Anna Ulivi",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "",
@@ -6527,7 +6527,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Femminile",
             "Anno": 2024,
             "Ringraziamenti": "",
-            "Enti":"Università di Genova, Unione Matematica Italiana, Miur",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Per il 2024",
@@ -6724,7 +6724,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2005,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "",
@@ -6867,7 +6868,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2006,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Alla lezione di divinazione",
@@ -7010,7 +7012,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2007,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Il villaggio della <em>Retta</em>",
@@ -7153,7 +7156,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2008,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Il rientro a casa",
@@ -7305,7 +7309,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2009,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Un vertice centrale",
@@ -7457,7 +7462,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2010,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "La ciurma per la gara",
@@ -7609,7 +7615,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2011,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Un antico cifrario",
@@ -7761,7 +7768,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2012,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "L\u2019ultima pietra",
@@ -7913,7 +7921,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2013,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Scacchi folli",
@@ -8065,7 +8074,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2014,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Le prime Olimpiadi",
@@ -8217,7 +8227,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2015,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Grandi numeri",
@@ -8369,7 +8380,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2016,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Numeri di pagina",
@@ -8521,7 +8533,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2017,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "L\u2019incontro",
@@ -8673,7 +8686,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2018,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Il telefono di DOC",
@@ -8825,7 +8839,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2019,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "C\u2019era una volta",
@@ -8977,7 +8992,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2020,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Pattinatori Paralleli",
@@ -9129,7 +9145,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2021,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Basta Go!",
@@ -9299,7 +9316,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2022,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Mai sottovalutare i gatti",
@@ -9451,7 +9469,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2023,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Lo stemma di famiglia",
@@ -9603,7 +9622,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2024,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Festa al castello",
@@ -9755,7 +9775,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2000,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "I quattro cantoni",
@@ -9979,7 +10000,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2001,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "La confederazione IMO",
@@ -10212,7 +10234,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2002,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "La piscina del professor Abacus",
@@ -10445,7 +10468,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2003,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "La lotteria di Matelandia",
@@ -10669,7 +10693,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2004,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Le sentinelle",
@@ -10893,7 +10918,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2005,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "I predatori dei templi perduti",
@@ -11081,7 +11107,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2006,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Una pausa di svago",
@@ -11269,7 +11296,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2007,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Il passo del paguro",
@@ -11493,7 +11521,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2008,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Il diario segreto",
@@ -11717,7 +11746,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2009,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Corsa verso il Monte Fatou",
@@ -11941,7 +11971,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2010,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Il Bar Scumm<sup>TM</sup>",
@@ -12165,7 +12196,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2011,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "La pozione magica",
@@ -12389,7 +12421,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2012,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Gli anni del drago",
@@ -12613,7 +12646,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2013,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Un tranquillo pomeriggio di maggio",
@@ -12837,7 +12871,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2014,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Rito propiziatorio",
@@ -13061,7 +13096,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2015,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Diecimila Tartaglie",
@@ -13285,7 +13321,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2016,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Droidi ben sfondati",
@@ -13509,7 +13546,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2017,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Nel punto medio del cammin",
@@ -13733,7 +13771,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2018,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Benvenuto nel futuro!",
@@ -13930,7 +13969,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2019,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "C\u2019era una volta",
@@ -14127,7 +14167,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2020,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Con le mani coordinate",
@@ -14324,7 +14365,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2021,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "L'inizio di una grande avventura",
@@ -14521,7 +14563,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2022,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Stuzzicadenti intrecciati",
@@ -14718,7 +14761,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2023,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "10000 minions in fila",
@@ -14915,7 +14959,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2024,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Una crociera di relax",
@@ -15112,7 +15157,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2018,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Ibernato",
@@ -15336,7 +15382,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2020,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Il gioco della Foresta Incantata",
@@ -15533,7 +15580,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2021,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "<em>Shaymin</em>",
@@ -15730,7 +15778,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2022,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Amora, l'incantatrice",
@@ -15927,7 +15976,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2023,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Furto in Egitto",
@@ -16124,7 +16174,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2024,
-            "Autori": "",
+            "Ringraziamenti": "",
+            "Enti": "",
             "Problemi": [
                 {
                     "titolo": "Verso l'università",
