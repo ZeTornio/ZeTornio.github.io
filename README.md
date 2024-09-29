@@ -1,4 +1,4 @@
-## Generatore di allenamenti per Olimpiadi della Matematica (Gara a Squadre)
+# Generatore di allenamenti per Olimpiadi della Matematica (Gara a Squadre)
 Questa repo raccoglie i testi delle gare a squadre delle [Olimpiadi della Matematica](http://olimpiadi.dm.unibo.it/), sia le fasi locali che nazionali. Oltre alla funzione di archivio, consultabile in [questa pagina](Testi.md), è possibile generare una simulazione di gara in [questa pagina](https://zetornio.github.io/), selezionando vari parametri tra cui la provenienza, l'argomento e la difficoltà dei problemi estratti.
 
 Inoltre, in quest'ultima revisione, è facilmente possibile aggiungere nuovi testi, come spiegato in seguito.
