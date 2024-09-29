@@ -14,4 +14,6 @@ Questa opzione ha effetto solamente se la difficoltà è [bilanciata](#bilancia-
 Questa opzione è utile solamente se la difficoltà è stata [bilanciata](#bilancia-la-difficoltà), oppure se si vogliono sostituire dei problemi selezionando la difficoltà. In tutti gli altri casi la personalizzazione è inutile in quanto mai considerata.
 
 Ogni categoria ha uno slider associato. L'estremità a sinistra corrisponde al problema più facile di quella categoria, e l'estremità a destra al più difficile. C'è poi uno slider che determina da quali intervalli i problemi verranno estratti. Nell'esempio sottostante,  i problemi saranno estratti tra i difficli della *Locale Femminile*, tutti della *Nazionale Semifinale Mista* e i facili e medi della *Nazionale Finale Mista*.
-![alt text](diff_ex/es1.png)
+<div align="center">
+	<img src="diff_ex/es1.png">
+</div>
