@@ -608,13 +608,53 @@ function reset_pool(min,max){
 }
 
 function downloadPDF(){
+  
   title = window.prompt("Inserisci il titolo della gara:","Simulazione");
   if(title==null){
     return;
   }
+  //Enti
+  enti=new Set()
+  for(i=0;i< probs.length;i++){
+    c_id=probs[i].Tipologia.replace(/ /g, '')+"_"+probs[i].SottoTipologia.replace(/ /g, '');
+    e=info_gare[c_id][probs[i].Anno]["Enti"];
+    var str_array = e.split(',');
+    for(var j = 0; j < str_array.length; j++) {
+      if(str_array[j].replace(/^\s*/, "").replace(/\s*$/, "").length>0){
+        enti.add(str_array[j].replace(/^\s*/, "").replace(/\s*$/, ""))
+      }
+    }
+  }
+  console.log(enti);
+  enti_str="";
+  for (const value of enti) {
+    enti_str+=value+", ";
+  } 
+  enti_str=enti_str.substring(0, enti_str.length - 2);
+  //Ringraziamenti
+  ringr=new Set()
+  for(i=0;i< probs.length;i++){
+    c_id=probs[i].Tipologia.replace(/ /g, '')+"_"+probs[i].SottoTipologia.replace(/ /g, '');
+    e=info_gare[c_id][probs[i].Anno]["Ringraziamenti"];
+    var str_array = e.split(',');
+    for(var j = 0; j < str_array.length; j++) {
+      if(str_array[j].replace(/^\s*/, "").replace(/\s*$/, "").length>0){
+        ringr.add(str_array[j].replace(/^\s*/, "").replace(/\s*$/, ""))
+      }
+    }
+  }
+  console.log(ringr);
+  ringr_str="";
+  for (const value of ringr) {
+    ringr_str+=value+", ";
+  }
+  if(ringr_str.length>0){
+    ringr_str=ringr_str.substring(0, ringr_str.length - 2);
+  }
+
   let tit=document.createElement('div');
   tit.setAttribute('id','titolone');
-  tit.innerHTML=`<div>${title}</div><div>Gara creata su https://zetornio.github.io</div><div>Le gare da cui provengono i testi sono organizzate da TODO</div>`;
+  tit.innerHTML=`<div>${title}</div><div>Gara creata su https://zetornio.github.io</div><div style='width:80%;text-align:center;'>Le gare da cui provengono i testi sono organizzate da <br>${enti_str}</div>`;
   container=document.getElementById("text-cont");
   container.insertBefore(tit,container.firstChild);
   sol_t='<p>Soluzioni</p>';
@@ -625,10 +665,15 @@ function downloadPDF(){
   sol.setAttribute('id','soluzioni');
   sol.innerHTML=sol_t;
   container.appendChild(sol);
-  let cre=document.createElement('div');
-  cre.setAttribute('id','crediti');
-  cre.innerHTML="<p>Crediti</p>Oltre agli autori dei singoli testi, le gare da cui provengono i problemi sono state realizzate, organizzate o sostenute da<br>";
-  container.appendChild(cre)
+  
+    let cre=document.createElement('div');
+    cre.setAttribute('id','crediti');
+    cre.innerHTML=`<p>Crediti</p>Si ringraziano gli autori dei problemi.<br>`;
+    if(ringr_str.length>0){
+      cre.innerHTML+=`Le gare da cui provengono i problemi ringraziano inoltre <br><div style='text-align:center;'>${ringr_str}</div>`;
+    }
+    container.appendChild(cre)
+  
   window.print()
   setTimeout(()=>{
     tit.remove();

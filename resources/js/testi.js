@@ -6129,7 +6129,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Locale",
             "SottoTipologia" : "Femminile",
             "Anno": 2022,
-            "Ringraziamenti": "",
+            "Ringraziamenti": "Sandro Campigotto, Lorenzo Mazza, Andrea Giusto, Matteo Littardi, Cecilia Oliveri, Silvia Sconza, Anna Ulivi",
             "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
@@ -6724,7 +6724,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2005,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "",
@@ -6868,7 +6868,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2006,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Alla lezione di divinazione",
@@ -6913,7 +6913,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                     "numero": 5,
                     "valore": -1,
                     "autore": "",
-                    "testo": "Henri e Smale Perelman, i due fratelli pi\u00f9 grandi di Ron, raramente seguono le lezioni e piuttosto si dedicano a inventare nuovi giochi. Oggi giocano a chi indovina per primo il seguente quesito: dire quante sono le frazioni <em>m</em>/<em>n</em>, ridotte ai minimi termini, tali che 0 < <em>m</em>/<em>n</em> < 1 e per cui <em>m</em>\u00b7<em>n</em>=20!."
+                    "testo": "Henri e Smale Perelman, i due fratelli pi\u00f9 grandi di Ron, raramente seguono le lezioni e piuttosto si dedicano a inventare nuovi giochi. Oggi giocano a chi indovina per primo il seguente quesito: dire quante sono le frazioni <em>m</em>/<em>n</em>, ridotte ai minimi termini,con <em>n</em> e <em>m</em> interi positivi e tali che 0 < <em>m</em>/<em>n</em> < 1 e per cui <em>m</em>\u00b7<em>n</em>=20!."
                 },
                 {
                     "titolo": "Selezione della rosa",
@@ -7012,7 +7012,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2007,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Il villaggio della <em>Retta</em>",
@@ -7156,7 +7156,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2008,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Il rientro a casa",
@@ -7309,7 +7309,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2009,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Un vertice centrale",
@@ -7462,7 +7462,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2010,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "La ciurma per la gara",
@@ -7615,7 +7615,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2011,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Un antico cifrario",
@@ -7768,7 +7768,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2012,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "L\u2019ultima pietra",
@@ -7921,7 +7921,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2013,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Scacchi folli",
@@ -8074,7 +8074,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2014,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Le prime Olimpiadi",
@@ -8227,7 +8227,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2015,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Grandi numeri",
@@ -8380,7 +8380,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2016,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Numeri di pagina",
@@ -8532,8 +8532,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2017,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Daniele Ahmed, Edoardo Annunziata, Flavio Ascari, Francesco Ballini, Giovanni Barbarino, Filippo Baroni, Mara Barucco, Lorenzo Benedini, Lorenzo Beretta, Alessio Bernazzi, Claudio Filippo Bianchi, Luca Bruni, Fabio Caceo, Luca Capizzi, Alessandra Caraceni, Camilla Casamento Tumeo, Michele Caselli, Federica Cecchetto, Sebaiano Cominelli, Andrea Dalzotto, Alessandro D’Andrea, Flavio De Vincenti, Giacomo Ferraro, Fabio Ferri, Luca Francone, Giada Franz, Lorenzo Furio, Andrea Gallese, Davide Gori, Alessandro Iraci, Kirill Kuzmin, Paolo Leonetti, Luca Macchiaroli, Marcello Mamino, Fabio Marconi, Andrea Marino, Andrea Martin, Marco Miani, Giona Micossi, Pasquale Miglionico, Matteo Migliorini, Andrea Monti, Nicola Ottolini, Andrea Parma, Simone Pelizzola, Paolo Prenassi, Dario Rancati, Giuseppe Re, Vittoria Ricciuti, Giuseppe Romanazzi, Pino Rosolini, Matteo Rossi, Francesco Sala, Giacomo Santato, Edoardo Siniscalco, Gianmaria Tomaselli, Giulia Trevisan, Marco Trevisiol, Emanuele Tron, Davide Vecchi, Silvia Violi, Damiano Yoeme Bussagli, Riccardo Zanotto, Matteo Zemello",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "L\u2019incontro",
@@ -8686,7 +8686,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2018,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Il telefono di DOC",
@@ -8839,7 +8839,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2019,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "C\u2019era una volta",
@@ -8991,8 +8991,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2020,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Lorenzo Ambrosino, Edoardo Annunziata, Giovanni Barbarino, Riccardo Begliomini, Lorenzo Benedini, Edoardo Bertoletti, Maria Bevilacqua, Andrea Bianchi, Alberto Bordin, Sebastiano Boscardin, Alberto Cagnetta, Alberto Casali, Camilla Casamento Tumeo, Matteo Casarosa, Andrea Ciprietti, Jacopo D’Aurizio, Giuseppe Di Fabio, Simone Di Marino, Tommaso Faustini, Luca Ferrigno, Bernardo Forni, Linda Friso, Lorenzo Furio, Andrea Gallese, Giacomo Gallina, Andrea Ghilardi, Filippo Girardi, Federico Glaudo, Davide Gori, Giovanni Interdonato, Alessandro Iraci, Kirill Kuzmin, Marco Lastres, Paolo Leonetti, Michele Longo, Manuel Luci, Luca Macchiaroli, Marco Magno, Stefano Mannella, Luca Marchesini, Fabio Marconi, Giuseppe Mascellani, Simone Masserini, Giona Micossi, Giona Micossi, Matteo Migliorini, Matteo Palmieri, Maurizio Paolini, Andrea Parma, Saro Passaro, Simone Pelizzola, Andrea Pitrone, Federico Poloni, Paolo Prenassi, Matteo Protopapa, Chiara Ricciuti, Vittoria Ricciuti, Matteo Rossi, Beatrice Segalini, Edoardo Siniscalco, Alessio Spagnoletti, Cesare Straelini, Lucio Tanzini, Bernardo Tarini, Gianmaria Tomaselli, Marco Trevisiol, Davide Vecchi, Marco Vergamini, Federico Viola, Damiano Yoeme Bussagli, Matteo Zemello, Angelo Alfonso, Gioacchino Antonelli, Giorgio Audrito, Mara Barucco, Claudio Filippo Bianchi, Sandro Campigotto, Gabriele Dalla Torre, Simone Di Marino, Raimonda Frova, Kirill Kuzmin, Andrea Lavarone, Andrea Martin, Andrea Matiacic, Giuseppe Mascellani, Alessandro Oberti, Marco Palagi, Maurizio Paolini, Maria Antonietta Pici, Gaetano Prota, Pino Rosolini, Vlada Smirnova, Lucio Tanzini, Maria Volpini",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Pattinatori Paralleli",
@@ -9145,7 +9145,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2021,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Basta Go!",
@@ -9316,7 +9316,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2022,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Mai sottovalutare i gatti",
@@ -9468,8 +9468,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2023,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Federico Poloni, Leonardo Franchi, Marco Trevisiol, Matteo Migliorini, Silvia Pagani, Alberto Cagnetta, Alessandro Fenu, Alessandro Iraci, Alessandro Tedeschi, Andrea Parma, Annalaura Pegoraro, Carlo Rotolo, Cecilia Moriggi, Chiara Ricciuti, Claudio Filippo Bianchi, Daniele Fedeli, Daria Pasqualetti, Davide Di Vora, Davide Pierrat, Edoardo Annunziati, Eduardo Venturini, Fabio Lilliu, Fabio Marconi, Federico Antonini, Federico Viola, Filippo Girardi, Flavio De Vincenti, Francesca Busato, Gianmaria Tomaselli, Giorgia Benassi, Giorgio Busoni, Giovanni Barbarino, Giovanni Caiolo, Giovanni Interdonato, Giovanni Marzenta, Giuseppe Di Fabio, Giuseppe Mascellani, Giuseppe Romanazzi, Iman Rosignoli, Lorenzo Benedini, Lorenzo Cortesi, Lorenzo Picinelli, Luca Ambrosino, Luca Macchiaroli, Lucio Tanzini, Mara Barucco, Massimiliano Foschi, Massimo Gasparini, Matteo Casarosa, Matteo Damiano, Matteo Nesi, Matteo Protopapa, Mattia Maculan, Michele Casella, Niocola Caravaggi, Riccardo Begliomini, Riccardo Moraschi, Roberto De Ferrari, Rubens Alessio Martino, Sebastiano Boscardin, Silvia Keira Kuzmin, Tiziana Eugenelo, Tommaso Dossi, Tommaso Faustini, Tommaso Lunghi, Valentino Badalucco, Wladimiro Gradi",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Lo stemma di famiglia",
@@ -9622,7 +9622,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Semifinale Mista",
             "Anno": 2024,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Festa al castello",
@@ -9775,7 +9775,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2000,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "I quattro cantoni",
@@ -10000,7 +10000,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2001,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "La confederazione IMO",
@@ -10234,7 +10234,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2002,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "La piscina del professor Abacus",
@@ -10468,7 +10468,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2003,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "La lotteria di Matelandia",
@@ -10693,7 +10693,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2004,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Le sentinelle",
@@ -10918,7 +10918,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2005,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "I predatori dei templi perduti",
@@ -11107,7 +11107,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2006,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Una pausa di svago",
@@ -11296,7 +11296,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2007,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Il passo del paguro",
@@ -11521,7 +11521,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2008,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Il diario segreto",
@@ -11746,7 +11746,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2009,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Corsa verso il Monte Fatou",
@@ -11971,7 +11971,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2010,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Il Bar Scumm<sup>TM</sup>",
@@ -12196,7 +12196,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2011,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "La pozione magica",
@@ -12421,7 +12421,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2012,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Gli anni del drago",
@@ -12646,7 +12646,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2013,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana",
             "Problemi": [
                 {
                     "titolo": "Un tranquillo pomeriggio di maggio",
@@ -12871,7 +12871,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2014,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Rito propiziatorio",
@@ -13096,7 +13096,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2015,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Diecimila Tartaglie",
@@ -13321,7 +13321,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2016,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Droidi ben sfondati",
@@ -13545,8 +13545,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2017,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Daniele Ahmed, Edoardo Annunziata, Flavio Ascari, Francesco Ballini, Giovanni Barbarino, Filippo Baroni, Mara Barucco, Lorenzo Benedini, Lorenzo Beretta, Alessio Bernazzi, Claudio Filippo Bianchi, Luca Bruni, Fabio Caceo, Luca Capizzi, Alessandra Caraceni, Camilla Casamento Tumeo, Michele Caselli, Federica Cecchetto, Sebaiano Cominelli, Andrea Dalzotto, Alessandro D’Andrea, Flavio De Vincenti, Giacomo Ferraro, Fabio Ferri, Luca Francone, Giada Franz, Lorenzo Furio, Andrea Gallese, Davide Gori, Alessandro Iraci, Kirill Kuzmin, Paolo Leonetti, Luca Macchiaroli, Marcello Mamino, Fabio Marconi, Andrea Marino, Andrea Martin, Marco Miani, Giona Micossi, Pasquale Miglionico, Matteo Migliorini, Andrea Monti, Nicola Ottolini, Andrea Parma, Simone Pelizzola, Paolo Prenassi, Dario Rancati, Giuseppe Re, Vittoria Ricciuti, Giuseppe Romanazzi, Pino Rosolini, Matteo Rossi, Francesco Sala, Giacomo Santato, Edoardo Siniscalco, Gianmaria Tomaselli, Giulia Trevisan, Marco Trevisiol, Emanuele Tron, Davide Vecchi, Silvia Violi, Damiano Yoeme Bussagli, Riccardo Zanotto, Matteo Zemello",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Nel punto medio del cammin",
@@ -13771,7 +13771,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2018,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Benvenuto nel futuro!",
@@ -13969,7 +13969,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2019,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "C\u2019era una volta",
@@ -14166,8 +14166,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2020,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Lorenzo Ambrosino, Edoardo Annunziata, Giovanni Barbarino, Riccardo Begliomini, Lorenzo Benedini, Edoardo Bertoletti, Maria Bevilacqua, Andrea Bianchi, Alberto Bordin, Sebastiano Boscardin, Alberto Cagnetta, Alberto Casali, Camilla Casamento Tumeo, Matteo Casarosa, Andrea Ciprietti, Jacopo D’Aurizio, Giuseppe Di Fabio, Simone Di Marino, Tommaso Faustini, Luca Ferrigno, Bernardo Forni, Linda Friso, Lorenzo Furio, Andrea Gallese, Giacomo Gallina, Andrea Ghilardi, Filippo Girardi, Federico Glaudo, Davide Gori, Giovanni Interdonato, Alessandro Iraci, Kirill Kuzmin, Marco Lastres, Paolo Leonetti, Michele Longo, Manuel Luci, Luca Macchiaroli, Marco Magno, Stefano Mannella, Luca Marchesini, Fabio Marconi, Giuseppe Mascellani, Simone Masserini, Giona Micossi, Giona Micossi, Matteo Migliorini, Matteo Palmieri, Maurizio Paolini, Andrea Parma, Saro Passaro, Simone Pelizzola, Andrea Pitrone, Federico Poloni, Paolo Prenassi, Matteo Protopapa, Chiara Ricciuti, Vittoria Ricciuti, Matteo Rossi, Beatrice Segalini, Edoardo Siniscalco, Alessio Spagnoletti, Cesare Straelini, Lucio Tanzini, Bernardo Tarini, Gianmaria Tomaselli, Marco Trevisiol, Davide Vecchi, Marco Vergamini, Federico Viola, Damiano Yoeme Bussagli, Matteo Zemello, Angelo Alfonso, Gioacchino Antonelli, Giorgio Audrito, Mara Barucco, Claudio Filippo Bianchi, Sandro Campigotto, Gabriele Dalla Torre, Simone Di Marino, Raimonda Frova, Kirill Kuzmin, Andrea Lavarone, Andrea Martin, Andrea Matiacic, Giuseppe Mascellani, Alessandro Oberti, Marco Palagi, Maurizio Paolini, Maria Antonietta Pici, Gaetano Prota, Pino Rosolini, Vlada Smirnova, Lucio Tanzini, Maria Volpini",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Con le mani coordinate",
@@ -14365,7 +14365,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2021,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "L'inizio di una grande avventura",
@@ -14563,7 +14563,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2022,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Stuzzicadenti intrecciati",
@@ -14760,8 +14760,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Mista",
             "Anno": 2023,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Federico Poloni, Leonardo Franchi, Marco Trevisiol, Matteo Migliorini, Silvia Pagani, Alberto Cagnetta, Alessandro Fenu, Alessandro Iraci, Alessandro Tedeschi, Andrea Parma, Annalaura Pegoraro, Carlo Rotolo, Cecilia Moriggi, Chiara Ricciuti, Claudio Filippo Bianchi, Daniele Fedeli, Daria Pasqualetti, Davide Di Vora, Davide Pierrat, Edoardo Annunziati, Eduardo Venturini, Fabio Lilliu, Fabio Marconi, Federico Antonini, Federico Viola, Filippo Girardi, Flavio De Vincenti, Francesca Busato, Gianmaria Tomaselli, Giorgia Benassi, Giorgio Busoni, Giovanni Barbarino, Giovanni Caiolo, Giovanni Interdonato, Giovanni Marzenta, Giuseppe Di Fabio, Giuseppe Mascellani, Giuseppe Romanazzi, Iman Rosignoli, Lorenzo Benedini, Lorenzo Cortesi, Lorenzo Picinelli, Luca Ambrosino, Luca Macchiaroli, Lucio Tanzini, Mara Barucco, Massimiliano Foschi, Massimo Gasparini, Matteo Casarosa, Matteo Damiano, Matteo Nesi, Matteo Protopapa, Mattia Maculan, Michele Casella, Niocola Caravaggi, Riccardo Begliomini, Riccardo Moraschi, Roberto De Ferrari, Rubens Alessio Martino, Sebastiano Boscardin, Silvia Keira Kuzmin, Tiziana Eugenelo, Tommaso Dossi, Tommaso Faustini, Tommaso Lunghi, Valentino Badalucco, Wladimiro Gradi",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "10000 minions in fila",
@@ -14959,7 +14959,7 @@ function loadProblems(tipologia,sottotipologia,anno){
             "SottoTipologia" : "Finale Mista",
             "Anno": 2024,
             "Ringraziamenti": "",
-            "Enti": "",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Una crociera di relax",
@@ -15156,8 +15156,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2018,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Carla Tedeschi, Claudia Manotti, Ercole Suppa, Rosanna Tupitti, Carlo Càssola, Emiliano Nesi, Nadia Greppi, Sandro Campigotto",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Ibernato",
@@ -15381,8 +15381,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2020,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Carlo Càssola, Simona Pieri, Claudia Manotti, Lorenzo Mazza, Simone Bertone, Roberta Corisello, Andrea dal Zotto, Santina De Monte, Mara Barucco, Ugo Tomat, Andrea E. Monti, Sandro Campigotto",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Il gioco della Foresta Incantata",
@@ -15579,8 +15579,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2021,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Carlo Càssola, Roberta Corisello, Elena Barbina, Claudia Manotti, Simona Pieri, Santina De Monte, Sandro Campigotto, Lorenzo Mazza, Simone Bertone, Ugo Tomat",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "<em>Shaymin</em>",
@@ -15777,8 +15777,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2022,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Carlo Càssola, Roberta Corisello, Claudia Manotti, Santina De Monte, Sandro Campigotto, Simona Pieri, Lorenzo Mazza, Ugo Tomat, Simone Bertone, Michelangelo Sabatini",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Amora, l'incantatrice",
@@ -15975,8 +15975,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2023,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Carlo Càssola, Lorenzo Mazza, Simona Pieri, Claudia Manotti, Michelangelo Sabatini, Simone Bertone, Santina De Monte, Ugo Tomat, Sandro Campigotto",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Furto in Egitto",
@@ -16173,8 +16173,8 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Finale Femminile",
             "Anno": 2024,
-            "Ringraziamenti": "",
-            "Enti": "",
+            "Ringraziamenti": "Carlo Càssola, Sandro Campigotto, Claudia Manotti, Simona Pieri, Lorenzo Mazza, Simone Bertone, Michelangelo Sabatini, Santina De Monte, Elena Barbina, Ugo Tomat",
+            "Enti": "Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Verso l'università",
