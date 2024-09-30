@@ -71,6 +71,9 @@ body{
     border-radius: 10px;
     color:var(--cb-background-color);
     border: solid 3px var(--cb-background-color);
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .c-box:hover{
     cursor: pointer;
@@ -135,6 +138,9 @@ body{
     overflow: hidden;
     margin: 2.5px;
     border: 2px var(--button-bg) solid; 
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .pm-button:hover,.button:hover{
     border: 2px var(--button-highlights) solid;

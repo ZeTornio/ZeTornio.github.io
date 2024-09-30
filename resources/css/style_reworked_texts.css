@@ -51,6 +51,9 @@
     justify-content: center;
     font-family: "Poppins";
     overflow: hidden;
+    -webkit-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none;
 }
 .text-button:hover{
     cursor: pointer;
@@ -118,6 +121,9 @@ img{
     align-items: center;
     font-family: "Poppins";
     color:var(--icons-fill);
+    -webkit-user-select: none;
+    -ms-user-select: none; 
+    user-select: none;
 }
 #download:hover,#home:hover{
     cursor:pointer;
