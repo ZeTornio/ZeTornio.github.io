@@ -16403,10 +16403,10 @@ function loadProblems(tipologia,sottotipologia,anno){
         c_min=parseInt(document.getElementById(c_id+"-min").innerHTML);
         c_max=parseInt(document.getElementById(c_id+"-max").innerHTML);
         tmp_load_probs[c_id].sort(function (a,b){return a[0]-b[0]});
-        bin=1;
+        bin=0;
         bin_width=tmp_load_probs[c_id].length/(c_max-c_min);
         for(let i=0;i<tmp_load_probs[c_id].length;i++){
-            if(i>Math.round(bin*bin_width)){
+            if(i>Math.round((bin+1)*bin_width)){
                 bin++;
             }
 

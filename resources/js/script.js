@@ -58,27 +58,14 @@ function decrease_num_prob(){
     probs.innerHTML=parseInt(probs.innerHTML)-1;
   }
 }
-let timeout=null;
-function cont_increase_probs(){
-  increase_num_prob();
-  timeout=setTimeout(cont_increase_probs,150);
-}
-function cont_decrease_probs(){
-  decrease_num_prob();
-  timeout=setTimeout(cont_decrease_probs,150);
-}
-function clear_timeout(){
-  clearTimeout(timeout);
-}
-document.getElementById("increase_problems").addEventListener("mousedown",cont_increase_probs)
-document.getElementById("increase_problems").addEventListener("mouseup",clear_timeout)
-document.getElementById("reduce_problems").addEventListener("mousedown",cont_decrease_probs)
-document.getElementById("reduce_problems").addEventListener("mouseup",clear_timeout)
+
+document.getElementById("increase_problems").addEventListener("click",increase_num_prob)
+document.getElementById("reduce_problems").addEventListener("click",decrease_num_prob)
 //Funzione per i checkbox
 function triggerCheckbox(event){
   let cb_name = event.target.id.slice(0,-3);
   let cb = document.getElementById(cb_name);
-  console.log(cb_name)
+  //console.log(cb_name)
 
   if (cb.checked){
     cb.checked=false;
@@ -153,22 +140,7 @@ function increase_min(event){
   document.getElementById(c_name+"-min").innerHTML=min_v+1;
   calibrate_bar(c_name)
 }
-function cont_incr_min(event){
-  increase_min(event);
-  timeout=setTimeout(function(){cont_incr_min(event);},150)
-}
-function cont_decr_min(event){
-  decrease_min(event);
-  timeout=setTimeout(function(){cont_decr_min(event);},150)
-}
-function cont_incr_max(event){
-  increase_max(event);
-  timeout=setTimeout(function(){cont_incr_max(event);},150)
-}
-function cont_decr_max(event){
-  decrease_max(event);
-  timeout=setTimeout(function(){cont_decr_max(event);},150)
-}
+
 function calibrate_bar(c_name){
   let min=parseInt(document.getElementById(c_name+'-min').innerHTML);
   let max=parseInt(document.getElementById(c_name+'-max').innerHTML);
@@ -199,14 +171,10 @@ for(let i=-1;i<Categories.length;i++){
     c_id=Categories[i].Tipologia.replace(/ /g, '')+"_"+Categories[i].SottoTipologia.replace(/ /g, '');
   }
   calibrate_bar(c_id);
-  document.getElementById(c_id+"-min-m").addEventListener('mousedown',cont_decr_min);
-  document.getElementById(c_id+"-min-m").addEventListener('mouseup',clear_timeout);
-  document.getElementById(c_id+"-min-p").addEventListener('mousedown',cont_incr_min);
-  document.getElementById(c_id+"-min-p").addEventListener('mouseup',clear_timeout);
-  document.getElementById(c_id+"-max-m").addEventListener('mousedown',cont_decr_max);
-  document.getElementById(c_id+"-max-m").addEventListener('mouseup',clear_timeout);
-  document.getElementById(c_id+"-max-p").addEventListener('mousedown',cont_incr_max);
-  document.getElementById(c_id+"-max-p").addEventListener('mouseup',clear_timeout);
+  document.getElementById(c_id+"-min-m").addEventListener('click',decrease_min);
+  document.getElementById(c_id+"-min-p").addEventListener('click',increase_min);
+  document.getElementById(c_id+"-max-m").addEventListener('click',decrease_max);
+  document.getElementById(c_id+"-max-p").addEventListener('click',increase_max);
 }
 
 //Reset delle difficoltà se viene tolta la spunta a difficoltà personalizzata
@@ -227,7 +195,7 @@ function reset_diff(){
 document.getElementById("personalizza-cb").addEventListener('click',reset_diff)
 
 //Rimozione dell'ordinamento se viene tolto il bilanciamento 
-function force_balance(){
+function force_balance_on(){
   cb_ord=document.getElementById("ordina");
   cb_bil=document.getElementById("bilancia");
   if (cb_ord.checked){
@@ -235,7 +203,17 @@ function force_balance(){
     document.getElementById("bilancia-cb").classList.add("cb-active")
   }
 }
-document.getElementById("ordina-cb").addEventListener('click',force_balance);
+document.getElementById("ordina-cb").addEventListener('click',force_balance_on);
+
+function force_sort_off(){
+  cb_ord=document.getElementById("ordina");
+  cb_bil=document.getElementById("bilancia");
+  if (!cb_bil.checked){
+    cb_ord.checked=false;
+    document.getElementById("ordina-cb").classList.remove("cb-active")
+  }
+}
+document.getElementById("bilancia-cb").addEventListener('click',force_sort_off);
 //Funzione per tarare la difficoltà personalizzata
 function create_diff_intervals(){
   let intervals = [];
@@ -308,8 +286,8 @@ function submitSetup(){
       chosen_types.push(c_name)
     }
   } 
-  console.log(chosen_args)
-  console.log(chosen_types)
+  //console.log(chosen_args)
+  //console.log(chosen_types)
   if(chosen_args.length<1){
     chosen_args=[]
     chosen_types=[]
@@ -351,12 +329,12 @@ document.getElementById("submit-setup").addEventListener("click",submitSetup)
 //Funzione per l'eliminazione
 function deleteProblem(e){
   i=parseInt(e.parentElement.parentElement.getElementsByClassName("p-num")[0].innerHTML);
-  console.log(i);
+  //console.log(i);
   probs_diff.splice(i,1);
   probs_args.splice(i,1);
   probs.splice(i,1);
   document.getElementsByClassName("problem").item(i).remove();
-  console.log(document.getElementsByClassName("problem"));
+  //console.log(document.getElementsByClassName("problem"));
   document.getElementsByClassName("add-cont").item(i).remove();
   reset_prob_nums();
 }
@@ -364,7 +342,7 @@ function deleteProblem(e){
 function changeProblem(e){
   cancelChange();
   i=parseInt(e.parentElement.parentElement.getElementsByClassName("p-num")[0].innerHTML);
-  console.log(e.parentElement.parentElement);
+  //console.log(e.parentElement.parentElement);
   document.getElementsByClassName("problem")[i].style.display="none";
   document.getElementById("text-cont").insertBefore(document.getElementById("change-add-opt-setup"),document.getElementsByClassName("add-cont")[i+1]);
   document.getElementById("change-add-opt-setup").getElementsByClassName("use")[0].innerHTML="change";
@@ -443,17 +421,13 @@ function setupChangePopUp(){
     left=100*parseFloat(min)/MAX_DIFF + "%";
     inHTML+='<div class="inline" style="display:flex"><div class="diff-label">'+Categories[i].Tipologia+', '+Categories[i].SottoTipologia+'</div><div class="pm-button" style="opacity:0;"></div><div class="pm-button" style="opacity:0;"></div><div class="diff-bar-ext"><div class="diff-bar-int" style="left:'+left+';width:'+width+';"></div><div class="diff-bar-int-2"></div></div><div class="pm-button" style="opacity:0;"></div><div class="pm-button" style="opacity:0;"></div></div>'
     }
-    inHTML+='<div class="inline" style="display:flex"><div class="diff-label">Selezione</div><div class="pm-button" id="change-min-m">-</div><div class="pm-button" id="change-min-p">+</div><div class="diff-bar-ext"><div class="diff-bar-int-2" id="change-bar" style="left:0%;width:100%;"></div><div id="change-bar2" class="diff-bar-int-2 diff-spec"></div></div><div class="pm-button" id="change-max-m">-</div><div class="pm-button" id="change-max-p">+</div><div id="change-min" style="display:none;">0</div><div id="change-max" style="display:none;">0</div></div>'
+    inHTML+='<div class="inline" style="display:flex"><div class="diff-label">Selezione</div><div class="pm-button" id="change-min-m">-</div><div class="pm-button" id="change-min-p">+</div><div class="diff-bar-ext"><div class="diff-bar-int-2 diff-spec" id="change-bar" style="left:0%;width:100%;"></div><div id="change-bar2" class="diff-bar-int-2 diff-spec" style="visibility:hidden;"></div></div><div class="pm-button" id="change-max-m">-</div><div class="pm-button" id="change-max-p">+</div><div id="change-min" style="display:none;">0</div><div id="change-max" style="display:none;">0</div></div>'
     inHTML+='<div style="width:100%;display:flex;align-items:center;justify-content:center;"><div class="button" onclick="confirmChange()">Conferma</div><div class="button" onclick="cancelChange()">Annulla</div></div>'
   document.getElementById("change-add-opt-setup").innerHTML+=inHTML;
-  document.getElementById("change-min-m").addEventListener('mousedown',cont_decr_min);
-  document.getElementById("change-min-m").addEventListener('mouseup',clear_timeout);
-  document.getElementById("change-min-p").addEventListener('mousedown',cont_incr_min);
-  document.getElementById("change-min-p").addEventListener('mouseup',clear_timeout);
-  document.getElementById("change-max-m").addEventListener('mousedown',cont_decr_max);
-  document.getElementById("change-max-m").addEventListener('mouseup',clear_timeout);
-  document.getElementById("change-max-p").addEventListener('mousedown',cont_incr_max);
-  document.getElementById("change-max-p").addEventListener('mouseup',clear_timeout);
+  document.getElementById("change-min-m").addEventListener('click',decrease_min);
+  document.getElementById("change-min-p").addEventListener('click',increase_min);
+  document.getElementById("change-max-m").addEventListener('click',decrease_max);
+  document.getElementById("change-max-p").addEventListener('click',increase_max);
   addAllTriggers();
 }
 function loadChangePopUp(){
@@ -462,7 +436,7 @@ function loadChangePopUp(){
   i=parseInt(p_up.getElementsByClassName("num")[0].innerHTML);
   document.getElementById("change-min").innerHTML=probs_diff[i][0];
   document.getElementById("change-max").innerHTML=probs_diff[i][1];
-  console.log(i);
+  //console.log(i);
   for(j in probs_args[i]){
     document.getElementById(probs_args[i][j]+"-cn-cb").classList+=" cb-active";
     document.getElementById(probs_args[i][j]+"-cn").checked=true;
@@ -474,13 +448,13 @@ function confirmChange(){
   cbs=document.getElementById("change-add-opt-setup").getElementsByClassName("c-box");
   for(i in cbs){
     if(cbs[i].id){
-      console.log(cbs[i].id);
+      //console.log(cbs[i].id);
       if(document.getElementById(cbs[i].id.slice(0,-3)).checked){
         args.push(cbs[i].id.slice(0,-6));
       }
     }
   }
-  console.log(args);
+  //console.log(args);
   if(args.length==0){
     alert("Seleziona almeno un argomento.");
     return;
@@ -549,7 +523,7 @@ function createGara(num_probs){
   }
 }
 
-error_problem={"Anno":"","SottoTipologia":"","Tipologia":"","argomento":"","autore":"","numero":-1,"soluzione":-1,"valore":-1,"testo":"Non esistono problemi con i parametri attuali. Cambia problema modificandoli.","titolo":"<p style='color:red;'>Error</p>"
+error_problem={"Anno":"","SottoTipologia":"","Tipologia":"","argomento":"","autore":"","numero":-1,"soluzione":-1,"valore":-1,"testo":"Non esistono problemi con i parametri attuali. Cambia problema modificandoli.","titolo":"<span style='color:red;'>Error</span>"
 }
 //Funxione per mettere un nuovo problema
 function extract_and_set_problem(i){
@@ -563,8 +537,7 @@ function extract_and_set_problem(i){
   if(p==null){
     p=error_problem;
   }
-  console.log(interest_div);
-  interest_div.getElementsByClassName("prob-title")[0].innerHTML=(i+1)+". "+probs[i].titolo;
+  interest_div.getElementsByClassName("prob-title")[0].innerHTML=(i+1)+". "+p.titolo;
   interest_div.getElementsByClassName("prob-author")[0].innerHTML=p.autore;
   interest_div.getElementsByClassName("prob-text")[0].innerHTML=p.testo;
 }
@@ -616,15 +589,22 @@ function extract_prob(min,max,args,show_error=false){
 }
 
 function reset_pool(min,max){
-  alert("Hai visto tutti i problemi con le opzioni scelte. Rivedrai problemi gia visti.");
+  let exists_prob=false;
   for(let i=min;i<max;i++){
     if(i in SeenProblems){
       for(p in SeenProblems[i]){
-        UnseenProblems[i].push(p);
+        UnseenProblems[i].push(SeenProblems[i][p]);
+        exists_prob=true;
       }
       SeenProblems[i]=[];
     }
   }
+  if(exists_prob){
+    alert("Hai visto tutti i problemi con i parametri scelti. Rivedrai problemi gia visti.");
+  }else{
+    alert("Non esistono problemi con i parametri scelti. Modificali e riprova.");
+  }
+  
 }
 
 function downloadPDF(){
@@ -660,11 +640,11 @@ function downloadPDF(){
 function displaySingleGara(tipologia,sottotipologia,anno){
   
   problems=loadProblems(tipologia,sottotipologia,anno);
-  console.log(problems);
+  //console.log(problems);
   document.getElementById("setup").style.display='none';
   document.getElementById("text-cont").style.display='block';
   for(i in problems){
-    console.log(problems[i]);
+    //console.log(problems[i]);
     document.getElementById("text-cont").innerHTML+=`<div class='problem'><div class='prob-head'><div class='prob-title'>${(parseInt(i)+1)}. ${problems[i].titolo} [${problems[i].soluzione}]</div><div class='prob-author'>${problems[i].autore}</div></div><div class='prob-text'>${problems[i].testo}</div></div>`;
   }
 }
