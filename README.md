@@ -3,8 +3,8 @@ Questa repo raccoglie i testi delle gare a squadre delle [Olimpiadi della Matema
 
 Inoltre, in quest'ultima revisione, è facilmente possibile aggiungere nuovi testi, come spiegato in seguito.
 ## Aggiungere nuovi problemi
-### Aggiungere una categoria
-Se il problema è di una nuova categoria, per prima cosa aggiungere la categoria in [```resources/js/gare.js```](resources/js/gare.js), utilizzando la struttura
+### Aggiungere una tipologia
+Se il problema è di una nuova tipologia, per prima cosa aggiungere la categoria in [```resources/js/gare.js```](resources/js/gare.js), utilizzando la struttura
 ```
     {
         "Tipologia": <str>,
@@ -13,9 +13,9 @@ Se il problema è di una nuova categoria, per prima cosa aggiungere la categoria
         "MaxDiff":<int>
     }
 ```
-In particolare, ```MinDiff``` deve essere maggiore o uguale a 0, e ```MaxDiff``` minore o uguale della costante ```MAX_DIFF``` definita in [```resources/js/script.js```](resources/js/script.js). Questi due parametri determinano la difficoltà della categoria rispetto alle altre categorie.
+In particolare, ```MinDiff``` deve essere maggiore o uguale a 0, e ```MaxDiff``` minore o uguale della costante [```MAX_DIFF```](resources/js/script.js#3) definita in [```resources/js/script.js```](resources/js/script.js). Questi due parametri determinano la difficoltà della categoria rispetto alle altre categorie.
 ### Aggiungere una gara
-Aggiungere la gara in [```resources/js/testi.js```](resources/js/testi.js) ove sono presenti le gare già esistenti, possibilmente con un criterio logico (al momento sono ordinate per categoria, e poi anno). La struttura deve essere nella forma
+Aggiungere la gara in [```resources/js/testi.js```](resources/js/testi.js) ove sono presenti le gare già esistenti, possibilmente con un criterio logico (al momento sono ordinate per tipologia, e poi anno). La struttura deve essere nella forma
 ```
     {
         "Tipologia": <str>,
@@ -38,7 +38,7 @@ Aggiungere la gara in [```resources/js/testi.js```](resources/js/testi.js) ove s
 ```
 Per ```Ringraziamenti``` ed ```Enti```, se sono molteplici separare da virgole gli interessati. 
 
-```"Tipologia"``` e ```"SottoTipologia"``` devono esistere in [```resources/js/gare.js```](resources/js/gare.js).
+La combinazione di ```"Tipologia"``` e ```"SottoTipologia"``` deve esistere in [```resources/js/gare.js```](resources/js/gare.js).
 
 I ```Problemi``` hanno come argomento uno (o più, separati da virgola) tra ```log```(logica), ```geo```(geometria), ```tdn```(teoria dei numeri),```alg```(algebra) e ```com```(combinatoria).
 
