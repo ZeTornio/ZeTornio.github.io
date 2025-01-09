@@ -64,7 +64,7 @@ function tara(gara){
         std/=(problemi.length-2);
         std=Math.sqrt(std);
         for(let i=0;i<problemi.length;i++){
-            diffs.push((problemi[i]-mean)/std);
+            diffs.push((problemi[i].valore-mean)/std);
         }
     }
     return diffs;
