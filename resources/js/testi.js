@@ -6719,6 +6719,204 @@ function loadProblems(tipologia,sottotipologia,anno){
                 }
             ]
         },
+        {   
+            "Tipologia": "Locale",
+            "SottoTipologia" : "Femminile",
+            "Anno": 2023,
+            "Ringraziamenti": "Sandro Campigotto, Carlo Càssola, Lorenzo Mazza, Annalisa Caviglia, Andrea Giusto, Matteo Littardi, Simone Muselli, Luca Renzi, Silvia Sconza, Anna Ulivi",
+            "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
+            "Problemi": [
+                {
+                    "titolo": "Tizio, Caio e Sempronio",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 1,
+                    "valore": 109,
+                    "autore": "Edi Rosset",
+                    "testo": "Tre amici, Tizio, Caio e Sempronio, percorrono lo stesso sentiero in un numero intero di passo, anche se la lunghezza dei loro passi non è la stessa. Caio fa 3 passi ogni 4 passi di Tizio. Il passo di Sempronio è il 15% più corto di quello di Tizio. Inoltre il numero di passi che Caio deve fare per completare il percorso è il minimo possibile. Quanti passi vengono fatti complessivamente dai tre amici per percorrere il sentiero?"
+                },
+                {
+                    "titolo": "Regali",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 2,
+                    "valore": 27,
+                    "autore": "Benedetta Demoro",
+                    "testo": "Un numero è <em> regale </em> quando verifica le due condizioni <ul><li> è un numero che si ottiene prendendo un numero palindromo di quattro cifre e aggiungendo 1 sia alla cifra delle unità sia a quella delle decine;</li><li>le quattro cifre sono numeri consecutivi.</li></ul> Ad esempio, 1342 è un numero regale, 1452 non è un numero regale. Qual è il più grande numero regale?"
+                },
+                {
+                    "titolo": "Nel salone",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 3,
+                    "valore": 34,
+                    "autore": "Andrea Macco",
+                    "testo": "In un salone dei ricevimenti, il pavimento è un semplice mosaico, costituito da una scacchiera di 99 &times; 99 piastrelle quadrate, tutte di marmo di Carrara ad eccezione di quelle sul bordo e sulle diagonali. Quante sono le piastrelle di marmo di Carrara nel mosaico?"
+                },
+                {
+                    "titolo": "Esagoni e ottagoni",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 4,
+                    "valore": 30,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Due esagoni regolari <em>ABCDEF</em> e <em>GFEJIH</em> hanno in comune il lato <em>EF</em>. L’area dell’ottagono <em>ABCDJIHG</em> è 1372 cm<sup>2</sup>. Qual è l’area del rettangolo <em>ADJG</em>?"
+                },
+                {
+                    "titolo": "I corridori",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 5,
+                    "valore": 122,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Due corridori corrono su un percorso circolare lungo 550 m per un’ora. Partendo dallo stesso punto e allo stesso istante, il primo si muove alla velocità costante di 8 km/h, il secondo alla velocità costante di 6 km/h. Quante volte si incontrano (escluso alla partenza), se corrono in versi opposti?"
+                },
+                {
+                    "titolo": "Nel cono",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 6,
+                    "valore": 112,
+                    "autore": "Edi Rosset",
+                    "testo": "Maria fa cadere una biglia di raggio 5 mm in un contenitore a forma di cono. La distanza dal vertice del cono di un punto in cui la biglia è tangente al cono è 12 mm. Maria fa cadere nel contenitore una seconda biglia, che si ferma tangente sia alla biglia già inserita, sia alla parete del cono in più di un punto. Qual è il raggio della seconda biglia? \n<span class='note'> Dare come risposta la misura del raggio in mm moltiplicato per 100</span>"
+                },
+                {
+                    "titolo": "Piastrelle",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 7,
+                    "valore": 31,
+                    "autore": "Andrea Macco",
+                    "testo": "Ci sono otto piastrelle in riga: due di queste hanno disegnato sopra il numero 1; due il numero 2; due il numero 3; le ultime due il numero 4. Due piastrelle con lo stesso numero <em>k</em> sono separate esattamente da <em>k</em> piastrelle (le due piastrelle con il numero <em>k</em> sono escluse). La prima piastrella da sinistra ha disegnato un numero più grande di quello disegnato sull’ultima da sinistra. Qual è la disposizione in riga delle piastrelle? \n<span class='note'> Dare come risposta i numeri sulle prime 4 piastrelle da sinistra</span>"
+                },
+                {
+                    "titolo": "L'ombra del cubo",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 8,
+                    "valore": 122,
+                    "autore": "Benedetta Demoro",
+                    "testo": "Un cubo produce un’ombra a fora di esagono. Chiara nota che l’esagono si ottiene accostando lungo le loro basi maggiori due trapezi isosceli uguali di lati obliqui lunghi come lo spigolo del cubo. Chiara nota anche che l’angolo tra due lati obliqui è retto. Infine misura il perimetro dell’esagono: questo è uguale al perimetro del cubo, ovverosia la somma di tutti i suoi spigoli. Calcola poi l’area dell’esagono e il volume del cubo e nota che i loro valori, espressi in m<sup>2</sup> e m<sup>3</sup>, sono uguali. Quanto misura il lato del cubo in mm?"
+                },
+                {
+                    "titolo": "Alle finali",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 9,
+                    "valore": 58,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Gli organizzatori delle finali a squadre, a Cesenatico, acquistano per i concorrenti delle bottigliette di acqua, dei libri e delle caramelle, per un totale di 130 pezzi, pagando 130 euro. Due caramelle costano 75 centesimi, ciascuna bottiglietta  d’acqua costa 1 euro e ciascun libro costa 10 euro. Quante bottigliette di acqua sono state acquistate?"
+                },
+                {
+                    "titolo": "Diagonali",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 10,
+                    "valore": 36,
+                    "autore": "Andrea Macco",
+                    "testo": "Se si tracciano le diagonali di un trapezio isoscele si possono individuare, in tutto, 8 differenti triangoli. Se invece si utilizza un pentagono regolare, quanti differenti triangoli si individuano avendo tracciato tutte le diagonali?"
+                },
+                {
+                    "titolo": "Primi e perfetti",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 11,
+                    "valore": 84,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Quanti numeri primi minori di 200 possono essere scritti come somma di due quadrati perfetti?"
+                },
+                {
+                    "titolo": "Il foglio piegato",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 12,
+                    "valore": 120,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Un foglio rettangolare <em>ABCD</em> è piegato, portando il vertice <em>C</em> sul vertice <em>A</em>, lungo il segmento <em>HK</em> dove <em>H</em> è un punto su <em>AB</em> e <em>K</em> è un punto su <em>CD</em>. La regione del foglio non sovrapposta (costituita da due triangoli) ha una superficie uguale al 25% della superficie iniziale del foglio. Qual è il rapporto fra l’area del quadrato costruito sul segmento AB e l’area del quadrato costruito sul segmento <em>BC</em>?\n<span class=’note’>Dare come risposta il rapporto moltiplicato per 100</em>"
+                },
+                {
+                    "titolo": "Le cisterne",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 13,
+                    "valore": 52,
+                    "autore": "Andrea Macco",
+                    "testo": "Due cisterne uguali sono completamente piene d’acqua. Ognuna di esse è fornita di due rubinetti: uno grande e uno piccolo. Da ciascuno di essi l’acqua fluisce in modo costante. Se si apre soltanto il rubinetto grande la cisterna si svuota in 30 minuti; se si apre solo quello piccolo in un’ora. Si aprono contemporaneamente il rubinetto grande di una cisterna e il rubinetto piccolo dell’altra cisterna. Appena una delle due cisterne si è svuotata, allora si apre anche il secondo rubinetto della cisterna ancora parzialmente piena. Quanti secondi dall’apertura iniziale trascorrono fino ad avere entrambe le cisterne vuote?"
+                },
+                {
+                    "titolo": "Il prodotto",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 14,
+                    "valore": 33,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Cecilia svolge il prodotto di tre numeri interi positivi distinti e scopre che vale 11200. Sapendo che il più grande è 20 volte il più piccolo, qual è la somma dei tre fattori usati da Cecilia?"
+                },
+                {
+                    "titolo": "Sulla lavagna",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 15,
+                    "valore": 37,
+                    "autore": "Andrea Macco",
+                    "testo": "Pietro disegna un quadrato sulla lavagna e un punto al suo interno. “Se congiungo questo punto con tutti i vertici si formano quattro triangoli.” Tutti annuiscono. Pietro, indicando uno dei quattro triangoli, dice “L’area di questo triangolo vale 148 cm<sup>2</sup> e nessuno degli altri ha area più piccola di questo.” Quanto vale, in centimetri, il lato del quadrato disegnato inizialmente sulla lavagna?"
+                },
+                {
+                    "titolo": "La pesca",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 16,
+                    "valore": 77,
+                    "autore": "Sandro Campigotto",
+                    "testo": "In un sacchetto sono presenti i numeri da 1 a 20. Luca pesca un numero, quindi Claudia ne pesca un altro. Qual è la probabilità che il prodotto dei due numeri estratti sia un quadrato perfetto?\n<span class='note'>Dare come risposta la probabilità moltiplicata per 10000</span>"
+                },
+                {
+                    "titolo": "Nel duemilaventicinque",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 17,
+                    "valore": 124,
+                    "autore": "Leonardo Cimino",
+                    "testo": "Quante sono le quadruple ordinate (<em>a</em>,<em>b</em>,<em>c</em>) di numeri naturali tali che il loro prodotto faccia 2025 e che il massimo comun divisore dei quattro numeri <em>a</em>, <em>b</em>, <em>c</em> e <em>d</em> sia 1?"
+                },
+                {
+                    "titolo": "Il cubo tagliato",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 18,
+                    "valore": 71,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Tagliando un cubo di spigolo 20 cm con un piano che passa per due vertici opposti di una faccia e per i punti medi di due spigoli adiacenti della faccia opposta, si ottiene un quadrilatero. Qual era l’area del quadrilatero?"
+                },
+                {
+                    "titolo": "Una coda lunga",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 19,
+                    "valore": 122,
+                    "autore": "Lorenzo Mazza",
+                    "testo": "Un quadrato perfetto ha <em>coda</em> <em>n</em> se le sue ultime <em>n</em> cifre sono tutte uguali tra loro e diverse da zero. Ad esempio. 8<sup>2</sup>=64 ha coda 1. Qual è il valore massimo che può assumere <em>n</em>?"
+                },
+                {
+                    "titolo": "Imperfetti",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 20,
+                    "valore": 120,
+                    "autore": "Sandro Campigotto",
+                    "testo": "Un numero intero positivo si dice <em>imperfetto</em> se né esso né il suo doppio sono divisibili per nessun quadrato perfetto maggiore di 1. Quanti sono i numeri imperfetti minori di 1000?"
+                },
+                {
+                    "titolo": "Il mazzo di carte",
+                    "argomento": "",
+                    "soluzione": -1,
+                    "numero": 21,
+                    "valore": 126,
+                    "autore": "Edi Rosset",
+                    "testo": "Si consideri un mazzo di 40 carte da gioco (numerate da 1 a 10 per ognuno dei 4 semi, cioè fiori, quadri, cuori e picche). Sia <em>p</em><sub>1</sub> la probabilità che, estraendo 10 carte dal mazzo, risultino estratti tutti i numeri da 1 a 10. Sia <em>p</em><sub>2</sub> la probabilità che, estraendo 12 carte dal mazzo, risultino estratti tutti i numeri da 1 a 10. Qual è il rapporto <em>p</em><sub>1</sub>/<em>p</em><sub>2</sub>?\n<span class='note'>Dare come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi termini</span>"
+                },
+            ]
+        },
         {
             "Tipologia": "Nazionale",
             "SottoTipologia" : "Semifinale Mista",
