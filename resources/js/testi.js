@@ -6722,7 +6722,7 @@ function loadProblems(tipologia,sottotipologia,anno){
         {   
             "Tipologia": "Locale",
             "SottoTipologia" : "Femminile",
-            "Anno": 2023,
+            "Anno": 2025,
             "Ringraziamenti": "Sandro Campigotto, Carlo Càssola, Lorenzo Mazza, Annalisa Caviglia, Andrea Giusto, Matteo Littardi, Simone Muselli, Luca Renzi, Silvia Sconza, Anna Ulivi",
             "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
