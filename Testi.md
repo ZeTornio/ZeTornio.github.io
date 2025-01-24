@@ -1,6 +1,6 @@
 ## Gare originali
 | Tipologia|2025|2024|2023|2022|2021|2020|
-|-------------:|:---------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|-------------:|:---------------:|:---------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | Locale Mista | -|[2024](https://zetornio.github.io/?t=Locale&st=Mista&a=2024) | [2023](https://zetornio.github.io/?t=Locale&st=Mista&a=2024)|[2022](https://zetornio.github.io/?t=Locale&st=Mista&a=2022)|[2021](https://zetornio.github.io/?t=Locale&st=Mista&a=2021)|[2020](https://zetornio.github.io/?t=Locale&st=Mista&a=2020)|
 | Locale Femminile|[2025](https://zetornio.github.io/?t=Locale&st=Femminile&a=2025)|[2024](https://zetornio.github.io/?t=Locale&st=Femminile&a=2024)|[2023](https://zetornio.github.io/?t=Locale&st=Femminile&a=2023)|[2022](https://zetornio.github.io/?t=Locale&st=Femminile&a=2022)|[2021](https://zetornio.github.io/?t=Locale&st=Femminile&a=2021)|[2020](https://zetornio.github.io/?t=Locale&st=Femminile&a=2020)|
 | Semifinale Nazionale Mista|- | [2024](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2024)|[2023](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2023)|[2022](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2022)|[2021](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2021)|[2020](https://zetornio.github.io/?t=Nazionale&st=Semifinale%20Mista&a=2020)|
