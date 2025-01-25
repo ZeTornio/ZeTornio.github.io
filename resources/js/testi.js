@@ -6723,13 +6723,13 @@ function loadProblems(tipologia,sottotipologia,anno){
             "Tipologia": "Locale",
             "SottoTipologia" : "Femminile",
             "Anno": 2025,
-            "Ringraziamenti": "Sandro Campigotto, Carlo Càssola, Lorenzo Mazza, Annalisa Caviglia, Andrea Giusto, Matteo Littardi, Simone Muselli, Luca Renzi, Silvia Sconza, Anna Ulivi",
+            "Ringraziamenti": "",
             "Enti": "Università di Genova, Unione Matematica Italiana, Miur",
             "Problemi": [
                 {
                     "titolo": "Tizio, Caio e Sempronio",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 199,
                     "numero": 1,
                     "valore": 109,
                     "autore": "Edi Rosset",
@@ -6738,7 +6738,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Regali",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 8679,
                     "numero": 2,
                     "valore": 27,
                     "autore": "Benedetta Demoro",
@@ -6747,7 +6747,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Nel salone",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 9216,
                     "numero": 3,
                     "valore": 34,
                     "autore": "Andrea Macco",
@@ -6756,7 +6756,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Esagoni e ottagoni",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 784,
                     "numero": 4,
                     "valore": 30,
                     "autore": "Sandro Campigotto",
@@ -6765,7 +6765,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "I corridori",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 25,
                     "numero": 5,
                     "valore": 122,
                     "autore": "Lorenzo Mazza",
@@ -6774,7 +6774,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Nel cono",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 1125,
                     "numero": 6,
                     "valore": 112,
                     "autore": "Edi Rosset",
@@ -6783,7 +6783,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Piastrelle",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 4131,
                     "numero": 7,
                     "valore": 31,
                     "autore": "Andrea Macco",
@@ -6792,7 +6792,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "L'ombra del cubo",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 6656,
                     "numero": 8,
                     "valore": 122,
                     "autore": "Benedetta Demoro",
@@ -6801,7 +6801,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Alle finali",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 53,
                     "numero": 9,
                     "valore": 58,
                     "autore": "Lorenzo Mazza",
@@ -6810,7 +6810,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Diagonali",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 35,
                     "numero": 10,
                     "valore": 36,
                     "autore": "Andrea Macco",
@@ -6819,7 +6819,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Primi e perfetti",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 22,
                     "numero": 11,
                     "valore": 84,
                     "autore": "Lorenzo Mazza",
@@ -6828,7 +6828,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Il foglio piegato",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 2000,
                     "numero": 12,
                     "valore": 120,
                     "autore": "Lorenzo Mazza",
@@ -6837,7 +6837,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Le cisterne",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 2400,
                     "numero": 13,
                     "valore": 52,
                     "autore": "Andrea Macco",
@@ -6846,7 +6846,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Il prodotto",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 119,
                     "numero": 14,
                     "valore": 33,
                     "autore": "Lorenzo Mazza",
@@ -6855,7 +6855,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Sulla lavagna",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 36,
                     "numero": 15,
                     "valore": 37,
                     "autore": "Andrea Macco",
@@ -6864,7 +6864,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "La pesca",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 578,
                     "numero": 16,
                     "valore": 77,
                     "autore": "Sandro Campigotto",
@@ -6873,7 +6873,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Nel duemilaventicinque",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 340,
                     "numero": 17,
                     "valore": 124,
                     "autore": "Leonardo Cimino",
@@ -6882,7 +6882,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Il cubo tagliato",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 450,
                     "numero": 18,
                     "valore": 71,
                     "autore": "Sandro Campigotto",
@@ -6891,7 +6891,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Una coda lunga",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 3,
                     "numero": 19,
                     "valore": 122,
                     "autore": "Lorenzo Mazza",
@@ -6900,7 +6900,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Imperfetti",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 404,
                     "numero": 20,
                     "valore": 120,
                     "autore": "Sandro Campigotto",
@@ -6909,7 +6909,7 @@ function loadProblems(tipologia,sottotipologia,anno){
                 {
                     "titolo": "Il mazzo di carte",
                     "argomento": "",
-                    "soluzione": -1,
+                    "soluzione": 1037,
                     "numero": 21,
                     "valore": 126,
                     "autore": "Edi Rosset",
